@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.reindaxia.com/sitemap.xml
+Sitemap: https://www.reindaxia.tn/sitemap.xml
