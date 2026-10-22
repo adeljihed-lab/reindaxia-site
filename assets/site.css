@@ -332,7 +332,7 @@ form.rq { display: grid; gap: 16px; border: 1px solid var(--rule); padding: 26px
 .clients-title { font-size: 1rem; letter-spacing: .02em; color: var(--steel); font-weight: 600; margin-bottom: 18px; }
 .clients { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(8, minmax(0, 1fr)); gap: 12px; }
 .clients li { background: #fff; border: 1px solid var(--rule); display: flex; align-items: center; justify-content: center; height: 96px; padding: 14px; }
-.clients img { max-height: 60px; max-width: 100%; width: auto; height: auto; object-fit: contain; }
+.clients span { font-family: inherit; font-weight: 700; font-size: .95rem; letter-spacing: .02em; color: var(--steel); text-align: center; line-height: 1.25; }
 .content .clients { grid-template-columns: repeat(4, minmax(0, 1fr)); margin-top: 16px; }
 @media (max-width: 1100px) { .clients { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
 @media (max-width: 560px) { .clients, .content .clients { grid-template-columns: repeat(2, minmax(0, 1fr)); } .clients li { height: 84px; } }
