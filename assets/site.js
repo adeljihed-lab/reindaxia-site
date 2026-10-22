@@ -30,7 +30,7 @@
     fr: { missing: 'Merci de renseigner votre nom, votre e-mail et votre besoin.', sending: 'Envoi en cours…', ok: 'Merci. Votre demande est envoyée ; nous vous répondons sous 48 heures ouvrées.', fail: "L'envoi a échoué. Écrivez-nous directement à ", mail: 'Votre logiciel de messagerie va s’ouvrir avec la demande pré-remplie. Si rien ne s’ouvre, écrivez à ' },
     en: { missing: 'Please enter your name, e-mail and need.', sending: 'Sending…', ok: 'Thank you. Your request has been sent; we reply within 48 working hours.', fail: 'Sending failed. Please write to ', mail: 'Your e-mail application will open with the request filled in. If nothing opens, write to ' }
   }[lang];
-  var to = form.getAttribute('data-to') || 'contact.reindaxia@gmail.com';
+  var to = form.getAttribute('data-to') || 'contact@reindaxia.tn';
 
   form.addEventListener('submit', function (e) {
     e.preventDefault();
