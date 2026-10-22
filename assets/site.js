@@ -45,7 +45,8 @@
     if (endpoint) {
       status.textContent = T.sending;
       fetch(endpoint, { method: 'POST', body: new FormData(form), headers: { 'Accept': 'application/json' } })
-        .then(function (r) { if (!r.ok) throw new Error(r.status); status.textContent = T.ok; form.reset(); })
+        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(function (d) { if (d && (d.success === false || d.success === 'false')) throw new Error('fs'); status.textContent = T.ok; form.reset(); })
         .catch(function () { status.textContent = T.fail + to; status.classList.add('err'); });
       return;
     }
