@@ -16,7 +16,6 @@ layout: null
   <url><loc>https://www.reindaxia.tn/cabinet.html</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://www.reindaxia.tn/contact.html</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://www.reindaxia.tn/en.html</loc><lastmod>2026-10-23</lastmod></url>
-  <url><loc>https://www.reindaxia.tn/references.html</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://www.reindaxia.tn/mentions-legales.html</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://www.reindaxia.tn/blog.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 {% for post in site.posts %}  <url><loc>{{ post.url | absolute_url }}</loc><lastmod>{{ post.last_modified_at | default: post.date | date: "%Y-%m-%d" }}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
