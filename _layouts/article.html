@@ -12,7 +12,7 @@
 <meta name="theme-color" content="#12263f">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 <meta property="og:type" content="article">
-<meta property="og:site_name" content="Reindaxia Engineering &amp; Consulting">
+<meta property="og:site_name" content="Reindaxia Engineering &amp; Advising">
 <meta property="og:title" content="{{ page.title | escape }}">
 <meta property="og:description" content="{{ page.description | default: page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
@@ -38,6 +38,7 @@
 <div class="wrap post-wrap">
   <article class="prose post-body">
     {{ content | replace: '<img ', '<img loading="lazy" decoding="async" ' }}
+    {% unless page.no_case_note %}<p class="small muted case-note">{% if en %}Field cases in this article come from real assignments; they are anonymised and some details have been changed.{% else %}Les cas de terrain de cet article sont tirés de missions réelles ; ils sont anonymisés et certains détails ont été modifiés.{% endif %}</p>{% endunless %}
   </article>
   <aside class="post-cta">
     {% assign svc = page.service %}{% unless svc %}{% case page.category %}{% when "Inspection et FAT" %}{% assign svc = "inspection-reception" %}{% when "Mechanical completion" %}{% assign svc = "mechanical-completion" %}{% when "HSE et sécurité des procédés" or "HSE and process safety" %}{% assign svc = "hse-environnement" %}{% when "Audits et ISO 9001" %}{% assign svc = "systemes-management" %}{% when "Qualité" or "Retour d'expérience" %}{% assign svc = "expertise-qualite" %}{% else %}{% assign svc = "projets-contrats" %}{% endcase %}{% endunless %}{% assign svcname = site.data.services[svc] %}
