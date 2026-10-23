@@ -1,11 +1,12 @@
 <!doctype html>
-<html lang="fr">
+{% assign en = false %}{% if page.lang == "en" %}{% assign en = true %}{% endif %}<html lang="{{ page.lang | default: 'fr' }}">
 <head>
 <meta charset="utf-8">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>{{ page.title }} | Blog Reindaxia</title>
+<title>{{ page.title }} | {% if en %}Reindaxia Insights{% else %}Blog Reindaxia{% endif %}</title>
 <meta name="description" content="{{ page.description | default: page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-<meta name="keywords" content="{% if page.keywords %}{{ page.keywords | join: ', ' | escape }}, {% endif %}ingénierie, cabinet de conseil, consulting, Tunisie, Afrique du Nord, Maghreb, Afrique, Reindaxia">
+<meta name="keywords" content="{% if page.keywords %}{{ page.keywords | join: ', ' | escape }}, {% endif %}{% if en %}engineering consulting, consulting firm, Tunisia, North Africa, Maghreb, Africa, MENA, Reindaxia{% else %}ingénierie, cabinet de conseil, consulting, Tunisie, Afrique du Nord, Maghreb, Afrique, Reindaxia{% endif %}">
 <meta name="author" content="{{ page.author | escape }}">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta name="theme-color" content="#12263f">
@@ -16,34 +17,36 @@
 <meta property="og:description" content="{{ page.description | default: page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/brand/og-image.png' | absolute_url }}{% endif %}">
-<meta property="og:locale" content="fr_FR">
+<meta property="og:locale" content="{% if en %}en_GB{% else %}fr_FR{% endif %}">
 <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
 {% include site-icons.html %}
 <link rel="alternate" type="application/atom+xml" title="Blog Reindaxia" href="/blog/feed.xml">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","headline":{{ page.title | jsonify }},"description":{{ page.description | default: page.excerpt | strip_html | normalize_whitespace | truncate: 160 | jsonify }},"datePublished":"{{ page.date | date_to_xmlschema }}","dateModified":"{{ page.last_modified_at | default: page.date | date_to_xmlschema }}","inLanguage":"fr","mainEntityOfPage":"{{ page.url | absolute_url }}","image":"{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/brand/og-image.png' | absolute_url }}{% endif %}","author":{"@type":"Organization","name":"Reindaxia Engineering & Consulting","url":"https://www.reindaxia.tn/"},"publisher":{"@type":"Organization","name":"Reindaxia Engineering & Consulting","logo":{"@type":"ImageObject","url":"https://www.reindaxia.tn/assets/brand/icon-512.png"}}}
+{"@context":"https://schema.org","@type":"BlogPosting","headline":{{ page.title | jsonify }},"description":{{ page.description | default: page.excerpt | strip_html | normalize_whitespace | truncate: 160 | jsonify }},"datePublished":"{{ page.date | date_to_xmlschema }}","dateModified":"{{ page.last_modified_at | default: page.date | date_to_xmlschema }}","inLanguage":"{{ page.lang | default: 'fr' }}","mainEntityOfPage":"{{ page.url | absolute_url }}","image":"{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/assets/brand/og-image.png' | absolute_url }}{% endif %}","author":{"@type":"Organization","name":"Reindaxia Engineering & Consulting","url":"https://www.reindaxia.tn/"},"publisher":{"@type":"Organization","name":"Reindaxia Engineering & Consulting","logo":{"@type":"ImageObject","url":"https://www.reindaxia.tn/assets/brand/icon-512.png"}}}
 </script>
 </head>
 <body>
-<a class="skip" href="#main">Aller au contenu</a>
+<a class="skip" href="#main">{% if en %}Skip to content{% else %}Aller au contenu{% endif %}</a>
 {% include site-header.html %}
 <main id="main">
 <section class="page-head"><div class="wrap">
-  <p class="crumb"><a href="/index.html">Accueil</a> / <a href="/blog.html">Blog</a> / {{ page.category | default: "Article" }}</p>
+  <p class="crumb"><a href="{% if en %}/en.html{% else %}/index.html{% endif %}">{% if en %}Home{% else %}Accueil{% endif %}</a> / <a href="/blog.html">Blog</a> / {{ page.category | default: "Article" }}</p>
   <h1 class="post-title">{{ page.title }}</h1>
   {% if page.description %}<p class="lead">{{ page.description }}</p>{% endif %}
-  <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign m = page.date | date: "%-m" | minus: 1 %}{{ page.date | date: "%-d" }} {{ site.data.mois[m] }} {{ page.date | date: "%Y" }}</time>{% if page.category %} · {{ page.category }}{% endif %}</p>
+  <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}">{% if en %}{{ page.date | date: "%-d %B %Y" }}{% else %}{% assign m = page.date | date: "%-m" | minus: 1 %}{{ page.date | date: "%-d" }} {{ site.data.mois[m] }} {{ page.date | date: "%Y" }}{% endif %}</time>{% if page.category %} · {{ page.category }}{% endif %}</p>
 </div></section>
 <div class="wrap post-wrap">
   <article class="prose post-body">
-    {% if page.image %}<img class="post-cover" src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title | escape }}">{% endif %}
     {{ content }}
   </article>
   <aside class="post-cta">
-    <h2>Un projet, une question ?</h2>
+    {% if en %}<h2>A project, a question?</h2>
+    <p>Tell us what you need: we reply within 48 working hours.</p>
+    <a class="btn" href="/en.html#contact">Request a proposal</a>
+    <p class="post-back"><a href="/blog.html">← All articles</a></p>{% else %}<h2>Un projet, une question ?</h2>
     <p>Décrivez votre besoin : nous répondons sous 48 heures ouvrées.</p>
     <a class="btn" href="/contact.html">Demander un devis</a>
-    <p class="post-back"><a href="/blog.html">← Tous les articles</a></p>
+    <p class="post-back"><a href="/blog.html">← Tous les articles</a></p>{% endif %}
   </aside>
 </div>
 </main>
