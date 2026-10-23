@@ -27,8 +27,8 @@
   var status = form.querySelector('.status');
   var lang = document.documentElement.lang === 'en' ? 'en' : 'fr';
   var T = {
-    fr: { missing: 'Merci de renseigner votre nom, votre e-mail et votre besoin.', sending: 'Envoi en cours…', ok: 'Merci. Votre demande est envoyée ; nous vous répondons sous 48 heures ouvrées.', fail: "L'envoi a échoué. Écrivez-nous directement à ", mail: 'Votre logiciel de messagerie va s’ouvrir avec la demande pré-remplie. Si rien ne s’ouvre, écrivez à ' },
-    en: { missing: 'Please enter your name, e-mail and need.', sending: 'Sending…', ok: 'Thank you. Your request has been sent; we reply within 48 working hours.', fail: 'Sending failed. Please write to ', mail: 'Your e-mail application will open with the request filled in. If nothing opens, write to ' }
+    fr: { missing: 'Merci de renseigner votre nom, votre e-mail et votre besoin.', sending: 'Envoi en cours…', ok: 'Merci. Votre demande est envoyée ; nous vous répondons sous 48 heures ouvrées.', fail: "L'envoi a échoué. Écrivez-nous directement à ", fail2: "L'envoi automatique n'a pas abouti. ", mail: 'Votre logiciel de messagerie va s’ouvrir avec la demande pré-remplie. Si rien ne s’ouvre, écrivez à ' },
+    en: { missing: 'Please enter your name, e-mail and need.', sending: 'Sending…', ok: 'Thank you. Your request has been sent; we reply within 48 working hours.', fail: 'Sending failed. Please write to ', fail2: 'Automatic sending did not go through. ', mail: 'Your e-mail application will open with the request filled in. If nothing opens, write to ' }
   }[lang];
   var to = form.getAttribute('data-to') || 'contact@reindaxia.tn';
 
@@ -42,26 +42,33 @@
     if (!name || !mail || !msg || !form.checkValidity()) { status.textContent = T.missing; status.classList.add('err'); return; }
 
     var endpoint = form.getAttribute('data-endpoint');
-    if (endpoint) {
+    var btnSend = form.querySelector('button[type="submit"]');
+    function mailFallback(prefix) {
+      var need = form.querySelector('#rq-need');
+      var lines = [
+        (lang === 'en' ? 'Name / role: ' : 'Nom / fonction : ') + name,
+        (lang === 'en' ? 'Company: ' : 'Entreprise : ') + form.querySelector('#rq-org').value.trim(),
+        'E-mail : ' + mail,
+        (lang === 'en' ? 'Phone: ' : 'Téléphone : ') + form.querySelector('#rq-tel').value.trim(),
+        (lang === 'en' ? 'Need: ' : 'Besoin : ') + need.options[need.selectedIndex].text,
+        '', msg
+      ];
+      var subject = (lang === 'en' ? 'Request — ' : 'Demande — ') + need.options[need.selectedIndex].text;
+      status.textContent = (prefix || '') + T.mail + to + '.';
+      window.location.href = 'mailto:' + to + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(lines.join('\n'));
+    }
+    if (endpoint && window.fetch) {
       status.textContent = T.sending;
-      fetch(endpoint, { method: 'POST', body: new FormData(form), headers: { 'Accept': 'application/json' } })
+      if (btnSend) btnSend.disabled = true;
+      var ctrl = window.AbortController ? new AbortController() : null;
+      var timer = setTimeout(function () { if (ctrl) ctrl.abort(); }, 20000);
+      fetch(endpoint, { method: 'POST', body: new FormData(form), headers: { 'Accept': 'application/json' }, signal: ctrl ? ctrl.signal : undefined })
         .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
         .then(function (d) { if (d && (d.success === false || d.success === 'false')) throw new Error('fs'); status.textContent = T.ok; form.reset(); })
-        .catch(function () { status.textContent = T.fail + to; status.classList.add('err'); });
+        .catch(function () { status.classList.add('err'); mailFallback(T.fail2); })
+        .then(function () { clearTimeout(timer); if (btnSend) btnSend.disabled = false; });
       return;
     }
-    // Sans service d'envoi configuré : message pré-rempli dans la messagerie du visiteur
-    var need = form.querySelector('#rq-need');
-    var lines = [
-      (lang === 'en' ? 'Name / role: ' : 'Nom / fonction : ') + name,
-      (lang === 'en' ? 'Company: ' : 'Entreprise : ') + form.querySelector('#rq-org').value.trim(),
-      'E-mail : ' + mail,
-      (lang === 'en' ? 'Phone: ' : 'Téléphone : ') + form.querySelector('#rq-tel').value.trim(),
-      (lang === 'en' ? 'Need: ' : 'Besoin : ') + need.options[need.selectedIndex].text,
-      '', msg
-    ];
-    var subject = (lang === 'en' ? 'Request — ' : 'Demande — ') + need.options[need.selectedIndex].text;
-    status.textContent = T.mail + to + '.';
-    window.location.href = 'mailto:' + to + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(lines.join('\n'));
+    mailFallback('');
   });
 })();

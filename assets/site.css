@@ -505,3 +505,5 @@ form.rq h3 { color: var(--ink); font-size: 1.3rem; }
 .reads-box a:hover { text-decoration: underline; }
 .post-body img[src$=".svg"] { width: 100%; height: auto; background: #fbf8f1; }
 .band > .wrap > .lead { color: var(--steel); max-width: 42em; margin: 8px 0 24px; font-size: 1.05rem; }
+
+.method-text { max-width: 52em; font-size: 1.08rem; line-height: 1.7; color: var(--on-dark); opacity: .92; }
