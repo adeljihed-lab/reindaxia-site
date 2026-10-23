@@ -27,6 +27,9 @@ Les **essais individuels** (*routine tests*) sont réalisés sur chaque longueur
 
 Les **essais sur prélèvement** (*sample tests*) sont réalisés sur une fraction de la production : dimensions, épaisseurs, essais mécaniques et thermiques des matériaux. C'est l'essentiel de ce que l'on contrôle en présence de l'acheteur.
 
+![Étuve d'allongement à chaud avec éprouvettes d'isolant chargées](/assets/blog/terrain-cable-essai-hot-set.jpg)
+*Essai d'allongement à chaud (hot set) témoigné en usine : éprouvettes d'isolant réticulé suspendues sous charge dans l'étuve, régulée ici à 200 °C. L'allongement sous charge et l'allongement rémanent après refroidissement disent si la réticulation est complète.*
+
 Les **essais de type** sont réalisés une fois pour qualifier une conception. On n'en refait pas à chaque commande ; on vérifie que les certificats existent, qu'ils sont récents et qu'ils couvrent bien la construction livrée.
 
 La réception en usine apporte donc une assurance solide sur **la conformité de la fabrication**. Elle ne dit rien de ce qui arrivera au câble ensuite : le chargement, la traversée, le port, la route, le stockage, le déroulage, la pose, la mise en charge. Et c'est précisément là que nos deux câbles ont été abîmés.

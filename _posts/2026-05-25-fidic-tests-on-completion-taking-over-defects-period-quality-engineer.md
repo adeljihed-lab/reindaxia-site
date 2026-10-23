@@ -1,9 +1,9 @@
 ---
-title: "Tests on completion, taking over and the defects period: FIDIC Clauses 9 to 11 seen by a quality engineer"
-description: "The end of a FIDIC Red Book 2017 contract from a quality perspective: test programme and notices under Clause 9, retesting and failure, the conditions for taking over under Clause 10, outstanding work and defects under Clause 11, the Defects Notification Period, the Performance Certificate, and how they connect with Tunisian provisional and final acceptance."
+title: "From quality plan to Performance Certificate: the end of a FIDIC contract seen by a quality engineer"
+description: "How the FIDIC Red Book 2017 links quality management (Sub-Clause 4.9), Tests on Completion (Clause 9), taking over (Clause 10) and the defects period (Clause 11): what goes wrong on real projects, the time limits that matter, and the quality engineer's toolkit for a handover that takes weeks rather than months."
 category: Contracts and FIDIC
 lang: en
-keywords: [FIDIC, Red Book 2017, Tests on Completion, Clause 9, test programme, retesting, failure to pass tests, Clause 10, Taking-Over Certificate, taking over Sections, taking over parts, Clause 11, Defects Notification Period, DNP, remedying defects, Performance Certificate, punch list, as-built records, operation and maintenance manuals, réception provisoire, réception définitive, quality engineer, handover, Tunisia, North Africa]
+keywords: [FIDIC, Red Book 2017, Sub-Clause 4.9, quality management system, compliance verification, ITP, hold point, Tests on Completion, Clause 9, test programme, retesting, failure to pass tests, Clause 10, Taking-Over Certificate, taking over Sections, taking over parts, Clause 11, Defects Notification Period, DNP, remedying defects, Performance Certificate, punch list, as-built records, operation and maintenance manuals, réception provisoire, réception définitive, quality engineer, handover, Tunisia, North Africa]
 ---
 
 > **In short.** The last phase of a FIDIC contract is governed by three clauses that are often read separately: Clause 9 on Tests on Completion, Clause 10 on taking over, and Clause 11 on defects. For a quality engineer they form a single sequence: prove performance, accept the works with a controlled list of reservations, then follow those reservations and any new defects until the Performance Certificate. The 2017 edition adds firm time limits and documentary preconditions at each step. Projects that prepare this sequence from the start hand over in weeks; those that discover it at the end can take months.
@@ -15,6 +15,17 @@ The pumping station had passed its tests. The Engineer issued the Taking-Over Ce
 A year later, at the end of the Defects Notification Period, 60 items were still open. Nobody had tracked the list after the certificate was signed. The site team had demobilised, the contractor's warranty team worked from its own list, the operator from another. The Performance Certificate was delayed by eight months, the final guarantee was retained, and the pump with the borderline vibration had in the meantime damaged its bearings.
 
 The contract had all the tools needed. They were used one at a time, by different people.
+
+## Before the tests: the quality system that makes taking over possible
+
+Sub-Clause 4.9, new in 2017, is where the end of the contract is really prepared. The contractor must submit a quality management system specific to the works within **28 days** of the Commencement Date (the Engineer may object; silence for 21 days is a deemed no-objection), audit it internally **at least every six months** with a report within seven days, and run a **compliance verification system** that ends with a complete set of documents proving that materials, plant and workmanship comply.
+
+On one project the works were finished and the taking-over inspection went well. Then the Engineer asked for the compliance verification documentation of the first Section. It took four months to assemble: material certificates scattered by purchase order, test results held by a laboratory subcontractor, inspection records without the drawing revision they had been checked against, hold points released by telephone. The work had been done; it could not be proved.
+
+The answer is to build the dossier as the works progress: an ITP for each work type that reconciles hold, witness and review points with the contract's inspection notices (Sub-Clause 7.3) and the Engineer's 72-hour notice to attend tests (7.4); traceability on every record; non-conformities handled through the 7.5 procedure; and the dossier's completeness reported every month.
+
+![QM System and ITP](/assets/blog/fidic-4-9-qm-itp.svg)
+*Figure 1. Sub-Clause 4.9 dates and an illustrative ITP extract with hold, witness and review points.*
 
 ## Clause 9: proving performance
 
@@ -79,7 +90,7 @@ Sub-Clause 11.3 allows the employer, subject to the claims procedure, to extend 
 Under Sub-Clause 11.9, the Engineer issues the Performance Certificate within **28 days** after the latest expiry of the Defects Notification Periods, or as soon as the contractor has supplied all Contractor's Documents and completed and tested all the works, including remedying defects. If the Engineer fails to do so, it is deemed issued 28 days after the date it should have been. Only the Performance Certificate constitutes **acceptance of the works**. Each party remains liable for obligations still unperformed, with a limit, for plant, of two years after the end of the defects period except in cases of fraud, gross negligence, deliberate default or reckless misconduct, or where the law provides otherwise.
 
 ![Clauses 9 to 11 timeline](/assets/blog/fidic-9-11-timeline.svg)
-*Figure 1. From the test programme to the Performance Certificate, with the conditions for taking over.*
+*Figure 2. From the test programme to the Performance Certificate, with the conditions for taking over.*
 
 ## A note on Tunisian public contracts
 
@@ -104,9 +115,10 @@ Clauses 9 to 11 are where a contract becomes an asset in operation. They reward 
 
 ## References
 
-- FIDIC, *Conditions of Contract for Construction* (Red Book), Second Edition, 2017, Sub-Clauses 1.1.27, 4.4, 4.5, 7.4, 7.5, 9.1 to 9.4, 10.1 to 10.3 and 11.1 to 11.11.
+- FIDIC, *Conditions of Contract for Construction* (Red Book), Second Edition, 2017, Sub-Clauses 1.1.27, 4.4, 4.5, 4.9, 7.3, 7.4, 7.5, 9.1 to 9.4, 10.1 to 10.3 and 11.1 to 11.11.
 - ISO 9001:2015, clauses 8.6 (release of products and services) and 8.7 (control of nonconforming outputs).
 - ISO 10005:2018, *Quality management — Guidelines for quality plans*.
+- ISO 9001:2015, clause 8.5.1 (control of production and service provision).
 - Décret n° 2014-1039 du 13 mars 2014 portant réglementation des marchés publics (Tunisia), provisions on guarantees, acceptance and final settlement.
 
 *This article is a general commentary and not legal advice. The wording of the FIDIC forms is protected by copyright; refer to the official FIDIC publications and to the Particular Conditions of your contract.*

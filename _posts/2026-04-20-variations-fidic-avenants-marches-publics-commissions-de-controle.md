@@ -1,11 +1,11 @@
 ---
-title: "Variations FIDIC et avenants publics : faire concorder la Clause 13 avec les commissions de contrôle"
-description: "Comment articuler la procédure de variation du FIDIC Red Book 2017 (Clause 13, sous-clauses 13.1 à 13.3) avec les règles tunisiennes sur les avenants et l'avis préalable des commissions de contrôle des marchés : seuils, calendrier, avenants groupés, registre et conditions particulières."
+title: "Variations, avenants et réclamations FIDIC dans les marchés publics : ne pas laisser le chantier en avance sur le contrat"
+description: "Articuler la procédure de variation du FIDIC Red Book 2017 (Clause 13) avec les règles d'avenant des marchés publics et l'avis des commissions de contrôle, et gérer les réclamations de la Clause 20 (avis à 28 jours, réclamation détaillée à 84 jours). Cas rencontrés sur des projets publics en Afrique du Nord et en Afrique, registre des variations et des réclamations, seuils d'alerte."
 category: Contrats et FIDIC
-keywords: [FIDIC, Red Book 2017, Clause 13, variation, Sub-Clause 13.1, Sub-Clause 13.3.1, Sub-Clause 13.3.2, demande de proposition, Clause 12, métré, évaluation, avenant, marchés publics Tunisie, décret 2014-1039, commission de contrôle des marchés, article 84, article 88, variation de la masse des travaux, 20 %, ordre de service, maître d'ouvrage public, contract management, Tunisie, Afrique du Nord]
+keywords: [FIDIC, Red Book 2017, Clause 13, variation, demande de proposition, Clause 20, réclamation, Notice of Claim, avis de réclamation, 28 jours, 84 jours, forclusion, registre des réclamations, avenant, marchés publics, commission de contrôle, bailleurs de fonds, Tunisie, décret 2014-1039, Afrique du Nord, Afrique de l'Ouest, Afrique centrale, contract management]
 ---
 
-> **En bref.** Le FIDIC permet à l'Engineer d'ordonner une variation à tout moment avant la réception, et à l'entrepreneur d'être payé sans passer par la procédure de réclamation. Le droit tunisien des marchés publics exige qu'une modification des conditions du marché fasse l'objet d'un avenant, après avis de la commission de contrôle compétente. Les deux logiques se rencontrent sur chaque chantier public financé en FIDIC. Mal articulées, elles produisent des travaux exécutés que l'acheteur ne peut pas payer. Bien articulées, elles se complètent.
+> **En bref.** Le FIDIC permet à l'Engineer d'ordonner une variation à tout moment avant la réception, et à l'entrepreneur d'être payé sans passer par la procédure de réclamation. Les codes des marchés publics, en Tunisie comme dans la plupart des pays de la région, exigent qu'une modification des conditions du marché fasse l'objet d'un avenant, souvent après avis d'une commission de contrôle. Et tout ce qui n'est pas une variation passe par la procédure de réclamation, avec des délais stricts. Ces logiques se rencontrent sur chaque chantier public financé en FIDIC. Mal articulées, elles produisent des travaux exécutés que l'acheteur ne peut pas payer et des droits perdus faute d'avis. Bien articulées, elles se complètent.
 
 ## Le mur de soutènement
 
@@ -28,9 +28,9 @@ La Clause 12 gouverne l'évaluation : prix du bordereau quand ils s'appliquent ;
 
 Enfin, la sous-clause 3.5 traite le cas des instructions qui ne disent pas leur nom : si l'entrepreneur estime qu'une instruction constitue une variation, il doit le notifier immédiatement, avant d'exécuter, et l'Engineer dispose de **7 jours** pour confirmer, annuler ou modifier l'instruction, faute de quoi elle est réputée retirée.
 
-## Ce que dit le droit tunisien
+## Ce que disent les règles des marchés publics : l'exemple tunisien
 
-Le décret n° 2014-1039 du 13 mars 2014 pose des règles qui s'appliquent quelle que soit la forme du contrat :
+Les codes des marchés publics de la région et les règles de passation des bailleurs prévoient presque tous un plafond de variation sans avenant et un contrôle préalable des avenants. Le cas tunisien est représentatif. Le décret n° 2014-1039 du 13 mars 2014 pose des règles qui s'appliquent quelle que soit la forme du contrat :
 
 - toute modification des clauses administratives, financières ou techniques du marché (prix, délais, quantités, nature des prestations) fait l'objet d'un **avenant écrit**, signé par l'acheteur public et le titulaire après **avis de la commission de contrôle compétente** ;
 - l'article 88 fixe la règle des variations de la masse : tant que la variation reste dans la limite prévue par le cahier des charges, le titulaire ne peut élever aucune réclamation ; à défaut de stipulation, cette limite est de **20 %** du montant du marché, et un dépassement exige un avenant ;
@@ -88,6 +88,19 @@ D'expérience, les commissions posent toujours les mêmes questions : pourquoi l
 ![Cumul des variations et seuil d'alerte](/assets/blog/variations-cumul-seuil-avenants.svg)
 *Figure 1. Courbe illustrative du cumul des variations, avec un seuil d'alerte qui déclenche les avenants avant la limite réglementaire.*
 
+## Quand ce n'est pas une variation : avis et réclamations
+
+Tout ce qui n'est pas instruit comme une variation, retard d'accès au site, conditions imprévisibles, suspension, retard de paiement, passe par la Clause 20. L'édition 2017 applique les mêmes règles aux deux parties : un **avis de réclamation au plus tard 28 jours** après que la partie a eu connaissance, ou aurait dû avoir connaissance, de l'événement, faute de quoi le droit est en principe perdu ; puis une **réclamation détaillée dans les 84 jours**, avec la base contractuelle ou légale, sans laquelle l'avis tombe. L'Engineer dispose de 14 jours pour signaler un avis tardif, faute de quoi il est réputé valable, puis de 42 jours pour un accord et 42 jours pour une détermination.
+
+Sur un chantier, une route d'accès promise par le maître d'ouvrage a été fermée six semaines par une autorité locale. Le chef de chantier en avait parlé en réunion, le compte rendu l'avait noté, le rapport mensuel l'avait décrit. L'avis formel est parti cinquante-neuf jours après la fermeture. L'Engineer l'a jugé tardif ; l'entrepreneur a plaidé que le maître d'ouvrage savait. L'argument n'était pas sans valeur, mais un droit simple était devenu un litige. Le contrat le disait pourtant : ni un compte rendu ni un rapport mensuel ne valent avis.
+
+![Délais de la Clause 20](/assets/blog/fidic-clause-20-claim-clocks.svg)
+*Figure 2. D'un événement à la décision : les délais de 28, 14, 84 et 42 + 42 jours.*
+
+Le maître d'ouvrage est soumis aux mêmes règles pour ses propres prétentions : pénalités de retard, défauts non repris, refacturations. Une déduction appliquée directement sur un décompte sans avis ni détermination s'expose à la même forclusion.
+
+**Un seul registre pour les variations et les réclamations.** Les deux processus partagent la même information : l'événement, sa date, son effet sur le délai et le coût, les pièces, les échéances. Nous recommandons un registre unique, revu chaque semaine entre le chef de chantier et le responsable contrat, qui affiche pour chaque ligne la voie retenue (variation ou réclamation), les dates d'échéance (28 jours, 84 jours, 14 jours de l'Engineer), le cumul des variations en pourcentage du marché et le statut de l'avenant. La question hebdomadaire est simple : qu'est-il arrivé cette semaine qui puisse ouvrir un droit, pour l'une ou l'autre partie ? Dans le doute, on notifie : un avis coûte une lettre, un avis oublié peut coûter le droit.
+
 ## Du côté de l'entrepreneur
 
 L'entrepreneur a intérêt à cette discipline. Il doit remettre ses éléments dans les 28 jours, notifier immédiatement toute instruction qu'il considère comme une variation non déclarée, et suivre lui-même le cumul. Au-delà de la limite réglementaire, il dispose d'un droit de résiliation qu'il exerce rarement, mais qu'il doit connaître, avec son délai de 45 jours.
@@ -98,10 +111,11 @@ La Clause 13 et les règles d'avenant ne sont pas incompatibles. Elles décriven
 
 ## Références
 
-- FIDIC, *Conditions of Contract for Construction* (Red Book), deuxième édition, 2017, sous-clauses 3.2, 3.5, 3.7, 12, 13.1, 13.2, 13.3 et 20.2.
+- FIDIC, *Conditions of Contract for Construction* (Red Book), deuxième édition, 2017, sous-clauses 3.2, 3.5, 3.7, 12, 13.1, 13.2, 13.3, 20.1 et 20.2.
 - FIDIC, *FIDIC Golden Principles*, première édition, 2019.
 - Décret n° 2014-1039 du 13 mars 2014 portant réglementation des marchés publics, notamment les articles 84, 88 et 155 et les dispositions relatives aux avenants.
 - Haute instance de la commande publique, *Guide général des marchés publics*, 2015.
+- Society of Construction Law, *Delay and Disruption Protocol*, deuxième édition, 2017 (enregistrements et avis).
 
 *Cet article est un commentaire général et ne constitue pas un avis juridique. Le texte des contrats FIDIC est protégé par le droit d'auteur ; se reporter aux publications officielles et aux conditions particulières de chaque marché.*
 
