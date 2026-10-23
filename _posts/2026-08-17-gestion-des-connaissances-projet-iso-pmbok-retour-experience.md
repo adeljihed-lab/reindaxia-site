@@ -1,171 +1,188 @@
 ---
-title: "Gestion des connaissances : comment une entreprise apprend d'un projet à l'autre"
-description: "La gestion des connaissances dans les entreprises de projets : exigences d'ISO 9001 (connaissances organisationnelles), d'ISO 30401 et du PMBOK 8e édition (Manage Project Knowledge), et surtout ce qui se passe réellement sur le terrain. Registre de leçons apprises, exemples concrets de leçons transformées en pratiques, erreurs fréquentes et indicateurs."
+title: "Gestion des connaissances : pourquoi les organisations oublient, et comment elles apprennent"
+description: "La gestion des connaissances dans l'industrie et les projets : ce qu'en disent la recherche (Polanyi, Nonaka, Argyris, Kletz), ISO 9001, ISO 45001, ISO 30401 et le PMBOK 8e édition, et ce que montrent des accidents documentés (Longford, Geismar, Texas City, Columbia) et des constats de terrain anonymisés. Mécanismes de l'oubli organisationnel et conditions d'un apprentissage réel."
 category: Management de projet et contrats
-keywords: [gestion des connaissances, knowledge management, leçons apprises, lessons learned, retour d'expérience, REX, ISO 9001 7.1.6, connaissances organisationnelles, ISO 30401, PMBOK 8e édition, PMBOK 2025, Manage Project Knowledge, connaissances tacites, connaissances explicites, registre des leçons apprises, after-action review, amélioration continue, ISO 10006, ISO 21502, capitalisation, EPC, électrification, Afrique, Tunisie, Afrique du Nord]
+keywords: [gestion des connaissances, knowledge management, leçons apprises, lessons learned, retour d'expérience, REX, mémoire organisationnelle, connaissances tacites, connaissances explicites, Polanyi, Nonaka, SECI, Argyris, apprentissage en double boucle, Trevor Kletz, normalisation de la déviance, ISO 9001 7.1.6, ISO 45001 6.1.2, ISO 30401, PMBOK 8e édition, Manage Project Knowledge, gestion des modifications, MoC, Longford, Geismar, rebouilleur, Texas City, Columbia, sécurité des procédés, contrôle qualité, béton, EN 206, EN 13670, audit, Tunisie, Afrique du Nord, Afrique]
 ---
 
-> **En bref.** Presque toutes les entreprises de projets ont un registre de leçons apprises. Beaucoup moins ont changé une procédure, un contrat type ou une check-list grâce à lui. Les normes et les référentiels sont clairs sur ce qu'il faut faire ; la difficulté est ailleurs : transformer une mauvaise surprise sur un chantier en une pratique qui empêchera la même surprise sur le suivant. Cet article part de cas réels, anonymisés, issus de projets d'électrification, d'hydraulique et d'énergie en Afrique et au Maghreb, et montre ce qui fait la différence entre une base de données et une organisation qui apprend.
+> **En bref.** Les grandes catastrophes industrielles ont rarement une cause inconnue. Dans la plupart des cas, quelqu'un, quelque part, savait : un ingénieur parti au siège, une recommandation d'étude de danger jamais appliquée, un incident précédent classé sans suite. Ce qui a manqué, ce n'est pas la connaissance, c'est le chemin qui la conduit au bon endroit au bon moment. Cet article rappelle ce que la recherche et les normes disent de ce chemin, l'illustre par quatre accidents documentés et par des constats de chantier et d'audit anonymisés, et montre ce qui distingue une organisation qui archive de celle qui apprend.
 
-## Le même câble, deux fois
+## Les organisations n'ont pas de mémoire
 
-Sur un projet de réseau électrique, la réception des travaux a révélé que des câbles de communication souples avaient été posés à la place des câbles armés exigés par le client. Dépose, nouvelle fourniture, repose, et une date de mise en service repoussée. La leçon a été rédigée, discutée en réunion, enregistrée.
+En 1993, Trevor Kletz, l'un des fondateurs de la sécurité des procédés moderne, publiait un livre au titre provocateur : *Lessons from Disaster: How Organisations Have No Memory and Accidents Recur*. Sa thèse tenait en une phrase : les personnes ont une mémoire, les organisations n'en ont pas. Quand ceux qui ont vécu un accident partent, la leçon part avec eux, et l'accident revient, parfois dans la même usine, parfois une génération plus tard.
 
-Peu après, sur un autre projet de la même entreprise, dans un autre pays, des batteries défectueuses ont été découvertes une fois installées sur les lampadaires solaires. Le défaut n'avait rien à voir avec le câble. La cause, si : aucun contrôle à réception avant la pose. La première leçon disait « vérifier les câbles ». Elle aurait dû dire « contrôler tout matériel critique à son arrivée, avant installation, contre les exigences du contrat ».
+Trente ans après, la thèse n'a pas vieilli. Elle s'applique aussi bien à une raffinerie qu'à une entreprise de travaux de vingt personnes. Elle explique pourquoi un même défaut de réception réapparaît d'un chantier à l'autre, pourquoi un audit relève l'absence d'une norme que tout le monde utilise, et pourquoi un registre de leçons apprises peut contenir des centaines de lignes sans qu'aucune pratique n'ait changé.
 
-Cette différence entre l'événement et ce qu'il enseigne est au cœur de la gestion des connaissances. Une leçon formulée au niveau du symptôme protège contre la répétition exacte du même incident, ce qui arrive rarement. Une leçon formulée au niveau de la cause protège contre une famille entière d'incidents.
+## Ce que dit la recherche
 
-## Ce que disent les référentiels
+### Savoir plus que ce que l'on peut dire
+
+Le philosophe et chimiste Michael Polanyi a formulé en 1966 une idée devenue centrale : « nous savons plus que ce que nous pouvons dire ». Une partie essentielle du savoir professionnel est **tacite** : le soudeur qui entend que l'arc n'est pas stable, le chef de quart qui sent qu'une colonne « ne tourne pas comme d'habitude », l'inspecteur qui sait où regarder sur un massif fraîchement décoffré. Ce savoir ne se trouve dans aucune procédure.
+
+### Le cycle de conversion des connaissances
+
+Ikujiro Nonaka et Hirotaka Takeuchi (1995) ont décrit comment ce savoir circule dans une organisation, à travers quatre conversions : du tacite au tacite par le compagnonnage (**socialisation**), du tacite à l'explicite par l'écriture, le schéma, la règle (**externalisation**), de l'explicite à l'explicite par la combinaison de documents (**combinaison**), et de l'explicite au tacite quand une règle écrite devient un réflexe (**internalisation**). Un registre de leçons apprises ne couvre qu'une partie du cycle. Sans compagnonnage en amont et sans appropriation en aval, il reste une archive.
+
+### Corriger l'erreur ou corriger la règle
+
+Chris Argyris et Donald Schön (1978) ont distingué deux niveaux d'apprentissage. En **simple boucle**, l'organisation corrige l'écart : on remplace la pièce défectueuse. En **double boucle**, elle interroge la règle, l'hypothèse ou l'organisation qui a permis l'écart : pourquoi la pièce a-t-elle été acceptée ? La plupart des systèmes de retour d'expérience fonctionnent en simple boucle. Les accidents qui suivent montrent pourquoi ce n'est pas suffisant.
+
+### La normalisation de la déviance
+
+Enfin, la sociologue Diane Vaughan, en étudiant l'accident de la navette Challenger (1996), a montré comment un écart toléré une fois devient progressivement la norme : chaque vol réussi malgré l'anomalie renforce la conviction qu'elle est acceptable. Ce mécanisme est l'ennemi direct de l'apprentissage, parce qu'il transforme un signal en habitude.
+
+## Ce que disent les normes
 
 ### ISO 9001 : les connaissances organisationnelles
 
-Depuis l'édition 2015, ISO 9001 consacre une exigence aux **connaissances organisationnelles** (paragraphe 7.1.6). L'organisme doit déterminer les connaissances nécessaires à la mise en œuvre de ses processus et à la conformité de ses produits et services, les maintenir et les rendre disponibles dans la mesure nécessaire. Face à des besoins et à des tendances qui évoluent, il doit considérer ses connaissances actuelles et déterminer comment acquérir ou accéder aux connaissances supplémentaires et aux mises à jour nécessaires.
+Depuis 2015, ISO 9001 demande à l'organisme de déterminer les connaissances nécessaires à ses processus et à la conformité de ses produits et services, de les tenir à jour et de les rendre disponibles (paragraphe 7.1.6). La note de l'exigence cite explicitement les enseignements tirés des échecs et des projets réussis, et les sources externes comme les normes. Deux autres exigences en sont le prolongement direct : la maîtrise des informations documentées d'origine externe, c'est-à-dire la disponibilité des normes applicables (7.5.3), et les actions correctives, qui doivent traiter les causes et vérifier leur efficacité (10.2).
 
-La note de la norme distingue deux sources : les sources internes (propriété intellectuelle, connaissances acquises par l'expérience, enseignements tirés des échecs et des projets réussis, savoirs non documentés partagés) et les sources externes (normes, milieu universitaire, conférences, clients et prestataires). L'exigence est volontairement générale. Elle ne demande pas un logiciel ; elle demande que l'entreprise sache ce qu'elle doit savoir, et ne le perde pas quand une personne part.
+### ISO 45001 : les événements passés et l'évolution des connaissances
 
-Elle se relie à d'autres exigences : compétences (7.2), maîtrise des non-conformités et actions correctives (10.2), amélioration continue (10.3), et analyse des risques et opportunités (6.1). Un registre de leçons apprises qui n'alimente aucune de ces exigences ne sert pas le système de management.
+ISO 45001 va plus loin sur un point précis. Son processus d'identification des dangers doit prendre en compte les **événements indésirables passés notables, internes ou externes à l'organisme**, et **l'évolution des connaissances et des informations sur les dangers** (6.1.2.1). Autrement dit, la norme exige d'apprendre aussi des accidents des autres.
 
-### ISO 30401 : un système de management des connaissances
+### ISO 30401 et le PMBOK
 
-ISO 30401:2018 va plus loin et propose des exigences pour un véritable système de management des connaissances. Elle insiste sur des éléments que les entreprises de projets négligent souvent : la **culture** (la confiance nécessaire pour qu'un chef de chantier raconte une erreur), le **leadership**, et le cycle complet de la connaissance, de sa création à sa conservation, en passant par son partage, sa consolidation et son application. Peu d'entreprises de taille moyenne visent la certification ; la norme reste une excellente grille de lecture.
+ISO 30401:2018 propose des exigences pour un système de management des connaissances et insiste sur la culture, le leadership et le cycle complet de la connaissance. Le *PMBOK Guide* du PMI, dans sa huitième édition (2025), fait du processus *Manage Project Knowledge* un élément du domaine de la gouvernance. Il distingue connaissances explicites et tacites, rappelle qu'une connaissance codifiée perd son contexte, et cite parmi les outils les revues après action, les rétrospectives et la mise en récit. Il signale aussi l'apport et les risques de l'intelligence artificielle pour capter et retrouver le savoir.
 
-### Le PMBOK 8e édition : Manage Project Knowledge
+Ces textes convergent : la connaissance est une ressource à gérer, au même titre que les compétences ou les équipements. Les accidents suivants montrent ce qui arrive quand elle ne l'est pas.
 
-Le *PMBOK Guide* publié par le PMI en 2025 a réorganisé ses contenus en six principes, sept domaines de performance et une quarantaine de processus non prescriptifs. Le processus **Manage Project Knowledge** est rattaché au domaine de la gouvernance. Il poursuit deux objectifs : utiliser les connaissances existantes pour produire ou améliorer les résultats du projet, et recueillir les connaissances créées par le projet pour les opérations et les projets futurs.
+## Quatre accidents documentés
 
-Le guide distingue les connaissances **explicites**, que l'on peut écrire, dessiner ou chiffrer, et les connaissances **tacites**, logées dans l'expérience et l'intuition des personnes. Il souligne un point que tout praticien connaît : une connaissance codifiée perd son contexte et peut être mal comprise ; une connaissance tacite garde son contexte mais se transmet difficilement. Parmi les outils cités figurent les revues après action, les bilans en cours de projet, les rétrospectives et la mise en récit (*storytelling*). La sortie principale est le **registre des leçons apprises**, qui alimente ensuite les actifs organisationnels lors de la clôture du projet ou de la phase. Le guide évoque aussi l'apport de l'intelligence artificielle pour capter et retrouver les connaissances, en rappelant les risques d'exposition d'informations sensibles et d'erreurs générées, qui appellent une politique d'usage responsable.
+### Longford, 1998 : le savoir parti au siège
 
-ISO 10006 (management de la qualité dans les projets) et ISO 21502 (management de projet) vont dans le même sens : les enseignements doivent être recueillis pendant tout le projet, pas seulement à la fin, et mis à disposition des projets suivants.
+Le 25 septembre 1998, sur l'usine de traitement de gaz de Longford, en Australie, une perte prolongée de circulation d'huile maigre refroidit un rebouilleur de dééthaniseur jusqu'à environ −42 °C, alors qu'il fonctionne normalement vers 100 °C. Lors du redémarrage, l'huile chaude réintroduite provoque la rupture fragile de la boîte de l'échangeur. Plus de dix tonnes d'hydrocarbures s'échappent, s'enflamment ; deux personnes meurent, huit sont blessées, et l'État de Victoria est privé de gaz pendant plus de deux semaines.
 
-## Ce que montrent les plans de gestion des connaissances
+Les analyses de l'accident ont relevé une formation insuffisante aux situations anormales, une identification des dangers qui n'avait pas reconnu le risque de basse température, et un élément organisationnel devenu un cas d'école : les ingénieurs expérimentés avaient été transférés au siège, à Melbourne, quelques années plus tôt, sans que ce changement d'organisation ait fait l'objet d'une analyse de ses effets. Les opérateurs, seuls face à une situation inhabituelle, ne disposaient plus de ceux qui savaient ce qu'un acier refroidi à cette température devient. Le sociologue Andrew Hopkins en a tiré un ouvrage de référence, *Lessons from Longford* (2000).
 
-Nous avons relu de nombreux plans de gestion des connaissances rédigés par des entrepreneurs pour de grands projets industriels. Le meilleur d'entre eux, préparé pour une installation de traitement de gaz, tenait en dix pages et posait un circuit simple :
+**Ce que le cas enseigne.** Une réorganisation est une modification. Déplacer, réduire ou remplacer une équipe d'experts change la quantité de connaissance disponible là où les décisions se prennent.
 
-1. chaque membre de l'équipe peut être **initiateur** d'une leçon, à partir d'une conversation, d'une observation ou d'une expérience vécue sur ce projet ou un autre ;
-2. le responsable de discipline évalue la leçon et précise **quels documents, méthodes ou procédures** doivent être modifiés ;
-3. le responsable qualité l'enregistre, vérifie qu'elle n'est pas un doublon, et présente une analyse coûts-bénéfices au directeur de projet ;
-4. le directeur de projet approuve ou rejette les mesures, et désigne un **responsable de la mise en œuvre** ;
-5. les changements sont communiqués à toute l'équipe, au client et à l'organisation élargie, et les procédures sont mises à jour.
+### Geismar, 2013 : le rebouilleur que les plans ne montraient pas
 
-Le plan prévoyait aussi des ateliers conjoints avec le client à trois moments : fin de l'ingénierie, début de la construction, clôture du projet, et un rapport trimestriel au client.
+Le 13 juin 2013, dans une usine d'oléfines en Louisiane, un fractionnateur de propylène dispose de deux rebouilleurs, l'un en service, l'autre en attente. Pour permettre le nettoyage du premier, un opérateur ouvre l'eau chaude côté tubes du rebouilleur en attente. Trois minutes plus tard, la calandre éclate : le propane et le propylène liquides, piégés entre des vannes fermées, se sont dilatés sous l'effet de la chaleur. L'explosion et l'incendie font deux morts et plus de 160 blessés ; l'unité reste arrêtée dix-huit mois.
 
-Un détail de l'histoire de ce document est instructif. Lors de la revue par le client, un commentaire signalait qu'un document cité en référence « n'existait pas ». L'entrepreneur a répondu qu'il s'agissait du plan approuvé d'un projet précédent, un pipeline réalisé pour le même client. Le plan de gestion des connaissances était lui-même une connaissance réutilisée. C'est une bonne pratique, à une condition : adapter, et dire d'où l'on part.
+L'enquête du Chemical Safety Board américain a mis en évidence une chaîne de connaissances perdues. Des vannes d'isolement avaient été ajoutées en 2001 sans analyse adéquate de la modification. Les plans de tuyauterie et d'instrumentation n'avaient pas été mis à jour, si bien que l'analyse de danger suivante avait supposé les deux rebouilleurs toujours en service. Une recommandation de 2006, demandant de plomber ces vannes en position ouverte, n'avait pas été appliquée correctement. Aucune procédure spécifique n'existait pour la permutation des rebouilleurs. En fermant les vannes, l'exploitation avait isolé l'équipement de la soupape qui le protégeait.
 
-À l'inverse, un rapport HAZOP d'une station de compression que nous avons étudié contient une phrase que l'on retrouve dans beaucoup d'études de sécurité : les observations et recommandations sont propres à l'installation étudiée et ne doivent pas être appliquées à une autre. C'est juste, et c'est une leçon de méthode. Ce qui se transfère d'un projet à l'autre, ce n'est pas la conclusion ; c'est le raisonnement, la question qui a permis de trouver le problème. Le même rapport montrait d'ailleurs deux réflexes de bonne gestion des connaissances : la participation de l'exploitation et de la maintenance aux séances, et un sujet non traité, explicitement noté pour une réunion dédiée plutôt qu'oublié. Les soixante-cinq recommandations étaient transférées dans une base de suivi jusqu'à leur clôture.
+**Ce que le cas enseigne.** La connaissance existait : dans une recommandation, dans la tête de ceux qui avaient installé les vannes. Elle n'a pas atteint le plan, puis la procédure, puis l'opérateur. C'est exactement ce que la gestion des modifications et la maîtrise documentaire doivent garantir.
+
+### Texas City, 2005 : les avertissements précédents
+
+Le 23 mars 2005, lors du redémarrage d'une unité d'isomérisation d'une raffinerie texane, une colonne déborde et un ballon de purge, conçu dans les années 1950 et non raccordé à une torche, rejette un geyser d'hydrocarbures à l'atmosphère. L'explosion tue quinze personnes et en blesse environ 180. Les victimes se trouvaient dans des bâtiments provisoires installés trop près de l'unité.
+
+L'enquête a relevé que le même ballon avait connu plusieurs rejets sérieux de matières inflammables au cours des dix années précédentes, sans enquête efficace ni modification. Les opérateurs avaient pris l'habitude de remplir la colonne au-delà de la plage de l'indicateur lors des démarrages. Le nombre de formateurs avait été fortement réduit et aucun superviseur expérimenté n'encadrait le démarrage.
+
+**Ce que le cas enseigne.** Un incident sans gravité est une information gratuite. Une organisation qui ne l'analyse pas paie plus tard le prix complet.
+
+### Columbia, 2003 : le signal devenu habitude
+
+Le 1er février 2003, la navette Columbia se désintègre lors de sa rentrée dans l'atmosphère : un morceau de mousse isolante détaché du réservoir au décollage avait endommagé le bord d'attaque d'une aile. Les détachements de mousse avaient été observés lors de nombreux vols précédents. Faute de conséquence grave, ils avaient été progressivement classés comme un problème de maintenance plutôt que comme un danger. La commission d'enquête a conclu que les causes organisationnelles pesaient autant que la cause physique, et que l'organisation n'avait pas tiré toutes les leçons de Challenger, dix-sept ans plus tôt.
+
+**Ce que le cas enseigne.** La répétition d'un écart sans conséquence n'est pas une preuve de sécurité. C'est la normalisation de la déviance décrite par Vaughan.
+
+## Ce que nous voyons sur le terrain
+
+Ces accidents sont extrêmes. Les mêmes mécanismes se retrouvent, à une autre échelle, dans les constats quotidiens des chantiers et des audits. Les exemples qui suivent sont réels et anonymisés.
+
+### Un massif de béton n'est pas un détail
+
+Sur un projet de lignes électriques en Afrique centrale, le maître d'œuvre a adressé à l'entreprise une lettre de non-conformité après des visites inopinées sur les chantiers d'implantation des poteaux. Il relevait l'absence de vibreur alors que le béton des massifs était gâché sur tôle ; la réalisation différée de la partie hors sol des massifs, qui doit être coulée en continuité avec la partie enterrée ; l'absence d'éprouvettes permettant de vérifier la résistance du béton ; et l'absence d'essais de convenance alors que la provenance des granulats avait changé. Le maître d'œuvre annonçait des contrôles au scléromètre et la démolition des massifs jugés insuffisants.
+
+Rien de tout cela n'était inconnu. La vibration, la continuité du bétonnage, le contrôle de la résistance sur éprouvettes et la validation d'une formulation lorsque ses constituants changent sont des exigences classiques du contrat et des normes d'exécution et de spécification du béton (EN 13670, EN 206, EN 12390). Un ingénieur expérimenté sait aussi qu'un scléromètre donne une estimation de la dureté de surface et non une résistance : en cas de doute, ce sont des carottages qui trancheront, avec le coût et le délai qu'ils impliquent. La connaissance était disponible ; elle n'était pas présente sur le chantier au moment du coulage.
+
+### Les constats d'un audit de certification
+
+Lors d'un audit combiné qualité, environnement et santé-sécurité d'une entreprise de travaux électriques, l'auditeur a relevé plusieurs non-conformités qui, lues ensemble, racontent la même histoire :
+
+- l'identification des dangers ne couvrait ni les animaux sauvages ni les conditions climatiques extrêmes des chantiers, ni les déplacements ; les dangers vécus sur les chantiers précédents n'avaient pas été réinjectés dans l'analyse ;
+- la norme d'installation électrique utilisée au quotidien par les équipes n'était pas disponible dans l'entreprise, faute de veille normative ;
+- des piquets de terre livrés par un fournisseur avaient été installés sans contrôle à réception, et se sont révélés non conformes ;
+- les règles de consignation électrique n'étaient pas appliquées de manière effective sur un chantier, et la ceinture de sécurité d'un véhicule avait été volontairement neutralisée par ses utilisateurs ;
+- la veille réglementaire existait, mais l'évaluation de conformité qui devait en découler n'avait pas été faite.
+
+Chacun de ces écarts a reçu une correction rapide. La question intéressante est ailleurs : pourquoi des connaissances aussi élémentaires, une norme, un contrôle à réception, une règle de consignation, n'étaient-elles pas en place ? Les analyses de causes retenues par l'entreprise convergent : processus non formalisés, responsabilités non désignées, supervision de terrain insuffisante. C'est, à petite échelle, le diagnostic de Longford et de Texas City.
+
+### La même cause, d'un projet à l'autre
+
+Sur des projets d'électrification d'une autre entreprise, nous avons vu des câbles souples posés à la place de câbles armés, des batteries défectueuses découvertes une fois installées, des cellules endommagées par un emballage insuffisant, un relais de protection incapable de communiquer avec la supervision à la mise en service. Quatre incidents sans rapport apparent, une seule cause : aucun contrôle avant expédition ni avant pose pour les équipements que le client n'avait pas exigé de réceptionner en usine. Les piquets de terre de l'audit précédent appartiennent à la même famille. Une leçon formulée au niveau du symptôme, « vérifier les câbles », ne protège que contre la répétition exacte du même incident. Formulée au niveau de la cause, « contrôler tout matériel critique à son arrivée, avant pose, contre les exigences du contrat », elle protège contre une famille entière.
+
+## Pourquoi la connaissance n'arrive pas là où elle est utile
+
+Les cas ci-dessus, du plus grave au plus ordinaire, révèlent cinq mécanismes récurrents.
+
+1. **Le départ des personnes.** Mutation, réorganisation, fin de contrat, départ à la retraite : le savoir tacite part avec ceux qui le portent (Longford, réduction des formateurs à Texas City).
+2. **La modification non tracée.** Un changement physique ou organisationnel n'est pas reporté dans les documents ; la connaissance suivante est fausse (Geismar).
+3. **L'incident non exploité.** Un événement sans gravité n'est ni analysé ni partagé (Texas City, Columbia).
+4. **La leçon mal formulée.** Écrite au niveau du symptôme, elle ne s'applique jamais au cas suivant (nos projets d'électrification).
+5. **L'absence au moment de l'action.** La règle existe, mais ni la personne compétente ni le contrôle ne sont présents au moment où le travail se fait (béton des massifs, consignation).
 
 ![Cycle d'une leçon apprise](/assets/blog/km-cycle-lecon-apprise.svg)
 *Figure 1. Le cycle complet d'une leçon apprise, et l'endroit où il se casse le plus souvent.*
 
-## Comment les leçons deviennent des pratiques : exemples réels
+## Ce qui fait réellement apprendre une organisation
 
-Les cas qui suivent proviennent d'une base de leçons apprises tenue par une entreprise d'ingénierie et de travaux intervenant dans plusieurs pays d'Afrique subsaharienne. Les noms et lieux sont retirés. Pour chacun, nous indiquons ce qui s'est passé, ce que l'entreprise en a tiré, et ce que cela change concrètement pour le projet suivant.
+Aucun de ces mécanismes ne se corrige par un logiciel. Ils se corrigent par quatre éléments que l'on retrouve dans toutes les organisations qui apprennent.
 
-### 1. Un incendie, une assurance, un magasin
+### Une organisation qui sait qui sait
 
-Un feu s'est déclaré dans une zone de stockage de panneaux solaires sur un chantier : environ huit cents panneaux détruits. Les cartons d'emballage étaient stockés à proximité, aucun moyen d'extinction n'était en place, le gardien n'avait pas été sensibilisé. Et l'attestation d'assurance tous risques chantier était expirée au moment de l'incident.
+Chaque domaine critique a un référent identifié, et toute réorganisation qui touche ces référents est traitée comme une modification, avec une analyse de ses effets. Les nouveaux arrivants travaillent en binôme avec des anciens sur les opérations sensibles. Le compagnonnage n'est pas un luxe : c'est le seul canal efficace pour le savoir tacite.
 
-Trois leçons distinctes en sont sorties, et c'est leur séparation qui les a rendues utiles. Sur le plan HSE : une zone de stockage de matériels coûteux ou combustibles est une zone à risque critique, avec ses moyens d'extinction et ses consignes. Sur le plan logistique : une procédure de gestion de magasin, avec un magasinier désigné par projet, permet de chiffrer rapidement une perte et de relancer l'approvisionnement. Sur le plan contractuel : le suivi des échéances d'assurance devient un point du tableau de bord mensuel du projet.
+### Un système de management qui ferme la boucle
 
-Sur un autre chantier, un vol de batteries avant la réception provisoire est venu compléter la leçon : la sécurisation physique des matériels de valeur et facilement revendables doit être planifiée dès leur installation, pas après, et le renouvellement de l'assurance du projet vérifié au même titre que les autres échéances. Les deux événements, rapprochés, ont donné un plan de sécurisation des équipements intégré à la planification du chantier.
+La gestion des modifications garantit que tout changement physique ou organisationnel est analysé et reporté dans les documents. La maîtrise documentaire garantit que la bonne norme et la bonne révision sont disponibles là où l'on travaille. Les actions correctives traitent les causes, en double boucle, et leur efficacité est vérifiée sur le projet suivant. Les audits internes vérifient que ces boucles tournent réellement. C'est exactement la structure qu'imposent ISO 9001, ISO 14001 et ISO 45001 ; encore faut-il la faire vivre plutôt que l'afficher.
 
-### 2. La FAT sans spécialiste
+### Des experts expérimentés là où les décisions se prennent
 
-Lors de la réception en usine de postes préfabriqués, la moitié des unités présentait une technologie d'appareillage différente de celle du dossier technique. La délégation ne comptait aucun spécialiste capable de le voir. Plus tard, sur un autre projet, un relais de protection n'a pas pu communiquer avec la supervision à la mise en service, et le câblage d'une armoire de régulation s'est révélé erroné ; dans les deux cas, ces essais n'avaient pas été faits en usine.
+Les accidents de Longford et de Texas City ont en commun l'absence, au moment critique, de personnes expérimentées. Sur un chantier, c'est l'ingénieur qui sait qu'un béton gâché sur tôle sans vibration ne donnera pas la résistance prévue, ou qu'un scléromètre ne remplace pas une éprouvette. Ce savoir s'acquiert en années de terrain ; il se partage par la présence, la revue des méthodes et la formation des équipes.
 
-La leçon initiale, « prévoir un expert à la FAT », a été élargie en trois changements : désignation nominative et anticipée des témoins par technologie ; essais de communication et de séquences obligatoires dans les procédures de FAT ; et procédure formelle de demande et d'acceptation de toute variante proposée par un fournisseur. Elle a aussi produit une quatrième leçon, plus inattendue : sur un lot de cellules mal paramétrées, l'entreprise avait fait intervenir son propre expert sans coordination avec le fournisseur, et perdu le bénéfice de la garantie. Toute intervention sur un équipement sous garantie passe désormais par le fournisseur.
+### Un contrôle qualité qui intercepte avant qu'il ne soit trop tard
 
-### 3. Ce que le client ne demande pas
-
-Les FAT n'étaient prévues que pour les équipements où le client les exigeait. Le reste arrivait sur site sans contrôle : des câbles non conformes, des batteries défaillantes, des cellules aux portes endommagées par un emballage insuffisant.
-
-L'analyse de ces cas ensemble, plutôt qu'un par un, a conduit à une décision structurante : un **plan de contrôle fournisseur** appliqué à tous les équipements, proportionné au risque, avec transmission obligatoire des rapports d'essais du fabricant, vérification des fiches techniques contre le contrat avant livraison, check-list avant expédition, exigences d'emballage annexées aux consultations, et contrôle à réception avant toute pose. C'est l'exemple type d'une connaissance qui ne devient visible qu'en regroupant des leçons apparemment sans rapport.
-
-### 4. Le foncier découvert à 60 %
-
-Sur un projet de centrale, un problème foncier est apparu en pleine construction, alors que les études étaient avancées à 60 %. Plan de masse à refaire, assainissement à reprendre, topographie à recommencer. Sur un autre projet, des équipes avaient été mobilisées pour le piquetage d'une ligne sans validation préalable des études d'exécution et sans poteaux sur site ; quatre déplacements n'ont pas suffi à obtenir les procès-verbaux, et des milliers de piquets ont été perdus après la pluie.
-
-Ces deux histoires ont produit une même règle de démarrage, à intégrer dans la check-list de lancement de chaque projet : bornage du site vérifié par un topographe, procès-verbal contradictoire de remise du site avec le client, autorisations d'occupation obtenues, études d'exécution validées avant toute mobilisation de terrain, et réception hebdomadaire des opérations de piquetage.
-
-### 5. Le réseau que personne ne savait localiser
-
-Un projet de réhabilitation d'un réseau d'eau potable a été arrêté après la livraison de tout le matériel : aucun plan fiable ne permettait de localiser les anciennes conduites, rendant impossibles les raccordements et les essais de pression. Le contrat a été résilié à l'amiable, avec des pertes financières et un coût de réputation.
-
-La leçon vise deux documents de l'entreprise. Le guide de réponse aux appels d'offres doit imposer, pour toute réhabilitation, une phase d'études préalables chiffrée : relevés, fouilles de reconnaissance, cartographie de l'existant. Et la liste des clauses à négocier doit inclure l'obligation pour le maître d'ouvrage de fournir des plans de récolement ou de financer leur mise à jour avant les travaux. Une leçon similaire, venue d'un projet de forages où des sites avaient été imposés sans études préalables, a ajouté une règle : refuser une liste de sites non étudiée, ou obtenir que les forages négatifs soient rémunérés.
-
-### 6. Le partenaire et la trésorerie
-
-Deux leçons ont porté sur l'organisation plutôt que sur la technique. Un groupement s'est révélé défaillant parce que le partenaire avait été choisi sur des critères administratifs ou de proximité, sans analyse de sa solidité financière ni de ses capacités techniques ; retards, pénalités, puis contentieux. Et une filiale exécutant un projet sur le terrain manquait régulièrement de trésorerie parce que les paiements du client arrivaient sur le compte de la maison mère.
-
-Les changements qui en découlent sont simples à énoncer et difficiles à obtenir sans la mémoire de ces épisodes : une évaluation technique, financière et de réputation de tout partenaire avant constitution d'un groupement, une charte de gouvernance signée avec le contrat de groupement, et, dès la négociation, la possibilité pour la filiale de recevoir une partie des paiements, complétée par une délégation financière minimale au directeur pays.
-
-### 7. Les engagements sans bon de commande
-
-Un prestataire a été mobilisé et a réalisé une intervention technique sans bon de commande approuvé, en dehors du processus d'achat. Le risque n'était pas technique, mais financier et juridique : engagement contestable, traçabilité perdue, litige possible avec le prestataire. La leçon n'a pas produit de nouvelle procédure, puisqu'elle existait déjà ; elle a produit une action de sensibilisation ciblée et un contrôle : aucune mobilisation sans bon de commande validé, vérifiée lors des audits de projet. C'est un rappel utile : toutes les leçons ne justifient pas un nouveau document, certaines révèlent seulement qu'un document existant n'est pas appliqué.
-
-### 8. Ce qui marche aussi
-
-Une base de leçons apprises qui ne contient que des échecs finit par décourager. La même base enregistrait aussi une expérience positive : le recours à des sous-traitants locaux s'était révélé rentable et efficace sur le terrain, à condition d'une supervision continue de la qualité et de la sécurité. La leçon a été écrite pour conserver l'avantage tout en maîtrisant le risque : sélection intégrant des critères HSE et qualité, plan de supervision avec visites et fiches de contrôle, formation avant le démarrage du chantier. Les référentiels le disent tous : une leçon peut venir d'un succès autant que d'un échec.
+Le contrôle à réception, les points d'arrêt d'un plan d'inspection, les essais de convenance, les éprouvettes : ce sont les moments où une connaissance générale se transforme en vérification concrète. Ils coûtent peu au regard de ce qu'ils évitent : une démolition de massifs, un remplacement de câbles, une mise en service retardée, ou pire.
 
 ![Regrouper les leçons](/assets/blog/km-regrouper-les-lecons.svg)
 *Figure 2. Quatre incidents sans lien apparent, une seule cause, une seule pratique nouvelle.*
-
-## Pourquoi tant de registres ne servent à rien
-
-En relisant ces cas, on voit ce qui a fonctionné. On voit aussi, en creux, ce qui échoue ailleurs.
-
-**La leçon est écrite au niveau du symptôme.** « Le câble était souple » au lieu de « aucun contrôle à réception avant pose ». La règle que nous appliquons : une leçon doit pouvoir s'appliquer à un projet qui n'a rien à voir avec le premier.
-
-**La leçon n'a pas de destination.** Elle reste dans le registre. Une leçon utile désigne le document qu'elle modifie : procédure, check-list, clause type, plan de contrôle, cahier des charges, programme de formation. Le plan de gestion des connaissances cité plus haut l'exigeait dès l'étape du responsable de discipline.
-
-**La recommandation n'a pas de propriétaire.** Dans la base que nous avons analysée, plusieurs lignes comportaient une leçon mais aucune recommandation, ou une recommandation sans responsable ni échéance. Ce sont celles dont on ne retrouve aucun effet.
-
-**Le registre est consulté par ceux qui l'ont rempli.** La vraie question n'est pas « avons-nous écrit nos leçons ? », mais « l'équipe qui démarre le prochain projet les a-t-elle lues ? ». La réponse la plus efficace que nous connaissions est une revue obligatoire des leçons pertinentes à la réunion de lancement, et à l'entrée de chaque phase.
-
-**Le savoir tacite part avec les personnes.** Aucun registre ne remplace un chef de chantier expérimenté qui raconte comment il a géré la saison des pluies sur un site enclavé. Binômes, mentorat, revues après action en présence des équipes, récits courts lors des réunions de lancement : ce sont les outils que le PMBOK cite pour les connaissances tacites, et ceux que les entreprises de projets utilisent le moins.
-
-**La culture punit l'aveu.** Si rédiger une leçon revient à signer une faute, personne ne le fera. Les meilleurs registres que nous ayons vus décrivent les faits et les causes sans nommer de personnes, et les directions les citent en exemple.
 
 ## Un format de fiche qui fonctionne
 
 | Champ | Contenu attendu |
 |---|---|
-| Référence, date, émetteur, processus | Traçabilité, et lien avec le système qualité |
-| Projet, phase, contexte | Ce qu'il faut savoir pour comprendre, sans nom de client ni de personne |
+| Référence, date, émetteur, processus | Traçabilité, et lien avec le système de management |
+| Contexte | Ce qu'il faut savoir pour comprendre, sans nom de client ni de personne |
 | Événement | Les faits, chiffrés si possible |
 | Cause racine | Analysée (cinq pourquoi, arbre des causes), pas supposée |
 | Conséquences réelles et potentielles | Coût, délai, sécurité, réputation |
 | Leçon | Formulée pour s'appliquer à d'autres projets |
-| Recommandation | Action concrète |
-| Document ou pratique modifié | Procédure, check-list, clause, plan de contrôle, formation |
+| Document ou pratique modifié | Procédure, check-list, clause type, plan de contrôle, formation |
 | Responsable et échéance | Une personne, une date |
 | Vérification d'efficacité | Comment saura-t-on que la leçon a été appliquée sur le projet suivant |
 
-Le dernier champ est le plus rare et le plus important. Il relie la gestion des connaissances à l'exigence d'ISO 9001 sur l'efficacité des actions correctives.
+## Quatre indicateurs honnêtes
 
-## Quelques indicateurs simples
+- la part des leçons ayant conduit à la modification d'un document identifié ;
+- le délai entre l'enregistrement d'une leçon et la mise à jour du document correspondant ;
+- la part des projets ayant tenu une revue des leçons pertinentes à leur lancement ;
+- le nombre de causes racines réapparues sur un projet ultérieur.
 
-- part des leçons ayant conduit à la modification d'un document identifié ;
-- délai moyen entre l'enregistrement d'une leçon et la mise à jour du document correspondant ;
-- part des projets ayant tenu une revue des leçons pertinentes lors de leur lancement ;
-- nombre de leçons répétées : la même cause racine réapparue sur un projet ultérieur.
-
-Le dernier indicateur est le plus honnête. Une entreprise qui apprend voit ce nombre baisser.
+Le dernier est le plus révélateur. Une organisation qui apprend le voit baisser.
 
 ## Ce que nous retenons
 
-La gestion des connaissances n'est pas une base de données. C'est un circuit : un événement est raconté, sa cause est comprise, la leçon est écrite pour d'autres contextes, un document change, l'équipe suivante le lit et l'applique, et quelqu'un vérifie que cela a marché. Les normes et le PMBOK décrivent ce circuit ; les exemples ci-dessus montrent qu'il fonctionne quand il est tenu par des personnes précises, et qu'il échoue quand il est confié à un fichier.
-
-Dans les entreprises que nous accompagnons, le changement le plus rentable est souvent le plus modeste : une demi-heure, à la réunion de lancement de chaque projet, consacrée à lire ensemble les dix leçons les plus pertinentes des projets précédents.
+Kletz avait raison : les organisations n'ont pas de mémoire propre. Elles n'ont que celle de leurs membres, de leurs documents et de leurs contrôles. Les accidents de Longford, Geismar, Texas City et Columbia ne sont pas des histoires lointaines ; leurs mécanismes se retrouvent chaque semaine sous forme d'un massif mal vibré, d'une norme introuvable, d'un piquet de terre non contrôlé. La différence entre une organisation qui subit ces écarts et une organisation qui les fait disparaître tient à quatre choses : savoir qui sait, faire tourner les boucles du système de management, garder des experts expérimentés au plus près des décisions, et contrôler avant qu'il ne soit trop tard.
 
 ## Références
 
-- ISO 9001:2015, *Systèmes de management de la qualité — Exigences*, paragraphes 6.1, 7.1.6, 7.2, 10.2 et 10.3.
-- ISO 30401:2018, *Systèmes de management des connaissances — Exigences*.
-- Project Management Institute, *A Guide to the Project Management Body of Knowledge (PMBOK® Guide)*, huitième édition, 2025, processus *Manage Project Knowledge* et *Close Project or Phase*.
-- ISO 10006:2017, *Management de la qualité — Lignes directrices pour le management de la qualité dans les projets*.
-- ISO 21502:2020, *Management de projets, programmes et portefeuilles — Recommandations sur le management de projets*.
-- IEC 61882, *Études de danger et d'exploitabilité (études HAZOP) — Guide d'application*.
+- Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
+- Argyris, C. et Schön, D. (1978). *Organizational Learning: A Theory of Action Perspective*. Addison-Wesley.
+- Nonaka, I. et Takeuchi, H. (1995). *The Knowledge-Creating Company*. Oxford University Press.
+- Kletz, T. (1993). *Lessons from Disaster: How Organisations Have No Memory and Accidents Recur*. IChemE.
+- Vaughan, D. (1996). *The Challenger Launch Decision*. University of Chicago Press.
+- Hopkins, A. (2000). *Lessons from Longford: The Esso Gas Plant Explosion*. CCH Australia.
+- U.S. Chemical Safety and Hazard Investigation Board, *Investigation Report: Refinery Explosion and Fire, BP Texas City* (2007) et *Williams Geismar Olefins Plant Reboiler Rupture and Fire* (2016).
+- Columbia Accident Investigation Board, *Report*, Volume 1, 2003.
+- IChemE Safety Centre, fiches de synthèse des accidents de Longford (1998) et de Geismar (2013).
+- ISO 9001:2015, paragraphes 7.1.6, 7.5.3 et 10.2 ; ISO 45001:2018, paragraphe 6.1.2.1 ; ISO 30401:2018.
+- Project Management Institute (2025). *A Guide to the Project Management Body of Knowledge (PMBOK® Guide)*, huitième édition.
+- EN 206, EN 13670, EN 12390-3, EN 12504-1 et EN 12504-2 (spécification, exécution et essais du béton).
 
 ---
 
-Reindaxia aide les entreprises de projets à mettre en place une gestion des connaissances qui produit des effets : plans de gestion des connaissances, ateliers de retour d'expérience, analyse de causes, mise à jour des procédures et des contrats types. [Parlons de votre projet](/contact.html?besoin=projet).
+Reindaxia aide les entreprises à transformer leurs retours d'expérience en pratiques : analyse de causes, mise à jour des procédures et des plans de contrôle, audits internes, accompagnement de terrain par des ingénieurs expérimentés. [Parlons de votre projet](/contact.html?besoin=projet).
