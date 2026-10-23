@@ -1,0 +1,64 @@
+---
+layout: null
+title: Blog
+---
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Blog : qualité, inspection, completion, audits et contrats | Reindaxia</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Articles de Reindaxia sur la qualité des projets industriels, l’inspection et la FAT, la mechanical completion, les audits ISO 9001, le management de projet, les marchés publics et les contrats FIDIC en Tunisie et en Afrique du Nord.">
+<meta name="keywords" content="blog ingénierie, articles qualité, QA/QC, inspection, FAT, mechanical completion, commissioning, audit ISO 9001, management de projet, marchés publics Tunisie, contrats FIDIC, cabinet de conseil, consulting, Tunisie, Afrique du Nord, Maghreb, Afrique, Reindaxia">
+<meta name="geo.region" content="TN-12">
+<meta name="geo.placename" content="La Soukra, Ariana, Tunisie">
+<meta name="geo.position" content="36.8706;10.2473">
+<meta name="ICBM" content="36.8706, 10.2473">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="theme-color" content="#12263f">
+<link rel="canonical" href="https://www.reindaxia.tn/blog.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Reindaxia Engineering &amp; Consulting">
+<meta property="og:title" content="Blog Reindaxia">
+<meta property="og:description" content="Articles sur la qualité, l’inspection, la completion, les audits et les contrats des projets industriels.">
+<meta property="og:url" content="https://www.reindaxia.tn/blog.html">
+<meta property="og:image" content="https://www.reindaxia.tn/assets/brand/og-image.png">
+<meta property="og:locale" content="fr_FR">
+<link rel="icon" href="/assets/brand/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/brand/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">
+<link rel="preload" href="/assets/fonts/archivo-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/site.css">
+<link rel="alternate" type="application/atom+xml" title="Blog Reindaxia" href="/blog/feed.xml">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Blog","name":"Blog Reindaxia","url":"https://www.reindaxia.tn/blog.html","inLanguage":"fr","publisher":{"@type":"Organization","name":"Reindaxia Engineering & Consulting","url":"https://www.reindaxia.tn/"}}</script>
+</head>
+<body>
+<a class="skip" href="#main">Aller au contenu</a>
+{% include site-header.html %}
+<main id="main">
+<section class="page-head"><div class="wrap">
+  <p class="crumb"><a href="/index.html">Accueil</a> / Blog</p>
+  <h1>Blog</h1>
+  <p class="lead">Retours d’expérience et repères pratiques sur la qualité, l’inspection, la completion, les audits, les projets et les contrats.</p>
+</div></section>
+<div class="wrap" style="padding-block:56px 72px">
+{% if site.posts.size > 0 %}
+<div class="post-list">
+{% for post in site.posts %}
+  <article class="post-card">
+    <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign m = post.date | date: "%-m" | minus: 1 %}{{ post.date | date: "%-d" }} {{ site.data.mois[m] }} {{ post.date | date: "%Y" }}</time>{% if post.category %} · {{ post.category }}{% endif %}</p>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p>{{ post.description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 220 }}</p>
+    <a class="more" href="{{ post.url | relative_url }}">Lire l’article →</a>
+  </article>
+{% endfor %}
+</div>
+{% else %}
+<p>Les premiers articles arrivent bientôt.</p>
+{% endif %}
+</div>
+</main>
+{% include site-footer.html %}
+</body>
+</html>
