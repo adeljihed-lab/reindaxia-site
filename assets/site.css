@@ -205,7 +205,7 @@ form.rq .btn { width: 100%; }
 .clients { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0; border-left: 1px solid var(--rule); }
 .clients li { display: flex; align-items: center; justify-content: center; min-height: 64px; padding: 10px 14px; border-right: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
 .clients li:nth-child(-n+4) { border-top: 1px solid var(--rule); }
-.clients span { font-family: var(--f-head); font-weight: 800; font-size: 1rem; letter-spacing: .06em; text-transform: uppercase; color: #7a8899; text-align: center; line-height: 1.2; font-stretch: 92%; transition: color .15s; }
+.clients span { font-family: var(--f-head); font-weight: 800; font-size: 1rem; letter-spacing: .06em; text-transform: uppercase; color: #5d6b7c; text-align: center; line-height: 1.2; font-stretch: 92%; transition: color .15s; }
 .clients li:hover span { color: var(--navy-800); }
 .content .clients { grid-template-columns: repeat(4, minmax(0, 1fr)); margin-top: 16px; }
 
@@ -525,3 +525,17 @@ form.rq h3 { color: var(--ink); font-size: 1.3rem; }
 .lead-sm{opacity:.85;margin-top:-4px}
 @media (max-width:760px){.field-grid{grid-template-columns:repeat(2,1fr)}}
 @media (max-width:460px){.field-grid{grid-template-columns:1fr}}
+
+.wa-float{position:fixed;right:18px;bottom:18px;z-index:60;display:inline-flex;align-items:center;gap:8px;padding:11px 16px;border-radius:999px;background:#1f8f4e;color:#fff;font-weight:600;font-size:.92rem;text-decoration:none;box-shadow:0 6px 18px rgba(0,0,0,.18)}
+.wa-float:hover{background:#18763f;color:#fff}
+.post-svc{margin:14px 0 6px;padding-top:12px;border-top:1px solid rgba(255,255,255,.15)}
+.post-svc a{font-weight:600}
+.post-wa{margin:6px 0}
+@media (max-width:560px){.wa-float span{display:none}.wa-float{padding:12px}}
+@media print{.wa-float{display:none}}
+
+.case-tags{font-family:var(--f-head);font-size:.85rem;color:#5d6b7c;margin:-6px 0 12px}
+.case-fig{margin:0 0 14px}
+.case-fig img{display:block;width:100%;max-height:340px;object-fit:cover;border-radius:8px}
+.case-links{margin-top:10px;font-size:.92rem}
+.clients-note{text-align:center;margin-top:14px;font-size:.92rem;color:#5d6b7c}
