@@ -1,14 +1,13 @@
 ---
 title: "Corrosion sous contrainte par les chlorures : réparer un échangeur sans savoir ce qui l'a tué"
-description: "Retour d'expérience sur un rebouilleur en inox 316L dont plus d'une centaine de tubes ont fui : mécanisme de corrosion sous contrainte par les chlorures, erreurs à éviter en réparation et règles pour l'équipe qualité."
+description: "Rebouilleur en 316L dont plus d'une centaine de tubes ont fui : corrosion sous contrainte par les chlorures et erreurs à éviter en réparation."
 category: Retour d'expérience
 image: /assets/blog/echangeur-carte-tubes-defectueux.jpg
 image_alt: "Carte de la plaque tubulaire montrant les tubes défectueux en partie basse"
 keywords: [corrosion sous contrainte, chloride stress corrosion cracking, CSCC, fissuration par les chlorures, acier inoxydable 316L, échangeur de chaleur, rebouilleur, faisceau tubulaire, bouchage de tubes, tube plugging, contrôle par courants de Foucault, métallographie, analyse de défaillance, QA/QC, inspection, Tunisie, Afrique du Nord]
 ---
 
-> **En bref.** Un rebouilleur à faisceau tubulaire en acier inoxydable 316L est arrêté après des fuites répétées. En atelier, les essais d'étanchéité tube par tube identifient plus d'une centaine de tubes percés. Le diagnostic retenu d'emblée est celui d'une corrosion sous contrainte par les chlorures, et la réparation est lancée : boucher les tubes défectueux. Ce retour d'expérience, présenté de façon anonyme, montre ce qu'une équipe qualité peut et doit exiger avant de réparer : confirmer le mécanisme, choisir des matériaux de réparation au moins équivalents et traiter la cause. Il rappelle les conditions de la fissuration par les chlorures et propose des règles pratiques pour les projets et les sites industriels.
-
+Un rebouilleur à faisceau tubulaire en acier inoxydable 316L est arrêté après des fuites répétées. En atelier, les essais d'étanchéité tube par tube trouvent plus d'une centaine de tubes percés. On retient d'emblée une corrosion sous contrainte par les chlorures et l'on commence à boucher les tubes. Ce retour d'expérience anonyme décrit ce que l'équipe qualité a demandé avant de réparer : confirmer le mécanisme, utiliser des matériaux de réparation au moins équivalents, traiter la cause. Il rappelle aussi les conditions de la fissuration par les chlorures.
 
 ## 1. Un atelier, un faisceau, cent tubes
 
@@ -19,7 +18,7 @@ L'échangeur est arrivé à l'atelier sur une remorque, faisceau extrait. Sur la
 
 L'ingénieur qualité qui arrive à ce stade pose une question simple : **qu'est-ce qui a percé ces tubes ?** On lui répond « corrosion sous contrainte par les chlorures ». C'est probable. Mais personne ne l'a vérifié : le programme d'inspection, décidé avant son intervention, se limitait à l'examen visuel, au ressuage et à l'essai d'étanchéité. Aucun échantillon n'a été prélevé pour un examen métallographique. Le diagnostic est une hypothèse, et la réparation est déjà en cours.
 
-Un document disponible donnait pourtant un indice précieux : la carte des tubes défectueux. Presque tous se trouvent dans la **moitié inférieure** du faisceau. Une telle répartition n'est pas le hasard d'un défaut de fabrication ; elle désigne une zone où le fluide séjourne, se concentre ou change de phase.
+Un document disponible donnait pourtant un indice précieux : la carte des tubes défectueux. Presque tous se trouvent dans la **moitié inférieure** du faisceau. Un défaut de fabrication aurait touché des tubes au hasard. Cette répartition désigne une zone où le fluide séjourne, se concentre ou change de phase.
 
 ![Carte de la plaque tubulaire avec les tubes défectueux](/assets/blog/echangeur-carte-tubes-defectueux.jpg)
 *Figure 2. Carte de la plaque tubulaire : en rouge, les tubes non étanches, concentrés dans la moitié inférieure.*
@@ -47,7 +46,7 @@ La corrosion sous contrainte (en anglais *chloride stress corrosion cracking*, C
 | **Milieu chloruré** | Chlorures dans l'eau, le fluide procédé ou l'isolation ; quelques ppm suffisent s'ils se concentrent |
 | **Température** | Risque marqué au-delà d'environ 60 °C, d'autant plus que la température monte |
 
-Le point dangereux est la **concentration**. Une eau ou un fluide faiblement chloruré peut devenir agressif là où il s'évapore, sous les dépôts, dans les zones mortes, aux interfaces entre phase liquide et phase vapeur : c'est précisément la situation d'un rebouilleur.
+Le point dangereux est la **concentration**. Une eau ou un fluide faiblement chloruré peut devenir agressif là où il s'évapore, sous les dépôts, dans les zones mortes, aux interfaces entre phase liquide et phase vapeur. Un rebouilleur réunit toutes ces conditions.
 
 Trois caractéristiques permettent de la reconnaître :
 
@@ -95,25 +94,23 @@ Si le mécanisme est confirmé, le bouchage n'est qu'une mesure temporaire. La c
 
 ## 5. Pourquoi ces demandes sont souvent difficiles à obtenir
 
-Sur le terrain, l'ingénieur qualité qui demande des prélèvements destructifs se heurte presque toujours aux mêmes objections : le programme d'inspection est déjà arrêté, l'installation attend l'équipement, les tubes sont de toute façon à boucher. Ces objections sont compréhensibles. Elles ont pourtant un coût caché : sans diagnostic confirmé, le faisceau de remplacement sera commandé dans la même nuance, et les mêmes causes produiront les mêmes effets.
+Sur le terrain, l'ingénieur qualité qui demande des prélèvements destructifs se heurte presque toujours aux mêmes objections : le programme d'inspection est déjà arrêté, l'installation attend l'équipement, les tubes sont de toute façon à boucher. Ces objections sont compréhensibles. Elles ont pourtant un coût caché : sans diagnostic confirmé, le faisceau de remplacement sera commandé dans la même nuance, et rien n'empêchera ses tubes de fissurer dans la même zone.
 
 La réponse tient en une proposition pragmatique : **réparer et comprendre en parallèle**. Prélever trois ou quatre tubes ne retarde pas le bouchage des autres ; l'examen de laboratoire prend quelques jours ; ses conclusions servent à la décision suivante, qui est la plus coûteuse.
 
-## 6. Ce que nous retenons
+## 6. Avant de boucher le prochain faisceau
 
-Un diagnostic n'est pas un constat. « Corrosion sous contrainte » restait ici une hypothèse plausible, que seule une coupe métallographique pouvait confirmer. Tant que ce n'est pas fait, tout ce qui suit, du choix du bouchon à la nuance du faisceau de remplacement, repose sur une supposition.
+« Corrosion sous contrainte » restait ici une hypothèse plausible, que seule une coupe métallographique pouvait confirmer. Tant que ce n'est pas fait, tout ce qui suit, du choix du bouchon à la nuance du faisceau de remplacement, repose sur une supposition.
 
 Les objectifs d'une inspection se fixent avant son programme. Dans ce dossier, la liste des contrôles avait été arrêtée avant que quiconque ait formulé la question à laquelle ils devaient répondre. Un essai d'étanchéité trouve les tubes percés ; il ne dit rien de ceux qui sont fissurés à mi-épaisseur, ni de la cause. Les courants de Foucault et le laboratoire répondent à d'autres questions, qu'il faut poser au bon moment.
 
-L'ingénieur qualité doit être associé dès l'arrêt de l'équipement, pas une fois le programme figé. C'est à ce moment qu'il peut proposer de **réparer et comprendre en parallèle** : prélever quelques tubes représentatifs avant de tout boucher, contrôler le dossier de réparation avec la même rigueur qu'un dossier de fabrication, vérifier que le matériau de réparation vaut au moins celui d'origine.
+L'ingénieur qualité doit être associé dès l'arrêt de l'équipement, avant que le programme soit figé. Il peut alors proposer de **réparer et comprendre en parallèle** : prélever quelques tubes représentatifs avant de tout boucher, contrôler le dossier de réparation avec la même rigueur qu'un dossier de fabrication, vérifier que le matériau de réparation vaut au moins celui d'origine.
 
-Il faut enfin compter. Le nombre de tubes bouchés, leur position et leur évolution d'un arrêt à l'autre disent si le mécanisme est toujours actif et si l'échangeur approche de ses limites de dimensionnement. La carte des tubes, dans ce cas, contenait déjà la moitié de la réponse.
+Il faut enfin compter. Le nombre de tubes bouchés, leur position et leur évolution d'un arrêt à l'autre disent si le mécanisme est toujours actif et si l'échangeur approche de ses limites de dimensionnement. Ici, la carte montrait déjà les tubes défectueux groupés dans la moitié inférieure du faisceau.
 
 ## 7. Le prix d’une question non posée
 
-Dans cette histoire, la réparation était nécessaire et bien exécutée. Ce qui manquait, c'était une question posée assez tôt : *qu'est-ce qui a tué ces tubes ?* Y répondre coûte quelques tubes prélevés et quelques jours de laboratoire. Ne pas y répondre coûte, tôt ou tard, un second faisceau.
-
-C'est là qu'intervient un ingénieur qualité expérimenté : non pour retarder les travaux, mais pour s'assurer que la réparation d'aujourd'hui prépare la bonne décision de demain.
+Dans cette histoire, la réparation était nécessaire et bien exécutée. La question *qu'est-ce qui a tué ces tubes ?* n'a été posée qu'après l'arrêt du programme d'inspection. Pour y répondre, il fallait prélever quelques tubes et attendre quelques jours de laboratoire. Sans réponse, le choix de la nuance du prochain faisceau se fait à l'aveugle, et un second faisceau peut fuir comme le premier.
 
 ## Références utiles
 

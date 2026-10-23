@@ -1,11 +1,11 @@
 ---
 title: "Gestion des connaissances : pourquoi les organisations oublient, et comment elles apprennent"
-description: "La gestion des connaissances dans l'industrie et les projets : ce qu'en disent la recherche (Polanyi, Nonaka, Argyris, Kletz), ISO 9001, ISO 45001, ISO 30401 et le PMBOK 8e édition, et ce que montrent des accidents documentés (Longford, Geismar, Texas City, Columbia) et des constats de terrain anonymisés. Mécanismes de l'oubli organisationnel et conditions d'un apprentissage réel."
+description: "Pourquoi les organisations oublient : recherche, ISO 9001, ISO 45001 et PMBOK, quatre accidents documentés et des constats de chantier anonymisés."
 category: Management de projet et contrats
 keywords: [gestion des connaissances, knowledge management, leçons apprises, lessons learned, retour d'expérience, REX, mémoire organisationnelle, connaissances tacites, connaissances explicites, Polanyi, Nonaka, SECI, Argyris, apprentissage en double boucle, Trevor Kletz, normalisation de la déviance, ISO 9001 7.1.6, ISO 45001 6.1.2, ISO 30401, PMBOK 8e édition, Manage Project Knowledge, gestion des modifications, MoC, Longford, Geismar, rebouilleur, Texas City, Columbia, sécurité des procédés, contrôle qualité, béton, EN 206, EN 13670, audit, Tunisie, Afrique du Nord, Afrique]
 ---
 
-> **En bref.** Les grandes catastrophes industrielles ont rarement une cause inconnue. Dans la plupart des cas, quelqu'un, quelque part, savait : un ingénieur parti au siège, une recommandation d'étude de danger jamais appliquée, un incident précédent classé sans suite. Ce qui a manqué, ce n'est pas la connaissance, c'est le chemin qui la conduit au bon endroit au bon moment. Cet article rappelle ce que la recherche et les normes disent de ce chemin, l'illustre par quatre accidents documentés et par des constats de chantier et d'audit anonymisés, et montre ce qui distingue une organisation qui archive de celle qui apprend.
+Les grandes catastrophes industrielles ont rarement une cause inconnue. Dans la plupart des cas, quelqu'un savait : un ingénieur parti au siège, une recommandation d'étude de danger jamais appliquée, un incident précédent classé sans suite. L'information n'est simplement pas arrivée à celui qui décidait. Cet article reprend ce que la recherche et les normes disent de ce cheminement, l'illustre par quatre accidents documentés et par des constats de chantier et d'audit anonymisés, et décrit ce qu'il faut pour qu'un retour d'expérience change une pratique.
 
 ## Les organisations n'ont pas de mémoire
 
@@ -29,7 +29,7 @@ Chris Argyris et Donald Schön (1978) ont distingué deux niveaux d'apprentissag
 
 ### La normalisation de la déviance
 
-Enfin, la sociologue Diane Vaughan, en étudiant l'accident de la navette Challenger (1996), a montré comment un écart toléré une fois devient progressivement la norme : chaque vol réussi malgré l'anomalie renforce la conviction qu'elle est acceptable. Ce mécanisme est l'ennemi direct de l'apprentissage, parce qu'il transforme un signal en habitude.
+Enfin, la sociologue Diane Vaughan, en étudiant l'accident de la navette Challenger (1996), a montré comment un écart toléré une fois devient progressivement la norme : chaque vol réussi malgré l'anomalie renforce la conviction qu'elle est acceptable. Le signal finit par ne plus être vu comme un signal.
 
 ## Ce que disent les normes
 
@@ -55,7 +55,7 @@ Le 25 septembre 1998, sur l'usine de traitement de gaz de Longford, en Australie
 
 Les analyses de l'accident ont relevé une formation insuffisante aux situations anormales, une identification des dangers qui n'avait pas reconnu le risque de basse température, et un élément organisationnel devenu un cas d'école : les ingénieurs expérimentés avaient été transférés au siège, à Melbourne, quelques années plus tôt, sans que ce changement d'organisation ait fait l'objet d'une analyse de ses effets. Les opérateurs, seuls face à une situation inhabituelle, ne disposaient plus de ceux qui savaient ce qu'un acier refroidi à cette température devient. Le sociologue Andrew Hopkins en a tiré un ouvrage de référence, *Lessons from Longford* (2000).
 
-**Ce que le cas enseigne.** Une réorganisation est une modification. Déplacer, réduire ou remplacer une équipe d'experts change la quantité de connaissance disponible là où les décisions se prennent.
+Une réorganisation est donc une modification au même titre qu'un changement d'équipement : déplacer, réduire ou remplacer une équipe d'experts change la quantité de connaissance disponible là où les décisions se prennent.
 
 ### Geismar, 2013 : le rebouilleur que les plans ne montraient pas
 
@@ -63,7 +63,7 @@ Le 13 juin 2013, dans une usine d'oléfines en Louisiane, un fractionnateur de p
 
 L'enquête du Chemical Safety Board américain a mis en évidence une chaîne de connaissances perdues. Des vannes d'isolement avaient été ajoutées en 2001 sans analyse adéquate de la modification. Les plans de tuyauterie et d'instrumentation n'avaient pas été mis à jour, si bien que l'analyse de danger suivante avait supposé les deux rebouilleurs toujours en service. Une recommandation de 2006, demandant de plomber ces vannes en position ouverte, n'avait pas été appliquée correctement. Aucune procédure spécifique n'existait pour la permutation des rebouilleurs. En fermant les vannes, l'exploitation avait isolé l'équipement de la soupape qui le protégeait.
 
-**Ce que le cas enseigne.** La connaissance existait : dans une recommandation, dans la tête de ceux qui avaient installé les vannes. Elle n'a pas atteint le plan, puis la procédure, puis l'opérateur. C'est exactement ce que la gestion des modifications et la maîtrise documentaire doivent garantir.
+La connaissance existait, dans une recommandation et dans la tête de ceux qui avaient installé les vannes. Elle n'a atteint ni le plan, ni la procédure, ni l'opérateur. La gestion des modifications et la maîtrise documentaire servent à faire ce trajet.
 
 ### Texas City, 2005 : les avertissements précédents
 
@@ -71,39 +71,35 @@ Le 23 mars 2005, lors du redémarrage d'une unité d'isomérisation d'une raffin
 
 L'enquête a relevé que le même ballon avait connu plusieurs rejets sérieux de matières inflammables au cours des dix années précédentes, sans enquête efficace ni modification. Les opérateurs avaient pris l'habitude de remplir la colonne au-delà de la plage de l'indicateur lors des démarrages. Le nombre de formateurs avait été fortement réduit et aucun superviseur expérimenté n'encadrait le démarrage.
 
-**Ce que le cas enseigne.** Un incident sans gravité est une information gratuite. Une organisation qui ne l'analyse pas paie plus tard le prix complet.
+**Ce que le cas enseigne.** Chacun des rejets précédents du ballon de purge aurait pu conduire à le raccorder à une torche ou à éloigner les bâtiments provisoires, pour le coût d'une enquête.
 
 ### Columbia, 2003 : le signal devenu habitude
 
 Le 1er février 2003, la navette Columbia se désintègre lors de sa rentrée dans l'atmosphère : un morceau de mousse isolante détaché du réservoir au décollage avait endommagé le bord d'attaque d'une aile. Les détachements de mousse avaient été observés lors de nombreux vols précédents. Faute de conséquence grave, ils avaient été progressivement classés comme un problème de maintenance plutôt que comme un danger. La commission d'enquête a conclu que les causes organisationnelles pesaient autant que la cause physique, et que l'organisation n'avait pas tiré toutes les leçons de Challenger, dix-sept ans plus tôt.
 
-**Ce que le cas enseigne.** La répétition d'un écart sans conséquence n'est pas une preuve de sécurité. C'est la normalisation de la déviance décrite par Vaughan.
+Chaque vol revenu sans dommage avait servi d'argument pour classer la mousse parmi les problèmes de maintenance : la normalisation de la déviance décrite par Vaughan, dix-sept ans après Challenger.
 
 ## Ce que nous voyons sur le terrain
 
 Ces accidents sont extrêmes. Les mêmes mécanismes se retrouvent, à une autre échelle, dans les constats quotidiens des chantiers et des audits. Les exemples qui suivent sont réels et anonymisés.
 
-### Un massif de béton n'est pas un détail
+### Des massifs coulés sans vibreur
 
 Sur un projet de lignes électriques en Afrique centrale, le maître d'œuvre a adressé à l'entreprise une lettre de non-conformité après des visites inopinées sur les chantiers d'implantation des poteaux. Il relevait l'absence de vibreur alors que le béton des massifs était gâché sur tôle ; la réalisation différée de la partie hors sol des massifs, qui doit être coulée en continuité avec la partie enterrée ; l'absence d'éprouvettes permettant de vérifier la résistance du béton ; et l'absence d'essais de convenance alors que la provenance des granulats avait changé. Le maître d'œuvre annonçait des contrôles au scléromètre et la démolition des massifs jugés insuffisants.
 
-Rien de tout cela n'était inconnu. La vibration, la continuité du bétonnage, le contrôle de la résistance sur éprouvettes et la validation d'une formulation lorsque ses constituants changent sont des exigences classiques du contrat et des normes d'exécution et de spécification du béton (EN 13670, EN 206, EN 12390). Un ingénieur expérimenté sait aussi qu'un scléromètre donne une estimation de la dureté de surface et non une résistance : en cas de doute, ce sont des carottages qui trancheront, avec le coût et le délai qu'ils impliquent. La connaissance était disponible ; elle n'était pas présente sur le chantier au moment du coulage.
+Rien de tout cela n'était inconnu. La vibration, la continuité du bétonnage, le contrôle de la résistance sur éprouvettes et la validation d'une formulation lorsque ses constituants changent sont des exigences classiques du contrat et des normes d'exécution et de spécification du béton (EN 13670, EN 206, EN 12390). Un ingénieur expérimenté sait aussi qu'un scléromètre ne donne qu'une estimation de la dureté de surface : en cas de doute, ce sont des carottages qui trancheront, avec le coût et le délai qu'ils impliquent. Tout cela était connu de l'entreprise, mais aucune personne qui le savait n'était sur le chantier au moment du coulage.
 
-### Les constats d'un audit de certification
+### Une centaine de fiches d'écart
 
-Lors d'un audit combiné qualité, environnement et santé-sécurité d'une entreprise de travaux électriques, l'auditeur a relevé plusieurs non-conformités qui, lues ensemble, racontent la même histoire :
+Sur un grand projet industriel, le maître d'ouvrage a émis une centaine de fiches d'écart à son entrepreneur, de la construction au début de l'exploitation. Le délai médian de clôture était d'environ quatre mois ; un quart des fiches est resté ouvert plus d'un an. Les plus anciennes n'étaient pas techniques : elles portaient sur des périmètres de sous-traitants et des listes de livrables qui ne correspondaient pas au contrat principal, et personne n'avait l'autorité de trancher.
 
-- l'identification des dangers ne couvrait ni les animaux sauvages ni les conditions climatiques extrêmes des chantiers, ni les déplacements ; les dangers vécus sur les chantiers précédents n'avaient pas été réinjectés dans l'analyse ;
-- la norme d'installation électrique utilisée au quotidien par les équipes n'était pas disponible dans l'entreprise, faute de veille normative ;
-- des piquets de terre livrés par un fournisseur avaient été installés sans contrôle à réception, et se sont révélés non conformes ;
-- les règles de consignation électrique n'étaient pas appliquées de manière effective sur un chantier, et la ceinture de sécurité d'un véhicule avait été volontairement neutralisée par ses utilisateurs ;
-- la veille réglementaire existait, mais l'évaluation de conformité qui devait en découler n'avait pas été faite.
+Les fiches techniques, elles, revenaient. Le bouchonnage des tuyauteries stockées a été demandé oralement, puis par écrit, puis de nouveau par écrit sur une autre zone. Des gaines de câbles abîmées au tirage n'étaient pas réparées avant le remblai. Des skids réceptionnés en usine sont arrivés avec une soudure rompue ou des manchettes cassées. Chaque fiche a été close ; la suivante s'est ouverte ailleurs, avec une autre équipe.
 
-Chacun de ces écarts a reçu une correction rapide. La question intéressante est ailleurs : pourquoi des connaissances aussi élémentaires, une norme, un contrôle à réception, une règle de consignation, n'étaient-elles pas en place ? Les analyses de causes retenues par l'entreprise convergent : processus non formalisés, responsabilités non désignées, supervision de terrain insuffisante. C'est, à petite échelle, le diagnostic de Longford et de Texas City.
+Le registre contenait la connaissance sans la faire circuler : personne ne le relisait par famille de causes, et les nouvelles équipes ne le lisaient pas du tout.
 
 ### La même cause, d'un projet à l'autre
 
-Sur des projets d'électrification d'une autre entreprise, nous avons vu des câbles souples posés à la place de câbles armés, des batteries défectueuses découvertes une fois installées, des cellules endommagées par un emballage insuffisant, un relais de protection incapable de communiquer avec la supervision à la mise en service. Quatre incidents sans rapport apparent, une seule cause : aucun contrôle avant expédition ni avant pose pour les équipements que le client n'avait pas exigé de réceptionner en usine. Les piquets de terre de l'audit précédent appartiennent à la même famille. Une leçon formulée au niveau du symptôme, « vérifier les câbles », ne protège que contre la répétition exacte du même incident. Formulée au niveau de la cause, « contrôler tout matériel critique à son arrivée, avant pose, contre les exigences du contrat », elle protège contre une famille entière.
+Sur des projets d'électrification d'une autre entreprise, nous avons vu des câbles souples posés à la place de câbles armés, des batteries défectueuses découvertes une fois installées, des cellules endommagées par un emballage insuffisant, un relais de protection incapable de communiquer avec la supervision à la mise en service. Quatre incidents sans rapport apparent, une seule cause : aucun contrôle avant expédition ni avant pose pour les équipements que le client n'avait pas exigé de réceptionner en usine. Les skids arrivés endommagés du projet précédent appartiennent à la même famille. Une leçon formulée au niveau du symptôme, « vérifier les câbles », ne protège que contre la répétition exacte du même incident. Formulée au niveau de la cause, « contrôler tout matériel critique à son arrivée, avant pose, contre les exigences du contrat », elle protège contre une famille entière.
 
 ## Pourquoi la connaissance n'arrive pas là où elle est utile
 
@@ -113,22 +109,22 @@ Les cas ci-dessus, du plus grave au plus ordinaire, révèlent cinq mécanismes 
 2. **La modification non tracée.** Un changement physique ou organisationnel n'est pas reporté dans les documents ; la connaissance suivante est fausse (Geismar).
 3. **L'incident non exploité.** Un événement sans gravité n'est ni analysé ni partagé (Texas City, Columbia).
 4. **La leçon mal formulée.** Écrite au niveau du symptôme, elle ne s'applique jamais au cas suivant (nos projets d'électrification).
-5. **L'absence au moment de l'action.** La règle existe, mais ni la personne compétente ni le contrôle ne sont présents au moment où le travail se fait (béton des massifs, consignation).
+5. **L'absence au moment de l'action.** La règle existe, mais ni la personne compétente ni le contrôle ne sont présents au moment où le travail se fait (béton des massifs, bouchonnage des tuyauteries).
 
 ![Cycle d'une leçon apprise](/assets/blog/km-cycle-lecon-apprise.svg)
 *Figure 1. Le cycle complet d'une leçon apprise, et l'endroit où il se casse le plus souvent.*
 
 ## Ce qui fait réellement apprendre une organisation
 
-Aucun de ces mécanismes ne se corrige par un logiciel. Ils se corrigent par quatre éléments que l'on retrouve dans toutes les organisations qui apprennent.
+Un logiciel de retour d'expérience ne corrige aucun de ces mécanismes à lui seul. Les organisations qui apprennent s'appuient sur les quatre éléments suivants.
 
 ### Une organisation qui sait qui sait
 
-Chaque domaine critique a un référent identifié, et toute réorganisation qui touche ces référents est traitée comme une modification, avec une analyse de ses effets. Les nouveaux arrivants travaillent en binôme avec des anciens sur les opérations sensibles. Le compagnonnage n'est pas un luxe : c'est le seul canal efficace pour le savoir tacite.
+Chaque domaine critique a un référent identifié, et toute réorganisation qui touche ces référents est traitée comme une modification, avec une analyse de ses effets. Les nouveaux arrivants travaillent en binôme avec des anciens sur les opérations sensibles. Le compagnonnage reste le seul canal efficace pour le savoir tacite.
 
 ### Un système de management qui ferme la boucle
 
-La gestion des modifications garantit que tout changement physique ou organisationnel est analysé et reporté dans les documents. La maîtrise documentaire garantit que la bonne norme et la bonne révision sont disponibles là où l'on travaille. Les actions correctives traitent les causes, en double boucle, et leur efficacité est vérifiée sur le projet suivant. Les audits internes vérifient que ces boucles tournent réellement. C'est exactement la structure qu'imposent ISO 9001, ISO 14001 et ISO 45001 ; encore faut-il la faire vivre plutôt que l'afficher.
+La gestion des modifications garantit que tout changement physique ou organisationnel est analysé et reporté dans les documents. La maîtrise documentaire garantit que la bonne norme et la bonne révision sont disponibles là où l'on travaille. Les actions correctives traitent les causes, en double boucle, et leur efficacité est vérifiée sur le projet suivant. Les audits internes vérifient que ces boucles tournent réellement. ISO 9001, ISO 14001 et ISO 45001 imposent cette structure. Sur le projet aux cent fiches d'écart, le registre existait, mais personne ne le relisait par famille de causes.
 
 ### Des experts expérimentés là où les décisions se prennent
 
@@ -162,11 +158,11 @@ Le contrôle à réception, les points d'arrêt d'un plan d'inspection, les essa
 - la part des projets ayant tenu une revue des leçons pertinentes à leur lancement ;
 - le nombre de causes racines réapparues sur un projet ultérieur.
 
-Le dernier est le plus révélateur. Une organisation qui apprend le voit baisser.
+Le dernier est le plus révélateur. Le même comptage, appliqué au registre des fiches d'écart, aurait fait ressortir le bouchonnage des tuyauteries, demandé trois fois sur deux zones.
 
-## Ce que nous retenons
+## Une mémoire faite de personnes, de documents et de contrôles
 
-Kletz avait raison : les organisations n'ont pas de mémoire propre. Elles n'ont que celle de leurs membres, de leurs documents et de leurs contrôles. Les accidents de Longford, Geismar, Texas City et Columbia ne sont pas des histoires lointaines ; leurs mécanismes se retrouvent chaque semaine sous forme d'un massif mal vibré, d'une norme introuvable, d'un piquet de terre non contrôlé. La différence entre une organisation qui subit ces écarts et une organisation qui les fait disparaître tient à quatre choses : savoir qui sait, faire tourner les boucles du système de management, garder des experts expérimentés au plus près des décisions, et contrôler avant qu'il ne soit trop tard.
+Kletz avait raison : une organisation n'a que la mémoire de ses membres, de ses documents et de ses contrôles. Les mécanismes de Longford, Geismar, Texas City et Columbia se retrouvent chaque semaine sur les chantiers, à une autre échelle : un massif mal vibré, une norme introuvable, un piquet de terre non contrôlé. Pour que ces écarts cessent de revenir, il faut identifier les référents et traiter leur départ comme une modification, relire le registre des écarts par famille de causes, garder des ingénieurs expérimentés près des décisions, et placer les points d'arrêt avant le coulage, la pose ou l'expédition.
 
 ## Références
 

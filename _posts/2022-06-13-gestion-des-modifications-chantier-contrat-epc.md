@@ -1,20 +1,20 @@
 ---
 title: "Site changes on an EPC contract: why the red line matters as much as the drawing"
-description: "Managing changes during construction of an EPC project: approved-for-construction documents, technical queries, management of change, red-line mark-ups, design change registers and as-built records. Field experience, standards and good practice."
+description: "Managing site changes on an EPC project: AFC documents, technical queries, management of change, red-line mark-ups, change registers and as-built records."
 category: Project management and contracts
 lang: en
 keywords: [site changes, management of change, MoC, technical query, TQ, red-line mark-up, red marking, as-built drawings, AFC, approved for construction, design change register, configuration management, ISO 10007, EPC contract, FIDIC, variations, claims, mechanical completion, site QA/QC, Tunisia, North Africa]
 ---
 
-> **In short.** On a construction site, approved-for-construction drawings never stay untouched. That is not a problem as long as every deviation is decided by the right person and leaves a trace. The problem starts when a change exists in the field and nowhere else. This article describes the three-level arrangement we have seen work on large EPC projects, and how it shapes mechanical completion, operations and the contract.
+On a construction site, approved-for-construction drawings never stay untouched. Deviations are manageable as long as each one is decided by the right person and leaves a trace; trouble starts when a change exists in the field and nowhere else. Below is the three-level arrangement we have seen work on large EPC projects, and its effect on mechanical completion, operations and the contract.
 
 ## The third rack
 
 A mechanical completion walkdown on a piping subsystem. The commissioning team, the contractor's supervisor and the owner's inspector follow the line on the isometric. At the third pipe rack it no longer runs where the drawing says. It climbs over a cable tray, with two extra elbows and a high point that has no vent.
 
-Someone asks who approved it. The supervisor remembers: a clash with the electrical installation, sorted out on the spot with the subcontractor. Is there a technical query, a marked-up copy? No. The decision was probably sound. It simply does not exist in any document.
+Someone asks who approved it. The supervisor remembers: a clash with the electrical installation, sorted out on the spot with the subcontractor. Is there a technical query, a marked-up copy? No. The decision was probably sound, but no document records it.
 
-The subsystem cannot be declared mechanically complete. Engineering has to check the line's flexibility, a vent has to be added, the isometric revised, the test pack reworked. Three weeks and a contractual discussion for a change that would have needed ten minutes of paperwork.
+The subsystem cannot be declared mechanically complete. Engineering has to check the line's flexibility, a vent has to be added, the isometric revised, the test pack reworked. Three weeks and a contractual discussion for a change that would have needed ten minutes of writing.
 
 ## Where changes come from
 
@@ -29,7 +29,7 @@ These changes are normal. They become dangerous when they escape control, for fo
 
 ## A three-level arrangement
 
-The site needs quick answers; the project needs control. The only way to reconcile the two is to **scale the decision route to the impact of the change**.
+The site needs quick answers and the project needs control. The arrangement reconciles the two by **scaling the decision route to the impact of the change**.
 
 | Level | Typically | Who decides | What remains |
 |---|---|---|---|
@@ -43,7 +43,7 @@ This route is reserved for anything that touches safety, the process, performanc
 
 ### Technical query
 
-This is the default route for any change to an AFC document. The site asks a written question; engineering checks design integrity, functionality and compliance with codes and standards, then replies in writing. If the reply departs from an owner standard, it goes to the owner. On the project mentioned above, every design change was also entered in a **register** kept by engineering: origin of the request, the document in which it was raised, summary, technical evaluation, the contractor's decision where there was a commercial impact, and the documents affected. The technical evaluation was explicitly separated from the commercial question. That detail is valuable: it stops a good solution being rejected because it costs money, or a bad one being accepted because it is convenient.
+This is the default route for any change to an AFC document. The site asks a written question; engineering checks design integrity, functionality and compliance with codes and standards, then replies in writing. If the reply departs from an owner standard, it goes to the owner. On the project mentioned above, every design change was also entered in a **register** kept by engineering: origin of the request, the document in which it was raised, summary, technical evaluation, the contractor's decision where there was a commercial impact, and the documents affected. The technical evaluation was explicitly separated from the commercial question, so engineering judged each solution on its technical merits before anyone discussed its cost or its convenience.
 
 ### Red-line mark-up
 
@@ -53,14 +53,14 @@ Experience shows that this step, the simplest of the three, is also the one most
 
 ### As-built records
 
-At the end of the work, mark-ups and technical query replies are incorporated into the documents by their originator or by engineering. The result, the as-built set, describes the plant as it really is. It is the document that will outlive the project longest.
+At the end of the work, mark-ups and technical query replies are incorporated into the documents by their originator or by engineering. The result, the as-built set, describes the plant as it really is. It is the set the operator receives at handover and works from afterwards.
 
 ![Decision routes for site changes](/assets/blog/site-changes-decision-routes.svg)
 *Figure 1. Choosing the route for a field change: management of change, technical query or red-line mark-up, all ending in the as-built set checked at mechanical completion.*
 
 ## The foundation: the right revision in the right place
 
-No change route works if the site is not using the right revision. Document control is not spectacular, but everything rests on it:
+No change route works if the site is not using the right revision. Every route described above depends on document control:
 
 - a register that tracks, package by package (civil, racks and piping, electrical and instrumentation, mechanical, skids, commissioning preparation), the status of each document up to AFC issue;
 - distribution to subcontractors by transmittal through the project document platform, with acknowledgement of receipt;
@@ -85,7 +85,7 @@ Rigorous change management therefore produces the evidence the contract needs: w
 
 **Write before you build.** No change without a technical query or a signed mark-up, except for a safety emergency, regularised the same day.
 
-**Grade by impact, never by urgency.** A rushed process change is still a process change.
+**Grade by impact, never by urgency.** A process change made in a hurry still goes through management of change.
 
 **Train supervisors to recognise what is not minor.** Line flexibility, vents and drains, separation distances, maintenance access, hazardous areas: these are the subjects that turn a field adjustment into an engineering question.
 
@@ -97,9 +97,9 @@ Rigorous change management therefore produces the evidence the contract needs: w
 
 **Track a few simple indicators:** open technical queries and their age, mark-ups not yet incorporated, deviations found during completion walkdowns. They announce acceptance difficulties months in advance.
 
-## To conclude
+## Back to the third rack
 
-The line that climbed over the cable tray was not a technical fault. It was a decision without a trace. On an EPC project, quality is not only about whether what is built conforms; it is about being able to prove it, document by document. A proportionate change route, applied consistently and checked at every mechanical completion, protects the plant, its future operator and the contract at the same time.
+The line that climbed over the cable tray was probably a sound solution, decided on the spot without a technical query or a mark-up. It cost three weeks at mechanical completion. On an EPC project, the contractor has to show, document by document, that what is built conforms. A proportionate change route, applied consistently and checked at every mechanical completion, protects the plant, its future operator and the contract at the same time.
 
 ## References
 

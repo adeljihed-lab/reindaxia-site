@@ -1,6 +1,6 @@
 ---
 title: "Marchés publics en Tunisie : du besoin à la clôture, ce que le décret de 2014 exige à chaque étape"
-description: "Guide pratique des marchés publics tunisiens selon le décret n° 2014-1039 : définition des besoins, modes de passation, cahiers des charges, publicité, ouverture des plis, évaluation, contrôle, garanties, prix, exécution, recours et règlement amiable. Pour les acheteurs publics comme pour les soumissionnaires."
+description: "Marchés publics tunisiens selon le décret n° 2014-1039, étape par étape : besoin, passation, cahier des charges, plis, évaluation, contrôle, exécution."
 category: Marchés publics
 keywords: [marchés publics Tunisie, décret 2014-1039, réglementation des marchés publics, TUNEPS, HAICOP, ONMP, commission de contrôle des marchés, cahier des charges, appel d'offres, appel d'offres ouvert, appel d'offres restreint, concours, appel d'offres en deux étapes, marché négocié, procédures simplifiées, commission d'ouverture des plis, évaluation des offres, offre anormalement basse, cautionnement provisoire, cautionnement définitif, prix forfaitaire, prix unitaire, recours, règlement amiable, CCRAL, assistance à maîtrise d'ouvrage]
 ---
@@ -11,16 +11,16 @@ keywords: [marchés publics Tunisie, décret 2014-1039, réglementation des marc
 
 L'acheteur avait bien travaillé : besoin défini, cahier des charges rédigé, appel d'offres lancé, offres dépouillées, rapport d'évaluation transmis à la commission de contrôle. Trois semaines plus tard, le rapport revient avec une série de questions. Pourquoi l'achat n'a-t-il pas été alloti ? Comment le délai d'exécution a-t-il été fixé, et quel effet a-t-il eu sur la concurrence ? Pourquoi seulement trois offres pour quarante dossiers retirés ? Quelle analyse justifie l'acceptabilité des prix ?
 
-Rien de tout cela n'était irrégulier. Mais rien n'était justifié par écrit. Le décret demande précisément à l'acheteur de présenter un rapport spécial répondant à ces questions. Le dossier a perdu un mois, la mobilisation de l'entreprise retenue aussi.
+Aucun de ces choix n'était irrégulier, mais aucun n'avait été justifié par écrit, alors que le décret demande à l'acheteur un rapport spécial qui réponde à ces questions. Le dossier a perdu un mois, la mobilisation de l'entreprise retenue aussi.
 
-Cette scène résume l'esprit du texte : un marché public tunisien ne se juge pas seulement à sa conformité, mais à la qualité de sa justification.
+La commission de contrôle vérifie la régularité de la procédure, mais elle lit aussi la justification écrite de chaque choix de l'acheteur.
 
 ![Parcours d'un marché public tunisien](/assets/blog/marches-publics-tunisie-parcours.svg)
 *Figure 1. Le parcours d'un marché public, du besoin à la clôture, avec les délais clés du décret n° 2014-1039.*
 
 ## 1. Les textes de référence
 
-Le socle est le **décret n° 2014-1039 du 13 mars 2014 portant réglementation des marchés publics**, modifié et complété depuis, notamment par le **décret gouvernemental n° 2018-416 du 11 mai 2018** relatif aux procédures particulières de passation, au système d'information de la commande publique et au conseil national de la commande publique. Ce dernier a, entre autres, généralisé la passation en ligne sur la plateforme **TUNEPS**.
+Le socle est le **décret n° 2014-1039 du 13 mars 2014 portant réglementation des marchés publics**, modifié et complété depuis, notamment par le **décret gouvernemental n° 2018-416 du 11 mai 2018 modifiant et complétant le décret n° 2014-1039**. Ce dernier texte a, entre autres, généralisé la passation en ligne sur la plateforme **TUNEPS**.
 
 Autour de ce socle gravitent les **cahiers des clauses administratives générales** (CCAG) par nature de marché, approuvés par arrêté, qui fixent les règles d'exécution ; les cahiers des clauses techniques générales ; et les institutions de la commande publique : la **Haute instance de la commande publique** (HAICOP), qui regroupe notamment l'**Observatoire national des marchés publics** (ONMP), la **commission supérieure de contrôle et d'audit des marchés** et le **comité de suivi et d'enquête des marchés publics**, ainsi que les commissions de contrôle départementales, régionales et internes, et le **comité consultatif de règlement amiable des litiges**.
 
@@ -34,14 +34,14 @@ La première est la **programmation**. Chaque acheteur prépare en début d'ann�
 
 La seconde est l'**interdiction du fractionnement**. Découper un besoin pour passer sous un seuil de procédure ou de contrôle est une irrégularité. L'**allotissement**, lui, est encouragé : diviser un même marché en lots soumis aux mêmes règles permet d'ouvrir la concurrence aux petites et moyennes entreprises et peut apporter des avantages techniques ou financiers. Quand l'acheteur n'allotit pas, il doit dire pourquoi.
 
-> **Notre regard.** C'est à ce stade que se joue l'essentiel. Un besoin mal défini produit un cahier des charges flou, des offres non comparables, des avenants en cours d'exécution et des litiges à la fin. Le temps passé en études préalables est le moins cher du marché.
+> **Pour les acheteurs.** Un besoin mal défini produit un cahier des charges flou, des offres non comparables, des avenants en cours d'exécution et des litiges à la fin. Quelques semaines d'études préalables coûtent beaucoup moins que ces avenants.
 
 ## 3. Choisir le cadre et le mode de passation
 
 Le décret distingue d'abord le **cadre** du marché :
 
 - le **marché ordinaire**, lorsque l'acheteur peut fixer précisément quantités, montants et délais ;
-- le **marché-cadre**, pour des besoins récurrents de même nature, avec des quantités minimale et maximale et des commandes passées par bons, sur une durée qui ne peut dépasser trois ans reconductions comprises ;
+- le **marché-cadre**, pour des besoins récurrents de même nature, avec des quantités minimale et maximale et des commandes passées par bons, sur une durée de trois ans au plus, reconductions comprises, exceptionnellement cinq ans ;
 - le **marché général** (article 17), passé par un mandataire pour le compte de plusieurs acheteurs, chacun concluant ensuite son propre marché particulier ;
 - la **centrale d'achat**, désignée par arrêté du chef du gouvernement parmi les acheteurs publics.
 
@@ -62,7 +62,7 @@ Les procédures simplifiées ne dispensent pas des principes : concurrence, éga
 
 Le marché est un dossier unique, écrit, matériel ou dématérialisé, qui comprend les cahiers des charges et l'offre (article 30). Les cahiers des charges se répartissent entre clauses administratives générales et particulières, clauses techniques générales et particulières.
 
-L'article 32 en fixe les exigences de fond : liberté d'accès à la commande publique, égalité de traitement des candidats, règles de mise en concurrence fixées à l'avance, transparence. Il interdit les spécifications orientées, et notamment la mention d'une marque ou d'un fabricant. Le cahier des charges doit aussi intégrer, lorsque c'est pertinent, des objectifs de développement durable, des considérations sociales et environnementales, et tenir compte des capacités des entreprises et bureaux d'études nationaux.
+L'article 32 en fixe les exigences de fond : liberté d'accès à la commande publique, égalité de traitement des candidats, règles de mise en concurrence fixées à l'avance, transparence, clauses non discriminatoires. L'article 31 interdit la mention d'une marque ou d'un fabricant. Le cahier des charges doit aussi intégrer, lorsque c'est pertinent, des objectifs de développement durable, des considérations sociales et environnementales, et tenir compte des capacités des entreprises et bureaux d'études nationaux.
 
 Tout candidat potentiel qui estime qu'une clause méconnaît ces principes peut saisir le comité de suivi et d'enquête **dans les dix jours** suivant la publication de l'avis, ou **cinq jours** lorsque le délai de remise des offres est réduit à quinze jours. Le comité peut suspendre la procédure si la requête paraît sérieuse et statue dans un délai de dix jours ouvrables après réception de la réponse de l'acheteur.
 
@@ -102,7 +102,7 @@ Les commissions de contrôle vérifient, **a priori**, la régularité de la mis
 
 Le rapport spécial présenté avec l'évaluation doit notamment justifier l'allotissement ou son absence, la part réservée aux petites entreprises, les variantes, la méthode d'évaluation, le délai d'exécution et son effet sur la concurrence, le mode de passation s'il n'est pas l'appel d'offres ouvert, le rapport entre dossiers retirés et offres reçues, la durée de remise des offres, la forme des prix, les questions des candidats et les réponses apportées, les prolongations éventuelles, les réserves des candidats et l'acceptabilité des prix. À la clôture, un second rapport présente les conditions d'exécution, le décompte final et les écarts avec l'estimation, les délais, pénalités et primes, et les réserves du titulaire.
 
-> **Notre regard.** Ce rapport n'est pas une formalité. Rédigé au fil de la procédure, il se constitue presque tout seul. Rédigé à la fin, il oblige à reconstituer des décisions dont personne ne se souvient. C'est là que la plupart des dossiers prennent du retard.
+> **Notre conseil.** Rédiger ce rapport pendant la procédure. Écrit à la fin, il oblige à reconstituer des décisions oubliées. Le dossier décrit en introduction a perdu un mois faute de justifications écrites.
 
 ## 9. Garanties et prix
 
@@ -120,7 +120,7 @@ En cas de différend, le **comité consultatif de règlement amiable des litiges
 
 ## Ce que nous apportons
 
-Nos ingénieurs ont préparé des offres, siégé du côté des entreprises comme de celui des maîtres d'ouvrage, et piloté l'exécution de marchés publics de travaux et de fournitures. Nous intervenons aux moments où notre expérience fait gagner du temps :
+Nos ingénieurs ont préparé des offres, siégé du côté des entreprises comme de celui des maîtres d'ouvrage, et piloté l'exécution de marchés publics de travaux et de fournitures. Nous intervenons à plusieurs moments du marché :
 
 - **pour les acheteurs** : études préalables et définition des besoins, choix du mode de passation et de l'allotissement, rédaction des cahiers des charges techniques et des critères d'évaluation, analyse des offres et rédaction des rapports destinés aux commissions de contrôle, suivi de l'exécution et préparation de la clôture ;
 - **pour les entreprises et bureaux d'études** : lecture critique du dossier d'appel d'offres et des questions à poser à temps, contrôle de conformité de l'offre avant dépôt, suivi contractuel, préparation des avenants et des réclamations ;
@@ -128,8 +128,8 @@ Nos ingénieurs ont préparé des offres, siégé du côté des entreprises comm
 
 ## Références
 
-- Décret n° 2014-1039 du 13 mars 2014, portant réglementation des marchés publics, notamment ses articles 10, 17, 30, 32, 53, 54, 56 et 155.
-- Décret gouvernemental n° 2018-416 du 11 mai 2018, relatif aux procédures particulières de passation des marchés publics, au système d'information de la commande publique et au conseil national de la commande publique.
+- Décret n° 2014-1039 du 13 mars 2014, portant réglementation des marchés publics, notamment ses articles 10, 17, 30, 31, 32, 53, 54, 56 et 155.
+- Décret gouvernemental n° 2018-416 du 11 mai 2018, modifiant et complétant le décret n° 2014-1039 du 13 mars 2014 portant réglementation des marchés publics.
 - Cahiers des clauses administratives générales applicables aux marchés publics de travaux, de fournitures et de services, approuvés par arrêtés.
 - Haute instance de la commande publique (HAICOP) et Observatoire national des marchés publics : guides et modèles de documents.
 - Plateforme TUNEPS, guides d'utilisation pour les acheteurs et les soumissionnaires.

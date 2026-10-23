@@ -1,12 +1,12 @@
 ---
 title: "FIDIC in public works: what decides the outcome before and during construction"
-description: "Field lessons from FIDIC Red Book 2017 contracts on public and lender-financed projects in North Africa and Africa: Particular Conditions that break the contract, the Engineer's duty to determine under Sub-Clause 3.7, the programme as the only fair baseline, and the DAAB as a dispute avoidance tool. With the time limits that matter and what we do on site."
+description: "Field lessons from FIDIC Red Book 2017 public works in Africa: Particular Conditions, the Engineer's determinations, the programme and the DAAB."
 category: Contracts and FIDIC
 lang: en
 keywords: [FIDIC, FIDIC Red Book 2017, Conditions of Contract for Construction, FIDIC Golden Principles, Particular Conditions, public works, lender-financed projects, World Bank, African Development Bank, Engineer, Sub-Clause 3.7, agreement or determination, programme, Sub-Clause 8.3, advance warning, Sub-Clause 8.4, DAAB, dispute avoidance, Notice of Dissatisfaction, contract management, claims, Tunisia, Morocco, Algeria, West Africa, Central Africa, North Africa, Africa]
 ---
 
-> **In short.** Public works across North Africa and sub-Saharan Africa are increasingly let on FIDIC conditions, often because a development bank requires it. On paper, the Red Book gives employer and contractor a balanced way to manage risk, time and money. On site, three things decide whether it works: Particular Conditions that respect the form, an Engineer who actually determines, and a programme and dispute board that are used while the works are running. This article draws on situations we have met on public projects and explains what we now do differently.
+> **In short.** Public works across North Africa and sub-Saharan Africa are increasingly let on FIDIC conditions, often because a development bank requires it. Whether the Red Book works on site depends on the Particular Conditions, on an Engineer who actually issues determinations, and on a programme and dispute board used while the works are running. This article draws on public projects we have worked on and describes what we now do differently.
 
 ## The contract that looked like FIDIC
 
@@ -16,7 +16,7 @@ One amendment required the Engineer to obtain the employer's written approval be
 
 Two years into construction, claims for late site access and a disputed variation had accumulated. The supervision consultant had issued no determination at all, "pending the employer's position". When the contractor's lawyer pointed out that the contractual time limits had expired, the Engineer issued eleven determinations in a month, most of them hastily assembled. Three were challenged within days; two others became binding although the employer would have contested them had anyone read them carefully. The dispute board, appointed late and visited once, then received three referrals at the same time.
 
-None of this was caused by FIDIC. All of it was caused by how the contract was drafted and run. We have seen versions of the same story in Tunisia, in West and Central Africa and on bank-financed projects elsewhere.
+Every one of these problems came from the way the contract was drafted and run, and none from the FIDIC form itself. We have seen versions of the same story in Tunisia, in West and Central Africa and on bank-financed projects elsewhere.
 
 ![Red Book project control loop](/assets/blog/fidic-red-book-control-loop.svg)
 *Figure 1. Five Red Book mechanisms working as one project control loop.*
@@ -27,7 +27,7 @@ FIDIC expects its forms to be adapted. The Contract Data fix the numbers; the Pa
 
 National procurement law does impose genuine adaptations: performance security rules, approval of contract amendments by control commissions, tax and customs provisions, language and governing law. In Tunisia, for instance, the 2014 public procurement decree requires a written amendment, approved by the competent control commission, once variations exceed the limit stated in the contract (20 % if nothing is stated). Similar rules exist across the region. These are legitimate. What breaks the contract are the amendments the law does not require: subordinating the Engineer's determinations, making payment conditional, shortening notice periods, removing the board.
 
-The Red Book itself offers the right tool for an employer's internal approval rules: Sub-Clause 3.2 allows the Particular Conditions to list specific powers for which the Engineer needs the employer's consent, such as instructing variations above a threshold, but expressly excludes agreements and determinations under Sub-Clause 3.7. A short approval period for large variations respects public finance rules; a veto on determinations destroys the contract's dispute mechanism.
+The Red Book itself offers the right tool for an employer's internal approval rules: Sub-Clause 3.2 allows the Particular Conditions to list specific powers for which the Engineer needs the employer's consent, such as instructing variations above a threshold, but expressly excludes agreements and determinations under Sub-Clause 3.7. A short approval period for large variations is compatible with public finance rules. A veto on determinations leaves the contract with no working dispute mechanism.
 
 **What we do.** When we review Particular Conditions, each amendment gets three questions: does the law or the lender require it; what problem does it actually solve; and which other sub-clauses does it affect? On the next tender for the same employer, the forty pages became eleven.
 
@@ -42,7 +42,7 @@ Under Sub-Clause 3.7, when the parties disagree, the Engineer first consults the
 | Clerical errors | Reported within 14 days, corrected within 7 | |
 | Notice of Dissatisfaction | 28 days after receiving the determination | The determination becomes final and binding |
 
-A determination is binding as soon as it is given, and an amount agreed or determined goes into the next payment certificate. It is not an opinion.
+A determination is binding as soon as it is given, and an amount agreed or determined goes into the next payment certificate. The parties must comply with it unless and until it is revised.
 
 ![Sub-Clause 3.7 clocks](/assets/blog/fidic-3-7-clocks.svg)
 *Figure 2. The 3.7 clocks and their deemed outcomes.*
@@ -55,7 +55,7 @@ On another project, the contractor's planner and the Engineer's planner each bro
 
 Sub-Clause 8.3 asks for an initial programme within 28 days of the notice of commencement, with logic, float, critical path, review periods and the timing of inspections and tests. If the Engineer says nothing within 21 days, it becomes *the Programme*; revisions are deemed accepted after 14 days. Sub-Clause 4.20 requires a monthly progress report within 7 days of month end, comparing actual and planned progress. Sub-Clause 8.4 obliges both parties and the Engineer to give **advance warning** of events that may affect cost, time or performance.
 
-**What we do.** Review the initial programme in specific terms, never by general rejection; answer each monthly report in writing; and run a short early warning register at every progress meeting. None of these is a Notice of Claim, and the 28-day claim clock still applies, but together they make claims arguable on facts rather than memories.
+**What we do.** Review the initial programme in specific terms, never by general rejection; answer each monthly report in writing; and run a short early warning register at every progress meeting. None of these is a Notice of Claim, and the 28-day claim clock still applies, but together they leave a dated written record against which each claim can be checked.
 
 ## 4. The DAAB: use it before positions harden
 
@@ -66,9 +66,9 @@ The 2017 edition replaced ad hoc dispute boards with a **standing Dispute Avoida
 
 Public employers often see the board as a cost to be cut: they cancel visits once the board is appointed, then refer several disputes together to members who barely know the project. **What we do** is recommend preparing the board during tendering (list of members in the Contract Data, fee approval in the budget), keeping the visit schedule, and putting the claims and early warning registers on the agenda of every visit.
 
-## What we take from these projects
+## Before the next FIDIC tender
 
-FIDIC contracts work when three conditions are met: Particular Conditions that adapt the form without dismantling it, an Engineer staffed and allowed to determine, and parties who use the programme and the board during the works rather than after them. Each of these depends less on legal drafting than on organisation and on experienced people: a contract team on the Engineer's side, a planner who keeps the programme true, a quality team whose records support the facts. That is where most disputes are won or avoided.
+On the water treatment plant, most of the damage was done before the contract was signed: forty pages of Particular Conditions, a dispute board nobody had budgeted for, a supervision team with no one assigned to claims. These are fixed at tender stage, at little cost. During the works, the Engineer needs a contract team that opens a file on each Notice of Claim, a planner who keeps the accepted programme up to date, and site records that can support the facts when a determination or a board decision is challenged.
 
 ## References
 
@@ -76,7 +76,7 @@ FIDIC contracts work when three conditions are met: Particular Conditions that a
 - FIDIC, *FIDIC Golden Principles*, First Edition, 2019.
 - FIDIC, *Conditions of Contract for Construction, MDB Harmonised Edition* (Pink Book), 2010.
 - Society of Construction Law, *Delay and Disruption Protocol*, Second Edition, 2017.
-- Décret n° 2014-1039 du 13 mars 2014 portant réglementation des marchés publics (Tunisia), articles 84 and 88.
+- Décret n° 2014-1039 du 13 mars 2014 portant réglementation des marchés publics (Tunisia), articles 84, 85 and 87.
 
 *This article is a general commentary and not legal advice. The wording of the FIDIC forms is protected by copyright; refer to the official FIDIC publications and to the Particular Conditions of your contract.*
 

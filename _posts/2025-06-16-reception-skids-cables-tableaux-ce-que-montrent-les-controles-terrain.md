@@ -1,12 +1,12 @@
 ---
 title: "Skids, câbles, tableaux : ce que les contrôles de terrain révèlent avant la mise en service"
-description: "Retour d'expérience de missions de réception en usine et de supervision de chantier : essais de câbles, skids de procédé et de comptage, tableaux et relais de protection, épreuves hydrauliques, conservation, scellements et soudures de chantier. Pour chaque contrôle, ce que l'on regarde, le critère qui s'applique et la décision qui en découle."
+description: "Réception en usine et supervision de chantier en photos : câbles, skids, tableaux, épreuves, scellements. Pour chaque contrôle, le critère et la décision."
 category: Inspection et FAT
 image: /assets/blog/terrain-chantier-platine-scellement.jpg
 keywords: [réception en usine, FAT, supervision de chantier, skid, skid de comptage, câbles, essai de tension, hot set, IEC 60502-1, IEC 60811, vibrations, ISO 20816-3, épaisseur de peinture, ISO 19840, ISO 12944, calorifuge, continuité de terre, ATEX, IEC 60079-14, IEC 60079-17, sécurité intrinsèque, variateur de vitesse, relais de protection, IEC 60255, épreuve hydraulique, enregistreur, ASME B31.3, prover, API MPMS, conservation, platine, scellement, calage, galvanisation, ISO 1461, soudures de chantier, ISO 8501-1, inspection, Tunisie, Afrique du Nord, Afrique]
 ---
 
-> **En bref.** Un procès-verbal de réception résume en une page des centaines de contrôles. Ce qui fait sa valeur, c'est ce qui a réellement été mesuré, avec quel instrument et contre quel critère. Cet article parcourt des photos prises lors de nos missions de réception en usine et de supervision de chantier, sur des skids de procédé et de comptage, des câbles, des tableaux et des structures. Chaque image correspond à une question précise et à une décision. Toutes ont été anonymisées.
+Un procès-verbal de réception résume en une page des centaines de contrôles. Sa valeur dépend de ce qui a réellement été mesuré, avec quel instrument et contre quel critère. Les photos qui suivent viennent de nos missions de réception en usine et de supervision de chantier, sur des skids de procédé et de comptage, des câbles, des tableaux et des structures. Chacune correspond à une question et à une décision. Toutes ont été anonymisées.
 
 ## Une boule de papier aluminium sous une platine
 
@@ -17,11 +17,11 @@ La photo n'a rien de spectaculaire. Une platine de pied de structure, galvanisé
 
 Le papier aluminium avait servi à protéger le filetage pendant le bétonnage, puis personne ne l'avait retiré. Si le mortier avait été coulé ce jour-là, la platine aurait reposé sur un vide partiel, sur un chiffon et sur des cales, au lieu de reposer sur un lit de mortier continu. La structure aurait tenu, probablement. Les vibrations, la corrosion sous la platine et le desserrage auraient fait le reste en quelques années.
 
-Ce qui a évité le problème, ce n'est pas une compétence rare. C'est un point d'arrêt inscrit dans le plan d'inspection, une personne présente au bon moment, et le réflexe de regarder sous la platine avant de signer. La suite de cet article reprend ce principe, du fabricant de câbles jusqu'au chantier.
+Le problème a été évité par trois choses simples : un point d'arrêt dans le plan d'inspection, quelqu'un sur place ce jour-là, et un coup d'œil sous la platine avant de signer. La suite de cet article reprend ce principe, du fabricant de câbles jusqu'au chantier.
 
-## À l'usine de câbles : témoigner, pas seulement recevoir des certificats
+## À l'usine de câbles : assister aux essais
 
-Une réception de câbles en usine n'a de sens que si l'on assiste aux essais qui comptent et que l'on comprend ce qu'ils démontrent.
+Une réception de câbles en usine suppose d'assister aux essais qui comptent et de comprendre ce qu'ils démontrent. Les certificats seuls ne suffisent pas.
 
 ![Pupitre d'essai de tension alternative en usine de câbles](/assets/blog/terrain-cable-essai-tension-alternative.jpg)
 *Essai de tension alternative sur touret, zone balisée. Pour un câble basse tension 0,6/1 kV, l'essai individuel prévu par l'IEC 60502-1 est de 3,5 kV pendant cinq minutes.*
@@ -31,16 +31,16 @@ L'**essai de tension** est un essai individuel : chaque longueur y passe. On vé
 ![Étuve d'allongement à chaud avec éprouvettes chargées](/assets/blog/terrain-cable-essai-hot-set.jpg)
 *Essai d'allongement à chaud (hot set) selon l'IEC 60811-507 : pour un isolant en polyéthylène réticulé, 15 minutes à 200 °C sous 20 N/cm², avec un allongement sous charge limité à 175 % et un allongement rémanent limité à 15 %.*
 
-L'**allongement à chaud** est l'essai qui dit si la réticulation de l'isolant est complète. Un défaut de réticulation ne se voit pas à l'œil et ne fait pas échouer l'essai de tension ; il se révèle des années plus tard par un isolant qui flue dans un point chaud. C'est précisément le type d'essai sur prélèvement que l'acheteur a intérêt à témoigner.
+L'**allongement à chaud** est l'essai qui dit si la réticulation de l'isolant est complète. Un défaut de réticulation ne se voit pas à l'œil et ne fait pas échouer l'essai de tension ; il se révèle des années plus tard par un isolant qui flue dans un point chaud. C'est le type d'essai sur prélèvement que l'acheteur a intérêt à témoigner.
 
 ![Essai de traction sur éprouvette d'isolant](/assets/blog/terrain-cable-essai-traction-isolant.jpg)
 *Essai de traction sur éprouvette d'isolant (IEC 60811-501). Pour le polyéthylène réticulé, l'IEC 60502-1 demande au moins 12,5 N/mm² de résistance et 200 % d'allongement à la rupture.*
 
-Pour les **essais mécaniques**, deux points font souvent la différence : le prélèvement est-il fait devant nous, sur un touret de la commande, et les dimensions de l'éprouvette sont-elles mesurées avant l'essai ? Une résistance calculée sur une section estimée n'est pas une résistance mesurée.
+Pour les **essais mécaniques**, deux points font souvent la différence : le prélèvement est-il fait devant nous, sur un touret de la commande, et les dimensions de l'éprouvette sont-elles mesurées avant l'essai ? Sans cette mesure, la résistance est calculée sur une section estimée.
 
 Nous avons détaillé ailleurs ce que la réception en usine ne garantit pas pour un câble : transport, stockage, déroulage et pose. Les essais ci-dessus n'en restent pas moins la seule occasion de vérifier la matière elle-même.
 
-## Sur le skid, en atelier : mesurer au lieu de constater
+## Sur le skid, en atelier : des mesures chiffrées
 
 Un skid de procédé ou de comptage concentre sur quelques mètres carrés de la tuyauterie, des appareils à pression, des machines tournantes, de l'instrumentation, de l'électricité et souvent du matériel pour atmosphères explosives. La réception en atelier est le dernier moment où tout est accessible.
 
@@ -62,7 +62,7 @@ Pour le **calorifuge**, la spécification fixe un recouvrement minimal des tôle
 ![Poulie crantée corrodée dans un carter galvanisé](/assets/blog/terrain-skid-poulie-corrodee.jpg)
 *Poulie crantée en acier non protégé, déjà corrodée sur les dents, dans un ensemble galvanisé destiné à l'extérieur.*
 
-Cette poulie est un exemple classique d'**incohérence de matériaux** : un ensemble galvanisé pour résister à l'extérieur, et une pièce de transmission peinte sur sa seule face visible, nue sur les dents. Avant même la mise en service, la corrosion est là. La réserve porte sur la pièce, mais la vraie question va à la revue de conception : quelles autres pièces d'achat n'ont pas suivi la spécification de protection ?
+Cette poulie est un exemple classique d'**incohérence de matériaux** : un ensemble galvanisé pour résister à l'extérieur, et une pièce de transmission peinte sur sa seule face visible, nue sur les dents. Avant même la mise en service, la corrosion est là. La réserve porte sur la pièce. La revue de conception doit ensuite chercher quelles autres pièces d'achat n'ont pas suivi la spécification de protection.
 
 ### Tuyauterie et machines tournantes
 
@@ -74,12 +74,12 @@ Les lignes de purge, de drainage et certaines lignes de procédé ont une **pent
 ![Élément filtrant présenté après rinçage de la tuyauterie](/assets/blog/terrain-skid-filtre-apres-rincage.jpg)
 *Élément filtrant démonté et présenté après la séquence de rinçage.*
 
-Après un **rinçage**, l'état du filtre provisoire ou de l'élément filtrant est la preuve la plus directe de la propreté du circuit. Le critère doit être écrit dans la procédure de rinçage (aspect, quantité de particules, ou classe de propreté pour les circuits d'huile), et le filtre doit être démonté devant le témoin. Un filtre propre présenté après coup ne démontre rien.
+Après un **rinçage**, l'état du filtre provisoire ou de l'élément filtrant est la preuve la plus directe de la propreté du circuit. Le critère doit être écrit dans la procédure de rinçage (aspect, quantité de particules, ou classe de propreté pour les circuits d'huile), et le filtre doit être démonté devant le témoin, sinon rien ne prouve qu'il sort de ce circuit.
 
 ![Mesure de vibration sur une machine tournante avec un appareil étalonné](/assets/blog/terrain-skid-mesure-vibrations.jpg)
 *Mesure de vibration globale : 2,9 mm/s efficaces, avec un appareil portant son étiquette d'étalonnage.*
 
-Une valeur de **vibration** se lit avec quatre informations : le point et la direction de mesure (palier, et non châssis), la classe de la machine, son support (rigide ou souple) et le critère contractuel. Selon l'ISO 20816-3, pour une machine de puissance moyenne sur support rigide, la frontière entre la zone B (fonctionnement prolongé acceptable) et la zone C (fonctionnement prolongé non souhaitable) se situe vers 2,8 mm/s. Les spécifications de pompes de procédé fixent souvent un seuil voisin. Une mesure à 2,9 mm/s n'est donc ni un succès ni un échec en soi : elle déclenche une vérification du point de mesure, de l'alignement et du support avant toute conclusion.
+Une valeur de **vibration** se lit avec quatre informations : le point et la direction de mesure (palier, et non châssis), la classe de la machine, son support (rigide ou souple) et le critère contractuel. Selon l'ISO 20816-3, pour une machine de puissance moyenne sur support rigide, la frontière entre la zone B (fonctionnement prolongé acceptable) et la zone C (fonctionnement prolongé non souhaitable) se situe vers 2,8 mm/s. Les spécifications de pompes de procédé fixent souvent un seuil voisin. Une mesure à 2,9 mm/s déclenche donc une vérification du point de mesure, de l'alignement et du support avant toute conclusion.
 
 ### Électricité, instrumentation et matériel Ex
 
@@ -91,7 +91,7 @@ La **continuité de terre** se mesure élément par élément : châssis, appare
 ![Raccordement dans une boîte de jonction pour atmosphère explosive](/assets/blog/terrain-skid-boite-ex-raccordement.jpg)
 *Contrôle des raccordements dans une boîte de jonction Ex : bornes, conducteurs de protection, presse-étoupes.*
 
-Dans une **boîte de jonction pour atmosphère explosive**, l'inspection détaillée au sens de l'IEC 60079-17 porte sur des points simples et souvent négligés : un conducteur par borne sauf si la borne est certifiée pour deux, aucun brin libre, presse-étoupes adaptés au câble et au mode de protection, entrées inutilisées obturées par des bouchons certifiés, couvercle et joint en état.
+Dans une **boîte de jonction pour atmosphère explosive**, l'inspection initiale détaillée, qui relève de l'IEC 60079-14 avant mise en service, porte sur des points simples et souvent négligés : un conducteur par borne sauf si la borne est certifiée pour deux, aucun brin libre, presse-étoupes adaptés au câble et au mode de protection, entrées inutilisées obturées par des bouchons certifiés, couvercle et joint en état.
 
 ![Chemins de câbles séparés pour circuits de sécurité intrinsèque](/assets/blog/terrain-chantier-chemins-cables-si.jpg)
 *Chemins de câbles repérés « IS » réservés aux câbles de sécurité intrinsèque, de couleur bleu clair, séparés des câbles de puissance.*
@@ -111,7 +111,7 @@ Pour les **entraînements**, on vérifie le jeu de paramètres chargé contre le
 ![Tableau avec relais de protection numériques en cours de paramétrage](/assets/blog/terrain-tableau-relais-protection.jpg)
 *Relais de protection numériques d'une batterie de condensateurs, raccordés au poste de paramétrage pendant les essais.*
 
-Un relais de protection numérique se livre avec un **fichier de réglage**. L'essai consiste à vérifier par injection secondaire que chaque fonction déclenche aux valeurs de l'étude de sélectivité, conformément aux méthodes de la série IEC 60255, puis à sauvegarder le fichier « tel que laissé ». Deux écarts reviennent souvent : un fichier d'usine différent de celui approuvé par l'ingénierie, et des réglages modifiés pendant les essais sans être reportés dans le dossier. Dans les deux cas, le tableau fonctionne, mais personne ne sait exactement comment il protège.
+Un relais de protection numérique se livre avec un **fichier de réglage**. L'essai consiste à vérifier par injection secondaire que chaque fonction déclenche aux valeurs de l'étude de sélectivité, conformément aux méthodes de la série IEC 60255, puis à sauvegarder le fichier « tel que laissé ». Deux écarts reviennent souvent : un fichier d'usine différent de celui approuvé par l'ingénierie, et des réglages modifiés pendant les essais sans être reportés dans le dossier. Dans les deux cas, le dossier ne décrit plus les réglages réellement chargés dans les relais.
 
 ## Épreuves et comptage : la preuve est dans l'enregistrement
 
@@ -138,7 +138,7 @@ Sur un **skid de comptage transactionnel**, l'essai porte sur la chaîne complè
 ![Manchette en acier inoxydable protégée en attente de montage](/assets/blog/terrain-conservation-bride-inox.jpg)
 *Manchette en inox protégée sur le chantier, faces de brides couvertes.*
 
-La **conservation** est rarement un sujet d'ingénierie et presque toujours une source de réserves. La procédure doit dire, par famille d'équipement, comment stocker (hors sol, à couvert, en local ventilé), comment protéger (faces de brides, extrémités de câbles, déshydratant, inhibiteur de corrosion) et à quelle fréquence inspecter. Un équipement inspecté en usine puis laissé trois mois sous la pluie n'est plus l'équipement inspecté.
+La **conservation** est une source fréquente de réserves. La procédure doit dire, par famille d'équipement, comment stocker (hors sol, à couvert, en local ventilé), comment protéger (faces de brides, extrémités de câbles, déshydratant, inhibiteur de corrosion) et à quelle fréquence inspecter. Un équipement laissé trois mois sous la pluie après son inspection en usine doit être contrôlé de nouveau avant montage.
 
 ## Sur le chantier : ce qui se voit avant d'être recouvert
 
@@ -160,17 +160,17 @@ Les **soudures de chantier** posent un problème de calendrier. Les zones laiss�
 ![Réception de charpentes et d'échelles galvanisées sur le site](/assets/blog/terrain-chantier-reception-charpente.jpg)
 *Réception sur site de charpentes, escaliers et échelles galvanisés.*
 
-À l'arrivée des **charpentes galvanisées**, on contrôle les quantités contre la liste de colisage, les déformations dues au transport et les dommages au revêtement. L'ISO 1461 limite les surfaces réparables : chaque zone au plus 10 cm², et l'ensemble au plus 0,5 % de la surface de la pièce. Au-delà, la pièce doit être regalvanisée, ce qui ne se décide pas sur une aire de stockage mais doit être prévu dans le contrat.
+À l'arrivée des **charpentes galvanisées**, on contrôle les quantités contre la liste de colisage, les déformations dues au transport et les dommages au revêtement. L'ISO 1461 limite les surfaces réparables : chaque zone au plus 10 cm², et l'ensemble au plus 0,5 % de la surface de la pièce. Au-delà, la pièce doit être regalvanisée, un cas que le contrat doit prévoir.
 
 ## Ce que ces photos ont en commun
 
-Aucune de ces situations ne demande une expertise exceptionnelle pour être détectée. Elles demandent trois choses que les projets n'ont pas toujours :
+Toutes ces situations se détectent avec des moyens ordinaires, à condition que le projet en dispose :
 
 - **un plan d'inspection** qui place les points d'arrêt aux moments où le défaut est encore visible et réparable ;
 - **un critère écrit** pour chaque contrôle, avant le contrôle, et des instruments étalonnés pour le vérifier ;
 - **une personne présente** qui sait ce qu'elle regarde et qui a l'autorité de dire « pas encore ».
 
-C'est ce qui sépare un procès-verbal signé d'une réception réelle. Le premier se rédige en une heure. La seconde se prépare dès la revue des spécifications et du plan d'inspection du fournisseur, et c'est elle qui détermine combien de réserves arriveront à la mise en service.
+La platine du début en est l'exemple : le point d'arrêt avant calage figurait dans le plan d'inspection, et quelqu'un était là pour regarder dessous. Ce travail se prépare dès la revue des spécifications et du plan d'inspection du fournisseur, et il détermine combien de réserves arriveront à la mise en service.
 
 ## Références
 

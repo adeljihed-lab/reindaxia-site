@@ -1,12 +1,12 @@
 ---
 title: "From quality plan to Performance Certificate: the end of a FIDIC contract seen by a quality engineer"
-description: "How the FIDIC Red Book 2017 links quality management (Sub-Clause 4.9), Tests on Completion (Clause 9), taking over (Clause 10) and the defects period (Clause 11): what goes wrong on real projects, the time limits that matter, and the quality engineer's toolkit for a handover that takes weeks rather than months."
+description: "FIDIC Red Book 2017 from Sub-Clause 4.9 to the Performance Certificate: tests, taking over, defects period and the time limits a quality engineer tracks."
 category: Contracts and FIDIC
 lang: en
 keywords: [FIDIC, Red Book 2017, Sub-Clause 4.9, quality management system, compliance verification, ITP, hold point, Tests on Completion, Clause 9, test programme, retesting, failure to pass tests, Clause 10, Taking-Over Certificate, taking over Sections, taking over parts, Clause 11, Defects Notification Period, DNP, remedying defects, Performance Certificate, punch list, as-built records, operation and maintenance manuals, réception provisoire, réception définitive, quality engineer, handover, Tunisia, North Africa]
 ---
 
-> **In short.** The last phase of a FIDIC contract is governed by three clauses that are often read separately: Clause 9 on Tests on Completion, Clause 10 on taking over, and Clause 11 on defects. For a quality engineer they form a single sequence: prove performance, accept the works with a controlled list of reservations, then follow those reservations and any new defects until the Performance Certificate. The 2017 edition adds firm time limits and documentary preconditions at each step. Projects that prepare this sequence from the start hand over in weeks; those that discover it at the end can take months.
+> **In short.** Clauses 9, 10 and 11 of a FIDIC contract (Tests on Completion, taking over, defects) are often read separately. For a quality engineer they form one sequence: prove performance, accept the works with a controlled list of reservations, then follow that list and any new defects until the Performance Certificate. The 2017 edition puts firm time limits and documentary preconditions on each step, and a project that prepares for them from the start hands over in weeks instead of months.
 
 ## Accepted, but not quite
 
@@ -14,13 +14,13 @@ The pumping station had passed its tests. The Engineer issued the Taking-Over Ce
 
 A year later, at the end of the Defects Notification Period, 60 items were still open. Nobody had tracked the list after the certificate was signed. The site team had demobilised, the contractor's warranty team worked from its own list, the operator from another. The Performance Certificate was delayed by eight months, the final guarantee was retained, and the pump with the borderline vibration had in the meantime damaged its bearings.
 
-The contract had all the tools needed. They were used one at a time, by different people.
+Each party kept its own list. Nobody owned the one attached to the Taking-Over Certificate.
 
 ## Before the tests: the quality system that makes taking over possible
 
 Sub-Clause 4.9, new in 2017, is where the end of the contract is really prepared. The contractor must submit a quality management system specific to the works within **28 days** of the Commencement Date (the Engineer may object; silence for 21 days is a deemed no-objection), audit it internally **at least every six months** with a report within seven days, and run a **compliance verification system** that ends with a complete set of documents proving that materials, plant and workmanship comply.
 
-On one project the works were finished and the taking-over inspection went well. Then the Engineer asked for the compliance verification documentation of the first Section. It took four months to assemble: material certificates scattered by purchase order, test results held by a laboratory subcontractor, inspection records without the drawing revision they had been checked against, hold points released by telephone. The work had been done; it could not be proved.
+On one project the works were finished and the taking-over inspection went well. Then the Engineer asked for the compliance verification documentation of the first Section. It took four months to assemble: material certificates scattered by purchase order, test results held by a laboratory subcontractor, inspection records without the drawing revision they had been checked against, hold points released by telephone. The work had been done, and the evidence existed in pieces, but nobody had kept it together.
 
 The answer is to build the dossier as the works progress: an ITP for each work type that reconciles hold, witness and review points with the contract's inspection notices (Sub-Clause 7.3) and the Engineer's 72-hour notice to attend tests (7.4); traceability on every record; non-conformities handled through the 7.5 procedure; and the dossier's completeness reported every month.
 
@@ -35,7 +35,7 @@ Under Sub-Clause 9.1, Tests on Completion are carried out after the as-built rec
 
 The contractor then gives at least **21 days'** notice of the date after which it will be ready for each test, and starts within 14 days of that date. Once the tests are passed, it submits a certified report. The Engineer has **14 days** to give notice that the results do not comply, failing which a no-objection is deemed given. When assessing the results, the Engineer must allow for the effect of any use of the works by the employer.
 
-From a quality perspective, the test programme is the moment to verify that each test has a **written procedure, a defined acceptance criterion, calibrated instruments and a record format**, and that the procedures refer to the specification and standards actually in the contract. A test without an agreed criterion is not a test; it is a demonstration.
+From a quality perspective, the test programme is the moment to verify that each test has a **written procedure, a defined acceptance criterion, calibrated instruments and a record format**, and that the procedures refer to the specification and standards actually in the contract. If the acceptance criterion is not written before the test, the result can only be discussed, not accepted.
 
 ### Delays, retests and failure
 
@@ -57,13 +57,13 @@ Sub-Clause 10.1 lists the conditions for taking over, which go beyond physical c
 - where applicable, the contractor has carried out the **training** required;
 - a Taking-Over Certificate has been issued or deemed issued.
 
-The documentary conditions are new in 2017 and, in our experience, the most frequent cause of late taking over. As-built drawings and manuals require Engineer review time, typically defined in the specification. They need to be submitted, reviewed and corrected before the contractor applies for taking over, not after.
+The documentary conditions are new in 2017 and, in our experience, the most frequent cause of late taking over. As-built drawings and manuals require Engineer review time, typically defined in the specification. They need to be submitted, reviewed and corrected before the contractor applies for taking over.
 
 ### The application and the certificate
 
 The contractor may apply by notice **no more than 14 days** before it expects the works to be complete. The Engineer then has **28 days** either to issue the certificate, stating the date of completion and listing the minor outstanding work and defects, or to reject the application with reasons, specifying what remains to be done. If the Engineer does neither and the conditions are met, the certificate is deemed issued, and the works deemed complete on the fourteenth day after the application.
 
-The phrase that matters most for quality is the one that limits the list: the outstanding work and defects must not **substantially affect the safe use** of the works for their intended purpose. That is the test to apply to every item proposed for the list, and it is very close to the logic of punch list categories used in industrial mechanical completion: an item that prevents safe use is not a reservation, it is a reason to refuse.
+The phrase that matters most for quality is the one that limits the list: the outstanding work and defects must not **substantially affect the safe use** of the works for their intended purpose. That is the test to apply to every item proposed for the list, and it is very close to the logic of punch list categories used in industrial mechanical completion: an item that prevents safe use is a reason to refuse the application and does not belong on the list.
 
 ### Sections and parts
 
@@ -94,7 +94,7 @@ Under Sub-Clause 11.9, the Engineer issues the Performance Certificate within **
 
 ## A note on Tunisian public contracts
 
-Public works contracts in Tunisia traditionally speak of *réception provisoire* and *réception définitive*, with a guarantee period between them and the release of the definitive guarantee within the time fixed by the procurement regulations. In a FIDIC-based public contract, the Taking-Over Certificate plays the role of provisional acceptance and the Performance Certificate that of final acceptance. The Particular Conditions should say so explicitly, align the Defects Notification Period with the guarantee period required by the applicable administrative conditions, and link the release of the performance security and retention money to the Performance Certificate. Two vocabularies without a correspondence table produce two sets of dates.
+Public works contracts in Tunisia traditionally speak of *réception provisoire* and *réception définitive*, with a guarantee period between them and the release of the definitive guarantee within the time fixed by the procurement regulations. In a FIDIC-based public contract, the Taking-Over Certificate plays the role of provisional acceptance and the Performance Certificate that of final acceptance. The Particular Conditions should say so explicitly, align the Defects Notification Period with the guarantee period required by the applicable administrative conditions, and link the release of the performance security and retention money to the Performance Certificate. Without that correspondence, the guarantee release and the FIDIC certificates follow separate calendars.
 
 ## The quality engineer's toolkit for the last phase
 
@@ -109,9 +109,9 @@ Public works contracts in Tunisia traditionally speak of *réception provisoire*
 
 The single list is the most important. It starts as the attachment to the Taking-Over Certificate, is shared by the Engineer, the contractor and the operator, and is closed line by line with evidence. Defects notified during the period are added to it. When it is empty and the documents are complete, the Performance Certificate follows.
 
-## Our view
+## One list, one owner
 
-Clauses 9 to 11 are where a contract becomes an asset in operation. They reward the parties that treat testing as a planned quality activity, taking over as a documented decision, and the defects period as a managed process rather than a waiting period. The pumping station in our example did not lack a good contract; it lacked one list and one owner.
+Clauses 9 to 11 cover the passage from works under construction to an asset in operation. Testing has to be planned with written criteria, taking over decided on a documented list, and the defects period run with a register and regular reviews. At the pumping station, a single list of 340 items, owned by one person and reviewed every month, would have kept the open items and the borderline pump in front of someone able to act on them before the period expired.
 
 ## References
 

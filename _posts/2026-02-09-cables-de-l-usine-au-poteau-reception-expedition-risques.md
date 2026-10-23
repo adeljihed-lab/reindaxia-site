@@ -1,13 +1,13 @@
 ---
 title: "Câbles électriques : de l'usine au poteau, tout ce qu'un essai en usine ne garantit pas"
-description: "Réception en usine, préparation à l'expédition, transport, stockage et pose des câbles BT et HTA : retour d'expérience sur deux incidents après des essais en usine conformes, normes applicables, Incoterms et points de contrôle à chaque étape."
+description: "Deux incidents sur des câbles BT et HTA reçus conformes en usine, et les contrôles à prévoir de l'expédition au stockage, à la pose et à la mise en charge."
 category: Inspection et FAT
 image: /assets/blog/cables-touret-flasque-endommage.jpg
 image_alt: "Touret de câble dont l’habillage de bois est endommagé"
 keywords: [réception câbles, essai de réception en usine, FAT câbles, inspection avant expédition, pre-dispatch inspection, touret, tambour de câble, emballage, transport, stockage, câble HTA, câble BT, câble aérien préassemblé, torsadé, NF C 33-209, IEC 60502-2, IEC 60228, IEC 60811, décharges partielles, courant admissible, facteur de correction, surcharge, Incoterms 2020, réseau de distribution, électrification, Afrique]
 ---
 
-> **En bref.** Deux lots de câbles, deux fabricants, deux réceptions en usine conformes, et pourtant des incidents quelques mois après la pose : des claquages sur un câble moyenne tension, des départs de feu sur un câble aérien basse tension. Dans le premier cas, la cause était un clou ; dans le second, un réseau exploité au-delà de ce que le câble pouvait supporter par 45 °C à l'ombre. Aucun essai en usine n'aurait pu détecter l'un ou l'autre. Cet article suit un câble depuis la salle d'essais jusqu'au poteau, et montre à chaque étape ce qu'il faut vérifier.
+> **En bref.** Deux lots de câbles de deux fabricants, reçus conformes en usine, ont connu des incidents quelques mois après la pose : claquages sur un câble moyenne tension, départs de feu sur un câble aérien basse tension. La cause était un clou dans le premier cas, un réseau exploité au-delà de la capacité du câble par 45 °C à l'ombre dans le second, et aucun essai en usine ne pouvait les détecter. Cet article suit un câble de la salle d'essais au poteau, avec les vérifications à faire à chaque étape.
 
 ## Quatre jours en usine
 
@@ -32,7 +32,7 @@ Les **essais sur prélèvement** (*sample tests*) sont réalisés sur une fracti
 
 Les **essais de type** sont réalisés une fois pour qualifier une conception. On n'en refait pas à chaque commande ; on vérifie que les certificats existent, qu'ils sont récents et qu'ils couvrent bien la construction livrée.
 
-La réception en usine apporte donc une assurance solide sur **la conformité de la fabrication**. Elle ne dit rien de ce qui arrivera au câble ensuite : le chargement, la traversée, le port, la route, le stockage, le déroulage, la pose, la mise en charge. Et c'est précisément là que nos deux câbles ont été abîmés.
+La réception en usine apporte donc une assurance solide sur **la conformité de la fabrication**. Elle ne dit rien de ce qui arrivera au câble ensuite : le chargement, la traversée, le port, la route, le stockage, le déroulage, la pose, la mise en charge. Nos deux câbles ont été abîmés au cours de ces étapes.
 
 ## Premier cas : un clou dans la gaine
 
@@ -60,9 +60,9 @@ Le fabricant a produit les photos de chargement en usine et au port, tourets int
 
 Le câble aérien basse tension a connu trois départs de feu sur des tronçons différents, quelques mois après la mise sous tension. L'analyse technique a passé en revue les causes habituelles d'échauffement d'un câble isolé : surcharge, déséquilibre entre phases, température ambiante, conditions de pose, mise à la terre et qualité intrinsèque du câble.
 
-Le calcul était sans appel. Le courant admissible d'un câble préassemblé de 3 × 70 mm² est d'un peu plus de 200 A à 30 °C. À 45 ou 50 °C, valeurs courantes en été dans la région, il faut appliquer un facteur de correction d'environ 0,82 pour une isolation en polyéthylène réticulé, ce qui ramène la capacité vers 175 à 185 A. Le courant mesuré sur les départs concernés approchait 250 A. Le câble fonctionnait donc durablement au-delà de son courant admissible, avec une température d'âme susceptible de dépasser les 90 °C que supporte l'isolant en régime permanent. Le déséquilibre des charges entre phases, qui surcharge une phase et le neutre, et une coordination imparfaite des protections en amont complétaient le tableau.
+Le calcul était sans appel. Le courant admissible d'un câble préassemblé de 3 × 70 mm² est d'un peu plus de 200 A à 30 °C. À 45 ou 50 °C, valeurs courantes en été dans la région, il faut appliquer pour une isolation en polyéthylène réticulé un facteur de correction de 0,87 à 45 °C et de 0,82 à 50 °C, ce qui ramène la capacité à environ 165 à 180 A. Le courant mesuré sur les départs concernés approchait 250 A. Le câble fonctionnait donc durablement au-delà de son courant admissible, avec une température d'âme susceptible de dépasser les 90 °C que supporte l'isolant en régime permanent. Le déséquilibre des charges entre phases, qui surcharge une phase et le neutre, et une coordination imparfaite des protections en amont complétaient le tableau.
 
-Le câble était conforme. Le réseau, lui, était exploité hors du domaine pour lequel il avait été dimensionné. L'entrepreneur a malgré tout décidé de remplacer l'ensemble du câble concerné, à ses frais, par celui d'un autre fournisseur agréé. C'était un choix de prudence et de relation avec le client, pas une reconnaissance de défaut. Il n'aurait pas suffi à lui seul : sans correction de la charge et de l'équilibrage, le nouveau câble aurait connu le même sort.
+Le câble était conforme, mais le réseau était exploité hors du domaine pour lequel il avait été dimensionné. L'entrepreneur a malgré tout décidé de remplacer l'ensemble du câble concerné, à ses frais, par celui d'un autre fournisseur agréé. C'était un choix de prudence et de relation avec le client, pas une reconnaissance de défaut. Il n'aurait pas suffi à lui seul : sans correction de la charge et de l'équilibrage, le nouveau câble aurait connu le même sort.
 
 ## Construire un protocole d'essais qui tient la route
 
@@ -75,9 +75,9 @@ Sur l'un de ces projets, le protocole d'essais avait été rédigé un mois avan
 | Câble aérien préassemblé BT | Selon NF C 33-209 | Âmes (constitution, dimensions, résistance linéique, pas de câblage), enveloppes (dimensions, caractéristiques mécaniques, allongement et rétraction à chaud), câble terminé (constitution, repérage, marquage, pas d'assemblage, étanchéité longitudinale, adhérence de la gaine du neutre, rigidité diélectrique) | Cinq échantillons par section |
 | Conducteur nu en alliage d'aluminium | Selon EN 50182 | Conducteur (état de surface, diamètre, tenue des couches, rapport et sens de câblage, nombre de fils, masse linéique), fils (diamètre, traction, allongement, résistivité, enroulement), graisse de protection (masse, point de goutte) | 10 % des tourets |
 
-Trois détails distinguent un bon protocole d'un document de forme. Il cite l'**article** de la norme et pas seulement la norme, ce qui coupe court aux discussions sur la méthode d'essai. Il fixe le **taux de prélèvement** et la règle de tirage des échantillons, choisis par l'acheteur. Et il joint les **formulaires vierges** de procès-verbal, avec la case du numéro de touret, celle de l'inspecteur et celle de la date. Le jour de la réception, chacun sait ce qu'il doit voir, mesurer et signer.
+Trois détails rendent ce protocole utile le jour de la réception. Il cite l'**article** de la norme et pas seulement la norme, ce qui coupe court aux discussions sur la méthode d'essai. Il fixe le **taux de prélèvement** et la règle de tirage des échantillons, choisis par l'acheteur. Et il joint les **formulaires vierges** de procès-verbal, avec la case du numéro de touret, celle de l'inspecteur et celle de la date. Le jour de la réception, chacun sait ce qu'il doit voir, mesurer et signer.
 
-Ce même projet montre aussi la limite de l'exercice : le protocole ne contenait pas une ligne sur l'emballage, le chargement ou l'état des tourets. Il décrivait parfaitement le câble, et ignorait tout de son voyage. C'est ce que nous ajoutons désormais systématiquement, sous la forme d'une inspection avant expédition distincte.
+Ce même projet montre aussi la limite de l'exercice : le protocole ne contenait pas une ligne sur l'emballage, le chargement ou l'état des tourets. Nous ajoutons désormais ces points dans une inspection avant expédition distincte, avec ses propres formulaires.
 
 ## Le parcours d'un câble, étape par étape
 
@@ -97,21 +97,21 @@ Ces deux histoires se retrouvent, sous des formes diverses, sur la plupart des p
 
 ## Quelques règles que l'expérience impose
 
-**Une réception en usine se prépare.** Le plan d'inspection du fabricant doit être approuvé avant les essais ; il précise pour chaque caractéristique la nature du contrôle, sa fréquence, le critère d'acceptation et l'enregistrement. Les échantillons sont choisis par l'acheteur, pas présentés par le fabricant. Les numéros des tourets prélevés figurent au procès-verbal.
+**Une réception en usine se prépare.** Le plan d'inspection du fabricant doit être approuvé avant les essais ; il précise pour chaque caractéristique la nature du contrôle, sa fréquence, le critère d'acceptation et l'enregistrement. L'acheteur tire lui-même les échantillons. Les numéros des tourets prélevés figurent au procès-verbal.
 
-**L'emballage est un livrable.** Un touret n'est pas un simple support : c'est la protection du câble pendant des semaines de transport et de stockage. Ses caractéristiques méritent une spécification, et son état une vérification lors de l'inspection avant expédition, au même titre que le câble lui-même.
+**L'emballage est un livrable.** Le touret protège le câble pendant des semaines de transport et de stockage : il mérite une ligne dans la spécification et un contrôle avant expédition, au même titre que le câble lui-même.
 
-**La réception à l'arrivée n'est pas une formalité.** C'est le seul moment où l'on peut établir contradictoirement dans quel état la marchandise a été livrée. Toute avarie doit être portée en réserve écrite, photographiée et déclarée sans délai au transporteur et à l'assureur. Selon l'Incoterm retenu, le transfert des risques a lieu au chargement à bord dans le port de départ (FOB, CFR, CIF) ou à destination (DAP, DDP) : savoir lequel s'applique, c'est savoir qui supporte une avarie de transport et qui doit l'assurer.
+**La réception à l'arrivée se fait à deux.** C'est le seul moment où l'on peut constater, contradictoirement, l'état de la livraison. Toute avarie doit être portée en réserve écrite, photographiée et déclarée sans délai au transporteur et à l'assureur. Selon l'Incoterm retenu, le transfert des risques a lieu au chargement à bord dans le port de départ (FOB, CFR, CIF) ou à destination (DAP, DDP) : savoir lequel s'applique, c'est savoir qui supporte une avarie de transport et qui doit l'assurer.
 
-**Un touret abîmé appelle une vérification avant la pose.** Contrôle visuel complet des spires extérieures et de celles en contact avec les flasques, mesure de résistance d'isolement et, en cas de doute, coupe de la longueur exposée. Le fabricant de notre premier cas recommandait par précaution d'éliminer environ 150 mètres de spires extérieures sur les tourets endommagés : la mesure paraît coûteuse, elle l'est beaucoup moins qu'un claquage en service.
+**Un touret abîmé appelle une vérification avant la pose.** Contrôle visuel complet des spires extérieures et de celles en contact avec les flasques, mesure de résistance d'isolement et, en cas de doute, coupe de la longueur exposée. Le fabricant de notre premier cas recommandait par précaution d'éliminer environ 150 mètres de spires extérieures sur les tourets endommagés. Cette longueur perdue coûte peu au regard d'un claquage en service.
 
-**Un câble se choisit pour un réseau, pas pour un catalogue.** Le courant admissible publié correspond à des conditions de référence. Température ambiante réelle, ensoleillement, regroupement, équilibrage des phases et réglage des protections doivent être intégrés dès les études, puis vérifiés lors de la mise en service et du suivi d'exploitation.
+**Un câble se dimensionne pour les conditions réelles du réseau.** Le courant admissible publié correspond à des conditions de référence. Température ambiante réelle, ensoleillement, regroupement, équilibrage des phases et réglage des protections doivent être intégrés dès les études, puis vérifiés lors de la mise en service et du suivi d'exploitation.
 
-**La traçabilité fait gagner les litiges.** Numéro de touret, longueur, date de fabrication, procès-verbaux d'essai, photos de chargement, réserves à l'arrivée, emplacement de pose : quand un incident survient, ces informations permettent de reconstituer l'histoire d'un câble en quelques heures. Sans elles, chacun défend sa version.
+**La traçabilité fait gagner les litiges.** Numéro de touret, longueur, date de fabrication, procès-verbaux d'essai, photos de chargement, réserves à l'arrivée, emplacement de pose : quand un incident survient, ces informations permettent de reconstituer l'histoire d'un câble en quelques heures. Dans notre premier cas, faute de constat à l'arrivée, la responsabilité de l'avarie est restée très difficile à établir.
 
-## Pour conclure
+## Du procès-verbal d'usine à la mise en charge
 
-Dans aucun de ces deux cas la réception en usine n'a failli. Elle a vérifié ce qu'elle pouvait vérifier. Ce qui a manqué, c'est la continuité du contrôle entre la salle d'essais et la mise en charge : un habillage de touret, une inspection à l'arrivée, une vérification avant pose, une étude de charge. L'assurance qualité d'un approvisionnement ne s'arrête pas à la signature du procès-verbal d'usine. Elle s'arrête quand le câble est posé, raccordé et exploité dans les conditions pour lesquelles il a été conçu.
+Les deux réceptions en usine étaient correctes. Les dégâts sont venus après : à la manutention dans le premier cas, à l'exploitation dans le second. Il aurait fallu un habillage de touret spécifié et contrôlé avant expédition, une inspection contradictoire à l'arrivée, une vérification des tourets abîmés avant la pose et une étude de charge tenant compte des 45 °C de l'été. Le contrôle d'un approvisionnement en câbles court donc jusqu'à la mise en charge, bien après la signature du procès-verbal d'usine.
 
 ## Références
 

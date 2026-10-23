@@ -1,11 +1,11 @@
 ---
 title: "Modifier une installation ou déroger à une règle : deux décisions qui ne doivent jamais être prises seul"
-description: "Gestion des modifications (MoC) et dérogations aux règles techniques dans l'industrie et sur les chantiers : ce qu'exigent ISO 45001, la réglementation américaine sur la sécurité des procédés et les guides du CCPS, ce qu'enseignent Flixborough, Geismar et Longford, et comment organiser un circuit simple, proportionné et vérifiable."
+description: "Gestion des modifications et dérogations : exigences d'ISO 45001 et de l'OSHA, leçons de Flixborough, Geismar et Longford, circuit simple à suivre."
 category: HSE et sécurité des procédés
 keywords: [gestion des modifications, management of change, MoC, dérogation, deviation from technical regulations, modification temporaire, revue de sécurité avant démarrage, PSSR, analyse de risques, HAZOP, ISO 45001 8.1.3, OSHA 1910.119, CCPS, Flixborough, Geismar, rebouilleur, Longford, modification organisationnelle, sécurité des procédés, Tunisie, Afrique du Nord]
 ---
 
-> **En bref.** Les installations industrielles changent sans cesse : une vanne ajoutée, un matériau remplacé, une consigne modifiée, une équipe réorganisée. Et il arrive qu'une règle technique ne puisse pas être respectée pendant un temps. Ces deux situations, la modification et la dérogation, sont à l'origine d'une part importante des accidents graves. Elles ne demandent pas des procédures lourdes, mais un réflexe : ne jamais décider seul, analyser l'effet, tracer, et revenir à la situation normale à une date fixée.
+> **En bref.** Une vanne ajoutée, un matériau remplacé, une équipe réorganisée, une règle technique qu'on ne peut pas respecter pendant quelques semaines : modifications et dérogations sont à l'origine d'une part importante des accidents graves. Le circuit qui les encadre peut rester léger. Il impose de ne jamais décider seul, d'analyser l'effet, de tracer et de revenir à la situation normale à une date fixée.
 
 ## Un tuyau provisoire
 
@@ -43,7 +43,7 @@ Les trois cas, Flixborough, Geismar et Longford, illustrent les trois familles d
 
 ## Un circuit simple et proportionné
 
-Une bonne procédure de gestion des modifications n'est pas forcément longue. Elle doit garantir cinq étapes :
+Une bonne procédure de gestion des modifications tient souvent en quelques pages. Elle doit garantir cinq étapes :
 
 1. **Identifier** qu'il s'agit d'une modification, et non d'un remplacement à l'identique. C'est le rôle de la formation et de la culture : tout le monde doit savoir reconnaître une modification.
 2. **Évaluer** ses effets, avec les bonnes compétences : procédé, matériaux, instrumentation, électricité, sécurité, exploitation. Le niveau d'analyse est proportionné au risque, d'une simple revue à une étude HAZOP.
@@ -51,11 +51,11 @@ Une bonne procédure de gestion des modifications n'est pas forcément longue. E
 4. **Mettre en œuvre** en mettant à jour les plans, les procédures, les réglages, la formation, et vérifier l'installation avant remise en service.
 5. **Clôturer** formellement, et pour une modification temporaire, revenir à la situation d'origine à la date prévue ou renouveler l'autorisation.
 
-Pour les dérogations, le circuit est plus court mais tout aussi strict : justification, analyse de risques, mesures compensatoires, autorisation par l'autorité technique responsable de la règle, date d'échéance, suivi dans un registre. Une dérogation qui n'a pas de date d'échéance est en réalité une modification non déclarée.
+Pour les dérogations, le circuit est plus court mais tout aussi strict : justification, analyse de risques, mesures compensatoires, autorisation par l'autorité technique responsable de la règle, date d'échéance, suivi dans un registre. Si l'échéance manque, la dérogation doit repasser par le circuit complet d'une modification permanente.
 
 ## Sur les chantiers aussi
 
-Ces principes ne concernent pas seulement les raffineries. Sur un chantier de lignes électriques, un changement de provenance des granulats du béton, sans nouvel essai de convenance, est une modification au sens strict : le matériau change, ses propriétés aussi. Sur un projet EPC, déplacer une tuyauterie pour éviter un chemin de câbles sans demande technique est une modification qui peut changer la flexibilité de la ligne ou supprimer un point de purge. Dans une entreprise de travaux, confier une tâche dangereuse à une équipe nouvellement constituée est une modification organisationnelle.
+Ces principes valent hors des raffineries. Sur un chantier de lignes électriques, un changement de provenance des granulats du béton, sans nouvel essai de convenance, est une modification au sens strict : le matériau change, ses propriétés aussi. Sur un projet EPC, déplacer une tuyauterie pour éviter un chemin de câbles sans demande technique est une modification qui peut changer la flexibilité de la ligne ou supprimer un point de purge. Dans une entreprise de travaux, confier une tâche dangereuse à une équipe nouvellement constituée est une modification organisationnelle.
 
 Dans tous ces cas, la question à poser est la même : qui, dans l'organisation, sait évaluer l'effet de ce changement, et l'a-t-il fait ?
 
@@ -68,9 +68,9 @@ Dans tous ces cas, la question à poser est la même : qui, dans l'organisation,
 - des analyses de risques signées par une seule personne, toujours la même ;
 - des réorganisations annoncées sans qu'aucune analyse de leurs effets sur les compétences n'ait été faite.
 
-## Ce que nous retenons
+## Avant d'approuver le prochain changement
 
-La gestion des modifications et des dérogations repose moins sur un formulaire que sur trois conditions : une culture où chacun reconnaît qu'un changement est un risque, un système de management qui oblige à tracer et à clôturer, et des experts disponibles pour évaluer ce que le demandeur ne peut pas évaluer seul. Flixborough avait un problème de conception ; il avait surtout un problème d'organisation.
+Le formulaire compte peu. Le circuit tient si chacun sur le site reconnaît qu'un changement porte un risque, si le système de management oblige à tracer et à clôturer, et si un expert est disponible pour évaluer ce que le demandeur ne peut pas évaluer seul. À Flixborough, la tuyauterie provisoire a été montée sans calcul, alors qu'aucun ingénieur mécanicien qualifié n'était en poste sur le site.
 
 ## Références
 

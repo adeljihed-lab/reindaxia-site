@@ -1,11 +1,11 @@
 ---
 title: "Essai de réception en usine (FAT) : ce qui se joue avant de signer le procès-verbal"
-description: "Préparer, témoigner et clôturer un essai de réception en usine (FAT) : procédure approuvée, critères d'acceptation chiffrés, instruments étalonnés, configuration réelle, interfaces et communications, réserves, documentation, formation et emballage. Retours d'expérience terrain et normes applicables."
+description: "Préparer, témoigner et clôturer une FAT : procédure approuvée, critères chiffrés, instruments étalonnés, interfaces, réserves et dossier avant libération."
 category: Inspection et FAT
 keywords: [FAT, essai de réception en usine, factory acceptance test, SAT, essai de réception sur site, IEC 62381, essais individuels, routine tests, IEC 62271-200, IEC 60076-1, ISO 9906, API 610, inspection d'équipements, inspection tierce partie, ISO/IEC 17020, ITP, plan d'inspection et d'essais, étalonnage, ISO/IEC 17025, liste de réserves, note de libération, release note, SCADA, relais de protection, IEC 61850, postes préfabriqués, réception d'équipements, Tunisie, Afrique du Nord, Afrique]
 ---
 
-> **En bref.** L'essai de réception en usine (FAT, *Factory Acceptance Test*) est la dernière occasion de corriger un défaut à moindre coût. Après l'expédition, chaque reprise se fait sur site, loin de l'atelier, des pièces de rechange et des spécialistes du fournisseur. Pourtant, beaucoup de FAT se résument à une visite courtoise et à une signature. Cet article décrit ce que nous vérifions pour le compte de l'acheteur, et les défauts que nous avons vus franchir la porte de l'usine faute de l'avoir fait.
+L'essai de réception en usine (FAT, *Factory Acceptance Test*) est la dernière occasion de corriger un défaut à moindre coût. Après l'expédition, chaque reprise se fait sur site, loin de l'atelier, des pièces de rechange et des spécialistes du fournisseur. Beaucoup de FAT se résument pourtant à une visite et à une signature. Voici ce que nous vérifions pour le compte de l'acheteur, et les défauts que nous avons vus quitter l'usine faute de l'avoir fait.
 
 ## Dix-huit postes, deux technologies
 
@@ -13,7 +13,7 @@ Un lot de postes de transformation préfabriqués venait de passer sa FAT. Le pr
 
 Le fournisseur avait proposé cette variante en cours de fabrication, pour des raisons d'approvisionnement. Personne ne l'avait formellement acceptée. Personne, non plus, ne l'avait vue pendant l'essai : la délégation qui s'était rendue à l'usine ne comptait aucun spécialiste de l'appareillage moyenne tension. Le client final a émis des observations, l'acceptation a été retardée de plusieurs semaines, et la discussion contractuelle a duré bien plus longtemps.
 
-Le défaut n'était pas technique. La variante était peut-être même acceptable. Ce qui manquait, c'était une procédure de modification et un témoin capable de reconnaître ce qu'il avait sous les yeux.
+La variante était peut-être acceptable. Mais personne ne l'avait demandée ni acceptée par écrit, et le témoin n'a pas vu que les cellules présentées n'étaient pas celles de la commande.
 
 ## Ce qu'est une FAT, et ce qu'elle n'est pas
 
@@ -27,9 +27,9 @@ La FAT est un ensemble d'essais réalisés chez le fabricant, en présence de l'
 | Essais d'intégration (SIT) | Site | Fonctionnement avec les autres systèmes |
 | Essais de réception sur site (SAT) | Site | Fonctionnement dans l'installation définitive |
 
-La norme IEC 62381, consacrée aux systèmes d'automatisme des industries de procédé, décrit précisément cette articulation entre FAT, essais d'intégration et SAT. Les normes de produit fixent les essais individuels : IEC 62271-200 pour l'appareillage moyenne tension sous enveloppe métallique, IEC 60076-1 pour les transformateurs de puissance, ISO 9906 ou API 610 pour les pompes centrifuges, par exemple.
+La norme IEC 62381, consacrée aux systèmes d'automatisme des industries de procédé, décrit cette articulation entre FAT, essais d'intégration et SAT. Les normes de produit fixent les essais individuels : IEC 62271-200 pour l'appareillage moyenne tension sous enveloppe métallique, IEC 60076-1 pour les transformateurs de puissance, ISO 9906 ou API 610 pour les pompes centrifuges, par exemple.
 
-La FAT ne remplace aucune de ces étapes. Elle ne qualifie pas un modèle et ne rattrape pas une fabrication mal contrôlée. Elle vérifie que **ce** produit, construit pour **ce** contrat, fait ce qu'on lui demande.
+La FAT ne remplace aucune de ces étapes. Elle ne qualifie pas un modèle et ne rattrape pas une fabrication mal contrôlée. Elle vérifie le matériel commandé contre la spécification du contrat, pas contre le catalogue du fabricant.
 
 ![Croquis de la chaîne d'essais et de la libération](/assets/blog/fat-chaine-essais.svg)
 *Figure 1. Où se place la FAT entre les essais de type et la réception sur site, et ce qui doit être réuni avant de libérer l'équipement.*
@@ -50,7 +50,7 @@ La FAT est l'aboutissement d'un plan d'inspection et d'essais (ITP). Les points 
 
 ### Les modifications closes
 
-Toute variante proposée par le fournisseur, matériau, composant, configuration, doit avoir fait l'objet d'une demande écrite et d'une acceptation formelle avant l'essai. La FAT est le moment où l'on vérifie que la configuration testée est la configuration acceptée, pas celui où l'on découvre qu'elle a changé.
+Toute variante proposée par le fournisseur, matériau, composant, configuration, doit avoir fait l'objet d'une demande écrite et d'une acceptation formelle avant l'essai. Pendant la FAT, on vérifie alors que la configuration testée est bien celle qui a été acceptée.
 
 ### Les bonnes personnes
 
@@ -68,13 +68,13 @@ L'équipement testé est celui qui sera livré : bonnes plaques signalétiques, 
 
 ### Les interfaces et les communications
 
-C'est là que nous voyons les défauts les plus coûteux. Sur un projet de réseau électrique, un relais de protection ne communiquait pas avec le système de supervision ; le défaut n'a été découvert qu'à la mise en service, et l'intégration du poste a été bloquée. Sur un autre, le câblage de l'armoire de régulation de deux batteries de condensateurs était erroné, rendant la compensation inopérante ; l'assistance du fournisseur avait été faite à distance, sans essai fonctionnel complet en usine.
+Les défauts les plus coûteux que nous voyons se trouvent aux interfaces. Sur un projet de réseau électrique, un relais de protection ne communiquait pas avec le système de supervision ; le défaut n'a été découvert qu'à la mise en service, et l'intégration du poste a été bloquée. Sur un autre, le câblage de l'armoire de régulation de deux batteries de condensateurs était erroné, rendant la compensation inopérante ; l'assistance du fournisseur avait été faite à distance, sans essai fonctionnel complet en usine.
 
 Dans les deux cas, la vérification aurait pris quelques heures sur le banc. Nous demandons désormais que la FAT inclue, chaque fois que c'est possible, un essai de communication avec une maquette ou un simulateur du système de supervision, dans le protocole retenu pour le projet (IEC 61850, Modbus ou autre), et un essai fonctionnel de chaque séquence de régulation sur des scénarios définis à l'avance.
 
 ### Les observations consignées sur place
 
-Chaque écart est noté au moment où il est constaté, avec photo et référence de l'essai, et relu avec le fournisseur avant la fin de la journée. Ce qui n'est pas écrit pendant l'essai sera discuté plus tard, sans preuve.
+Chaque écart est noté au moment où il est constaté, avec photo et référence de l'essai, et relu avec le fournisseur avant la fin de la journée. Un écart signalé de mémoire après le départ de l'usine se discute sans photo ni référence d'essai.
 
 ## Après l'essai
 
@@ -99,15 +99,15 @@ Un équipement conforme en usine peut arriver endommagé : portes de cellules d�
 
 ### Un dossier complet avant la libération
 
-Le procès-verbal signé ne suffit pas. Avant d'émettre la note de libération, l'acheteur doit disposer du dossier de fabrication : certificats matière, rapports de contrôle et d'essais, certificats d'étalonnage, liste des réserves à jour, déclarations de conformité réglementaire le cas échéant. La libération est une décision, pas une formalité.
+Le procès-verbal signé ne suffit pas. Avant d'émettre la note de libération, l'acheteur doit disposer du dossier de fabrication : certificats matière, rapports de contrôle et d'essais, certificats d'étalonnage, liste des réserves à jour, déclarations de conformité réglementaire le cas échéant. Une fois la note de libération signée, les réserves non levées partent avec le matériel.
 
 ## Et les équipements qui n'ont pas de FAT ?
 
 Beaucoup d'entreprises ne prévoient de FAT que pour les équipements où le client l'exige. Pour le reste, l'équipement arrive sur site sans contrôle préalable. Nous avons vu des câbles souples livrés à la place de câbles armés, découverts à la réception des travaux, et des batteries défectueuses découvertes une fois posées.
 
-La réponse n'est pas de multiplier les FAT. C'est un **plan de contrôle fournisseur** proportionné au risque : FAT témoignée pour les équipements critiques, revue documentaire et rapports d'essais du fabricant pour les autres, vérification des fiches techniques contre le contrat avant commande, contrôle à réception avant toute pose. Le contrôle final sur site est le maillon le plus tardif, et donc le plus cher.
+Plutôt que de multiplier les FAT, nous proposons un **plan de contrôle fournisseur** proportionné au risque : FAT témoignée pour les équipements critiques, revue documentaire et rapports d'essais du fabricant pour les autres, vérification des fiches techniques contre le contrat avant commande, contrôle à réception avant toute pose. Le contrôle final sur site est le maillon le plus tardif, et donc le plus cher.
 
-## Ce que nous retenons
+## Liste de contrôle d'une FAT
 
 | Avant l'essai | Pendant l'essai | Après l'essai |
 |---|---|---|
@@ -115,8 +115,6 @@ La réponse n'est pas de multiplier les FAT. C'est un **plan de contrôle fourni
 | ITP réalisé, modifications acceptées par écrit | Configuration réelle, logiciel et paramétrage | Documentation, logiciels et licences vérifiés |
 | Témoins compétents pour chaque technologie | Interfaces et communications testées | Formation réalisée sur l'équipement réel |
 | Plan de contrôle pour les équipements sans FAT | Écarts consignés sur place | Emballage contrôlé, dossier complet avant libération |
-
-Une FAT bien préparée prend un ou deux jours de plus qu'une FAT expédiée. Elle en fait gagner des semaines sur site.
 
 ## Références
 

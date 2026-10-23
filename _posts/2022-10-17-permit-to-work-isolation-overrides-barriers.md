@@ -1,12 +1,12 @@
 ---
 title: "Permit to work, isolation and safety-system overrides: three barriers that fail together"
-description: "Why permit-to-work, plant isolation and the control of inhibits, overrides and defeats must be managed as one system. Lessons from Piper Alpha and other documented accidents, UK HSE guidance HSG250 and HSG253, IEC 61511 bypass management, and practical audit points for oil, gas, power and industrial sites."
+description: "Why permit to work, isolation and override control must be managed as one system: Piper Alpha, HSG250, HSG253, IEC 61511 and practical audit points."
 category: HSE and process safety
 lang: en
 keywords: [permit to work, PTW, HSG250, isolation, lockout tagout, LOTO, HSG253, positive isolation, double block and bleed, inhibits, overrides, defeats, bypass, IEC 61511, safety instrumented system, shift handover, simultaneous operations, SIMOPS, Piper Alpha, Cullen report, process safety, HSE audit, oil and gas, Tunisia, North Africa]
 ---
 
-> **In short.** On most industrial sites, three procedures protect people during non-routine work: the permit to work, the isolation of plant and equipment, and the control of inhibits, overrides and defeats on safety systems. They are often written by different people, owned by different departments and audited separately. In serious accidents they tend to fail together, because each one assumes the others are working. This article explains how the three fit together, what the reference guidance says, and what we look for when we audit them on site.
+> **In short.** On most industrial sites, the permit to work, plant isolation and the control of inhibits, overrides and defeats protect people during non-routine work. They are often written, owned and audited separately, yet in serious accidents they tend to fail together, because each one assumes the others are working. We explain how they fit together, what the reference guidance says, and what we check on site.
 
 ## A pump, a missing valve, a shift change
 
@@ -36,17 +36,17 @@ The UK Health and Safety Executive's guidance HSG250 remains the most widely use
 - cross-references the isolations and any safety-system overrides the work depends on;
 - manages **simultaneous operations**, so that two permits in the same area do not create a hazard neither of them considered;
 - defines how permits are handed over at shift change, suspended and cancelled;
-- is monitored and audited, not only on paper but at the worksite.
+- is monitored and audited at the worksite as well as on paper.
 
-The last two points are where most systems fail. A permit is a communication tool before being an authorisation. If it does not reach the night shift, it protects no one.
+The last two points are where most systems fail. On Piper Alpha, the permit for the relief valve work existed; it never reached the night shift that restarted the pump.
 
 ## Isolation: proving zero energy
 
 HSG253, the HSE guidance on safe isolation of plant and equipment, sets out a hierarchy. The preferred method for hazardous fluids is **positive isolation**: physical disconnection, spades or blinds, removal of a spool. Below that comes **proven isolation** with valves, typically double block and bleed, where the bleed between two closed valves demonstrates that the barrier holds. A single closed valve is the weakest option and requires specific justification.
 
-For electrical and mechanical energy, the principle is the same: identify every source, isolate it, lock and tag it, then **verify** that there is no residual energy before work starts. The verification step is the one most often skipped. An isolation that has not been tested is an assumption.
+For electrical and mechanical energy, the principle is the same: identify every source, isolate it, lock and tag it, then **verify** that there is no residual energy before work starts. The verification step is the one most often skipped. Until someone has checked for zero energy, the isolation exists only on paper.
 
-Our audits regularly find the same weaknesses: isolation points not shown on the isolation certificate, locks without a personal key control, verification not recorded, isolations removed before all permits depending on them are closed. On a construction site recently audited, electrical lockout rules existed in writing but were not applied effectively, and the analysis of causes pointed to the usual triad: insufficient field training, insufficient supervision, procedure not integrated into daily practice.
+On the sites where we have worked, the same weaknesses come back: isolation points not shown on the isolation certificate, locks without a personal key control, verification not recorded, isolations removed before all permits depending on them are closed. On a construction site recently audited, electrical lockout rules existed in writing but were not applied effectively, and the analysis of causes pointed to insufficient field training and supervision, with a procedure that had never become part of daily practice.
 
 ## Inhibits, overrides and defeats: the invisible risk
 
@@ -60,7 +60,7 @@ In practice, a sound system has:
 - a **time limit**, with escalation if it is exceeded;
 - a **review at each shift handover** and a periodic review of long-duration defeats.
 
-The danger of an override is that it is silent. A tripped pump is visible; a disabled trip is not. The wider lesson extends beyond instrumented systems: on the same construction site, the seat belt of a site vehicle had been deliberately disabled by its users. It is the same behaviour, a safety device defeated because it is inconvenient, and it calls for the same answer: make defeats visible, controlled and exceptional.
+Everyone sees a pump that has tripped. Nobody sees a bypassed trip unless they read the register. The same blind spot appears with temporary power during commissioning. On one site, vendor teams had connected temporary supplies to several packages to run their tests, with no permit and no entry in the energisation register. Nothing happened. For a few days, though, the isolation certificates of the area described a state that no longer existed. Temporary energisation belongs in the same register as overrides: visible, authorised, time-limited.
 
 ![Permit, isolation and overrides](/assets/blog/ptw-isolation-overrides.svg)
 *Figure 1. Three procedures, one barrier: the interfaces and the shift handover are where information gets lost.*
@@ -74,7 +74,7 @@ The interfaces are where accidents happen:
 - an override applied for a test must be removed before the permit is closed, and checked at handover;
 - every shift handover reviews the three registers together.
 
-We recommend a single walk-through, at least once a month, by the area authority with a supervisor from another area, comparing the three registers with what is actually on the ground: the locks, the tags, the bypass keys, the work in progress. Discrepancies found that way are the most valuable data a site can collect.
+We recommend a single walk-through, at least once a month, by the area authority with a supervisor from another area, comparing the three registers with what is actually on the ground: the locks, the tags, the bypass keys, the work in progress. Each discrepancy found that way is logged, assigned to someone and closed like an audit finding.
 
 ## What we look for in an audit
 
@@ -87,9 +87,9 @@ We recommend a single walk-through, at least once a month, by the area authority
 | SIMOPS | Overlapping permits identified and coordinated |
 | Learning | Near misses involving these systems investigated and shared |
 
-## Our view
+## Three registers for the night shift
 
-Permit to work, isolation and override control are not paperwork. They are the means by which an organisation remembers, from one hour to the next and from one shift to the next, where the energy is and who is exposed to it. They work when they are simple, consistent with each other, used by people who understand why they exist, and checked in the field by experienced supervisors and auditors.
+The permit register, the isolation certificates and the override register tell the night shift where the energy is and who is exposed to it, from one hour to the next and from one shift to the next. If the night shift cannot read them, they have failed. They work when they are simple and consistent with each other, used by people who understand why they exist, and checked in the field by experienced supervisors and auditors.
 
 ## References
 
