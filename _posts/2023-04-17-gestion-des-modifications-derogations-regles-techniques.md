@@ -1,76 +1,96 @@
 ---
-title: "Modifier une installation ou déroger à une règle : deux décisions qui ne doivent jamais être prises seul"
-description: "Gestion des modifications et dérogations : exigences d'ISO 45001 et de l'OSHA, leçons de Flixborough, Geismar et Longford, circuit simple à suivre."
+title: "Modifications et dérogations : la vanne « sans importance » qui demande un dossier"
+description: "Gestion des modifications et des dérogations : exigences d'ISO 45001 et de l'OSHA, leçons de Flixborough, Geismar et Longford, et un circuit proportionné."
 category: HSE et sécurité des procédés
 keywords: [gestion des modifications, management of change, MoC, dérogation, deviation from technical regulations, modification temporaire, revue de sécurité avant démarrage, PSSR, analyse de risques, HAZOP, ISO 45001 8.1.3, OSHA 1910.119, CCPS, Flixborough, Geismar, rebouilleur, Longford, modification organisationnelle, sécurité des procédés, Tunisie, Afrique du Nord]
 ---
 
-> **En bref.** Une vanne ajoutée, un matériau remplacé, une équipe réorganisée, une règle technique qu'on ne peut pas respecter pendant quelques semaines : modifications et dérogations sont à l'origine d'une part importante des accidents graves. Le circuit qui les encadre peut rester léger. Il impose de ne jamais décider seul, d'analyser l'effet, de tracer et de revenir à la situation normale à une date fixée.
+« Faut-il vraiment ouvrir un dossier de modification pour ajouter une vanne d'isolement ? » La question revient dans presque chaque audit de site de procédé, posée le plus souvent par un responsable de maintenance. L'ajout doit faciliter les permutations entre deux échangeurs. Il demande une demi-journée de travaux, alors que le circuit de modification exige plusieurs signatures et une réunion d'analyse. Notre réponse est oui, et nous racontons Geismar, où des vannes de ce type, ajoutées sans analyse, ont fini par isoler un rebouilleur de sa soupape.
 
-## Un tuyau provisoire
+> **En bref.** Une modification ou une dérogation mal encadrée figure dans la chaîne causale de nombreux accidents majeurs. Le circuit peut rester léger, à condition que la personne qui propose ne soit jamais seule à décider, que l'effet sur les risques soit analysé, et que toute situation temporaire ait une date de fin suivie.
 
-Le 1er juin 1974, à Flixborough, en Angleterre, une usine de caprolactame est détruite par l'explosion d'un nuage de cyclohexane. Vingt-huit personnes meurent. Quelques semaines plus tôt, une fissure avait été découverte sur l'un des six réacteurs montés en série. Pour ne pas arrêter la production, l'équipe avait retiré le réacteur et relié les deux réacteurs voisins par une tuyauterie provisoire, coudée, supportée par des échafaudages, munie de soufflets à chaque extrémité. Aucun calcul de conception n'avait été fait ; aucun ingénieur mécanicien qualifié n'était alors en poste sur le site. Sous l'effet de la pression, l'ensemble s'est déformé et a cédé.
+## Le test du remplacement à l'identique
 
-Flixborough est devenu le cas fondateur de la gestion des modifications. Tout y est : une décision prise sous la pression de la production, une modification jugée « temporaire » et donc mineure, l'absence de l'expertise nécessaire pour en évaluer l'effet.
+La première difficulté est de reconnaître une modification. Le critère le plus sûr est négatif : tout ce qui n'est pas un **remplacement à l'identique** (même pièce, même matériau, mêmes caractéristiques) est une modification. Une vanne d'un autre fabricant avec un autre matériau de garniture, une consigne de régulation déplacée, un logiciel mis à jour, une équipe réduite d'un poste : tout cela entre dans le circuit.
 
-## Deux notions à ne pas confondre
+La dérogation est une notion voisine, qu'il faut traiter à part.
 
 | | Modification | Dérogation |
 |---|---|---|
-| **Définition** | Tout changement de l'installation, du procédé, des matériaux, des modes opératoires, de l'organisation, au-delà d'un remplacement à l'identique | Écart temporaire et autorisé à une règle technique, une norme ou une procédure, sans changer la règle elle-même |
-| **Exemple** | Ajout d'une vanne d'isolement, nouveau fournisseur de matériau, nouveau logiciel de contrôle, réduction d'effectif d'une équipe | Fonctionnement avec une inspection réglementaire différée, utilisation d'un matériau non conforme à la spécification en attendant la pièce définitive |
+| **Définition** | Changement de l'installation, du procédé, des matériaux, des modes opératoires ou de l'organisation, au-delà d'un remplacement à l'identique | Écart temporaire et autorisé à une règle technique, une norme ou une procédure, sans changer la règle |
+| **Exemple** | Ajout d'une vanne d'isolement, nouveau fournisseur de matériau, nouveau logiciel de contrôle, réduction d'effectif | Inspection réglementaire différée, matériau non conforme à la spécification en attendant la pièce définitive |
 | **Durée** | Permanente ou temporaire | Toujours temporaire, avec une date d'échéance |
 | **Question centrale** | Quel est l'effet du changement sur les risques ? | Quelles mesures compensent l'écart pendant sa durée ? |
 
-Le **remplacement à l'identique** (même pièce, même matériau, même caractéristique) n'est pas une modification. Tout le reste l'est, y compris ce qui paraît anodin. La difficulté pratique est là : ce sont les changements jugés mineurs qui échappent au circuit.
+Les changements qui échappent au circuit sont presque toujours ceux qu'on a jugés mineurs avant de les analyser. La qualification « mineure » devrait être une conclusion de l'analyse, pas son point de départ.
 
-## Ce que disent les référentiels
+## Trois accidents, trois familles de changements
 
-ISO 45001 demande à l'organisme d'établir des processus pour la mise en œuvre et la maîtrise des modifications planifiées, temporaires et permanentes, qui ont un impact sur la santé et la sécurité au travail (8.1.3), et de prendre en compte les modifications réelles ou envisagées dans l'identification des dangers (6.1.2.1). Elle cite explicitement les changements d'organisation et l'évolution des connaissances.
+**Flixborough, 1974 : la modification temporaire.** Le 1er juin 1974, une usine de caprolactame est détruite par l'explosion d'un nuage de cyclohexane. Vingt-huit personnes meurent. Quelques semaines plus tôt, une fissure avait été découverte sur l'un des six réacteurs montés en série. Pour ne pas arrêter la production, l'équipe avait retiré le réacteur et relié les deux réacteurs voisins par une tuyauterie provisoire, coudée, posée sur des échafaudages, avec un soufflet à chaque extrémité. Aucun calcul n'avait été fait, et aucun ingénieur mécanicien qualifié n'était alors en poste sur le site. Sous la pression, l'ensemble s'est déformé et a cédé.
 
-Dans l'industrie des procédés, la référence historique est la réglementation américaine sur la gestion de la sécurité des procédés (OSHA, 29 CFR 1910.119), qui exige des procédures écrites de gestion des modifications couvrant notamment la base technique du changement, son effet sur la sécurité, la mise à jour des procédures et des documents, l'information et la formation du personnel, et une **revue de sécurité avant démarrage** pour les installations nouvelles ou modifiées. Le Center for Chemical Process Safety (CCPS) a publié des lignes directrices détaillées sur la gestion des modifications, qui sont la référence la plus complète sur le sujet.
+**Geismar, 2013 : la modification physique.** Dans une usine d'oléfines en Louisiane, des vannes d'isolement avaient été ajoutées sur les rebouilleurs d'un fractionnateur sans analyse adaptée. Les plans n'avaient pas été mis à jour, si bien que l'analyse de danger suivante a raisonné sur une installation qui n'existait plus. Une recommandation demandant de bloquer ces vannes en position ouverte n'avait pas été appliquée correctement. Lors d'une permutation, le rebouilleur en attente, isolé de sa soupape, a éclaté sous la dilatation du liquide qu'il contenait. Deux morts, plus de 160 blessés.
 
-## Ce que montrent les accidents
+**Longford, 1998 : la modification organisationnelle.** Quelques années avant l'accident, les ingénieurs expérimentés du site avaient été transférés au siège, sans analyse de l'effet de ce transfert sur la capacité du site à gérer les situations anormales. Lorsqu'un échangeur s'est refroidi bien en dessous de sa température minimale de conception puis a été réchauffé, sa rupture fragile a provoqué l'explosion. Les personnes qui auraient su reconnaître le danger n'étaient plus là.
 
-**Geismar, 2013.** Dans une usine d'oléfines en Louisiane, des vannes d'isolement avaient été ajoutées sur les rebouilleurs d'un fractionnateur sans analyse adéquate de la modification. Les plans n'avaient pas été mis à jour ; l'analyse de danger suivante avait donc raisonné sur une installation qui n'existait plus. Une recommandation demandant de bloquer ces vannes en position ouverte n'avait pas été appliquée correctement. Lors d'une permutation, le rebouilleur en attente, isolé de sa soupape de protection, a éclaté sous la dilatation du liquide qu'il contenait : deux morts, plus de 160 blessés.
-
-**Longford, 1998.** La modification en cause n'était pas physique mais organisationnelle : le transfert des ingénieurs expérimentés vers le siège, quelques années avant l'accident, sans analyse de son effet sur la capacité du site à gérer les situations anormales. Lorsque la rupture fragile d'un échangeur refroidi à −42 °C s'est produite, les personnes qui auraient su reconnaître le danger n'étaient plus là.
-
-Les trois cas, Flixborough, Geismar et Longford, illustrent les trois familles de modifications : temporaire, physique, organisationnelle. Aucune n'a fait l'objet d'une analyse proportionnée à ses conséquences.
+Aucune de ces trois modifications n'avait fait l'objet d'une analyse proportionnée à ses conséquences possibles.
 
 ![Circuit d'une modification](/assets/blog/moc-circuit-trois-familles.svg)
-*Figure 1. Les cinq étapes d'une modification et les trois familles de changements illustrées par trois accidents.*
+*Figure 1. Les cinq étapes d'une modification, et les trois familles de changements illustrées par trois accidents.*
 
-## Un circuit simple et proportionné
+## Ce que les référentiels exigent
 
-Une bonne procédure de gestion des modifications tient souvent en quelques pages. Elle doit garantir cinq étapes :
+ISO 45001 demande d'établir des processus de mise en œuvre et de maîtrise des modifications planifiées, temporaires et permanentes, qui ont un impact sur la santé et la sécurité au travail (8.1.3). Elle demande aussi de prendre en compte les modifications réelles ou envisagées dans l'identification des dangers (6.1.2.1), en citant les changements d'organisation et l'évolution des connaissances. Longford entre exactement dans ce champ.
 
-1. **Identifier** qu'il s'agit d'une modification, et non d'un remplacement à l'identique. C'est le rôle de la formation et de la culture : tout le monde doit savoir reconnaître une modification.
-2. **Évaluer** ses effets, avec les bonnes compétences : procédé, matériaux, instrumentation, électricité, sécurité, exploitation. Le niveau d'analyse est proportionné au risque, d'une simple revue à une étude HAZOP.
-3. **Autoriser** au niveau approprié, par une personne qui n'est pas celle qui propose la modification.
-4. **Mettre en œuvre** en mettant à jour les plans, les procédures, les réglages, la formation, et vérifier l'installation avant remise en service.
-5. **Clôturer** formellement, et pour une modification temporaire, revenir à la situation d'origine à la date prévue ou renouveler l'autorisation.
+Dans l'industrie des procédés, la référence historique est la réglementation américaine sur la sécurité des procédés, OSHA 29 CFR 1910.119. Son paragraphe (l) exige des procédures écrites de gestion des modifications couvrant la base technique du changement, son effet sur la sécurité, la mise à jour des procédures et des documents, l'information et la formation du personnel. Son paragraphe (i) impose une **revue de sécurité avant démarrage** pour les installations nouvelles et pour les installations modifiées. Les lignes directrices du CCPS restent le guide le plus complet pour organiser le circuit.
 
-Pour les dérogations, le circuit est plus court mais tout aussi strict : justification, analyse de risques, mesures compensatoires, autorisation par l'autorité technique responsable de la règle, date d'échéance, suivi dans un registre. Si l'échéance manque, la dérogation doit repasser par le circuit complet d'une modification permanente.
+Un site tunisien n'est pas soumis à l'OSHA. Mais un site certifié ISO 45001 doit démontrer la maîtrise de ses modifications, et les cahiers des charges des exploitants pétroliers et gaziers reprennent presque toujours ces exigences.
+
+## Un circuit proportionné
+
+Une procédure de gestion des modifications tient souvent en quelques pages. Elle doit garantir cinq étapes.
+
+1. **Identifier** qu'il s'agit d'une modification. Cela relève de la formation et de l'habitude : un opérateur doit savoir dire « ce n'est pas à l'identique ».
+2. **Évaluer** les effets avec les compétences utiles : procédé, matériaux, instrumentation, électricité, sécurité, exploitation.
+3. **Autoriser** au niveau approprié, par une personne qui n'est pas celle qui propose.
+4. **Mettre en œuvre**, avec la mise à jour des plans, des procédures, des réglages et de la formation, et une vérification de l'installation avant remise en service.
+5. **Clôturer** formellement. Une modification temporaire revient à la situation d'origine à la date prévue, ou son autorisation est renouvelée.
+
+Pour éviter que le circuit ne devienne un goulot, nous proposons une grille à trois niveaux. Elle est indicative et s'adapte au site.
+
+| Niveau | Exemples | Analyse | Approbation |
+|---|---|---|---|
+| Faible | Changement de consigne dans la plage de conception, nouvelle procédure de nettoyage | Liste de contrôle par discipline | Responsable d'unité, autre que le demandeur |
+| Moyen | Ajout d'une vanne, d'un piquage, d'un instrument ; changement de matériau ; modification temporaire de plus de quelques jours | Revue « et si ? » avec procédé, maintenance et HSE ; vérification des soupapes et des plans | Autorité technique de la discipline et responsable HSE |
+| Élevé | Nouveau produit, changement de conditions opératoires hors plage, modification d'une fonction de sécurité, réorganisation touchant des postes de sécurité | HAZOP ou étude équivalente (IEC 61882), revue de sécurité avant démarrage | Direction technique du site |
+
+La vanne de l'introduction relève du niveau moyen. Pour un ajout de ce type, l'analyse prend rarement plus d'une heure. Elle aboutit souvent à une condition simple, celle qui manquait à Geismar : la vanne est condamnée en position ouverte et inscrite au registre des vannes condamnées, sauf pendant une permutation conduite par procédure.
+
+## Les dérogations : une date d'échéance ou rien
+
+Le circuit d'une dérogation est plus court mais tout aussi strict : justification, analyse de risques, mesures compensatoires, autorisation par l'autorité responsable de la règle, date d'échéance, inscription au registre. Si l'échéance ne peut pas être tenue, la dérogation repasse par le circuit complet d'une modification permanente. Une dérogation renouvelée trois fois sans analyse nouvelle est devenue une modification que personne n'a analysée.
 
 ## Sur les chantiers aussi
 
-Ces principes valent hors des raffineries. Sur un chantier de lignes électriques, un changement de provenance des granulats du béton, sans nouvel essai de convenance, est une modification au sens strict : le matériau change, ses propriétés aussi. Sur un projet EPC, déplacer une tuyauterie pour éviter un chemin de câbles sans demande technique est une modification qui peut changer la flexibilité de la ligne ou supprimer un point de purge. Dans une entreprise de travaux, confier une tâche dangereuse à une équipe nouvellement constituée est une modification organisationnelle.
+Ces principes valent hors des raffineries. Sur un chantier de lignes électriques, changer la provenance des granulats du béton sans nouvel essai de convenance est une modification : le matériau change, ses propriétés aussi. Sur un projet EPC, déplacer une tuyauterie pour éviter un chemin de câbles sans demande technique peut changer la flexibilité de la ligne ou supprimer un point de purge. Dans une entreprise de travaux, confier une tâche dangereuse à une équipe nouvellement constituée est une modification organisationnelle.
 
-Dans tous ces cas, la question à poser est la même : qui, dans l'organisation, sait évaluer l'effet de ce changement, et l'a-t-il fait ?
+La question à poser est chaque fois la même : qui, dans l'organisation, sait évaluer l'effet de ce changement, et l'a-t-il fait ?
 
-## Les signaux faibles d'un circuit qui ne fonctionne pas
+## Les signes d'un circuit qui ne fonctionne pas
 
-- des modifications réalisées sur le terrain sans dossier, découvertes lors d'une visite ou d'une réception ;
+Lors d'un audit, nous cherchons quelques indices simples :
+
+- des modifications découvertes sur le terrain, sans dossier, lors d'une visite ou d'une réception ;
 - des plans qui ne correspondent plus à l'installation ;
 - des modifications temporaires dont personne ne connaît la date de fin ;
-- un registre de dérogations dont les échéances sont dépassées ;
+- un registre de dérogations aux échéances dépassées ;
 - des analyses de risques signées par une seule personne, toujours la même ;
-- des réorganisations annoncées sans qu'aucune analyse de leurs effets sur les compétences n'ait été faite.
+- des réorganisations annoncées sans analyse de leurs effets sur les compétences.
 
-## Avant d'approuver le prochain changement
+Deux de ces indices suffisent en général à montrer que le circuit existe sur le papier sans être utilisé.
 
-Le formulaire compte peu. Le circuit tient si chacun sur le site reconnaît qu'un changement porte un risque, si le système de management oblige à tracer et à clôturer, et si un expert est disponible pour évaluer ce que le demandeur ne peut pas évaluer seul. À Flixborough, la tuyauterie provisoire a été montée sans calcul, alors qu'aucun ingénieur mécanicien qualifié n'était en poste sur le site.
+## Le registre à ouvrir en premier
+
+Sur un site existant, le premier contrôle utile prend une heure : sortir la liste des modifications temporaires et des dérogations ouvertes, et vérifier pour chacune la date d'échéance et le nom de l'approbateur. Les lignes sans échéance ou à échéance dépassée sont les premières à traiter. À Flixborough, la tuyauterie provisoire était en service depuis environ deux mois sans qu'aucun calcul ait été fait.
 
 ## Références
 

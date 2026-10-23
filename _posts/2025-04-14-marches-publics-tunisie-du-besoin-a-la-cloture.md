@@ -1,51 +1,47 @@
 ---
-title: "Marchés publics en Tunisie : du besoin à la clôture, ce que le décret de 2014 exige à chaque étape"
-description: "Marchés publics tunisiens selon le décret n° 2014-1039, étape par étape : besoin, passation, cahier des charges, plis, évaluation, contrôle, exécution."
+title: "Marchés publics en Tunisie : les étapes du décret 2014-1039 où un dossier se perd"
+description: "Du besoin à la clôture, les étapes du décret n° 2014-1039 où les acheteurs perdent des semaines et les soumissionnaires leurs offres."
 category: Marchés publics
 keywords: [marchés publics Tunisie, décret 2014-1039, réglementation des marchés publics, TUNEPS, HAICOP, ONMP, commission de contrôle des marchés, cahier des charges, appel d'offres, appel d'offres ouvert, appel d'offres restreint, concours, appel d'offres en deux étapes, marché négocié, procédures simplifiées, commission d'ouverture des plis, évaluation des offres, offre anormalement basse, cautionnement provisoire, cautionnement définitif, prix forfaitaire, prix unitaire, recours, règlement amiable, CCRAL, assistance à maîtrise d'ouvrage]
 ---
 
-> **En bref.** Le décret n° 2014-1039 du 13 mars 2014 encadre l'ensemble de la commande publique tunisienne, de la programmation annuelle des achats jusqu'à la clôture définitive du marché. Ses règles sont précises, ses délais courts et ses causes d'élimination nombreuses. Cet article suit un marché étape par étape, du point de vue de l'acheteur comme de celui du soumissionnaire, et signale à chaque fois les points où, d'expérience, les dossiers se perdent.
+Quarante dossiers d'appel d'offres retirés, trois offres reçues. L'acheteur n'y voyait rien d'anormal : le marché était technique, les candidats sérieux s'étaient présentés, l'offre la moins-disante était conforme. Il a transmis son rapport d'évaluation à la commission de contrôle. Trois semaines plus tard, le dossier est revenu avec des questions. Pourquoi ce rapport entre dossiers retirés et offres reçues ? Pourquoi l'achat n'a-t-il pas été alloti ? Comment le délai d'exécution a-t-il été fixé, et a-t-il écarté des concurrents ? Sur quelle analyse repose l'acceptabilité des prix ?
 
-## Le dossier qui revient de la commission
+Aucun choix n'était irrégulier. Aucun n'avait été justifié par écrit, alors que le décret demande précisément ces justifications dans le rapport qui accompagne l'évaluation. Le dossier a perdu un mois, et l'entreprise retenue a attendu autant pour mobiliser ses équipes.
 
-L'acheteur avait bien travaillé : besoin défini, cahier des charges rédigé, appel d'offres lancé, offres dépouillées, rapport d'évaluation transmis à la commission de contrôle. Trois semaines plus tard, le rapport revient avec une série de questions. Pourquoi l'achat n'a-t-il pas été alloti ? Comment le délai d'exécution a-t-il été fixé, et quel effet a-t-il eu sur la concurrence ? Pourquoi seulement trois offres pour quarante dossiers retirés ? Quelle analyse justifie l'acceptabilité des prix ?
-
-Aucun de ces choix n'était irrégulier, mais aucun n'avait été justifié par écrit, alors que le décret demande à l'acheteur un rapport spécial qui réponde à ces questions. Le dossier a perdu un mois, la mobilisation de l'entreprise retenue aussi.
-
-La commission de contrôle vérifie la régularité de la procédure, mais elle lit aussi la justification écrite de chaque choix de l'acheteur.
+Le décret n° 2014-1039 du 13 mars 2014 a des délais courts et de nombreuses causes d'élimination. Nous le suivons dans l'ordre d'un marché, en nous arrêtant là où, des deux côtés, les dossiers se perdent.
 
 ![Parcours d'un marché public tunisien](/assets/blog/marches-publics-tunisie-parcours.svg)
-*Figure 1. Le parcours d'un marché public, du besoin à la clôture, avec les délais clés du décret n° 2014-1039.*
+*Figure 1. Le parcours d'un marché public, du besoin à la clôture, avec les délais du décret n° 2014-1039.*
 
-## 1. Les textes de référence
+## Le cadre en quelques lignes
 
-Le socle est le **décret n° 2014-1039 du 13 mars 2014 portant réglementation des marchés publics**, modifié et complété depuis, notamment par le **décret gouvernemental n° 2018-416 du 11 mai 2018 modifiant et complétant le décret n° 2014-1039**. Ce dernier texte a, entre autres, généralisé la passation en ligne sur la plateforme **TUNEPS**.
+Le socle est le décret n° 2014-1039, modifié et complété depuis, notamment par le **décret gouvernemental n° 2018-416 du 11 mai 2018 modifiant et complétant le décret n° 2014-1039**. Ce texte a rendu obligatoire la passation en ligne sur la plateforme **TUNEPS**, selon un calendrier progressif par catégorie d'acheteurs.
 
-Autour de ce socle gravitent les **cahiers des clauses administratives générales** (CCAG) par nature de marché, approuvés par arrêté, qui fixent les règles d'exécution ; les cahiers des clauses techniques générales ; et les institutions de la commande publique : la **Haute instance de la commande publique** (HAICOP), qui regroupe notamment l'**Observatoire national des marchés publics** (ONMP), la **commission supérieure de contrôle et d'audit des marchés** et le **comité de suivi et d'enquête des marchés publics**, ainsi que les commissions de contrôle départementales, régionales et internes, et le **comité consultatif de règlement amiable des litiges**.
+L'exécution relève des cahiers des clauses administratives générales (CCAG) de chaque nature de marché, approuvés par arrêté. La **Haute instance de la commande publique** (HAICOP) regroupe notamment l'Observatoire national des marchés publics (ONMP), la commission supérieure de contrôle et d'audit des marchés et le comité de suivi et d'enquête ; s'y ajoutent les commissions de contrôle départementales, régionales et internes.
 
-Pour les marchés financés par des bailleurs internationaux, les règles du bailleur s'appliquent souvent en tout ou partie, dans les conditions prévues par l'accord de financement.
+Pour un marché financé par un bailleur international, l'accord de financement peut rendre applicables, en tout ou partie, les règles du bailleur. C'est la première chose à vérifier avant de rédiger quoi que ce soit.
 
-## 2. Définir le besoin, et le définir juste
+## Le besoin : là où se préparent les avenants
 
-L'article 10 du décret pose le principe : les prestations doivent répondre à la nature et à l'étendue des besoins, et leurs caractéristiques techniques doivent être fixées avant la mise en concurrence. Deux conséquences pratiques en découlent.
+L'article 10 demande que les prestations répondent à la nature et à l'étendue des besoins, et que leurs caractéristiques techniques soient fixées avant la mise en concurrence. En pratique, cela impose deux disciplines.
 
-La première est la **programmation**. Chaque acheteur prépare en début d'année son plan prévisionnel de passation, cohérent avec ses crédits, le transmet à la commission de contrôle compétente et le publie sur l'ONMP et sur TUNEPS au moins trente jours avant de lancer ses procédures, sauf urgence impérieuse ou impératifs de défense et de sécurité.
+La **programmation** d'abord. L'acheteur prépare en début d'année son plan prévisionnel de passation, cohérent avec ses crédits, le transmet à la commission de contrôle compétente et le publie sur l'ONMP et sur TUNEPS au moins trente jours avant de lancer ses procédures, sauf urgence impérieuse ou impératifs de défense et de sécurité. Un achat absent du plan est un achat qu'il faudra justifier.
 
-La seconde est l'**interdiction du fractionnement**. Découper un besoin pour passer sous un seuil de procédure ou de contrôle est une irrégularité. L'**allotissement**, lui, est encouragé : diviser un même marché en lots soumis aux mêmes règles permet d'ouvrir la concurrence aux petites et moyennes entreprises et peut apporter des avantages techniques ou financiers. Quand l'acheteur n'allotit pas, il doit dire pourquoi.
+Le **découpage** ensuite. Fractionner un besoin pour passer sous un seuil de procédure ou de contrôle est une irrégularité. L'allotissement est encouragé, parce qu'il ouvre la concurrence aux petites et moyennes entreprises ; quand l'acheteur n'allotit pas, il l'explique.
 
-> **Pour les acheteurs.** Un besoin mal défini produit un cahier des charges flou, des offres non comparables, des avenants en cours d'exécution et des litiges à la fin. Quelques semaines d'études préalables coûtent beaucoup moins que ces avenants.
+Un besoin mal défini ne se voit pas à la passation. Il réapparaît en exécution, sous forme d'avenants et de litiges de fin de marché. Quelques semaines d'études préalables coûtent moins.
 
-## 3. Choisir le cadre et le mode de passation
+## Le cadre et le mode de passation
 
-Le décret distingue d'abord le **cadre** du marché :
+Le décret distingue le cadre du marché :
 
-- le **marché ordinaire**, lorsque l'acheteur peut fixer précisément quantités, montants et délais ;
-- le **marché-cadre**, pour des besoins récurrents de même nature, avec des quantités minimale et maximale et des commandes passées par bons, sur une durée de trois ans au plus, reconductions comprises, exceptionnellement cinq ans ;
-- le **marché général** (article 17), passé par un mandataire pour le compte de plusieurs acheteurs, chacun concluant ensuite son propre marché particulier ;
+- le **marché ordinaire**, lorsque l'acheteur peut fixer quantités, montants et délais ;
+- le **marché-cadre**, pour des besoins récurrents de même nature, avec des quantités minimale et maximale et des commandes passées par bons, sur une durée de trois ans, exceptionnellement cinq ans ;
+- le **marché général** (article 17), passé par un mandataire pour plusieurs acheteurs, chacun concluant ensuite son marché particulier ;
 - la **centrale d'achat**, désignée par arrêté du chef du gouvernement parmi les acheteurs publics.
 
-Viennent ensuite les **modes de passation** :
+Puis le mode de passation :
 
 | Mode | Principe | Quand l'utiliser |
 |---|---|---|
@@ -56,75 +52,68 @@ Viennent ensuite les **modes de passation** :
 | Marché négocié | Négociation directe, à titre exceptionnel | Cas limitativement énumérés : exclusivité technique, urgence impérieuse imprévisible, défense et sécurité, deux appels infructueux, prestations complémentaires imprévues |
 | Procédures simplifiées | Contrôle par une commission des achats interne, sans avis préalable de la commission de contrôle | En dessous de seuils fixés par la réglementation selon la nature des prestations |
 
-Les procédures simplifiées ne dispensent pas des principes : concurrence, égalité, transparence et procédure écrite. La commission des achats compte au moins quatre membres, désignés par décision de l'acheteur.
+Tout mode autre que l'appel d'offres ouvert se justifie dans le rapport transmis à la commission. Les procédures simplifiées gardent les principes de concurrence, d'égalité, de transparence et de procédure écrite. La commission des achats compte au moins quatre membres désignés par l'acheteur.
 
-## 4. Rédiger un cahier des charges neutre et complet
+## Le cahier des charges : neutre, complet, contestable dans dix jours
 
-Le marché est un dossier unique, écrit, matériel ou dématérialisé, qui comprend les cahiers des charges et l'offre (article 30). Les cahiers des charges se répartissent entre clauses administratives générales et particulières, clauses techniques générales et particulières.
+Le marché est un dossier unique et écrit, qui réunit les cahiers des charges et l'offre (article 30). L'article 31 interdit de citer une marque ou un fabricant. L'article 32 fixe les principes de fond : liberté d'accès à la commande publique, égalité de traitement, règles de mise en concurrence fixées à l'avance, transparence, clauses non discriminatoires. Le cahier des charges intègre aussi, lorsque c'est pertinent, des objectifs de développement durable, des considérations sociales et environnementales, et tient compte des capacités des entreprises et bureaux d'études nationaux.
 
-L'article 32 en fixe les exigences de fond : liberté d'accès à la commande publique, égalité de traitement des candidats, règles de mise en concurrence fixées à l'avance, transparence, clauses non discriminatoires. L'article 31 interdit la mention d'une marque ou d'un fabricant. Le cahier des charges doit aussi intégrer, lorsque c'est pertinent, des objectifs de développement durable, des considérations sociales et environnementales, et tenir compte des capacités des entreprises et bureaux d'études nationaux.
+Copier la fiche d'un fabricant connu produit une spécification qui désigne une marque sans la nommer, contestable par tout concurrent écarté. Nous rédigeons en performances et en normes d'essai : puissance, classe de protection, norme de fabrication, essais de réception.
 
-Tout candidat potentiel qui estime qu'une clause méconnaît ces principes peut saisir le comité de suivi et d'enquête **dans les dix jours** suivant la publication de l'avis, ou **cinq jours** lorsque le délai de remise des offres est réduit à quinze jours. Le comité peut suspendre la procédure si la requête paraît sérieuse et statue dans un délai de dix jours ouvrables après réception de la réponse de l'acheteur.
+Un candidat potentiel qui estime qu'une clause méconnaît ces principes peut saisir le comité de suivi et d'enquête **dans les dix jours** suivant la publication de l'avis, ou **cinq jours** lorsque le délai de remise des offres est réduit à quinze jours. Le comité peut suspendre la procédure si la requête paraît sérieuse, et statue dans les dix jours ouvrables suivant la réponse de l'acheteur. Pour l'acheteur, une clause discutable peut donc geler l'appel d'offres avant même la remise des offres.
 
-Le dossier d'appel d'offres comprend aussi la soumission, le bordereau des prix, le détail estimatif, le sous-détail des prix unitaires et, le cas échéant, les plans.
+Le dossier comprend aussi la soumission, le bordereau des prix, le détail estimatif, le sous-détail des prix unitaires et, le cas échéant, les plans.
 
-## 5. Publicité, délais et remise des offres
+## Remise et ouverture des plis : les éliminations sans appel
 
-Selon l'article 53, l'avis d'appel d'offres est publié **au moins trente jours** avant la date limite de réception des offres. Ce délai peut être ramené à **quinze jours** en cas d'urgence justifiée, à titre exceptionnel. L'avis précise l'objet, le lieu de consultation du dossier, la date et le lieu de remise des offres, la séance d'ouverture, le délai de validité des offres et les justificatifs exigés.
+L'avis est publié **au moins trente jours** avant la date limite de réception des offres (article 53), délai réductible à **quinze jours** en cas d'urgence justifiée, à titre exceptionnel. L'article 54 encadre la **validité des offres** entre soixante et cent vingt jours. Les offres technique et financière sont placées dans deux plis séparés et scellés, eux-mêmes réunis dans un pli extérieur avec le cautionnement provisoire et les pièces administratives. En procédure dématérialisée, tout passe par TUNEPS.
 
-L'article 54 encadre la **validité des offres** entre soixante et cent vingt jours. Les offres sont remises sous trois enveloppes : l'offre technique et l'offre financière dans deux plis séparés et scellés, réunis dans un pli extérieur avec le cautionnement provisoire et les pièces administratives. En procédure dématérialisée, la remise passe obligatoirement par TUNEPS.
+L'article 56 fixe les pièces administratives : cautionnement provisoire, attestation de situation fiscale, attestation d'affiliation à un régime de sécurité sociale, attestation de non-faillite, extrait du registre du commerce, déclaration sur l'honneur de non-influence et, pour certains marchés, déclaration de non-appartenance récente à l'administration acheteuse. Une pièce manquante peut être régularisée dans un délai complémentaire. L'absence de cautionnement provisoire entraîne l'élimination.
 
-Les pièces administratives exigées par l'article 56 sont : le **cautionnement provisoire**, l'attestation de situation fiscale, l'attestation d'affiliation à un régime de sécurité sociale, l'attestation de non-faillite, l'extrait du registre du commerce, une déclaration sur l'honneur de non-influence et, pour certains marchés, une déclaration de non-appartenance récente à l'administration acheteuse. Une pièce manquante peut être régularisée dans un délai complémentaire ; **l'absence de cautionnement provisoire, elle, entraîne l'élimination automatique.**
+La commission d'ouverture des plis, de trois membres, siège en séance publique le jour de la date limite. Elle vérifie les plis et les pièces, lit les noms, montants et rabais, et ne juge pas les offres. Elle élimine d'office :
 
-## 6. L'ouverture des plis
+- les offres arrivées hors délai ;
+- les offres sans cautionnement provisoire ;
+- les offres dont la soumission manque, n'est pas chiffrée ou pas signée ;
+- pour les marchés à prix unitaires, les offres sans bordereau des prix ou sans détail estimatif.
 
-Chaque acheteur dispose d'une **commission permanente d'ouverture des plis** de trois membres. La séance est publique sauf exception de sécurité, et se tient le jour même de la date limite de remise. La commission vérifie le nombre et la date d'arrivée des plis, la présence des pièces, lit à haute voix les noms et les montants de la soumission, ainsi que les rabais. Elle ne juge pas les offres.
+Nous avons vu d'excellentes offres techniques écartées en séance pour une soumission non signée ou une garantie arrivée à expiration. La parade est banale : une liste de contrôle des pièces, relue par une seconde personne la veille du dépôt, avec la date d'expiration de la garantie comparée à la durée de validité de l'offre.
 
-Sont éliminées d'office les offres arrivées hors délai, celles sans cautionnement provisoire, et celles dont la soumission manque, n'est pas chiffrée ou pas signée ; pour les marchés à prix unitaires, l'absence de bordereau des prix ou de détail estimatif a le même effet. Tout est consigné au procès-verbal.
+## L'évaluation : le moins-disant conforme, sauf exceptions
 
-> **Pour les soumissionnaires.** Nous avons vu d'excellentes offres techniques écartées en séance pour une soumission non signée ou une garantie bancaire expirée. Une liste de contrôle des pièces, relue par une seconde personne la veille du dépôt, évite ces pertes absurdes.
+La commission d'évaluation travaille en principe en deux temps. Elle vérifie les pièces et les offres financières, corrige les erreurs matérielles et classe les offres par prix croissant. Puis elle examine la conformité technique de l'offre la moins-disante : conforme, elle est proposée ; non conforme, on passe à la suivante.
 
-## 7. L'évaluation des offres
+Pour les fournitures importantes à caractère technique spécifique, l'attribution peut reposer sur un rapport qualité-coût, selon une méthode annoncée dans le cahier des charges dès la publication.
 
-La **commission d'évaluation**, désignée par l'acheteur, procède en principe en deux temps. Elle vérifie les pièces et les offres financières, corrige les erreurs matérielles et classe les offres par prix croissant. Elle examine ensuite la conformité technique de l'offre la moins-disante : si elle est conforme, le marché lui est proposé ; sinon, on passe à la suivante.
+Trois situations reviennent dans les dossiers que nous relisons :
 
-Pour les fournitures importantes à caractère technique spécifique, l'attribution peut reposer sur un rapport **qualité-coût**, selon la méthode annoncée dans le cahier des charges : pondération de notes techniques et financières, valorisation financière des notes techniques ou toute autre règle adaptée.
-
-Trois situations particulières méritent attention :
-
-- l'**offre anormalement basse** est écartée après demande écrite de justifications et examen de celles-ci ; l'acheteur en informe le ministre chargé du commerce ;
+- l'**offre anormalement basse** n'est écartée qu'après demande écrite de justifications et examen de celles-ci ; l'acheteur en informe le ministre chargé du commerce ;
 - la **négociation des prix** est interdite à l'acheteur ; seule la commission de contrôle peut autoriser la négociation de certains prix excessifs dans une offre globalement acceptable ;
 - l'**égalité** entre les meilleures offres conduit à demander de nouvelles offres financières, et l'**entente** entre candidats à déclarer l'appel d'offres infructueux, après avis de la commission de contrôle.
 
-## 8. Le contrôle
+## Le contrôle : écrire le rapport pendant la procédure
 
-Les commissions de contrôle vérifient, **a priori**, la régularité de la mise en concurrence et de l'attribution, mais aussi l'opportunité du marché, l'estimation des coûts, le financement et les conditions d'exécution. L'article 155 interdit de leur soumettre des dossiers à titre de régularisation.
+Les commissions de contrôle vérifient a priori la régularité de la mise en concurrence et de l'attribution, mais aussi l'opportunité du marché, l'estimation des coûts, le financement et les conditions d'exécution. L'article 155 interdit de leur soumettre un dossier à titre de régularisation.
 
-Le rapport spécial présenté avec l'évaluation doit notamment justifier l'allotissement ou son absence, la part réservée aux petites entreprises, les variantes, la méthode d'évaluation, le délai d'exécution et son effet sur la concurrence, le mode de passation s'il n'est pas l'appel d'offres ouvert, le rapport entre dossiers retirés et offres reçues, la durée de remise des offres, la forme des prix, les questions des candidats et les réponses apportées, les prolongations éventuelles, les réserves des candidats et l'acceptabilité des prix. À la clôture, un second rapport présente les conditions d'exécution, le décompte final et les écarts avec l'estimation, les délais, pénalités et primes, et les réserves du titulaire.
+Le rapport spécial qui accompagne l'évaluation doit notamment justifier l'allotissement ou son absence, la part réservée aux petites entreprises, les variantes, la méthode d'évaluation, le délai d'exécution et son effet sur la concurrence, le mode de passation s'il n'est pas l'appel d'offres ouvert, le rapport entre dossiers retirés et offres reçues, la durée de remise des offres, la forme des prix, les questions des candidats et les réponses, les prolongations, les réserves des candidats et l'acceptabilité des prix.
 
-> **Notre conseil.** Rédiger ce rapport pendant la procédure. Écrit à la fin, il oblige à reconstituer des décisions oubliées. Le dossier décrit en introduction a perdu un mois faute de justifications écrites.
+Chacun de ces points correspond à une décision prise à un moment précis de la procédure. Nous conseillons d'ouvrir le rapport le jour où l'on rédige le cahier des charges, et d'y noter chaque décision avec sa raison au moment où elle est prise. Écrit à la fin, il oblige à reconstituer des choix dont personne ne se souvient. À la clôture, un second rapport présente les conditions d'exécution, le décompte final et les écarts avec l'estimation, les délais, pénalités et primes, et les réserves du titulaire.
 
-## 9. Garanties et prix
+## Garanties et prix
 
-Le **cautionnement provisoire** garantit le sérieux de l'offre. Il est compris entre 0,5 % et 1,5 % du montant estimé, ou fixé forfaitairement ; les bureaux d'études en sont dispensés. Il est restitué aux candidats non retenus et, pour le titulaire, après constitution du cautionnement définitif.
+Le **cautionnement provisoire** est compris entre 0,5 % et 1,5 % du montant estimé, ou fixé forfaitairement ; les bureaux d'études en sont dispensés. Il est restitué aux candidats non retenus et, pour le titulaire, après constitution du cautionnement définitif.
 
-Le **cautionnement définitif** est constitué dans les **vingt jours** suivant la notification. Il ne dépasse pas 3 % du montant initial, augmenté le cas échéant des avenants, ou 10 % lorsque le marché prévoit un délai de garantie sans retenue de garantie. Il peut être mobilisé pour les pénalités, en cas de résiliation aux torts du titulaire ou de retard, et est restitué au plus tard quatre mois après la réception ou la fin du délai de garantie.
+Le **cautionnement définitif** est constitué dans les **vingt jours** suivant la notification. Il ne dépasse pas 3 % du montant initial augmenté des avenants, ou 10 % lorsque le marché prévoit un délai de garantie sans retenue de garantie. Il peut servir à couvrir les pénalités, une résiliation aux torts du titulaire ou un retard, et il est restitué au plus tard quatre mois après la réception ou la fin du délai de garantie.
 
-Les **prix** sont forfaitaires, unitaires ou mixtes. Au forfait, les quantités sont aux risques du titulaire ; aux prix unitaires, le paiement suit les quantités réellement exécutées, et l'acheteur doit analyser la cohérence des prix unitaires. Un prix ferme n'évolue qu'en cas de force majeure ou de variation des quantités au-delà des limites contractuelles, par avenant. Lorsque plus de cent vingt jours séparent la remise de l'offre financière de la notification ou de l'ordre de commencer, l'offre peut être actualisée.
+Les **prix** sont forfaitaires, unitaires ou mixtes. Au forfait, les quantités sont aux risques du titulaire. Aux prix unitaires, le paiement suit les quantités exécutées, et l'acheteur analyse la cohérence des prix unitaires dès l'évaluation : un prix anormalement bas sur un poste dont les quantités vont gonfler coûtera cher au titulaire, puis à l'acheteur en réclamations. Un prix ferme n'évolue qu'en cas de force majeure ou de variation des quantités au-delà des limites contractuelles, par avenant. Lorsque plus de cent vingt jours séparent la remise de l'offre financière de la notification ou de l'ordre de commencer, l'offre peut être actualisée.
 
-## 10. Exécution, paiements, litiges et clôture
+## Exécution, litiges et clôture
 
-L'exécution relève du CCAG applicable et du cahier des clauses administratives particulières : ordre de service, avance, acomptes conditionnés à l'exécution, avenants, pénalités, réceptions provisoire et définitive. La **clôture définitive** arrête le montant final du marché et fait l'objet du rapport de clôture évoqué plus haut.
+L'exécution suit le CCAG et le cahier des clauses administratives particulières, de l'ordre de service aux réceptions provisoire et définitive. La clôture définitive arrête le montant final. En cas de différend, le comité consultatif de règlement amiable des litiges peut être saisi avant tout recours contentieux. Les demandes qui aboutissent vite sont celles qui arrivent avec leurs pièces : ordres de service, attachements, procès-verbaux, correspondance datée. Une demande fondée sur des souvenirs revient avec des questions, comme le rapport de l'introduction.
 
-En cas de différend, le **comité consultatif de règlement amiable des litiges** peut être saisi pour proposer une solution avant tout recours contentieux. Une demande documentée, appuyée sur les ordres de service, les attachements, les procès-verbaux et la correspondance, a toutes les chances d'aboutir plus vite qu'un contentieux.
+## Avant de transmettre un dossier à la commission
 
-## Ce que nous apportons
-
-Nos ingénieurs ont préparé des offres, siégé du côté des entreprises comme de celui des maîtres d'ouvrage, et piloté l'exécution de marchés publics de travaux et de fournitures. Nous intervenons à plusieurs moments du marché :
-
-- **pour les acheteurs** : études préalables et définition des besoins, choix du mode de passation et de l'allotissement, rédaction des cahiers des charges techniques et des critères d'évaluation, analyse des offres et rédaction des rapports destinés aux commissions de contrôle, suivi de l'exécution et préparation de la clôture ;
-- **pour les entreprises et bureaux d'études** : lecture critique du dossier d'appel d'offres et des questions à poser à temps, contrôle de conformité de l'offre avant dépôt, suivi contractuel, préparation des avenants et des réclamations ;
-- **pour les équipes** : notre formation intra-entreprise « Marchés publics en Tunisie : de l'offre à l'exécution », construite sur les cas réels de vos services.
+Pour l'acheteur, nous relisons quatre points avant tout envoi : le besoin est-il au plan prévisionnel, l'allotissement est-il justifié, le délai d'exécution est-il expliqué, l'acceptabilité des prix repose-t-elle sur une estimation écrite ? Pour le soumissionnaire, la relecture porte sur la soumission signée et chiffrée, la garantie valable au-delà de la validité de l'offre, le bordereau et le détail estimatif présents, et les questions posées avant la date limite.
 
 ## Références
 

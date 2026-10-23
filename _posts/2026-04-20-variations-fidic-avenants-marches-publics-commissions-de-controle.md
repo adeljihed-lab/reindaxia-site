@@ -1,45 +1,43 @@
 ---
-title: "Variations, avenants et réclamations FIDIC dans les marchés publics : ne pas laisser le chantier en avance sur le contrat"
-description: "Faire concorder les variations FIDIC (Clause 13), les avenants des marchés publics et les commissions de contrôle, et tenir les délais de réclamation."
+title: "Variation FIDIC et avenant public : deux horloges à caler avant d'instruire les travaux"
+description: "Comment faire concorder la Clause 13 FIDIC, les avenants et les commissions de contrôle des marchés publics, et tenir les délais de réclamation."
 category: Contrats et FIDIC
 keywords: [FIDIC, Red Book 2017, Clause 13, variation, demande de proposition, Clause 20, réclamation, Notice of Claim, avis de réclamation, 28 jours, 84 jours, forclusion, registre des réclamations, avenant, marchés publics, commission de contrôle, bailleurs de fonds, Tunisie, décret 2014-1039, Afrique du Nord, Afrique de l'Ouest, Afrique centrale, contract management]
 ---
 
-Le FIDIC permet à l'Engineer d'ordonner une variation à tout moment avant la réception, et à l'entrepreneur d'être payé sans passer par la procédure de réclamation. Les codes des marchés publics, en Tunisie comme dans la plupart des pays de la région, exigent un avenant pour toute modification des conditions du marché, souvent après avis d'une commission de contrôle. Tout ce qui n'est pas une variation relève de la procédure de réclamation, avec des délais stricts. Sur un chantier public financé en FIDIC, ces trois procédures se croisent, et un mauvais calendrier laisse des travaux exécutés que l'acheteur ne peut pas payer ou des droits perdus faute d'avis.
+Un vendredi, l'étude géotechnique d'exécution d'un projet routier tombe : le talus prévu en déblai simple ne tiendra pas. Il faut un mur de soutènement. Personne ne discute la solution technique. L'Engineer peut l'instruire dès le lundi, et la Clause 13 du contrat FIDIC le lui permet. La vraie décision de ce week-end est ailleurs : le cumul des modifications approche déjà la limite fixée au marché, et au-delà, le maître d'ouvrage public ne peut payer qu'après un avenant visé par une commission de contrôle. Sur ce projet, le mur a été instruit sans que personne ne lance l'avenant. Il a été construit en dix semaines. L'entrepreneur a été payé près d'un an plus tard, et une réclamation pour frais financiers s'est ajoutée au dossier.
 
-## Le mur de soutènement
+Chacun avait suivi sa procédure. Le problème venait de leur calendrier.
 
-Sur un projet routier, l'étude géotechnique d'exécution a révélé qu'un talus prévu en déblai simple ne tiendrait pas. L'Engineer a instruit un mur de soutènement, ce que la Clause 13 lui permettait. L'entrepreneur a construit le mur en dix semaines, transmis ses éléments de valorisation, et l'Engineer a déterminé un prix.
+## Première horloge : la Clause 13 du Red Book
 
-Restait à le payer. Le montant cumulé des modifications dépassait déjà le seuil prévu au marché ; il fallait un avenant. Le dossier d'avenant a été préparé quatre mois après l'achèvement du mur, transmis à la commission de contrôle, renvoyé pour compléments, puis approuvé. L'entrepreneur a attendu près d'un an pour être payé d'un ouvrage que tout le monde jugeait nécessaire, et une réclamation pour frais financiers s'est ajoutée au dossier.
+Selon la sous-clause 13.1 du Red Book 2017, l'Engineer peut initier une variation à tout moment avant le certificat de réception des ouvrages. L'entrepreneur est tenu de l'exécuter, sauf s'il notifie promptement, avec justifications, que les travaux modifiés étaient imprévisibles au regard de la nature des ouvrages, qu'il ne peut pas se procurer aisément les fournitures nécessaires, ou que la variation compromet ses obligations de santé, de sécurité ou d'environnement. L'Engineer annule, confirme ou modifie alors l'instruction.
 
-L'Engineer, la commission et l'entrepreneur ont chacun suivi leur procédure. Aucune ne tenait compte des délais des deux autres.
+Une variation peut porter sur les quantités, les caractéristiques, les cotes et implantations, des travaux supplémentaires ou l'ordre d'exécution. Elle ne peut pas retirer des travaux pour les confier au maître d'ouvrage ou à un autre entrepreneur sans accord des parties. De son côté, l'entrepreneur ne modifie aucun ouvrage permanent sans instruction.
 
-## Ce que dit le FIDIC
+La sous-clause 13.3 ouvre deux voies, et le choix entre elles règle une bonne part du problème.
 
-Selon la sous-clause 13.1 du Red Book 2017, l'Engineer peut initier une variation à tout moment avant l'émission du certificat de réception des ouvrages. L'entrepreneur est tenu de l'exécuter, sauf s'il notifie promptement, avec justifications, que les travaux modifiés étaient imprévisibles au regard de la nature des ouvrages décrits, qu'il ne peut pas se procurer aisément les fournitures nécessaires, ou que la variation compromet le respect de ses obligations en matière de santé, de sécurité ou de protection de l'environnement ; l'Engineer annule, confirme ou modifie alors l'instruction. Une variation peut porter sur les quantités, les caractéristiques, les cotes et implantations, des travaux supplémentaires ou l'ordre d'exécution, mais ne peut pas consister à retirer des travaux pour les confier au maître d'ouvrage ou à un autre entrepreneur, sauf accord des parties. Symétriquement, l'entrepreneur ne doit apporter aucune modification aux ouvrages permanents tant qu'une variation n'a pas été instruite.
+- **Variation par instruction** (13.3.1). L'Engineer décrit la modification ; l'entrepreneur l'exécute et remet dans les **28 jours** une description, un programme et une proposition de prix évaluée selon la Clause 12. L'Engineer procède selon la sous-clause 3.7. L'ajustement et la prolongation de délai sont dus **sans passer par la procédure de réclamation** de la Clause 20. Les travaux démarrent avant que le prix soit connu.
+- **Variation par demande de proposition** (13.3.2). L'Engineer demande d'abord une proposition ; l'entrepreneur la remet ou explique pourquoi il ne peut pas s'y conformer ; l'Engineer l'accepte ou la refuse, puis instruit. Si la proposition est refusée, son coût de préparation peut être réclamé. Le prix est connu avant les travaux.
 
-La sous-clause 13.3 propose deux voies :
+La Clause 12 fixe l'évaluation : prix du bordereau s'ils s'appliquent ; nouveaux prix lorsque les quantités varient au-delà des seuils qu'elle fixe ou qu'aucun prix ne convient, dérivés des prix existants ou, à défaut, du coût raisonnable augmenté de la marge des Contract Data.
 
-- **la variation par instruction** (13.3.1) : l'Engineer décrit la modification par avis ; l'entrepreneur l'exécute et remet, dans les **28 jours**, une description des travaux, un programme et une proposition d'ajustement du prix évaluée selon la Clause 12. L'Engineer procède ensuite selon la sous-clause 3.7, et l'entrepreneur a droit à l'ajustement et à la prolongation de délai **sans devoir passer par la procédure de réclamation** de la Clause 20 ;
-- **la variation par demande de proposition** (13.3.2) : l'Engineer demande d'abord une proposition ; l'entrepreneur la remet ou explique pourquoi il ne peut pas s'y conformer ; l'Engineer donne ou refuse son accord, et, s'il l'accepte, instruit la variation. Si la proposition est refusée, le coût de sa préparation peut être réclamé selon la procédure de réclamation.
+Reste le cas des instructions qui ne disent pas leur nom. Selon la sous-clause 3.5, si l'entrepreneur estime qu'une instruction constitue une variation, il le notifie immédiatement, avant d'exécuter. L'Engineer a **7 jours** pour confirmer, annuler ou modifier ; à défaut, l'instruction est réputée retirée.
 
-La Clause 12 gouverne l'évaluation : prix du bordereau quand ils s'appliquent ; nouveaux prix lorsque les quantités varient au-delà des seuils qu'elle fixe ou que le bordereau ne contient pas de prix adapté, dérivés des prix existants ajustés ou, à défaut, du coût raisonnable augmenté de la marge prévue aux Contract Data.
+## Seconde horloge : l'avenant et la commission de contrôle
 
-Enfin, la sous-clause 3.5 traite le cas des instructions qui ne disent pas leur nom : si l'entrepreneur estime qu'une instruction constitue une variation, il doit le notifier immédiatement, avant d'exécuter, et l'Engineer dispose de **7 jours** pour confirmer, annuler ou modifier l'instruction, faute de quoi elle est réputée retirée.
+Les codes des marchés publics de la région et les règles de passation des bailleurs prévoient presque tous un plafond de variation sans avenant et un contrôle préalable des avenants. Le décret tunisien n° 2014-1039 du 13 mars 2014 est représentatif, et il s'applique quelle que soit la forme du contrat :
 
-## Ce que disent les règles des marchés publics : l'exemple tunisien
+- l'**article 84** fixe la règle des variations de la masse. Dans la limite prévue au cahier des charges, le titulaire ne peut élever aucune réclamation ; à défaut de stipulation, cette limite est de **20 %** du montant du marché. Au-delà, il dispose d'un droit de résiliation sans indemnité en cas d'augmentation, à demander dans les **45 jours** suivant l'acte qui la provoque, et d'un droit à indemnité en cas de diminution ;
+- l'**article 85** soumet tout dépassement de cette limite à l'**avis préalable de la commission de contrôle compétente** ;
+- l'**article 87** exige un **avenant écrit**, signé par l'acheteur public et le titulaire, pour toute modification des clauses administratives, financières ou techniques (prix, délais, quantités, nature des prestations) ;
+- l'**article 155** interdit de soumettre aux commissions de contrôle des dossiers à titre de régularisation.
 
-Les codes des marchés publics de la région et les règles de passation des bailleurs prévoient presque tous un plafond de variation sans avenant et un contrôle préalable des avenants. Le cas tunisien est représentatif. Le décret n° 2014-1039 du 13 mars 2014 pose des règles qui s'appliquent quelle que soit la forme du contrat :
+Ce dernier article pèse plus qu'on ne le croit. Une commission qui reçoit un avenant pour des travaux achevés depuis des mois peut y lire une régularisation. Pour le mur, le dossier est parti quatre mois après la fin des travaux, a été renvoyé pour compléments, puis approuvé.
 
-- l'article 84 fixe la règle des variations de la masse : tant que la variation reste dans la limite prévue par le cahier des charges, le titulaire ne peut élever aucune réclamation ; à défaut de stipulation, cette limite est de **20 %** du montant du marché. Au-delà, il ouvre au titulaire un droit de résiliation sans indemnité en cas d'augmentation, à demander dans les **45 jours** suivant la réception de l'acte qui la provoque, et un droit à indemnité en cas de diminution ;
-- l'article 85 soumet tout dépassement de cette limite à l'**avis préalable de la commission de contrôle compétente** ;
-- l'article 87 exige qu'une modification des clauses administratives, financières ou techniques du marché (prix, délais, quantités, nature des prestations) fasse l'objet d'un **avenant écrit**, signé par l'acheteur public et le titulaire ;
-- l'article 155 interdit de soumettre aux commissions de contrôle des dossiers à titre de régularisation.
+## Les points de friction
 
-Ce dernier point est souvent sous-estimé. Une commission qui reçoit un avenant pour des travaux déjà exécutés depuis des mois peut y voir une régularisation déguisée. Pour le mur de soutènement, le dossier est arrivé à la commission quatre mois après l'achèvement des travaux.
-
-## Où les deux logiques se heurtent
+Le tableau ci-dessous résume les situations où les deux horloges se décalent le plus souvent.
 
 | Situation | Logique FIDIC | Logique marchés publics | Risque |
 |---|---|---|---|
@@ -49,31 +47,32 @@ Ce dernier point est souvent sous-estimé. Une commission qui reçoit un avenant
 | Prolongation de délai liée | Accordée sans réclamation | Avenant sur le délai | Pénalités appliquées à tort |
 | Retrait de travaux | Limité par 13.1 | Diminution de la masse, indemnité possible | Litige sur l'indemnisation |
 
-## Une méthode pour les faire concorder
+La deuxième ligne est la plus fréquente. Dix variations modestes, chacune justifiée et évaluée, franchissent ensemble le seuil sans qu'aucune n'ait déclenché d'alerte. On le découvre au moment de payer la onzième.
 
-### 1. Écrire le seuil dans les conditions particulières
+## Synchroniser les deux horloges
 
-Le cahier des charges fixe sa propre limite de variation. Les conditions particulières doivent la reprendre explicitement et définir un **seuil d'alerte**, par exemple aux deux tiers de la limite, à partir duquel l'Engineer et le maître d'ouvrage préparent un avenant.
+### Dès la rédaction des conditions particulières
 
-### 2. Tenir un registre unique des variations
+Les conditions particulières reprennent la limite du cahier des charges et fixent un **seuil d'alerte**, par exemple aux deux tiers de cette limite. Au seuil d'alerte, l'Engineer et le maître d'ouvrage ouvrent un dossier d'avenant, même si aucune variation importante n'est en vue.
 
-Un seul registre, tenu par l'Engineer et partagé avec le maître d'ouvrage, porte chaque variation : référence de l'instruction ou de la demande de proposition, date, description, montant estimé puis déterminé, effet sur le délai, et **cumul en pourcentage du montant du marché**. Le cumul est mis à jour à chaque nouvelle ligne et présenté dans chaque rapport mensuel.
+La sous-clause 3.2 permet aussi de soumettre à l'accord préalable du maître d'ouvrage l'instruction des variations au-delà d'un montant défini, à condition de le prévoir dans les conditions particulières. C'est l'outil adapté pour relier la décision technique à la décision budgétaire. Il ne doit pas toucher aux déterminations de la sous-clause 3.7, que l'Engineer rend de façon neutre.
 
-### 3. Privilégier la demande de proposition pour les variations importantes
+Enfin, les conditions particulières prévoient le cas de l'urgence : sécurité, stabilité, protection des ouvrages exécutés. L'Engineer instruit, le maître d'ouvrage saisit la commission dans un délai court fixé au contrat, et le dossier expose dès le départ la justification de l'urgence. La commission reçoit un dossier ouvert au moment des faits, ce qui écarte le soupçon de régularisation.
 
-La voie 13.3.2 laisse le temps d'obtenir un prix avant d'engager les travaux. Pour une variation qui fera franchir le seuil, elle permet de préparer l'avenant en parallèle : proposition de l'entrepreneur, analyse de l'Engineer, dossier à la commission, puis instruction une fois l'avis rendu. La sous-clause 3.2 permet de soumettre à l'accord préalable du maître d'ouvrage, à condition de le prévoir dans les conditions particulières, l'instruction de variations au-delà d'un montant défini. C'est l'outil adapté ; il ne doit jamais toucher aux déterminations de la sous-clause 3.7.
+### Pendant l'exécution
 
-### 4. Prévoir le cas de l'urgence
+Un **registre unique des variations**, tenu par l'Engineer et partagé avec le maître d'ouvrage, porte pour chaque ligne : référence de l'instruction ou de la demande de proposition, date, description, montant estimé puis déterminé, effet sur le délai et **cumul en pourcentage du montant du marché**. Le cumul figure dans chaque rapport mensuel.
 
-Certaines variations ne peuvent pas attendre : sécurité, stabilité, protection des ouvrages exécutés. Les conditions particulières peuvent prévoir que l'Engineer instruit la variation, que le maître d'ouvrage saisit la commission de contrôle dans un délai court, et que le dossier expose dès le départ la justification de l'urgence. La commission reçoit ainsi un dossier ouvert au moment des faits, ce qui écarte le soupçon de régularisation.
+Pour toute variation qui fera franchir le seuil, nous recommandons la voie 13.3.2. Elle laisse le temps d'obtenir un prix et de préparer l'avenant en parallèle : proposition de l'entrepreneur, analyse de l'Engineer, dossier à la commission, puis instruction une fois l'avis rendu.
 
-### 5. Grouper les avenants sans les retarder
+Quant au rythme des avenants, un avenant par variation encombre les commissions, et un avenant unique en fin de chantier ressemble à une régularisation. Nous conseillons un avenant groupé à intervalles réguliers, ou dès que le seuil d'alerte est atteint, accompagné du registre et des déterminations de l'Engineer.
 
-Un avenant par variation encombre les commissions ; un avenant unique en fin de chantier ressemble à une régularisation. Le bon rythme est intermédiaire : un avenant groupé à intervalles réguliers, ou dès que le seuil d'alerte est atteint, accompagné du registre et des déterminations de l'Engineer.
+![Cumul des variations et seuil d'alerte](/assets/blog/variations-cumul-seuil-avenants.svg)
+*Figure 1. Courbe illustrative du cumul des variations : le seuil d'alerte déclenche un avenant avant la limite réglementaire.*
 
-### 6. Constituer un dossier d'avenant que la commission peut lire
+### Le dossier que la commission peut lire
 
-D'expérience, les commissions posent toujours les mêmes questions : pourquoi la modification était-elle nécessaire, pourquoi n'avait-elle pas été prévue, comment le prix a-t-il été établi, quel est l'effet sur le délai et sur le coût total, les crédits sont-ils disponibles ? Un dossier qui y répond d'emblée revient rarement.
+Les commissions posent presque toujours les mêmes questions. Pourquoi la modification était-elle nécessaire ? Pourquoi n'avait-elle pas été prévue ? Comment le prix a-t-il été établi ? Quel effet sur le délai et sur le coût total ? Les crédits sont-ils disponibles ? Un dossier qui y répond d'emblée revient rarement.
 
 | Pièce | Contenu |
 |---|---|
@@ -85,29 +84,26 @@ D'expérience, les commissions posent toujours les mêmes questions : pourquoi l
 | Effet sur le délai | Analyse sur le programme accepté |
 | Situation budgétaire | Crédits disponibles ou engagés |
 
-![Cumul des variations et seuil d'alerte](/assets/blog/variations-cumul-seuil-avenants.svg)
-*Figure 1. Courbe illustrative du cumul des variations, avec un seuil d'alerte qui déclenche les avenants avant la limite réglementaire.*
+## Ce qui n'est pas une variation suit la Clause 20
 
-## Quand ce n'est pas une variation : avis et réclamations
-
-Tout ce qui n'est pas instruit comme une variation, retard d'accès au site, conditions imprévisibles, suspension, retard de paiement, passe par la Clause 20. L'édition 2017 applique les mêmes règles aux deux parties : un **avis de réclamation au plus tard 28 jours** après que la partie a eu connaissance, ou aurait dû avoir connaissance, de l'événement, faute de quoi le droit est en principe perdu ; puis une **réclamation détaillée dans les 84 jours**, avec la base contractuelle ou légale, sans laquelle l'avis tombe. L'Engineer dispose de 14 jours pour signaler un avis tardif, faute de quoi il est réputé valable, puis de 42 jours pour un accord et 42 jours pour une détermination.
-
-Sur un chantier, une route d'accès promise par le maître d'ouvrage a été fermée six semaines par une autorité locale. Le chef de chantier en avait parlé en réunion, le compte rendu l'avait noté, le rapport mensuel l'avait décrit. L'avis formel est parti cinquante-neuf jours après la fermeture. L'Engineer l'a jugé tardif ; l'entrepreneur a plaidé que le maître d'ouvrage savait. L'argument n'était pas sans valeur, mais un droit simple était devenu un litige. Le contrat le disait pourtant : ni un compte rendu ni un rapport mensuel ne valent avis.
+Retard d'accès au site, conditions imprévisibles, suspension, retard de paiement : tout ce qui n'est pas instruit comme une variation passe par la procédure de réclamation. L'édition 2017 applique les mêmes règles aux deux parties. Un **avis de réclamation** est dû au plus tard **28 jours** après que la partie a eu connaissance, ou aurait dû avoir connaissance, de l'événement ; à défaut, le droit est en principe perdu. Une **réclamation détaillée** suit dans les **84 jours**, avec sa base contractuelle ou légale, sans quoi l'avis tombe. L'Engineer a 14 jours pour signaler un avis tardif, faute de quoi il est réputé valable, puis 42 jours pour rechercher un accord et 42 jours pour déterminer.
 
 ![Délais de la Clause 20](/assets/blog/fidic-clause-20-claim-clocks.svg)
-*Figure 2. D'un événement à la décision : les délais de 28, 14, 84 et 42 + 42 jours.*
+*Figure 2. De l'événement à la décision : les délais de 28, 14, 84 et 42 + 42 jours.*
 
-Le maître d'ouvrage est soumis aux mêmes règles pour ses propres prétentions : pénalités de retard, défauts non repris, refacturations. Une déduction appliquée directement sur un décompte sans avis ni détermination s'expose à la même forclusion.
+Sur un autre chantier, une route d'accès promise par le maître d'ouvrage a été fermée six semaines par une autorité locale. Le chef de chantier l'avait signalé en réunion, le compte rendu l'avait noté, le rapport mensuel l'avait décrit. L'avis formel est parti cinquante-neuf jours après la fermeture. L'Engineer l'a jugé tardif ; l'entrepreneur a plaidé que le maître d'ouvrage était informé. L'argument avait du poids, mais un droit simple est devenu un litige, parce qu'un compte rendu ou un rapport mensuel ne vaut pas avis au sens du contrat.
 
-**Un seul registre pour les variations et les réclamations.** Les deux processus partagent la même information : l'événement, sa date, son effet sur le délai et le coût, les pièces, les échéances. Nous recommandons un registre unique, revu chaque semaine entre le chef de chantier et le responsable contrat, qui affiche pour chaque ligne la voie retenue (variation ou réclamation), les dates d'échéance (28 jours, 84 jours, 14 jours de l'Engineer), le cumul des variations en pourcentage du marché et le statut de l'avenant. La question hebdomadaire est simple : qu'est-il arrivé cette semaine qui puisse ouvrir un droit, pour l'une ou l'autre partie ? Dans le doute, on notifie. Sur la route d'accès fermée, une lettre envoyée dans les 28 jours aurait suffi.
+Le maître d'ouvrage est soumis aux mêmes règles pour ses propres prétentions : pénalités de retard, défauts non repris, refacturations. Une déduction portée directement sur un décompte, sans avis ni détermination, s'expose à la même forclusion.
 
-## Du côté de l'entrepreneur
+## Un registre, une revue hebdomadaire
 
-L'entrepreneur a intérêt à cette discipline. Il doit remettre ses éléments dans les 28 jours, notifier immédiatement toute instruction qu'il considère comme une variation non déclarée, et suivre lui-même le cumul. Au-delà de la limite réglementaire, il dispose d'un droit de résiliation qu'il exerce rarement, mais qu'il doit connaître, avec son délai de 45 jours.
+Variations et réclamations partagent la même information : l'événement, sa date, son effet sur le délai et le coût, les pièces, les échéances. Nous recommandons un seul registre, revu chaque semaine entre le chef de chantier et le responsable contrat. Pour chaque ligne, il affiche la voie retenue (variation ou réclamation), les échéances (28 jours, 84 jours, 14 jours de l'Engineer), le cumul des variations en pourcentage du marché et le statut de l'avenant. La revue tient en une question : qu'est-il arrivé cette semaine qui puisse ouvrir un droit, pour l'une ou l'autre partie ? Dans le doute, on notifie.
 
-## Un calendrier commun pour la variation et l'avenant
+L'entrepreneur y a intérêt autant que le maître d'ouvrage. Il remet ses éléments dans les 28 jours, notifie immédiatement toute instruction qu'il tient pour une variation non déclarée, et suit lui-même le cumul. Au-delà de la limite réglementaire, il connaît son droit de résiliation et le délai de 45 jours pour l'exercer, même s'il l'utilise rarement.
 
-La Clause 13 et les règles d'avenant décrivent deux moments d'une même décision : la décision technique de modifier, et la décision administrative d'engager la dépense. Il faut les mettre dans le même calendrier, avec un registre commun, un seuil d'alerte et des dossiers complets. Avec un dossier d'avenant lancé pendant la construction du mur, l'entrepreneur aurait été payé dans le trimestre.
+## Ce qu'il aurait fallu le lundi matin
+
+Pour le mur, deux actions auraient suffi : basculer en demande de proposition, puisque la variation faisait franchir la limite, et ouvrir le dossier d'avenant la même semaine en invoquant la stabilité du talus. Le prix aurait été connu avant le premier coulage, la commission aurait reçu le dossier pendant les travaux, et l'entrepreneur aurait été payé dans le trimestre. Pour la route d'accès, une lettre dans les 28 jours suffisait.
 
 ## Références
 

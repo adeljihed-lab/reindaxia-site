@@ -1,176 +1,178 @@
 ---
-title: "Skids, câbles, tableaux : ce que les contrôles de terrain révèlent avant la mise en service"
-description: "Réception en usine et supervision de chantier en photos : câbles, skids, tableaux, épreuves, scellements. Pour chaque contrôle, le critère et la décision."
+title: "Platine repercée au chantier : 26 photos de contrôles, de l'usine à la mise sous tension"
+description: "Un perçage improvisé a coûté un poteau. Points d'arrêt, demandes techniques et contrôles mesurés, de l'usine de câbles à la mise sous tension."
 category: Inspection et FAT
 image: /assets/blog/terrain-chantier-platine-scellement.jpg
-keywords: [réception en usine, FAT, supervision de chantier, skid, skid de comptage, câbles, essai de tension, hot set, IEC 60502-1, IEC 60811, vibrations, ISO 20816-3, épaisseur de peinture, ISO 19840, ISO 12944, calorifuge, continuité de terre, ATEX, IEC 60079-14, IEC 60079-17, sécurité intrinsèque, variateur de vitesse, relais de protection, IEC 60255, épreuve hydraulique, enregistreur, ASME B31.3, prover, API MPMS, conservation, platine, scellement, calage, galvanisation, ISO 1461, soudures de chantier, ISO 8501-1, inspection, Tunisie, Afrique du Nord, Afrique]
+keywords: [réception en usine, FAT, supervision de chantier, point d'arrêt, modification de chantier, demande technique, skid, skid de comptage, câbles, essai de tension, hot set, IEC 60502-1, IEC 60811, vibrations, ISO 20816-3, épaisseur de peinture, ISO 19840, ISO 12944, calorifuge, continuité de terre, ATEX, IEC 60079-14, IEC 60079-17, sécurité intrinsèque, variateur de vitesse, relais de protection, IEC 60255, épreuve hydraulique, enregistreur, ASME B31.3, prover, API MPMS, conservation, platine, scellement, calage, galvanisation, ISO 1461, soudures de chantier, ISO 8501-1, inspection, Tunisie, Afrique du Nord, Afrique]
 ---
 
-Un procès-verbal de réception résume en une page des centaines de contrôles. Sa valeur dépend de ce qui a réellement été mesuré, avec quel instrument et contre quel critère. Les photos qui suivent viennent de nos missions de réception en usine et de supervision de chantier, sur des skids de procédé et de comptage, des câbles, des tableaux et des structures. Chacune correspond à une question et à une décision. Toutes ont été anonymisées.
+La tige d'ancrage sortait du massif à côté de l'endroit prévu, et le trou de la platine du poteau ne tombait pas dessus. L'équipe voulait lever avant la fin de la journée. Un monteur a percé un second trou contre le premier, les deux se sont rejoints en une lumière ovale, et l'écrou a été serré par-dessus. « On reprendra plus tard. » Au point d'arrêt avant calage, notre superviseur a trouvé un écrou qui portait à moitié dans le vide et une platine entamée. L'assemblage ne pouvait plus être serré correctement : le profilé a dû être remplacé, avec une nouvelle levée et une reprise de peinture. Une question écrite à l'ingénierie, le jour même, aurait coûté quelques heures d'attente.
 
-## Une boule de papier aluminium sous une platine
+Les photos qui suivent viennent de nos missions de réception en usine et de supervision de chantier, anonymisées. Elles sont rangées dans l'ordre où le matériel les rencontre : usine, transport, chantier, mise sous tension. Chacune montre la même chose que la platine : une valeur ou un écart, un critère écrit, et quelqu'un présent au bon moment.
 
-La photo n'a rien de spectaculaire. Une platine de pied de structure, galvanisée, posée sur son massif. Un tirant d'ancrage rouillé passe dans un trou nettement plus large que lui. Dans la réservation prévue pour le mortier de calage, on distingue une boule de papier aluminium et un chiffon.
+## Un trou de trop
 
-![Platine de pied avec réservation obstruée par du papier aluminium et un chiffon](/assets/blog/terrain-chantier-platine-scellement.jpg)
-*Platine posée, réservation non nettoyée, tirant corrodé avant serrage définitif. Rien de ce qui est visible ici ne figure dans un procès-verbal de montage s'il n'y a pas de point d'arrêt avant calage.*
+![Pied de poteau : tige d'ancrage dans un trou ovalisé par un second perçage, débris autour](/assets/blog/terrain-chantier-platine-scellement.jpg)
+*Pied de poteau. La tige passe dans un trou agrandi en lumière par un perçage improvisé ; l'écrou, sans rondelle, ne porte que sur une partie de sa face. Le papier aluminium et le chiffon sont de simples débris.*
 
-Le papier aluminium avait servi à protéger le filetage pendant le bétonnage, puis personne ne l'avait retiré. Si le mortier avait été coulé ce jour-là, la platine aurait reposé sur un vide partiel, sur un chiffon et sur des cales, au lieu de reposer sur un lit de mortier continu. La structure aurait tenu, probablement. Les vibrations, la corrosion sous la platine et le desserrage auraient fait le reste en quelques années.
+Une platine est calculée avec ses trous : diamètre, distance au bord, rondelle qui transmet l'effort de la tige. Un trou ovalisé à la perceuse réduit l'appui de l'écrou et la matière jusqu'au bord, et laisse de l'acier nu ; les coulures de rouille sont déjà là. Plus aucune note de calcul ne couvre cet assemblage.
 
-Le problème a été évité par trois choses simples : un point d'arrêt dans le plan d'inspection, quelqu'un sur place ce jour-là, et un coup d'œil sous la platine avant de signer. La suite de cet article reprend ce principe, du fabricant de câbles jusqu'au chantier.
+Le défaut de départ est dans le massif : une tige mal positionnée au coulage, parce que le gabarit a bougé ou n'a pas été vérifié. Un relevé des tiges après décoffrage, comparé aux tolérances du plan, l'aurait signalé des semaines avant l'arrivée de la charpente, quand l'ingénierie avait le temps de dessiner une solution. Le jour du levage, l'équipe n'avait plus qu'une perceuse.
 
-## À l'usine de câbles : assister aux essais
+## Qui a le droit de s'écarter du plan
 
-Une réception de câbles en usine suppose d'assister aux essais qui comptent et de comprendre ce qu'ils démontrent. Les certificats seuls ne suffisent pas.
+Les écarts aux plans approuvés pour construction apparaissent quand le travail avance. Les procédures de modification de chantier que nous recommandons distinguent trois niveaux.
+
+| Niveau | Exemples | Qui décide | Trace |
+|---|---|---|---|
+| Ajustement mineur, sans effet sur la fonction | position finale d'un instrument, petit changement de tracé | superviseur de l'entrepreneur ; ingénierie en cas de doute | report en rouge sur l'exemplaire de chantier, signé |
+| Écart touchant la tenue, la fonction ou une norme | assemblage, ancrage, épaisseur, matériau | ingénierie, sur demande technique écrite | réponse écrite, plan révisé ; acceptation du maître d'ouvrage si un de ses standards est touché |
+| Écart touchant la sécurité ou les performances | fonction, procédé, équipement de sécurité | direction de projet, gestion du changement | dossier de modification, analyse de risque, approbation |
+
+Un pied de poteau relève du deuxième niveau. Les solutions recevables sont connues : nouvelle platine percée à la bonne position ; trou surdimensionné avec rondelle épaisse soudée, si la note de calcul l'admet ; tige neuve par ancrage chimique, selon une note de l'ingénieur qui fixe produit, diamètre, profondeur, détection des armatures avant perçage et essai d'arrachement sur échantillon. Chacune est dessinée et contrôlée à l'exécution. Percer ou oxycouper au chantier sans plan n'en fait pas partie.
+
+La trace compte autant que la solution. L'exemplaire annoté en rouge sert à établir les plans conformes à exécution, et à la complétion mécanique chaque système est vérifié contre la dernière révision, annotations comprises. Une modification non écrite revient alors en réserve, ou ne revient pas du tout.
+
+## À l'usine de câbles : les essais qui ne se refont pas
 
 ![Pupitre d'essai de tension alternative en usine de câbles](/assets/blog/terrain-cable-essai-tension-alternative.jpg)
-*Essai de tension alternative sur touret, zone balisée. Pour un câble basse tension 0,6/1 kV, l'essai individuel prévu par l'IEC 60502-1 est de 3,5 kV pendant cinq minutes.*
+*Pupitre d'essai haute tension : voltmètre en kV, chronomètre, tourets derrière la zone balisée. Pour un câble 0,6/1 kV, l'essai individuel de l'IEC 60502-1 est de 3,5 kV pendant cinq minutes.*
 
-L'**essai de tension** est un essai individuel : chaque longueur y passe. On vérifie la valeur affichée, la durée chronométrée, l'étalonnage du voltmètre et la zone d'exclusion. On vérifie aussi que le touret essayé est bien celui de la commande, ce qui suppose de relever son numéro avant l'essai, pas après.
+L'**essai de tension** porte sur chaque longueur. Nous vérifions tension, durée, étalonnage du voltmètre et balisage, et nous relevons le numéro du touret pour être sûrs qu'il appartient à la commande.
 
 ![Étuve d'allongement à chaud avec éprouvettes chargées](/assets/blog/terrain-cable-essai-hot-set.jpg)
-*Essai d'allongement à chaud (hot set) selon l'IEC 60811-507 : pour un isolant en polyéthylène réticulé, 15 minutes à 200 °C sous 20 N/cm², avec un allongement sous charge limité à 175 % et un allongement rémanent limité à 15 %.*
+*Étuve d'allongement à chaud, éprouvettes lestées, régulateur à 200,0 °C. IEC 60811-507, polyéthylène réticulé : 15 minutes à 200 °C sous 20 N/cm², allongement sous charge au plus 175 %, rémanent au plus 15 %.*
 
-L'**allongement à chaud** est l'essai qui dit si la réticulation de l'isolant est complète. Un défaut de réticulation ne se voit pas à l'œil et ne fait pas échouer l'essai de tension ; il se révèle des années plus tard par un isolant qui flue dans un point chaud. C'est le type d'essai sur prélèvement que l'acheteur a intérêt à témoigner.
+L'**allongement à chaud** dit si la réticulation est complète. Un défaut passe l'essai de tension sans se voir et se révèle des années plus tard, quand l'isolant flue sur un point chaud. C'est l'essai sur prélèvement à témoigner en priorité.
 
-![Essai de traction sur éprouvette d'isolant](/assets/blog/terrain-cable-essai-traction-isolant.jpg)
-*Essai de traction sur éprouvette d'isolant (IEC 60811-501). Pour le polyéthylène réticulé, l'IEC 60502-1 demande au moins 12,5 N/mm² de résistance et 200 % d'allongement à la rupture.*
+![Mise en place d'une éprouvette dans les mors d'une machine de traction](/assets/blog/terrain-cable-essai-traction-isolant.jpg)
+*Mise en place d'une éprouvette dans les mors (IEC 60811-501). Pour le polyéthylène réticulé, l'IEC 60502-1 demande au moins 12,5 N/mm² et 200 % d'allongement à la rupture.*
 
-Pour les **essais mécaniques**, deux points font souvent la différence : le prélèvement est-il fait devant nous, sur un touret de la commande, et les dimensions de l'éprouvette sont-elles mesurées avant l'essai ? Sans cette mesure, la résistance est calculée sur une section estimée.
+Pour les **essais mécaniques**, le prélèvement se fait devant le témoin sur un touret de la commande, et l'éprouvette est mesurée avant l'essai. Sinon, la résistance est calculée sur une section supposée.
 
-Nous avons détaillé ailleurs ce que la réception en usine ne garantit pas pour un câble : transport, stockage, déroulage et pose. Les essais ci-dessus n'en restent pas moins la seule occasion de vérifier la matière elle-même.
+## Chez le fabricant de skids
 
-## Sur le skid, en atelier : des mesures chiffrées
-
-Un skid de procédé ou de comptage concentre sur quelques mètres carrés de la tuyauterie, des appareils à pression, des machines tournantes, de l'instrumentation, de l'électricité et souvent du matériel pour atmosphères explosives. La réception en atelier est le dernier moment où tout est accessible.
+Après l'expédition, une partie du skid ne sera plus visible sans démontage. En atelier, une reprise coûte une heure.
 
 ![Skid de vannes de gros diamètre en atelier](/assets/blog/terrain-skid-vannes-gros-diametre.jpg)
-*Skid de vannes de gros diamètre en fin d'assemblage. Avant la réception, on dispose des certificats de serrage des brides, des rapports d'épreuve et de la liste des réserves de l'atelier.*
+*Skid de vannes de gros diamètre en fin d'assemblage. Avant la réception : certificats de serrage des brides, rapports d'épreuve, liste des réserves de l'atelier.*
 
-### Revêtement et calorifuge
+### Une mesure sans critère ne décide rien
 
-![Mesure d'épaisseur de peinture sur une bride](/assets/blog/terrain-skid-epaisseur-peinture.jpg)
-*Mesure d'épaisseur de film sec : 462 µm à cet endroit. Le chiffre ne veut rien dire tant qu'on ne connaît pas l'épaisseur nominale du système et le maximum admis.*
+![Mesure d'épaisseur de peinture sur une tuyauterie de skid](/assets/blog/terrain-skid-epaisseur-peinture.jpg)
+*Épaisseur de film sec affichée : 462 µm, sur une tuyauterie près d'une bride. Sans épaisseur nominale ni maximum admis, aucune décision possible.*
 
-Une mesure isolée d'épaisseur de peinture ne permet ni d'accepter ni de refuser. L'ISO 19840 définit l'échantillonnage et la règle usuelle : la moyenne au moins égale à l'épaisseur nominale, aucune valeur sous 80 % de celle-ci, au plus 20 % des mesures entre 80 et 100 %. L'excès compte aussi : l'ISO 12944-5 recommande de ne pas dépasser trois fois l'épaisseur nominale, sauf indication du fabricant de peinture. Au-delà, le risque est la fissuration et la perte d'adhérence, typiquement sur les arêtes et autour des brides.
-
-![Mesure du recouvrement d'une tôle de calorifuge](/assets/blog/terrain-skid-recouvrement-calorifuge.jpg)
-*Recouvrement d'une tôle de protection de calorifuge, mesuré au mètre ruban.*
-
-Pour le **calorifuge**, la spécification fixe un recouvrement minimal des tôles, souvent de l'ordre de 50 mm, et surtout son sens : la tôle supérieure doit recouvrir la tôle inférieure, pour que l'eau s'écoule vers l'extérieur. Un recouvrement suffisant mais posé à l'envers conduit l'eau de pluie sous l'isolant, là où commence la corrosion sous calorifuge.
-
-![Poulie crantée corrodée dans un carter galvanisé](/assets/blog/terrain-skid-poulie-corrodee.jpg)
-*Poulie crantée en acier non protégé, déjà corrodée sur les dents, dans un ensemble galvanisé destiné à l'extérieur.*
-
-Cette poulie est un exemple classique d'**incohérence de matériaux** : un ensemble galvanisé pour résister à l'extérieur, et une pièce de transmission peinte sur sa seule face visible, nue sur les dents. Avant même la mise en service, la corrosion est là. La réserve porte sur la pièce. La revue de conception doit ensuite chercher quelles autres pièces d'achat n'ont pas suivi la spécification de protection.
-
-### Tuyauterie et machines tournantes
+L'ISO 19840 fixe l'échantillonnage et la règle usuelle : moyenne au moins égale au nominal, aucune valeur sous 80 %, au plus 20 % des mesures entre 80 et 100 %. L'ISO 12944-5 recommande de ne pas dépasser trois fois le nominal, sauf indication du fabricant de peinture ; au-delà, le film fissure, d'abord sur les arêtes. Sur un système de 120 µm, 462 µm dépasse ce plafond ; sur un système épais, la valeur peut être conforme.
 
 ![Contrôle de pente d'une ligne au niveau électronique](/assets/blog/terrain-skid-controle-pente.jpg)
-*Contrôle de pente d'une ligne au niveau électronique : 1,0°, soit environ 1,7 %.*
+*Niveau électronique sur une ligne, affichage 1,0. Selon le réglage, 1,0° (environ 1,7 %) ou 1,0 % : l'unité doit figurer au rapport.*
 
-Les lignes de purge, de drainage et certaines lignes de procédé ont une **pente imposée**. Elle se mesure, ligne par ligne, et se compare au minimum des plans. Une ligne posée à plat ou en contre-pente ne se vide pas, retient de l'eau, gèle ou se corrode.
+Les lignes de purge et de drainage ont une **pente minimale** sur plan. À plat ou en contre-pente, elles retiennent l'eau. La pente se mesure ligne par ligne, unité notée.
+
+![Capteur de vibration fixé sur la charpente galvanisée d'un skid](/assets/blog/terrain-skid-mesure-vibrations.jpg)
+*Vibration globale affichée : 2,9 mm/s. Le capteur est fixé sur la charpente, près de l'embase, et non sur un palier.*
+
+Selon l'ISO 20816-3, pour une machine de puissance moyenne sur support rigide, la frontière entre la zone B (fonctionnement prolongé acceptable) et la zone C (non souhaitable) se situe vers 2,8 mm/s. Mais une **vibration** se lit avec son point de mesure, et une valeur prise sur la charpente renseigne sur la structure. À 2,9 mm/s, nous faisons mesurer de nouveau sur les paliers, puis vérifier alignement et support si la valeur se confirme.
+
+![Mesure du courant à la pince ampèremétrique dans une boîte de raccordement](/assets/blog/terrain-skid-courant-moteur.jpg)
+*Courant mesuré à la pince sur un conducteur de phase, boîte de raccordement ouverte : 7,9 A, à comparer à la plaque et aux deux autres phases.*
+
+![Essai fonctionnel d'un variateur de vitesse au clavier](/assets/blog/terrain-skid-essai-variateur.jpg)
+*Essai fonctionnel d'un variateur de vitesse, commandé depuis son clavier.*
+
+Pour les **entraînements** : paramètres chargés comparés au jeu approuvé, sens de rotation, arrêts d'urgence, défauts simulés. Le courant par phase révèle un déséquilibre que l'affichage du variateur peut masquer.
+
+### Matériaux, montage, propreté
+
+![Poulie crantée aux dents corrodées dans un carter galvanisé](/assets/blog/terrain-skid-poulie-corrodee.jpg)
+*Poulie crantée peinte sur sa face, dents en acier nu déjà corrodées, dans un carter galvanisé.*
+
+La réserve porte sur la poulie. La question suivante porte sur la commande : quelles autres pièces d'achat n'ont pas reçu la spécification de protection ?
+
+![Mesure au mètre ruban sur une tôle de protection de calorifuge](/assets/blog/terrain-skid-recouvrement-calorifuge.jpg)
+*Mesure au mètre ruban sur une tôle de protection de calorifuge en aluminium.*
+
+Pour le **calorifuge**, la spécification fixe un recouvrement minimal, souvent de l'ordre de 50 mm, et son sens : la tôle supérieure recouvre l'inférieure. Posé à l'envers, le recouvrement conduit la pluie sous l'isolant.
 
 ![Élément filtrant présenté après rinçage de la tuyauterie](/assets/blog/terrain-skid-filtre-apres-rincage.jpg)
-*Élément filtrant démonté et présenté après la séquence de rinçage.*
+*Élément filtrant démonté, encore mouillé, après rinçage. Propre à l'œil, ce qui ne suffit que si la procédure s'en contente.*
 
-Après un **rinçage**, l'état du filtre provisoire ou de l'élément filtrant est la preuve la plus directe de la propreté du circuit. Le critère doit être écrit dans la procédure de rinçage (aspect, quantité de particules, ou classe de propreté pour les circuits d'huile), et le filtre doit être démonté devant le témoin, sinon rien ne prouve qu'il sort de ce circuit.
+Le filtre prouve la propreté du circuit si le critère est écrit (aspect, particules, classe de propreté pour l'huile) et s'il est démonté devant le témoin.
 
-![Mesure de vibration sur une machine tournante avec un appareil étalonné](/assets/blog/terrain-skid-mesure-vibrations.jpg)
-*Mesure de vibration globale : 2,9 mm/s efficaces, avec un appareil portant son étiquette d'étalonnage.*
+![Multimètre et barre de terre sur un skid en atelier](/assets/blog/terrain-skid-continuite-terre.jpg)
+*Contrôle de continuité de terre : multimètre près de la barre de terre en cuivre du skid, où arrivent les conducteurs vert-jaune.*
 
-Une valeur de **vibration** se lit avec quatre informations : le point et la direction de mesure (palier, et non châssis), la classe de la machine, son support (rigide ou souple) et le critère contractuel. Selon l'ISO 20816-3, pour une machine de puissance moyenne sur support rigide, la frontière entre la zone B (fonctionnement prolongé acceptable) et la zone C (fonctionnement prolongé non souhaitable) se situe vers 2,8 mm/s. Les spécifications de pompes de procédé fixent souvent un seuil voisin. Une mesure à 2,9 mm/s déclenche donc une vérification du point de mesure, de l'alignement et du support avant toute conclusion.
-
-### Électricité, instrumentation et matériel Ex
-
-![Contrôle de continuité de terre entre une boîte de jonction et la barre de terre](/assets/blog/terrain-skid-continuite-terre.jpg)
-*Contrôle de continuité de la liaison équipotentielle au multimètre, entre une boîte de jonction et la barre de terre du skid.*
-
-La **continuité de terre** se mesure élément par élément : châssis, appareils, boîtes de jonction, chemins de câbles, jusqu'à la barre de terre. La valeur attendue est faible, de l'ordre de l'ohm au plus selon les spécifications courantes. Sur un skid installé en zone classée, ces liaisons participent aussi à la maîtrise de l'électricité statique.
-
-![Raccordement dans une boîte de jonction pour atmosphère explosive](/assets/blog/terrain-skid-boite-ex-raccordement.jpg)
-*Contrôle des raccordements dans une boîte de jonction Ex : bornes, conducteurs de protection, presse-étoupes.*
-
-Dans une **boîte de jonction pour atmosphère explosive**, l'inspection initiale détaillée, qui relève de l'IEC 60079-14 avant mise en service, porte sur des points simples et souvent négligés : un conducteur par borne sauf si la borne est certifiée pour deux, aucun brin libre, presse-étoupes adaptés au câble et au mode de protection, entrées inutilisées obturées par des bouchons certifiés, couvercle et joint en état.
-
-![Chemins de câbles séparés pour circuits de sécurité intrinsèque](/assets/blog/terrain-chantier-chemins-cables-si.jpg)
-*Chemins de câbles repérés « IS » réservés aux câbles de sécurité intrinsèque, de couleur bleu clair, séparés des câbles de puissance.*
-
-Les circuits de **sécurité intrinsèque** imposent une séparation avec les autres circuits, que l'IEC 60079-14 permet d'obtenir notamment par des chemins de câbles distincts. Le contrôle porte sur la séparation réelle sur tout le parcours, y compris aux croisements et aux entrées d'armoires, là où elle se perd le plus souvent.
-
-![Essai fonctionnel d'un variateur de vitesse](/assets/blog/terrain-skid-essai-variateur.jpg)
-*Essai fonctionnel d'un variateur de vitesse : paramètres, démarrage, arrêt, défauts.*
-
-![Mesure du courant absorbé par un moteur à la pince ampèremétrique](/assets/blog/terrain-skid-courant-moteur.jpg)
-*Mesure du courant absorbé à la pince : 7,9 A sur la phase contrôlée, à comparer à la plaque signalétique et aux deux autres phases.*
-
-Pour les **entraînements**, on vérifie le jeu de paramètres chargé contre le jeu approuvé, le sens de rotation, les arrêts d'urgence et les défauts simulés. La mesure de courant sur chaque phase sert à détecter un déséquilibre ou une surcharge que l'affichage du variateur peut masquer.
-
-## Tableaux électriques : le fichier de réglage fait partie de la livraison
-
-![Tableau avec relais de protection numériques en cours de paramétrage](/assets/blog/terrain-tableau-relais-protection.jpg)
-*Relais de protection numériques d'une batterie de condensateurs, raccordés au poste de paramétrage pendant les essais.*
-
-Un relais de protection numérique se livre avec un **fichier de réglage**. L'essai consiste à vérifier par injection secondaire que chaque fonction déclenche aux valeurs de l'étude de sélectivité, conformément aux méthodes de la série IEC 60255, puis à sauvegarder le fichier « tel que laissé ». Deux écarts reviennent souvent : un fichier d'usine différent de celui approuvé par l'ingénierie, et des réglages modifiés pendant les essais sans être reportés dans le dossier. Dans les deux cas, le dossier ne décrit plus les réglages réellement chargés dans les relais.
-
-## Épreuves et comptage : la preuve est dans l'enregistrement
-
-![Disque d'enregistreur de pression et de température d'une épreuve hydraulique](/assets/blog/terrain-epreuve-enregistreur-pression.jpg)
-*Disque d'enregistrement d'une épreuve hydraulique : pression (rouge) et température (bleu). L'appareil porte son étiquette d'étalonnage.*
-
-Le disque d'un **enregistreur d'épreuve** est la pièce maîtresse du dossier. On y vérifie la montée en pression, le palier, sa durée et l'absence de chute non expliquée. La durée de maintien dépend du code : au moins dix minutes pour une tuyauterie d'usine selon l'ASME B31.3, plusieurs heures pour une canalisation. Sur une épreuve en extérieur, la pression suit la température de l'eau : une variation qui accompagne la courbe de température s'explique, une chute à température constante doit être investiguée.
-
-![Compteur d'eau sur la ligne de remplissage d'une épreuve](/assets/blog/terrain-epreuve-compteur-remplissage.jpg)
-*Compteur volumétrique sur la ligne de remplissage d'une épreuve hydraulique.*
-
-Le **volume d'eau** injecté est utile à double titre : il permet de vérifier la cohérence entre volume et pression (présence d'air), et il alimente le suivi environnemental du chantier, de l'origine de l'eau jusqu'à son rejet.
+La **continuité de terre** se mesure élément par élément jusqu'à la barre : châssis, appareils, boîtes, chemins de câbles. On attend en général de l'ordre de l'ohm au plus. En zone classée, ces liaisons écoulent aussi l'électricité statique.
 
 ![Skid de comptage avec étalon volumétrique compact](/assets/blog/terrain-comptage-prover.jpg)
-*Skid de comptage équipé d'un étalon volumétrique compact (small volume prover), avec boîtes de jonction antidéflagrantes.*
+*Skid de comptage en atelier, étalon volumétrique compact (small volume prover) et boîtes antidéflagrantes.*
 
-Sur un **skid de comptage transactionnel**, l'essai porte sur la chaîne complète : compteurs, transmetteurs de pression et de température, calculateur, étalon. Les méthodes d'étalonnage et les critères de répétabilité sont ceux du manuel API MPMS, chapitre 4 pour les étalons. Une erreur de configuration du calculateur coûte bien plus qu'un compteur défectueux, puisqu'elle s'applique à chaque mètre cube vendu.
+Sur un **skid de comptage transactionnel**, l'essai porte sur la chaîne complète (compteurs, transmetteurs, calculateur, étalon) selon l'API MPMS, chapitre 4 pour les étalons. Une erreur de configuration du calculateur s'applique à chaque mètre cube vendu.
 
-## Entre l'usine et le chantier : la conservation
+## Transport et arrivée : la date du constat
 
-![Équipement en caisse ouverte sous une bâche déchirée, après la pluie](/assets/blog/terrain-conservation-caisse-pluie.jpg)
-*Équipement livré, stocké à l'extérieur dans une caisse ouverte, film plastique déchiré, eau stagnante.*
+Deux skids réceptionnés sans réserve majeure sont arrivés, l'un avec une soudure rompue, l'autre avec des manchettes cassées. Qui paie, du fabricant, du transporteur ou de l'assureur, dépendait du constat d'arrivée. Nous demandons une inspection le jour de la livraison pour chaque colis important : emballage, soudures et supports visibles, instruments, bouchons, indicateurs de choc. Les réserves sont écrites sur le bon de livraison et notifiées au transporteur dans les délais, photos datées ; l'Incoterms du contrat dit ensuite qui supporte le dommage.
 
-![Manchette en acier inoxydable protégée en attente de montage](/assets/blog/terrain-conservation-bride-inox.jpg)
-*Manchette en inox protégée sur le chantier, faces de brides couvertes.*
+![Skid livré resté dans sa caisse ouverte, film plastique déchiré, après la pluie](/assets/blog/terrain-conservation-caisse-pluie.jpg)
+*Skid resté en extérieur dans sa caisse ouverte après la pluie : film plastique déchiré et sali, vannes et brides exposées.*
 
-La **conservation** est une source fréquente de réserves. La procédure doit dire, par famille d'équipement, comment stocker (hors sol, à couvert, en local ventilé), comment protéger (faces de brides, extrémités de câbles, déshydratant, inhibiteur de corrosion) et à quelle fréquence inspecter. Un équipement laissé trois mois sous la pluie après son inspection en usine doit être contrôlé de nouveau avant montage.
+![Manchette en acier inoxydable en attente de montage, bride sans protection](/assets/blog/terrain-conservation-bride-inox.jpg)
+*Manchette en inox en attente sous une bâche déchirée : le film couvre une partie du tube, la face de bride est nue.*
 
-## Sur le chantier : ce qui se voit avant d'être recouvert
-
-![Ferraillage d'un massif avec fourreaux et inserts avant bétonnage](/assets/blog/terrain-chantier-inserts-ferraillage.jpg)
-*Ferraillage d'un massif avec fourreaux et inserts en place, avant bétonnage.*
-
-Avant un **bétonnage**, le point d'arrêt porte sur le ferraillage (diamètres, espacements, enrobage, cales) et sur tous les éléments noyés : fourreaux, platines, tiges d'ancrage, mises à la terre. Leur position se vérifie contre le plan, avec un gabarit pour les ancrages de machines. Après coulage, une erreur se corrige au carottage et à la résine.
-
-![Dessous d'une platine sur massif : calage et peinture fissurée](/assets/blog/terrain-chantier-dessous-platine.jpg)
-*Dessous d'une platine sur massif : cales visibles, peinture écaillée, mortier de calage absent sur une partie de la surface d'appui.*
-
-Le **calage et le scellement** des platines se contrôlent avant et après coulage du mortier : surfaces nettoyées, cales conformes, mortier mis en œuvre selon la fiche du fabricant, appui continu. Les guides de référence pour les machines, comme l'API RP 686, insistent sur le même point : la charge doit passer par un appui continu sur le mortier, sans vide ni corps étranger.
-
-![Soudures de chantier non protégées et corrodées](/assets/blog/terrain-chantier-soudures-non-protegees.jpg)
-*Joints soudés de chantier laissés sans protection : la corrosion s'est installée sur les zones mises à nu avant même la peinture.*
-
-Les **soudures de chantier** posent un problème de calendrier. Les zones laissées nues pour le soudage et le contrôle non destructif rouillent en quelques jours dans un climat chaud et humide ou salin. La réparation du revêtement exige alors une préparation de surface au degré prévu par la spécification, généralement Sa 2½ selon l'ISO 8501-1, un contrôle de la propreté et des sels, puis le système complet. La bonne pratique consiste à planifier la reprise de revêtement juste après la libération des soudures, et à ne pas laisser les zones nues s'accumuler.
+La **conservation** se décrit par famille d'équipement : stockage hors sol, à couvert ou ventilé, faces de brides et extrémités de câbles protégées, déshydratant, rondes. Un équipement resté des semaines sous la pluie se contrôle de nouveau avant montage.
 
 ![Réception de charpentes et d'échelles galvanisées sur le site](/assets/blog/terrain-chantier-reception-charpente.jpg)
-*Réception sur site de charpentes, escaliers et échelles galvanisés.*
+*Charpentes, escaliers et échelles galvanisés à l'arrivée, sur palettes et à même le sol.*
 
-À l'arrivée des **charpentes galvanisées**, on contrôle les quantités contre la liste de colisage, les déformations dues au transport et les dommages au revêtement. L'ISO 1461 limite les surfaces réparables : chaque zone au plus 10 cm², et l'ensemble au plus 0,5 % de la surface de la pièce. Au-delà, la pièce doit être regalvanisée, un cas que le contrat doit prévoir.
+Pour les **charpentes galvanisées** : quantités contre la liste de colisage, déformations, dommages au revêtement. L'ISO 1461 limite les retouches à 10 cm² par zone et 0,5 % de la surface de la pièce. Au-delà, la pièce repart en galvanisation, cas que le contrat doit prévoir.
 
-## Ce que ces photos ont en commun
+## Sur le chantier, avant que tout soit recouvert
 
-Toutes ces situations se détectent avec des moyens ordinaires, à condition que le projet en dispose :
+![Ferraillage d'un massif avec fourreaux et inserts avant bétonnage](/assets/blog/terrain-chantier-inserts-ferraillage.jpg)
+*Ferraillage d'un massif avant bétonnage, fourreaux à brides et inserts en place, personnel marchant sur les armatures.*
 
-- **un plan d'inspection** qui place les points d'arrêt aux moments où le défaut est encore visible et réparable ;
-- **un critère écrit** pour chaque contrôle, avant le contrôle, et des instruments étalonnés pour le vérifier ;
-- **une personne présente** qui sait ce qu'elle regarde et qui a l'autorité de dire « pas encore ».
+C'est ici que commence l'histoire de la platine. Le point d'arrêt avant **bétonnage** porte sur le ferraillage (diamètres, espacements, enrobage, cales) et sur les éléments noyés : fourreaux, tiges d'ancrage, mises à la terre. Les tiges sont tenues par un gabarit bloqué et relevées juste avant le coulage. Quand on marche sur la cage, un gabarit mal fixé se déplace.
 
-La platine du début en est l'exemple : le point d'arrêt avant calage figurait dans le plan d'inspection, et quelqu'un était là pour regarder dessous. Ce travail se prépare dès la revue des spécifications et du plan d'inspection du fournisseur, et il détermine combien de réserves arriveront à la mise en service.
+![Dessous d'une platine sur massif : cales, peinture écaillée, appui incomplet](/assets/blog/terrain-chantier-dessous-platine.jpg)
+*Sous une platine posée sur son massif : cales et tige visibles, peinture écaillée, jour là où le mortier de calage devrait porter.*
+
+Le **calage** se contrôle avant et après coulage : surfaces propres, cales conformes, mortier selon la fiche du fabricant, appui continu, ce que l'API RP 686 demande aussi pour les machines. Sans appui continu, la charge passe par les cales et les tiges ; vibrations, corrosion sous platine et desserrage suivent.
+
+![Soudures de chantier non protégées et corrodées](/assets/blog/terrain-chantier-soudures-non-protegees.jpg)
+*Soudures de chantier sur des tubes de petit diamètre, laissées sans revêtement : rouille sur le cordon et la bande décapée.*
+
+En climat chaud, humide ou salin, ces zones rouillent en quelques jours. La reprise exige une préparation au degré spécifié, généralement Sa 2½ selon l'ISO 8501-1, un contrôle des sels, puis le système complet. Nous faisons planifier la reprise par lots, juste après la libération des soudures.
+
+## Avant la mise sous tension
+
+![Chemins de câbles séparés pour circuits de sécurité intrinsèque](/assets/blog/terrain-chantier-chemins-cables-si.jpg)
+*Chemins marqués « IS » portant les câbles bleus de sécurité intrinsèque, séparés des câbles noirs placés en dessous.*
+
+La séparation des circuits de **sécurité intrinsèque**, que l'IEC 60079-14 permet d'obtenir par des chemins distincts, se contrôle sur tout le parcours. Elle se perd aux croisements et aux entrées d'armoires.
+
+![Raccordements dans une boîte de jonction de terrain](/assets/blog/terrain-skid-boite-ex-raccordement.jpg)
+*Boîte de jonction de terrain ouverte : bornes numérotées, bornes PE, câbles bleus en arrivée.*
+
+En zone classée, l'inspection initiale détaillée relève de l'IEC 60079-14, avant mise en service ; l'IEC 60079-17 couvre les inspections périodiques. Les points qui tombent le plus souvent : un conducteur par borne sauf borne certifiée pour deux, aucun brin libre, presse-étoupes adaptés, entrées inutilisées fermées par des bouchons certifiés, joint de couvercle en état.
+
+![Tableau avec relais de protection numériques en cours de paramétrage](/assets/blog/terrain-tableau-relais-protection.jpg)
+*Tableau de batterie de condensateurs : relais d'arrivée raccordé au poste de paramétrage, relais de déséquilibre des gradins au-dessous.*
+
+On vérifie par injection secondaire que chaque fonction déclenche aux valeurs de l'étude de sélectivité, selon la série IEC 60255, puis on sauvegarde le **fichier de réglage** tel que laissé. Deux écarts reviennent : un fichier d'usine différent de celui approuvé, et des réglages modifiés pendant les essais sans mise à jour du dossier. Le dossier ne décrit alors plus ce qui est chargé, comme un plan qui ignore un trou percé au chantier.
+
+![Disque d'enregistreur de pression et de température d'une épreuve hydraulique](/assets/blog/terrain-epreuve-enregistreur-pression.jpg)
+*Disque d'enregistrement d'une épreuve hydraulique : tracé rouge en palier pour la pression, tracé bleu, plus irrégulier, pour la température.*
+
+On lit la montée, le palier, sa durée et toute chute. L'ASME B31.3 demande au moins dix minutes de maintien pour une tuyauterie d'usine ; une canalisation se tient plusieurs heures. En extérieur, une variation de pression parallèle à la température s'explique, une chute à température constante se recherche. L'étalonnage de l'enregistreur se vérifie avant l'essai.
+
+![Compteur d'eau sur la ligne de remplissage d'une épreuve](/assets/blog/terrain-epreuve-compteur-remplissage.jpg)
+*Compteur d'eau volumétrique sur le piquage de remplissage d'une épreuve, sur chantier.*
+
+Le **volume injecté** vérifie la cohérence avec la pression, donc l'absence d'air, et sert au suivi environnemental de l'eau.
+
+## Les points d'arrêt à inscrire au plan
+
+Tous ces défauts ont été vus avec un mètre, un niveau, un multimètre, une pince ou un appareil de vibration, parce qu'un point d'arrêt était placé au bon moment. Dans un plan d'inspection, nous en cherchons un pour les essais de matière chez le câblier, le skid avant peinture finale et avant expédition, l'arrivée sur site, les tiges d'ancrage avant bétonnage puis avant levage, la platine avant calage, les soudures avant reprise de revêtement. Chacun avec son critère écrit, ses instruments étalonnés et une personne habilitée à refuser la libération. Nous vérifions aussi que la procédure de modification de chantier dit qui décide de chaque type d'écart, et que les monteurs la connaissent avant le premier levage.
 
 ## Références
 
@@ -179,10 +181,11 @@ La platine du début en est l'exemple : le point d'arrêt avant calage figurait 
 - ISO 20816-3:2022, *Vibrations mécaniques — Mesurage et évaluation des vibrations de machines — Partie 3*.
 - ISO 19840, mesurage et critères d'acceptation de l'épaisseur des revêtements sur surfaces rugueuses ; ISO 12944-5, systèmes de peinture.
 - ISO 8501-1, degrés de préparation des surfaces d'acier ; ISO 1461, revêtements de galvanisation à chaud.
-- IEC 60079-14 (conception et installation) et IEC 60079-17 (inspection et entretien) des installations électriques en atmosphères explosives.
+- IEC 60079-14 (conception, installation et inspection initiale) et IEC 60079-17 (inspection et entretien) des installations électriques en atmosphères explosives.
 - Série IEC 60255, relais de mesure et dispositifs de protection.
 - ASME B31.3, *Process Piping*, essais de pression.
 - API MPMS, chapitre 4, *Proving Systems* ; API RP 686, installation des machines.
+- Incoterms 2020, Chambre de commerce internationale.
 
 *Les photos proviennent de missions réelles. Visages, plaques signalétiques, repères d'équipements et noms d'entreprises ont été masqués.*
 

@@ -1,22 +1,22 @@
 ---
-title: "Permit to work, isolation and safety-system overrides: three barriers that fail together"
-description: "Why permit to work, isolation and override control must be managed as one system: Piper Alpha, HSG250, HSG253, IEC 61511 and practical audit points."
+title: "Permit to work, isolation and overrides: why three registers must be read as one"
+description: "Permit to work, isolation and override control fail together. What HSG250, HSG253, IEC 61511 and Piper Alpha teach, and what to check on site."
 category: HSE and process safety
 lang: en
 keywords: [permit to work, PTW, HSG250, isolation, lockout tagout, LOTO, HSG253, positive isolation, double block and bleed, inhibits, overrides, defeats, bypass, IEC 61511, safety instrumented system, shift handover, simultaneous operations, SIMOPS, Piper Alpha, Cullen report, process safety, HSE audit, oil and gas, Tunisia, North Africa]
 ---
 
-> **In short.** On most industrial sites, the permit to work, plant isolation and the control of inhibits, overrides and defeats protect people during non-routine work. They are often written, owned and audited separately, yet in serious accidents they tend to fail together, because each one assumes the others are working. We explain how they fit together, what the reference guidance says, and what we check on site.
+During pre-commissioning on an industrial site, vendor teams connected temporary power to several packages so they could run their tests. They raised no permit and made no entry in the energisation register. Nothing happened. For a few days, however, the isolation certificates for that area described a plant that no longer existed: equipment shown as dead was live, and anyone working under those certificates would have trusted them. Nobody had done anything they thought was unsafe. Each team relied on a different document, and none of the documents knew about the others.
 
-## A pump, a missing valve, a shift change
+That is the usual shape of the problem. On most sites the permit to work, plant isolation and the control of inhibits, overrides and defeats are written by different people, kept in different places and audited separately. In serious accidents they tend to fail together, because each assumes the others are working.
 
-On the evening of 6 July 1988, on the Piper Alpha platform in the North Sea, a condensate injection pump tripped. The night shift tried to restart the standby pump. They did not know that its pressure safety valve had been removed for maintenance earlier that day and replaced by a blind flange that was not leak-tight. The permit covering that work had not been brought to their attention at shift handover; it sat in a different place from the permit for the pump itself. Condensate escaped, ignited, and the fire escalated through the platform and the connected pipelines. 167 people died.
+## The case every process engineer knows
 
-Lord Cullen's public inquiry identified many contributing factors, from the design of the platform to emergency response. Among the most cited are the weaknesses of the permit-to-work system and of shift handover: work was authorised, isolations were in place, but the information did not travel with the equipment. The inquiry led to the safety case regime for offshore installations in the United Kingdom, and its findings on permit to work still shape guidance today.
+On the evening of 6 July 1988, on the Piper Alpha platform in the North Sea, a condensate injection pump tripped. The night shift tried to restart the standby pump. They did not know that its pressure safety valve had been removed for maintenance earlier that day and replaced by a blind flange that was not leak-tight. The permit for that work had not been brought to their attention at shift handover; it was filed separately from the permit for the pump itself. Condensate escaped and ignited, and the fire escalated through the platform and the connected pipelines. 167 people died.
 
-## Three procedures, one barrier
+Lord Cullen's public inquiry identified many contributing factors, from platform design to emergency response. Among the most cited are the weaknesses of the permit-to-work system and of shift handover: the work was authorised and the isolation existed, but the information did not travel with the equipment. The inquiry led to the safety case regime for UK offshore installations, and its findings on permit to work still shape guidance today.
 
-The three procedures answer three different questions:
+## One hazard, three procedures
 
 | Procedure | Question it answers | Typical failure |
 |---|---|---|
@@ -24,59 +24,59 @@ The three procedures answer three different questions:
 | Isolation | How is the equipment separated from energy and hazardous fluids, and how is that proven? | Single valve relied on; no proof of zero energy; isolation removed too early |
 | Inhibits, overrides and defeats | When a safety function is deliberately disabled, who decides, for how long, with what compensation? | Bypass left in place after the work; no register; no compensating measure |
 
-They protect against the same event: energy or hazardous material reaching people who believe it is not there. That is why they must be designed and audited as one barrier.
-
-## Permit to work: what good looks like
-
-The UK Health and Safety Executive's guidance HSG250 remains the most widely used reference. In substance, a robust permit-to-work system:
-
-- covers clearly defined types of non-routine work (hot work, confined space, work on process equipment, electrical work, work at height, excavation) and states which permit applies;
-- separates roles: the person who **requests** the work, the person who **authorises** it, the person who **accepts** it on behalf of the work party, and the person responsible for the **area**;
-- requires a site visit and a task-specific hazard assessment before authorisation;
-- cross-references the isolations and any safety-system overrides the work depends on;
-- manages **simultaneous operations**, so that two permits in the same area do not create a hazard neither of them considered;
-- defines how permits are handed over at shift change, suspended and cancelled;
-- is monitored and audited at the worksite as well as on paper.
-
-The last two points are where most systems fail. On Piper Alpha, the permit for the relief valve work existed; it never reached the night shift that restarted the pump.
-
-## Isolation: proving zero energy
-
-HSG253, the HSE guidance on safe isolation of plant and equipment, sets out a hierarchy. The preferred method for hazardous fluids is **positive isolation**: physical disconnection, spades or blinds, removal of a spool. Below that comes **proven isolation** with valves, typically double block and bleed, where the bleed between two closed valves demonstrates that the barrier holds. A single closed valve is the weakest option and requires specific justification.
-
-For electrical and mechanical energy, the principle is the same: identify every source, isolate it, lock and tag it, then **verify** that there is no residual energy before work starts. The verification step is the one most often skipped. Until someone has checked for zero energy, the isolation exists only on paper.
-
-On the sites where we have worked, the same weaknesses come back: isolation points not shown on the isolation certificate, locks without a personal key control, verification not recorded, isolations removed before all permits depending on them are closed. On a construction site recently audited, electrical lockout rules existed in writing but were not applied effectively, and the analysis of causes pointed to insufficient field training and supervision, with a procedure that had never become part of daily practice.
-
-## Inhibits, overrides and defeats: the invisible risk
-
-Safety instrumented systems, fire and gas detection, alarms and interlocks are sometimes disabled on purpose: to test them, to maintain a sensor, to start up a unit. IEC 61511, the reference standard for safety instrumented systems in the process industry, requires that such bypasses be controlled: authorised, recorded, compensated by other measures while they are active, and removed as soon as possible.
-
-In practice, a sound system has:
-
-- a **register** of every active inhibit, override or defeat, visible in the control room;
-- an **authorisation level** proportionate to the safety function affected;
-- a **risk assessment and compensating measures** for each one: a person stationed at the equipment, a temporary alarm, a reduced operating envelope;
-- a **time limit**, with escalation if it is exceeded;
-- a **review at each shift handover** and a periodic review of long-duration defeats.
-
-Everyone sees a pump that has tripped. Nobody sees a bypassed trip unless they read the register. The same blind spot appears with temporary power during commissioning. On one site, vendor teams had connected temporary supplies to several packages to run their tests, with no permit and no entry in the energisation register. Nothing happened. For a few days, though, the isolation certificates of the area described a state that no longer existed. Temporary energisation belongs in the same register as overrides: visible, authorised, time-limited.
+All three protect against the same event: energy or hazardous material reaching people who believe it is not there. When we audit them, we treat them as a single barrier and look first at the points where they hand information to each other.
 
 ![Permit, isolation and overrides](/assets/blog/ptw-isolation-overrides.svg)
-*Figure 1. Three procedures, one barrier: the interfaces and the shift handover are where information gets lost.*
+*Figure 1. Three procedures, one barrier: information gets lost at the interfaces and at shift handover.*
 
-## Where the three meet
+## Permit to work under HSG250
 
-The interfaces are where accidents happen:
+The UK Health and Safety Executive's HSG250 remains the most widely used reference. A permit system that meets it:
 
-- a permit for maintenance on a pump must reference the isolation certificate and any trip that has been inhibited;
-- an isolation cannot be removed while a permit that depends on it is still open;
-- an override applied for a test must be removed before the permit is closed, and checked at handover;
-- every shift handover reviews the three registers together.
+- covers defined types of non-routine work (hot work, confined space, work on process equipment, electrical work, work at height, excavation) and says which permit applies to each;
+- separates roles: the person who **requests** the work, the one who **authorises** it, the one who **accepts** it for the work party, and the person responsible for the **area**;
+- requires a site visit and a task-specific hazard assessment before authorisation;
+- cross-references the isolations and safety-system overrides the work depends on;
+- coordinates **simultaneous operations**, so that two permits in one area do not create a hazard neither considered;
+- defines how permits are handed over at shift change, suspended and cancelled;
+- is monitored at the worksite, not only in the permit office.
 
-We recommend a single walk-through, at least once a month, by the area authority with a supervisor from another area, comparing the three registers with what is actually on the ground: the locks, the tags, the bypass keys, the work in progress. Each discrepancy found that way is logged, assigned to someone and closed like an audit finding.
+The last two points are where most systems we see are weakest. On Piper Alpha, the permit for the relief valve work existed; it never reached the people who restarted the pump.
 
-## What we look for in an audit
+## Isolation under HSG253
+
+HSG253, the HSE guidance on safe isolation of plant and equipment, sets a hierarchy for hazardous fluids. **Positive isolation** comes first: physical disconnection, spades or blinds, removal of a spool. Next comes **proven isolation** with valves, typically double block and bleed, where the bleed between two closed valves shows that the barrier holds. A single closed valve is the weakest option and needs specific justification, based on the hazard, the duration of the work and the condition of the valve.
+
+For electrical and mechanical energy the logic is the same: identify every source, isolate it, lock and tag it, then verify that no residual energy remains before work starts. Until someone has checked for zero energy, the isolation exists only on paper.
+
+The weaknesses we find most often are practical: isolation points missing from the certificate, locks without personal key control, verification done but not recorded, and isolations removed before every permit that depends on them has been closed. That last one is the most dangerous, because it is invisible to the permit holder.
+
+## Overrides under IEC 61511
+
+Safety instrumented systems, fire and gas detection, alarms and interlocks are sometimes disabled on purpose: to test them, to maintain a sensor, to start up a unit. IEC 61511, the reference standard for safety instrumented systems in the process industry, requires such bypasses to be controlled: authorised, recorded, compensated by other measures while active, and removed as soon as possible.
+
+On a site where this works, we expect to find:
+
+- a **register** of every active inhibit, override or defeat, visible in the control room and consistent with what the control system shows;
+- an **authorisation level** matched to the safety function affected;
+- a **risk assessment and compensating measures** for each entry: a person posted at the equipment, a temporary alarm, a reduced operating envelope;
+- a **time limit**, with escalation when it is exceeded;
+- a **review at each handover** and a periodic review of long-standing defeats.
+
+Everyone sees a pump that has tripped. Nobody sees a bypassed trip unless they read the register. Temporary energisation during commissioning, as in the opening example, carries the same risk and belongs in the same register: visible, authorised and time-limited.
+
+## The interface rules
+
+The links between the three procedures can be written as four rules:
+
+- a maintenance permit on a pump references the isolation certificate and every trip inhibited for the work;
+- an isolation cannot be removed while a permit that depends on it is open;
+- an override applied for a test is removed before the permit is closed, and its removal is checked at handover;
+- every shift handover reviews the three registers together, in the same meeting, with the same people.
+
+To test whether these rules hold, we recommend a monthly walk-through by the area authority together with a supervisor from another area. They compare the three registers with what is physically on the ground: locks, tags, spades, bypass keys, temporary cables, work in progress. Each discrepancy is logged, assigned and closed like an audit finding. The outside supervisor matters, because people who walk the same area every day stop seeing what is missing.
+
+## Field checks for an audit
 
 | Area | Field check |
 |---|---|
@@ -87,9 +87,7 @@ We recommend a single walk-through, at least once a month, by the area authority
 | SIMOPS | Overlapping permits identified and coordinated |
 | Learning | Near misses involving these systems investigated and shared |
 
-## Three registers for the night shift
-
-The permit register, the isolation certificates and the override register tell the night shift where the energy is and who is exposed to it, from one hour to the next and from one shift to the next. If the night shift cannot read them, they have failed. They work when they are simple and consistent with each other, used by people who understand why they exist, and checked in the field by experienced supervisors and auditors.
+The handover line is the quickest test. Ask the night shift supervisor, at the start of the shift and without notice, to list what is under permit, what is isolated and what is bypassed in the area. Then compare the answer with the three registers and with the plant. If the supervisor needs more than a few minutes, or the three sources disagree, the barrier is not working as designed, however complete the procedures look.
 
 ## References
 

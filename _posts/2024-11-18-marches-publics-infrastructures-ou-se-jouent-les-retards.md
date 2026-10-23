@@ -1,90 +1,100 @@
 ---
-title: "Marchés publics d'infrastructures : où se jouent vraiment les retards, du dossier d'appel d'offres au dernier paiement"
-description: "Où se forment les retards d'un marché public d'infrastructures, de la passation aux paiements, d'après une enquête menée auprès des entreprises titulaires."
+title: "Marchés publics d'infrastructures : les retards qui naissent loin du chantier"
+description: "Mise en vigueur, revue des études, fiches matériel, paiements, interfaces : où un marché d'infrastructures perd ses mois, et ce que le contrat doit fixer."
 category: Marchés publics
 keywords: [marchés publics, commande publique, appel d'offres, dossier d'appel d'offres, DAO, passation des marchés, mise en vigueur du contrat, ordre de service, caution de bonne exécution, avance de démarrage, études d'exécution, validation des fiches techniques, délais de paiement, réclamations, mécanisme de gestion des plaintes, comité de règlement des différends, PGES, sauvegardes environnementales et sociales, Banque mondiale, FIDIC, électrification rurale, Tunisie, Afrique du Nord, Afrique]
 ---
 
-Quand un marché public d'infrastructures prend du retard, on regarde d'abord l'entreprise. Une grande partie du temps perdu se loge pourtant dans des étapes qui relèvent des deux parties : la mise en vigueur du contrat, la validation des études, l'approbation des fiches de matériel, le traitement des paiements. Le questionnaire qu'un programme d'électrification rurale, financé par un bailleur international, a adressé à ses entreprises titulaires dessine une carte complète de ces points de friction. Nous nous en servons ici comme fil conducteur.
+« Le marché est signé depuis quatre mois et nous n'avons pas encore planté un poteau. Le maître d'ouvrage nous parle déjà de pénalités. » Nous entendons cette phrase, ou sa variante côté maître d'ouvrage, sur presque tous les marchés de lignes, de réseaux et de petits ouvrages que nous suivons. Quand on reconstitue le calendrier, le chantier n'a souvent perdu que quelques semaines. Les mois manquants se sont accumulés avant lui, ou à côté : une garantie bancaire qui tarde, des plans d'études qui attendent un avis, une fiche de matériel renvoyée pour la troisième fois, un décompte resté dans un parapheur.
 
-## Un questionnaire plutôt qu'un rapport
+Ces retards ont un point commun : aucune des deux parties ne les maîtrise seule. Ils se règlent donc dans le marché, avant la signature, ou ils se règlent plus tard, en réclamation.
 
-Il est rare qu'un maître d'ouvrage se fasse évaluer par ses entreprises. Le programme dont il est question ici, une série de marchés de lignes moyenne tension et de raccordements dans des zones rurales mal desservies, l'a fait : une enquête structurée auprès des constructeurs, menée par entretien, avec des questions fermées et des « pourquoi ? » systématiques.
+## Une enquête qui inverse les rôles
 
-Le guide d'entretien suit le cycle de vie d'un marché, de l'avis d'appel d'offres jusqu'à la gestion des plaintes. Chaque section correspond à un moment où le projet peut perdre des semaines, et chaque question à une cause identifiée de retard. Nous reprenons cette structure.
+Un programme d'électrification rurale financé par un bailleur international, composé de marchés de lignes moyenne tension et de raccordements, a fait une chose rare : il a fait interroger ses entreprises titulaires sur son propre fonctionnement. Entretiens structurés, questions fermées, et un « pourquoi ? » après chaque réponse négative. Le guide suit le marché de l'avis d'appel d'offres jusqu'aux plaintes, et chaque question vise une cause connue de glissement.
 
-## 1. La passation : l'information, les clarifications, l'attente
+Nous ne reprenons pas ce guide question par question. Il nous sert de grille, parce qu'il recoupe ce que nous observons en assistance à maîtrise d'ouvrage comme aux côtés des entreprises : le temps se perd dans les étapes où une partie attend l'autre.
 
-Les premières questions portent sur l'accès à l'information : par quel canal l'entreprise a-t-elle appris l'existence du marché ? Presse nationale, journal officiel des marchés, site du bailleur, réseaux sociaux. La publicité est le premier garant de la concurrence, et un appel d'offres mal diffusé produit peu d'offres, donc des prix moins bons.
+![Sept étapes de retard](/assets/blog/marches-publics-sept-etapes-retards.svg)
+*Figure 1. Les sept étapes où se forment les retards, de la passation au traitement des plaintes, et les dispositions qui réduisent le glissement.*
 
-Viennent ensuite la méthode de sélection et le type de contrat. Le guide distingue l'appel d'offres, la demande de cotation, la consultation de fournitures, l'entente directe et, pour les prestations intellectuelles, la sélection fondée sur la qualité et le coût et la sélection fondée sur les qualifications du consultant. Côté contrat, il distingue le forfait, le temps passé, la conception et le marché de fourniture et travaux. Ces choix pèsent sur l'exécution : un forfait reporte sur l'entreprise le risque des quantités, un marché de conception-réalisation lui confie la responsabilité des études.
+## Avant l'ordre de service : quatre conditions qui ne dépendent pas du chantier
 
-Trois questions concernent la préparation de l'offre : l'entreprise a-t-elle demandé des clarifications sur les termes de référence ou le dossier d'appel d'offres, a-t-elle obtenu une réponse, a-t-elle demandé un report de la date limite ? Une demande de clarification non traitée, ou traitée tard, se retrouve presque toujours plus tard sous forme de réclamation. La règle de bonne pratique, que reprennent les réglementations nationales comme celles des bailleurs, est simple : chaque réponse est diffusée à **tous** les candidats, par écrit, dans un délai qui leur laisse le temps d'en tenir compte.
-
-Le questionnaire demande enfin à l'entreprise ce qu'elle a pensé du délai d'évaluation des offres et de publication des résultats. Une évaluation trop longue a un coût caché : les offres deviennent caduques, les prix des matériaux changent, les équipes proposées ne sont plus disponibles.
-
-## 2. La mise en vigueur : le contrat est signé, mais rien ne commence
-
-C'est l'une des sections les plus instructives. Entre la signature et l'entrée en vigueur, il reste quatre étapes, qui dépendent des deux parties :
+Entre la signature et l'entrée en vigueur, quatre démarches doivent aboutir :
 
 - l'enregistrement du contrat auprès de l'administration fiscale ;
-- la mise en place des garanties bancaires, en particulier la garantie de restitution de l'avance de démarrage et la garantie de bonne exécution ;
+- la remise des garanties bancaires, en particulier la garantie de restitution de l'avance de démarrage et la garantie de bonne exécution ;
 - la souscription des assurances ;
 - la constitution du comité de règlement des différends, lorsque le contrat en prévoit un.
 
-Le guide demande, pour chacune, si elle a pu être remplie dans les délais. Sur des marchés exécutés par des entreprises locales ou régionales, l'obtention d'une garantie bancaire peut à elle seule prendre plusieurs semaines. Le maître d'ouvrage qui l'anticipe, en annonçant clairement les modèles de garantie acceptés et les banques recevables dès le dossier d'appel d'offres, gagne autant de temps.
+Pour une entreprise locale ou régionale, la garantie bancaire peut prendre à elle seule plusieurs semaines : la banque veut le texte exact, le texte du dossier ne correspond pas à son modèle, on échange trois versions. Le maître d'ouvrage qui annexe au dossier d'appel d'offres les modèles de garantie acceptés, et qui indique les banques recevables, supprime ces allers-retours.
 
-La même section interroge l'entreprise sur les termes du contrat qui lui posent difficulté : conditions de paiement, disponibilité de l'ingénieur chargé du contrôle, fonctionnement des commissions de suivi et de réception, délais des livrables, retards de paiement. Autant de sujets qu'un dossier d'appel d'offres bien rédigé règle par avance.
+L'édition harmonisée des conditions FIDIC pour les banques multilatérales de développement va plus loin : la date de commencement y est liée à des conditions préalables, parmi lesquelles la preuve du financement, l'accès effectif au site et le versement de l'avance. Cela protège l'entreprise contre un délai qui court alors qu'elle ne peut pas travailler. Cela oblige aussi le maître d'ouvrage à préparer sa part : un site libéré, des autorisations obtenues, une avance budgétée.
 
-## 3. Le démarrage et les études d'exécution
+L'ordre de service fait courir les délais contractuels. La réunion de démarrage, elle, fixe pour toute la durée du marché les circuits de validation, les interlocuteurs et les formats de documents. Une réunion de démarrage expédiée se paie à chaque soumission de document.
 
-Le questionnaire demande si la réunion de démarrage a permis à l'entreprise de comprendre ce qu'on attendait d'elle, puis si la notification de l'ordre de service a respecté les termes du contrat. Ces deux questions comptent plus qu'il n'y paraît : l'ordre de service fait courir les délais contractuels, et une réunion de démarrage réussie fixe les circuits de validation, les interlocuteurs et les formats de documents pour toute la durée du marché.
+## Les études d'exécution : la donnée d'entrée manquante
 
-Viennent ensuite les études d'exécution, avec des questions très concrètes. Le guide demande :
+Sur un marché de lignes, les études d'exécution dépendent de données que l'entreprise ne produit pas : plans cadastraux, tracés de principe, hypothèses de calcul mécanique fixées par l'exploitant du réseau. Le guide d'entretien pose les bonnes questions. Les plans fournis permettaient-ils les levés topographiques sur tous les tracés ? Les hypothèses de calcul ont-elles changé après la signature ? Les observations sont-elles revenues à temps ?
 
-- si les délais alloués aux études étaient raisonnables ;
-- si les plans cadastraux fournis par le maître d'ouvrage permettaient de réaliser les levés topographiques sur l'ensemble des tracés ;
-- si la modification des hypothèses de calcul mécanique des lignes convenait à l'entreprise ;
-- si l'accompagnement du maître d'ouvrage, de l'ingénieur-conseil et du futur exploitant du réseau dans la validation des études a été satisfaisant, et sinon pourquoi : retard dans le retour des observations, nouvelle exigence formulée en cours de route, allongement des délais.
+Trois mécanismes reviennent :
 
-Chacune de ces causes est familière à quiconque a conduit un projet d'infrastructure. Des données d'entrée incomplètes, ici des plans cadastraux, obligent l'entreprise à refaire un travail qui n'était pas prévu. Une hypothèse de conception modifiée après la signature est, juridiquement, une modification du marché. Un circuit de validation qui associe trois parties (maître d'ouvrage, ingénieur-conseil, exploitant) multiplie les allers-retours si l'ordre des avis et leur délai ne sont pas fixés.
+- **Donnée d'entrée incomplète.** Si les plans cadastraux ne couvrent pas tout le tracé, l'entreprise refait un relevé qui n'était pas prévu au prix. Le marché doit dire qui porte ce risque : soit le maître d'ouvrage garantit ses données, soit le relevé est un poste du bordereau.
+- **Exigence nouvelle.** Une hypothèse de conception modifiée après la signature est une modification du marché. Si elle arrive sous forme de commentaire de revue, elle passe inaperçue jusqu'au décompte final.
+- **Revue à plusieurs voix.** Quand le maître d'ouvrage, l'ingénieur-conseil et le futur exploitant donnent chacun leur avis, sans ordre ni délai fixés, chaque document fait plusieurs tours. Nous recommandons un avis unique et consolidé, transmis par l'ingénieur, dans un délai écrit.
 
-## 4. Les approvisionnements
+## Le circuit d'approbation et le chemin critique
 
-Le guide consacre plusieurs questions au matériel : les fiches techniques ont-elles été validées dans les délais, et sinon, la faute en revient-elle à une transmission tardive par l'entreprise, à un retour tardif du maître d'ouvrage, ou à une nouvelle spécification du matériel ? Les commandes ont-elles été passées, et les conditions préalables respectées : validation des fiches techniques, validation des études d'exécution, accord du maître d'ouvrage sur la commande ? Le matériel a-t-il été livré sur le site, et les formalités nécessaires ont-elles suivi, notamment l'attestation de prise en charge des droits et taxes de douane ?
+Dans un marché de fourniture et travaux, le chemin critique passe très souvent par l'approbation des documents plutôt que par le chantier. La séquence est connue : fiche technique, validation, commande, fabrication, transport, dédouanement, livraison. Chaque fiche renvoyée décale une commande, et une commande décalée de quatre semaines sur un matériel à long délai décale un tronçon entier.
 
-Sur les projets financés par des bailleurs internationaux, l'exonération des droits et taxes sur les équipements importés est fréquente. Elle suppose une attestation délivrée par l'administration. Quand cette attestation tarde, le matériel attend au port, avec des frais de magasinage qui deviendront tôt ou tard une réclamation.
+Le guide demande, pour chaque retard de validation, d'où il venait : transmission tardive par l'entreprise, retour tardif du maître d'ouvrage, ou spécification nouvelle. La question mérite d'être posée en continu, pendant le marché, dans un registre des soumissions qui date chaque envoi et chaque retour. Sans ce registre, personne ne sait plus, six mois plus tard, à qui imputer un retard d'approvisionnement.
 
-Dans un marché de fourniture et travaux, le chemin critique passe très souvent par le **circuit d'approbation** des documents, pas par le chantier. Fixer contractuellement les délais de revue, le nombre de cycles de commentaires et la règle applicable en cas de silence de l'approbateur fait partie des clauses les plus utiles d'un marché.
+Les dispositions contractuelles qui protègent le mieux sont simples à écrire :
 
-## 5. L'exécution sur le terrain
+| Sujet | Ce que le marché doit fixer | Preuve à conserver |
+|---|---|---|
+| Revue des études et fiches techniques | Délai de revue, nombre maximal de cycles, effet du silence de l'approbateur | Registre des soumissions daté |
+| Données d'entrée du maître d'ouvrage | Liste, date de remise, partie qui porte le risque d'erreur | Accusé de réception, constat d'écart |
+| Exonérations douanières | Partie qui obtient l'attestation, délai, frais de magasinage | Demande déposée, relances, factures du port |
+| Paiements | Pièces du dossier de paiement, délais d'établissement et de paiement, intérêts de retard | Date de dépôt de chaque situation |
+| Disponibilité du site | Date ou jalon de mise à disposition, procès-verbal | Procès-verbal signé, photos datées |
 
-Une section entière porte sur l'environnement d'exécution : accueil réservé par les populations, recours à la main-d'œuvre locale et son effectif, perception des travaux par les habitants, qualité de la collaboration avec le maître d'ouvrage, l'ingénieur-conseil et l'exploitant du réseau, puis avec les services techniques déconcentrés de l'État.
+Les exonérations méritent une ligne à part. Sur les projets financés par un bailleur, les équipements importés sont souvent exonérés de droits et taxes, sous réserve d'une attestation administrative. Quand l'attestation tarde, le matériel attend au port, et les frais de magasinage deviennent tôt ou tard une réclamation.
 
-Le guide demande aussi si le maître d'ouvrage respecte ses propres engagements contractuels : délai de réponse aux sollicitations, information sur les pièces à fournir dans un dossier de paiement, délai de traitement des paiements, clarté des livrables attendus. Le contrat lie deux parties, et les retards de paiement figurent parmi les premières causes de ralentissement des chantiers, en particulier pour les entreprises dont la trésorerie est tendue.
+## Les interfaces entre partenaires
 
-## 6. Les sauvegardes environnementales et sociales
+Les retards ne naissent pas seulement entre le maître d'ouvrage et son titulaire. Dans un groupement, ils naissent aussi entre les membres, et le maître d'ouvrage n'en voit que l'effet.
 
-Les financements des bailleurs multilatéraux sont soumis à des cadres environnementaux et sociaux exigeants. Le questionnaire vérifie que l'entreprise dispose sur le chantier d'une équipe qualifiée, qu'elle a élaboré son plan de gestion environnementale et sociale, quelles mesures sont engagées ou achevées, et quelles difficultés elle rencontre pour les mettre en œuvre.
+Nous avons eu à reconstituer un tel cas. Le chef de file avait expédié des équipements conteneurisés alors que la plateforme de génie civil, à la charge de son partenaire, n'était pas prête. Le matériel est resté immobilisé : surestaries, magasinage, équipes en attente, frais avancés par le chef de file. La convention de groupement ne contenait aucune clause de retard entre membres. La preuve a dû être bâtie à partir des plannings successifs et des courriels où le partenaire s'engageait sur des dates, et chaque poste de coût a été chiffré pièce par pièce.
 
-Ces exigences sont parfois vécues comme une charge administrative. Elles ont pourtant un effet direct sur le déroulement du marché : un conflit avec une communauté riveraine, un accident sur la voie publique ou un litige foncier sur un tracé de ligne peuvent arrêter un chantier plus sûrement qu'un retard de matériel. Le plan de gestion environnementale et sociale doit donc être suivi au même rythme que le planning.
+Ce dossier aurait été réglé en une page si le groupement avait prévu :
 
-## 7. Les réclamations et les plaintes
+- une matrice d'interfaces qui dit qui livre quoi à qui, et à quelle date ;
+- des jalons de disponibilité (plateforme, accès, alimentation provisoire) suivis dans le planning commun ;
+- un procès-verbal de disponibilité du site signé avant toute expédition ;
+- des clauses de retard et de répartition des coûts entre membres, distinctes des pénalités dues au maître d'ouvrage.
 
-La dernière section porte sur les réclamations : au moment de la passation (constitution de l'offre, soumission, proposition d'attribution, négociation), puis pendant l'exécution. Ont-elles été traitées, et comment l'entreprise juge-t-elle le processus ?
+## Sur le terrain : riverains, sauvegardes et paiements
 
-Un mécanisme de gestion des plaintes accessible et réactif est exigé par les cadres des bailleurs, et le comité de règlement des différends prévu par les conditions contractuelles de type FIDIC sert le même objectif : régler les désaccords pendant le chantier. Les deux supposent la même discipline, celle de documenter les faits au moment où ils se produisent.
+Le guide consacre une section à l'environnement d'exécution : accueil par les populations, recours à la main-d'œuvre locale, collaboration avec l'ingénieur-conseil, l'exploitant et les services techniques de l'État. Sur un tracé de ligne qui traverse des terres agricoles, un litige foncier ou un conflit avec les riverains arrête un chantier plus sûrement qu'un retard de matériel.
 
-![Sept étapes de retard](/assets/blog/marches-publics-sept-etapes-retards.svg)
-*Figure 1. Les sept étapes où se forment les retards, du lancement de la passation au traitement des plaintes, et les leviers qui réduisent le glissement.*
+C'est la raison d'être des sauvegardes environnementales et sociales imposées par les bailleurs. Le questionnaire vérifie que l'entreprise a une équipe qualifiée sur le chantier, qu'elle a rédigé son plan de gestion environnementale et sociale, et quelles mesures sont engagées. Nous conseillons de suivre ce plan dans la même réunion et au même rythme que le planning. Une mesure de compensation en retard sur un tronçon est un risque d'arrêt sur ce tronçon.
 
-## Ce que chaque partie peut régler
+Le guide interroge aussi le maître d'ouvrage sur ses propres engagements : délai de réponse, liste des pièces d'un dossier de paiement, délai de paiement. Pour une entreprise à trésorerie tendue, un paiement en retard ralentit le chantier dès le mois suivant : moins d'équipes, commandes différées. Les conditions FIDIC fixent des délais d'établissement des certificats et de paiement, et prévoient des frais financiers en cas de retard. Ces délais n'ont d'effet que si les dates de dépôt sont tracées.
 
-Cette enquête oblige le maître d'ouvrage à regarder sa propre part dans les retards. Les causes qu'elle explore se répartissent assez équitablement entre les parties. Certaines relèvent de l'entreprise, comme la mobilisation insuffisante du personnel ou du matériel, ou la transmission tardive des documents. D'autres relèvent du maître d'ouvrage ou de son ingénieur : données d'entrée incomplètes, exigences nouvelles, retours tardifs, paiements lents. D'autres encore tiennent au contexte : climat, formalités douanières, accès aux sites.
+## Réclamations et plaintes : documenter au fil de l'eau
 
-Pour un maître d'ouvrage, plusieurs enseignements en découlent. Fournir des données d'entrée complètes et vérifiées, ou prévoir contractuellement leur relevé. Fixer dans le marché les délais de revue des études et des fiches techniques, et s'y tenir. Préparer la mise en vigueur dès la notification : modèles de garanties, enregistrement, assurances, comité des différends. Traiter les paiements comme une obligation au même titre que les livrables. Et écouter les entreprises pendant l'exécution du marché, sans attendre sa clôture.
+La dernière section du guide porte sur les réclamations, pendant la passation puis pendant l'exécution. Un mécanisme de gestion des plaintes accessible est exigé par les cadres des bailleurs, et le comité de règlement des différends des conditions FIDIC poursuit le même but : régler les désaccords pendant le chantier. Les deux fonctionnent avec la même matière, des faits notés au moment où ils se produisent : courrier, procès-verbal, photo datée, registre.
 
-Pour une entreprise, la liste est symétrique : lire le dossier d'appel d'offres comme un auditeur et poser ses questions à temps, anticiper les garanties bancaires, soumettre des documents complets, tracer chaque retard de réponse et chaque modification d'exigence, notifier dans les délais contractuels. Sans ces traces écrites, une réclamation pour retard de paiement ou pour exigence nouvelle a peu de chances d'aboutir.
+Une demande de clarification non traitée pendant l'appel d'offres finit souvent en réclamation pendant l'exécution. La pratique que reprennent les réglementations nationales et celles des bailleurs est de répondre par écrit, à tous les candidats, assez tôt pour qu'ils en tiennent compte dans leur offre.
+
+## Ce que chaque partie peut régler avant la signature
+
+Les causes explorées par l'enquête se répartissent entre les parties. L'entreprise mobilise trop peu de personnel ou de matériel, transmet ses documents tard. Le maître d'ouvrage et son ingénieur fournissent des données incomplètes, ajoutent des exigences, répondent et paient lentement. Le contexte ajoute le climat, les douanes, l'accès aux sites.
+
+Pour le maître d'ouvrage, l'essentiel se prépare dans le dossier d'appel d'offres : données d'entrée vérifiées ou relevé prévu au bordereau, délais de revue écrits, modèles de garanties annexés, dossier de paiement défini, site libéré à une date tenue.
+
+Pour l'entreprise, le travail commence à la lecture du dossier : poser ses questions avant la date limite, lancer les garanties dès l'attribution, soumettre des documents complets, tenir le registre des soumissions et notifier chaque retard de réponse ou chaque exigence nouvelle dans le délai contractuel. Une réclamation pour retard de paiement ou pour exigence nouvelle sans ces traces écrites a peu de chances d'aboutir.
 
 ## Références
 

@@ -1,37 +1,33 @@
 ---
-title: "L'audit qui sert à quelque chose : de la preuve au constat, du constat à l'action"
-description: "Conduire et exploiter un audit selon ISO 19011 : rédiger un constat utile, analyser les causes, choisir les actions correctives, vérifier leur efficacité."
+title: "« Combien de majeures ? » : ce qu'un auditeur senior dit vraiment à une direction"
+description: "Lire un audit selon ISO 19011 comme le fait un auditeur senior : constats fondés sur des preuves, causes, actions correctives et preuve d'efficacité."
 category: Audits et ISO 9001
 keywords: [audit, audit interne, audit de certification, audit fournisseur, audit technique, ISO 19011, ISO/IEC 17021-1, ISO 9001, ISO 14001, ISO 45001, système de management intégré, QHSE, non-conformité, non-conformité majeure, non-conformité mineure, constat d'audit, preuve d'audit, analyse des causes, cinq pourquoi, action corrective, efficacité, auditeur, Lead Auditor, IRCA, CQI, Tunisie, Afrique du Nord]
 ---
 
-> **En bref.** Beaucoup d'audits produisent des constats vagues, des réponses génériques et des actions qui corrigent l'effet sans toucher la cause : les mêmes écarts reviennent l'année suivante. Nous rappelons ici les règles d'ISO 19011 et ce qu'un audit de certification peut garantir. À partir de constats réels anonymisés, nous montrons comment passer d'une preuve à un constat utile, puis à une action qui tient.
+En réunion de clôture, le directeur général pose presque toujours la même question : « Combien de majeures ? » C'est une question légitime, puisque le certificat en dépend. C'est rarement la plus utile. Un auditeur expérimenté passe ses journées d'audit à chercher autre chose : l'endroit où la maîtrise se rompt entre ce que l'entreprise a écrit et ce qu'elle fait. Si cet endroit est sur le chantier, la question pour la direction n'est plus le certificat. Elle devient : que se passera-t-il le jour où un contrôle manquant coïncidera avec une situation dangereuse ?
 
-## Huit fiches, une seule histoire
+Voici comment nous raisonnons, de la preuve au constat et du constat à l'action, et ce que nous conseillons à une direction de demander à son auditeur.
 
-Fin d'un audit de certification combiné qualité, environnement et santé-sécurité, dans une entreprise de travaux électriques. L'auditeur remet huit fiches de non-conformité. Prises une à une, elles semblent disparates : une identification des dangers incomplète, une analyse environnementale qui ignore les bureaux et les déplacements, un plan d'armoire non conforme, des piquets de terre installés sans contrôle, une consignation électrique mal appliquée, une ceinture de sécurité volontairement neutralisée dans un véhicule de chantier, une norme d'installation introuvable dans l'entreprise, une veille réglementaire jamais traduite en évaluation de conformité.
+## Lire les écarts par l'endroit où ils se produisent
 
-Prises ensemble, les huit fiches racontaient la même histoire : rien n'était contrôlé sur le chantier. Les documents existaient. Les contrôles, la supervision et les responsabilités qui devaient les appliquer sur le terrain n'étaient pas en place.
+Lors d'un audit de certification combiné qualité, environnement et santé-sécurité d'une entreprise de travaux électriques, la liste des non-conformités semblait disparate : une norme d'installation introuvable dans l'entreprise, des piquets de terre posés sans contrôle à réception, une consignation électrique mal appliquée, une ceinture de sécurité volontairement neutralisée dans un véhicule de chantier, une veille réglementaire jamais traduite en évaluation de conformité.
 
-Le rapport le plus utile pour la direction était donc ce diagnostic d'ensemble, que chaque fiche, lue seule, ne faisait pas apparaître.
+Classées par article de norme, ces fiches se répartissaient sur trois référentiels et ne disaient rien d'ensemble. Classées par lieu, elles disaient une seule chose : les documents existaient au siège, les contrôles et la supervision qui devaient les appliquer sur le chantier n'étaient pas en place. C'est ce message que nous avons porté à la direction, avant le décompte. Une ceinture neutralisée montre que personne, sur place, ne vérifie ce que font les équipes. L'entreprise a désigné un responsable de supervision par chantier et instauré des contrôles inopinés ; les fiches ont été traitées dans ce cadre plutôt qu'une à une.
 
-## Ce qu'est un audit, et ce qu'il n'est pas
+## Ce qu'un audit permet de conclure
 
-ISO 19011, la norme de référence pour l'audit des systèmes de management, définit l'audit comme un processus **méthodique, indépendant et documenté**, permettant d'obtenir des preuves objectives et de les évaluer de manière objective pour déterminer dans quelle mesure les critères d'audit sont satisfaits. Reprenons la définition d'ISO 19011, terme par terme :
+ISO 19011 définit l'audit comme un processus **méthodique, indépendant et documenté** permettant d'obtenir des preuves objectives et de les évaluer pour déterminer dans quelle mesure les critères d'audit sont satisfaits. Reprenons la définition d'ISO 19011, terme par terme :
 
 - **méthodique** : un programme, un plan, un échantillonnage raisonné ;
 - **indépendant** : l'auditeur n'audite pas son propre travail ;
 - **documenté** : ce qui n'est pas écrit n'a pas été audité ;
-- **preuves objectives** : des enregistrements, des déclarations vérifiables, des observations datées et localisées ;
-- **critères** : une exigence identifiée, de la norme, du contrat, de la loi ou de la procédure interne.
+- **preuves objectives** : enregistrements, déclarations vérifiables, observations datées et localisées ;
+- **critères** : une exigence identifiée, de la norme, du contrat, de la loi ou d'une procédure interne.
 
-On distingue l'audit de **première partie** (interne), de **seconde partie** (un client audite son fournisseur) et de **tierce partie** (un organisme indépendant, en vue d'une certification). Les audits techniques de chantier, inspections inopinées d'un maître d'œuvre ou audits de procédé, obéissent à la même logique : comparer ce qui est fait à ce qui est exigé, sur la base de preuves.
+On distingue l'audit de première partie (interne), de seconde partie (un client audite son fournisseur) et de tierce partie (un organisme indépendant, en vue d'une certification). L'auditeur ne vérifie pas tout, ne propose pas de solution et ne juge personne : il compare un échantillon de preuves à une exigence. Une direction qui attend d'un audit la garantie qu'aucun défaut n'existe se trompe d'outil.
 
-L'auditeur ne vérifie pas tout, ne propose pas de solution et ne juge personne : il compare un échantillon de preuves à une exigence. Il dit si le système fonctionne ; il ne garantit pas la conformité de chaque produit.
-
-## Les sept principes d'ISO 19011
-
-L'édition 2018 de la norme pose sept principes, qui sont autant de garde-fous :
+La norme pose sept principes. Le dernier, ajouté dans l'édition 2018, change la répartition du temps d'audit.
 
 | Principe | Ce qu'il signifie en pratique |
 |---|---|
@@ -43,43 +39,47 @@ L'édition 2018 de la norme pose sept principes, qui sont autant de garde-fous :
 | Approche fondée sur la preuve | Des conclusions vérifiables, à partir d'un échantillon raisonné |
 | Approche par les risques | Concentrer l'effort là où les enjeux sont les plus forts |
 
-Le dernier principe a été ajouté en 2018. Il change la répartition du temps d'audit : sur un chantier électrique, la consignation mérite bien plus d'heures que la procédure d'archivage.
+Sur un chantier électrique, l'approche par les risques signifie que la consignation mérite bien plus d'heures que la procédure d'archivage. Si le plan d'audit répartit le temps à parts égales entre les chapitres de la norme, l'auditeur passera à côté de ce qui peut blesser quelqu'un.
 
-## L'audit de certification : ce qu'il garantit
+## Ce que vaut le certificat
 
-Les organismes de certification sont eux-mêmes encadrés, par ISO/IEC 17021-1 et par leur accréditation. Le cycle habituel comprend un audit initial en deux étapes, des audits de surveillance annuels et un renouvellement tous les trois ans. Une non-conformité **majeure**, qui met en doute la capacité du système à atteindre les résultats attendus, bloque la certification jusqu'à son traitement ; une non-conformité **mineure** doit faire l'objet d'un plan d'actions accepté.
+Les organismes de certification sont encadrés par ISO/IEC 17021-1 et par leur accréditation. Le cycle habituel comprend un audit initial en deux étapes, des audits de surveillance annuels et un renouvellement tous les trois ans. Une non-conformité **majeure** met en doute la capacité du système à atteindre les résultats attendus et bloque la certification jusqu'à son traitement. Une **mineure** appelle un plan d'actions accepté.
 
-Un certificat atteste qu'un système conforme à la norme existe et fonctionne, sur l'échantillon audité. Il ne garantit pas qu'aucun défaut n'existe ailleurs. Les audits internes et les audits techniques complètent donc l'audit de certification : ils vont là où l'organisme certificateur ne va pas, plus souvent et plus en profondeur.
+Le certificat atteste qu'un système conforme existe et fonctionne sur l'échantillon audité, en quelques jours par an. Les audits internes et techniques vont là où l'organisme ne va pas, plus souvent et plus en profondeur. Une entreprise qui ne compte que sur l'audit de certification découvre ses écarts par ses clients.
 
 ![Anatomie d'une non-conformité](/assets/blog/audit-anatomie-non-conformite.svg)
 *Figure 1. Les trois éléments d'un constat, les deux réponses qu'il appelle, et la vérification qui ferme la boucle.*
 
-## Rédiger un constat utile
+## Un constat que l'on peut traiter
 
-Un constat de non-conformité utile contient trois éléments, et seulement trois : l'**exigence**, la **preuve**, et l'**écart** entre les deux. Les fiches de notre exemple suivaient un bon modèle : rappel de l'exigence, constat factuel, libellé de l'écart, risque associé, site concerné.
+Un constat utile contient trois éléments : l'**exigence**, la **preuve** et l'**écart** entre les deux. Quand l'un manque, le constat devient contestable ou impossible à traiter. Nous voyons trois défauts récurrents, y compris dans des rapports d'organismes reconnus.
 
-Elles illustrent aussi trois défauts fréquents.
+La preuve absente. Nous avons lu une fiche dont le champ « constat » contenait encore la consigne de rédaction du modèle. L'organisme audité ne savait pas ce qu'il devait corriger. Une preuve se cite avec précision : document et révision, date, lieu, équipement, fonction de la personne interrogée.
 
-**La preuve absente.** Sur l'une des fiches, le champ du constat factuel contenait encore la consigne de rédaction : « mettre ici les preuves relatives au plan d'armoire non conforme ». Un constat sans preuve est contestable, et surtout inexploitable : l'organisme ne sait pas exactement ce qu'il doit corriger. La preuve doit être précise : document, révision, date, lieu, équipement, personne interrogée (par sa fonction).
+La mauvaise référence. Dans un audit intégré, il est facile de rattacher à ISO 14001 un écart qui relève d'ISO 9001 ou d'ISO 45001. La confusion affaiblit le rapport et oriente le traitement vers le mauvais processus.
 
-**La mauvaise référence.** Deux fiches citaient une exigence d'ISO 14001 alors que le texte reproduit et le sujet relevaient d'ISO 9001 pour l'une, d'ISO 45001 pour l'autre. Dans un audit intégré, la confusion est facile ; elle affaiblit la crédibilité du rapport et complique le traitement. Chaque constat se rattache à la bonne norme et au bon article.
-
-**Le libellé qui répète l'exigence.** « L'organisme n'a pas mis en œuvre la production dans des conditions maîtrisées » n'apprend rien à personne. Le libellé utile dit ce qui manque : « le plan d'armoire mis en œuvre n'avait pas été vérifié avant exécution, et deux points de mise à la terre ne correspondaient pas à la spécification ».
+Le libellé qui recopie l'exigence. « L'organisme n'a pas mis en œuvre la production dans des conditions maîtrisées » n'apprend rien. « Le plan d'armoire mis en œuvre n'avait pas été vérifié avant exécution, et deux points de mise à la terre ne correspondaient pas à la spécification » dit quoi corriger.
 
 ## De l'écart à la cause
 
-Une non-conformité appelle deux réponses distinctes, que la norme sépare clairement (ISO 9001, 10.2) :
+ISO 9001 (10.2), comme ISO 14001 et ISO 45001, sépare deux réponses :
 
-- la **correction**, qui traite l'écart constaté : remplacer les piquets de terre, réparer la ceinture, acquérir la norme manquante ;
-- l'**action corrective**, qui traite la cause pour éviter que l'écart ne se reproduise, ailleurs ou plus tard.
+- la **correction** traite l'écart constaté : remplacer les piquets de terre, réparer la ceinture, acquérir la norme manquante ;
+- l'**action corrective** traite la cause, pour que l'écart ne se reproduise ni ailleurs ni plus tard.
 
-Les analyses de causes de notre exemple sont instructives. Pour la norme introuvable : aucun processus formalisé de veille normative, aucun registre des documents d'origine externe, aucun responsable désigné. Pour la consignation et la ceinture neutralisée : contrôles opérationnels insuffisants sur chantier, procédure non intégrée aux pratiques, sensibilisation insuffisante aux comportements à risque. Chacune désigne un processus, un registre ou un rôle à créer dans l'organisation.
+Pour la norme introuvable, la cause était l'absence de processus de veille normative, de registre des documents d'origine externe et de responsable désigné. Pour la consignation et la ceinture, des contrôles opérationnels insuffisants sur chantier et une procédure restée sur le papier. Chaque cause désignait un processus, un registre ou un rôle à créer.
 
-Deux méthodes simples suffisent dans la plupart des cas : les **cinq pourquoi**, à condition de ne pas s'arrêter à « erreur humaine », et le **diagramme d'Ishikawa**, qui oblige à examiner les méthodes, les moyens, les compétences, les matières et l'environnement. Une analyse qui conclut à l'erreur d'un individu n'a généralement pas cherché assez loin : pourquoi l'erreur était-elle possible, et pourquoi n'a-t-elle pas été détectée ?
+Les cinq pourquoi suffisent souvent, à condition de ne pas s'arrêter à « erreur humaine ». Le diagramme d'Ishikawa oblige à examiner méthodes, moyens, compétences, matières et environnement. Une analyse qui conclut à la faute d'un individu n'a pas cherché pourquoi l'erreur était possible ni pourquoi personne ne l'a détectée.
 
-## Vérifier que l'action a marché
+## Le délai qui trahit un système
 
-C'est l'étape la plus souvent oubliée. La norme demande d'évaluer l'efficacité des actions correctives. Concrètement, cela veut dire définir dès la rédaction de l'action **comment on saura qu'elle a fonctionné**, et le vérifier à une date fixée :
+Le temps de clôture des fiches en dit long à une direction. Dans le registre d'écarts d'un grand projet industriel que nous avons analysé, un quart des fiches restaient ouvertes plus d'un an. Ce n'étaient pas les plus graves : c'étaient celles qui n'avaient ni propriétaire, ni échéance, ni revue périodique. Un registre sans revue mensuelle devient une archive, et chaque audit suivant retrouve les mêmes écarts sous un autre numéro.
+
+Nous conseillons à une direction de suivre deux chiffres plutôt que le nombre de fiches : l'âge des fiches ouvertes et la part des actions closes avec une preuve d'efficacité.
+
+## La preuve d'efficacité, fixée dès le départ
+
+La norme demande d'évaluer l'efficacité des actions correctives. Concrètement, on écrit dès la rédaction de l'action comment on saura qu'elle a marché, et on le vérifie à une date fixée :
 
 | Non-conformité | Action corrective | Preuve d'efficacité attendue |
 |---|---|---|
@@ -88,26 +88,19 @@ C'est l'étape la plus souvent oubliée. La norme demande d'évaluer l'efficacit
 | Consignation mal appliquée | Procédure, formation terrain, contrôle par le responsable SST | Contrôles inopinés sans écart sur trois mois |
 | Dangers de chantier non identifiés | Revue de l'analyse à chaque nouveau site, retour d'expérience intégré | Analyses de risques de chantier incluant faune, climat, déplacements |
 
-La dernière colonne fixe ce que l'auditeur viendra chercher à la date de vérification.
+La dernière colonne fixe ce que l'auditeur viendra chercher. Une fiche n'est close que lorsque cette preuve existe.
 
-## L'audit technique de terrain
+## Sur le terrain, le document ne suffit pas
 
-Les audits de système de management ont leur pendant sur les chantiers et dans les usines : inspections inopinées du maître d'œuvre, audits fournisseurs, audits de procédés spéciaux comme le soudage. Sur un projet de lignes électriques, des visites inopinées du maître d'œuvre ont mis en évidence, en une journée, l'absence de vibration du béton des massifs, l'absence d'éprouvettes de contrôle et l'absence d'essais de convenance après un changement de granulats. Aucun audit documentaire n'aurait vu ces écarts : ils n'existent que sur le terrain, au moment où le travail se fait.
+Les audits de système ont leur pendant sur les chantiers et dans les usines : inspections inopinées du maître d'œuvre, audits fournisseurs, audits de procédés spéciaux comme le soudage. Sur un projet de lignes électriques, une journée de visites inopinées a montré que le béton des massifs n'était pas vibré, qu'aucune éprouvette n'était prélevée et qu'aucun essai de convenance n'avait suivi un changement de granulats, alors que EN 206 et EN 13670 encadrent la spécification et l'exécution. Aucun audit documentaire n'aurait vu ces écarts.
 
-L'audit technique demande des auditeurs qui connaissent le métier audité. Un auditeur qui n'a jamais vu un massif coulé ou une consignation réalisée vérifie qu'une procédure existe, sans pouvoir juger si elle convient. Pour cette raison, les programmes d'audit solides associent un auditeur méthode et un expert technique.
+Ce type d'audit exige des auditeurs qui connaissent le métier. Un auditeur qui n'a jamais vu un massif coulé vérifie qu'une procédure existe, sans pouvoir juger si elle convient. Les programmes d'audit solides associent un auditeur méthode et un expert technique.
 
-## Préparer un audit, côté audité
+## Ce qu'une direction peut demander à son prochain audit
 
-Pour l'organisme audité, la meilleure préparation n'est pas de « préparer l'audit », mais de faire en sorte que le système fonctionne au quotidien. Quelques réflexes aident toutefois :
+Avant l'audit, demander que le plan d'audit montre la répartition du temps par risque, et qu'au moins une journée se passe sur un chantier ou un atelier en activité. Faire conduire un audit interne sincère quelques semaines avant, et présenter à l'auditeur les écarts déjà détectés avec leur traitement.
 
-- connaître ses propres faiblesses, par des audits internes sincères menés quelques semaines avant ;
-- s'assurer que les enregistrements existent, sont datés et retrouvables ;
-- présenter les écarts déjà détectés et leur traitement plutôt que de les cacher ;
-- impliquer les personnes de terrain, qui sont celles que l'auditeur interrogera.
-
-## Clore une non-conformité
-
-Une fiche n'est close que lorsque la preuve d'efficacité est là. Notre critère de clôture : trois mois de contrôles inopinés sans écart, comme dans le tableau ci-dessus pour la consignation. Cela suppose des constats appuyés sur des preuves précises et des actions qui traitent les causes. Il faut aussi des auditeurs formés à la méthode, qui connaissent le métier audité et restent assez indépendants pour écrire ce qu'ils voient, et un audité qui se sert du rapport pour corriger son système.
+En réunion de clôture, après le décompte des majeures, poser deux questions : où se situent les écarts, au siège ou sur le terrain, et lesquels pourraient conduire à un accident ou à une réclamation client. Puis exiger que chaque action corrective porte sa preuve d'efficacité et sa date de vérification, et faire revoir chaque mois les fiches ouvertes depuis plus de trois mois.
 
 ## Références
 

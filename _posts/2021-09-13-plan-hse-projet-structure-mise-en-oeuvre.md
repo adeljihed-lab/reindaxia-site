@@ -1,25 +1,25 @@
 ---
-title: "Le plan HSE de projet : de la pièce d'appel d'offres au système qui protège réellement"
-description: "Structurer et faire vivre un plan HSE de projet : ISO 45001, ISO 14001, registre réglementaire tunisien, analyse des dangers, urgence, actions correctives."
+title: "Plan HSE de projet : comment juger en une heure s'il protégera le chantier"
+description: "Évaluer un plan HSE de projet : ISO 45001, ISO 14001, registre réglementaire tunisien, analyse des tâches, plan d'urgence et actions correctives."
 category: HSE et sécurité des procédés
 keywords: [plan HSE, plan HSSE, HSE management plan, ISO 45001, ISO 14001, OHSAS 18001, IOGP, système de management HSE, analyse de sécurité des tâches, JSA, permis de travail, hiérarchie des mesures de prévention, EPI, plan d'urgence, voies d'évacuation, point de rassemblement, registre réglementaire, réglementation environnementale tunisienne, étude d'impact, déchets, indicateurs HSE, incidents, actions correctives, leadership, pétrole et gaz, construction, Tunisie]
 ---
 
-> **En bref.** Presque tous les appels d'offres de l'énergie et de l'industrie exigent un plan HSE, que beaucoup d'entreprises adaptent à la hâte d'un modèle puis rangent une fois le contrat signé. Ce plan devrait pourtant décliner, pour un chantier, une équipe et des risques donnés, le système de management santé, sécurité et environnement de l'entreprise. Nous comparons ici des plans HSE réels, du plus générique au plus abouti, pour voir ce qui sépare un document de candidature d'un outil de chantier.
+« Les sommaires sont identiques. Lequel dois-je refuser ? » Un maître d'ouvrage nous posait la question deux semaines avant de mobiliser ses entreprises. Il avait reçu plusieurs plans HSE avec les offres et ne pouvait pas différer le démarrage. S'il acceptait un plan vide, il endossait une partie du risque dès le premier jour. S'il les refusait tous, il perdait un mois.
 
-## Trois plans, trois niveaux de maturité
+Le sommaire d'un plan HSE ne dit presque rien de sa valeur : tous les modèles du marché affichent politique, organisation, formation, urgence et incidents. Ce qui distingue un plan utilisable se lit ailleurs, en une heure, à condition de savoir où regarder.
 
-Le premier plan a été rédigé pour une offre d'inspection d'installations pétrolières : relevé de l'état existant, inspection des équipements, évaluation de l'aptitude au service des appareils à pression. Il contient tous les titres attendus : politique, organisation, induction, causeries, équipements de protection, formation, audits, urgence, alcool et drogues, suivi médical, incidents. Mais il cite comme référentiel de santé-sécurité une norme remplacée depuis par ISO 45001, comporte des fautes jusque dans ses titres, et décrit l'activité en reprenant mot pour mot le cahier des charges du client. Aucune analyse des dangers propres aux inspections (travail en hauteur, espaces confinés, présence d'hydrocarbures, travail isolé sur des sites éloignés) n'y figure.
+## Trois plans, trois décisions
 
-Le deuxième est le modèle de plan d'actions correctives d'une entreprise de services : un tableau de neuf lignes avec cinq colonnes, numéro, description de la non-conformité, action, responsable, délai, suivi. C'est mieux que rien. Mais aucune colonne pour la cause, ni pour la vérification de l'efficacité.
+Le plus soigné en apparence accompagnait une offre d'inspection d'installations pétrolières. Il citait une norme de santé-sécurité remplacée depuis par ISO 45001, recopiait le cahier des charges pour décrire l'activité et ne mentionnait aucun des dangers propres au métier : travail en hauteur, espaces confinés, hydrocarbures, intervenants seuls sur des sites éloignés. Un deuxième se réduisait à un tableau d'actions correctives sans colonne pour la cause ni pour la vérification de l'efficacité. Le troisième, rédigé pour la phase d'ingénierie d'un projet industriel, partait d'un registre réglementaire référencé au Journal officiel et déroulait objectifs, responsabilités, gestion des modifications et exigences aux fournisseurs.
 
-Le troisième est le plan HSSE de la phase d'ingénierie d'un projet gazier en Tunisie. Il commence par un registre réglementaire détaillé : plusieurs dizaines de lois, décrets et arrêtés tunisiens sur l'environnement, les déchets, l'air, l'eau, le travail, chacun avec sa référence au Journal officiel. Il fixe des objectifs, des indicateurs, une organisation, des responsabilités par fonction, une approche de conception fondée sur les risques, la gestion des modifications, les exigences HSSE imposées aux fournisseurs, la sécurité des déplacements, les réponses d'urgence, l'enquête sur les incidents, les audits et la revue de direction. Un plan HSE se juge à ce qui est tenu à jour chaque semaine : registres, inspections, actions.
+Notre réponse a tenu en une page : accepter le troisième sous réserve d'une revue mensuelle du registre, faire ajouter deux colonnes au deuxième, faire réécrire le premier à partir d'une analyse des tâches réelles avant toute mobilisation. Le critère n'était pas la longueur. Nous avons regardé ce que chaque plan permettait de suivre, semaine après semaine, sur le chantier.
 
-## Ce qu'un plan HSE doit être
+## La grille que nous appliquons
 
-Un plan HSE de projet a une fonction précise : montrer comment le système de management de l'entreprise s'applique à **ce** projet, avec **ses** risques, **ses** intervenants et **ses** exigences contractuelles et réglementaires. Les référentiels convergent sur sa structure.
+Un plan HSE de projet montre comment le système de management de l'entreprise s'applique à **ce** projet, avec ses risques, ses intervenants et ses exigences. ISO 45001 et ISO 14001 partagent la structure de haut niveau des normes de systèmes de management : contexte, leadership, planification par les risques, ressources et compétences, maîtrise opérationnelle, évaluation des performances, amélioration. Dans le pétrole et le gaz, l'IOGP décrit un cadre de système de management opérationnel (rapport 510) et la façon d'articuler les systèmes du donneur d'ordres et de l'entrepreneur dans un contrat (rapport 423). HSG65, le guide du HSE britannique, suit la même boucle planifier, faire, vérifier, agir.
 
-ISO 45001 (santé et sécurité au travail) et ISO 14001 (environnement) partagent la structure de haut niveau des normes de systèmes de management : contexte, leadership, planification par les risques, ressources et compétences, maîtrise opérationnelle, évaluation des performances, amélioration. Dans l'industrie pétrolière et gazière, les guides de l'IOGP, l'association internationale des producteurs de pétrole et de gaz, décrivent un cadre de système de management opérationnel et la façon dont donneur d'ordres et entrepreneur doivent articuler leurs systèmes respectifs dans un contrat. Un plan HSE solide suit cette logique :
+Nous relisons un plan avec cette grille, une question par bloc :
 
 | Bloc | Contenu attendu | Question à laquelle il répond |
 |---|---|---|
@@ -33,43 +33,47 @@ ISO 45001 (santé et sécurité au travail) et ISO 14001 (environnement) partage
 | Performance | Inspections, indicateurs, incidents, enquêtes, audits | Comment sait-on si cela fonctionne ? |
 | Amélioration | Actions correctives, revue de direction, retour d'expérience | Comment progresse-t-on ? |
 
-## Le registre réglementaire : la base souvent oubliée
+Un bloc dont la réponse pourrait figurer dans le plan d'un autre projet sans changer un mot est un bloc à reprendre.
 
-Le plan gazier citait de nombreux textes tunisiens : le décret de 2005 relatif à l'étude d'impact sur l'environnement, la loi de 1996 relative aux déchets et au contrôle de leur gestion et de leur élimination, le décret fixant la liste des déchets dangereux, la loi de 2007 sur la qualité de l'air, la loi portant création de l'agence nationale de protection de l'environnement, les textes sur l'eau, les établissements classés et le travail. Ce registre fixe les autorisations à obtenir, les rejets admissibles, les filières de déchets obligatoires, les déclarations à faire.
+## Premier test : le registre réglementaire est-il appliqué ?
 
-Un registre a deux qualités indispensables : il est **à jour**, et il est **évalué**. Sur un chantier industriel, le registre citait bien la loi sur les déchets. Les terres excédentaires et les déblais impropres partaient pourtant sans les autorisations de transport et de mise en dépôt exigées par le contrat, et la base vie fonctionnait sans l'attestation de prévention incendie. C'est le maître d'ouvrage qui l'a relevé, par des fiches d'écart. Le texte figurait dans le registre ; personne n'avait vérifié son application sur le terrain.
+Le registre fixe les autorisations à obtenir, les rejets admissibles, les filières de déchets obligatoires et les déclarations à faire. En Tunisie, un chantier industriel croise au minimum le décret de 2005 relatif à l'étude d'impact sur l'environnement, la loi de 1996 relative aux déchets et au contrôle de leur gestion et de leur élimination, le texte fixant la liste des déchets dangereux, la loi de 2007 sur la qualité de l'air, ainsi que les textes sur l'eau, les établissements classés et le travail.
 
-## L'analyse des dangers, du projet à la tâche
+Nous vérifions deux choses : le registre est à jour, et chaque exigence a été évaluée sur le terrain. Sur un chantier industriel, la loi sur les déchets figurait bien au registre. Les déblais impropres partaient pourtant sans les autorisations de transport et de mise en dépôt exigées par le contrat, et la base vie fonctionnait sans attestation de prévention incendie. Le maître d'ouvrage l'a relevé par des fiches d'écart. Le texte était cité ; personne n'avait contrôlé son application.
 
-L'analyse des dangers se fait à deux niveaux.
+Le contrôle tient en une colonne de plus dans le registre : « preuve de conformité et date de la dernière vérification ».
 
-Au **niveau du projet**, elle identifie les grands risques : travaux en hauteur, levages, espaces confinés, énergies dangereuses, produits inflammables ou toxiques, circulation, chaleur, isolement des sites, sûreté. Elle conduit à des choix de méthodes, d'organisation et de moyens.
+## Deuxième test : l'analyse des dangers descend-elle jusqu'à la tâche ?
 
-Au **niveau de la tâche**, l'analyse de sécurité des tâches (souvent appelée JSA, *Job Safety Analysis*) décompose chaque opération non routinière en étapes, identifie les dangers de chaque étape, évalue le risque avec une matrice de gravité et de probabilité, et définit les mesures. Les meilleures procédures que nous ayons vues la rattachent directement au permis de travail : le permis n'est pas approuvé sans l'analyse jointe. Elles prévoient aussi de classer les analyses dans un registre, pour les réutiliser lors de tâches similaires et pour analyser statistiquement les risques récurrents. Une équipe qui reprend un levage déjà analysé part ainsi de l'analyse précédente et de ses observations.
+L'analyse se fait à deux niveaux. Au niveau du projet, elle identifie les grands risques (hauteur, levages, espaces confinés, énergies dangereuses, produits inflammables ou toxiques, circulation, chaleur, isolement des sites, sûreté) et oriente les méthodes, l'organisation et les moyens. Au niveau de la tâche, l'analyse de sécurité des tâches (JSA) décompose chaque opération non routinière en étapes, évalue le risque de chaque étape avec une matrice de gravité et de probabilité, et fixe les mesures.
 
-## La hiérarchie des mesures de prévention
+Les meilleures procédures que nous ayons vues rattachent la JSA au permis de travail : le permis n'est pas approuvé sans l'analyse jointe. Elles classent aussi les analyses dans un registre. Une équipe qui reprend un levage déjà analysé part de l'analyse précédente et de ses observations, et le responsable HSE peut repérer les risques qui reviennent d'une tâche à l'autre.
 
-ISO 45001 impose une hiérarchie claire (8.1.2) : éliminer le danger, le remplacer par quelque chose de moins dangereux, mettre en place des protections collectives et réorganiser le travail, appliquer des mesures administratives et former, et seulement en dernier lieu recourir aux équipements de protection individuelle.
+Le signe d'alerte est simple à repérer : des JSA signées après le début du travail, ou toutes identiques d'une tâche à l'autre.
 
-Les standards d'équipements de protection des grands projets le rappellent explicitement : l'équipement individuel est la dernière méthode de la hiérarchie, parce qu'il ne réduit que l'exposition, que la protection théorique est rarement atteinte en pratique, et que le danger reste présent. Ces standards précisent ensuite, équipement par équipement, les normes de référence (casques EN 397, gants EN 388, chaussures EN ISO 20345, protection oculaire EN 166, protection auditive EN 352), la durée de vie, l'attribution individuelle et la responsabilité de chacun de l'entretenir.
+## Troisième test : la hiérarchie des mesures est-elle respectée ?
 
-Un plan HSE qui consacre trois pages aux équipements de protection et trois lignes aux protections collectives a inversé la hiérarchie.
+ISO 45001 (8.1.2) fixe l'ordre : éliminer le danger, le remplacer par quelque chose de moins dangereux, mettre en place des protections collectives et réorganiser le travail, appliquer des mesures administratives et former, et seulement en dernier lieu recourir aux équipements de protection individuelle.
 
-## L'urgence se prépare sur plan
+Les standards d'EPI des grands projets le rappellent : l'équipement individuel ne réduit que l'exposition, la protection théorique est rarement atteinte en pratique, et le danger reste présent. Ces standards fixent ensuite, équipement par équipement, les normes de référence (casques EN 397, gants EN 388, chaussures EN ISO 20345, protection oculaire EN 166, protection auditive EN 352), la durée de vie, l'attribution individuelle et l'entretien.
+
+Il suffit de compter les pages. Un plan qui consacre trois pages aux EPI et trois lignes aux protections collectives a inversé la hiérarchie.
+
+## Quatrième test : l'urgence est-elle dessinée ?
 
 Un plan d'urgence utile part des scénarios crédibles du site : incendie, fuite de gaz, blessé grave en zone isolée, électrisation, accident de la route, malaise dû à la chaleur. Il en déduit les moyens, l'organisation et les délais d'intervention.
 
-Sur les installations industrielles, ce travail se traduit par des plans précis. Le plan d'évacuation d'un poste d'arrivée de gazoduc que nous avons examiné représentait les voies d'évacuation depuis chaque zone, les boutons d'arrêt d'urgence, les déclencheurs manuels d'alarme placés le long des sorties, et les points de rassemblement à l'entrée du site. Une note précisait que l'emplacement exact des déclencheurs serait ajusté sur le terrain, dans un rayon de deux mètres, pour se trouver sur le chemin naturel des personnes qui quittent l'installation. Le dessin avait été corrigé d'après la façon dont les gens se déplacent réellement en cas d'alarme.
+Sur une installation industrielle, cela se traduit par des plans. Celui d'un poste d'arrivée de gazoduc représentait les voies d'évacuation depuis chaque zone, les boutons d'arrêt d'urgence, les déclencheurs manuels d'alarme le long des sorties et les points de rassemblement à l'entrée du site. Une note prévoyait d'ajuster sur le terrain, dans un rayon de deux mètres, l'emplacement des déclencheurs pour qu'ils se trouvent sur le chemin naturel des personnes qui quittent l'installation.
 
-Sur un chantier, la même logique s'applique avec des moyens plus simples : itinéraire vers le centre de soins le plus proche, véhicule disponible, secouriste formé par équipe, moyens de communication testés en zone sans réseau, exercices réguliers.
+Sur un chantier, les moyens sont plus simples, la logique est la même : itinéraire vers le centre de soins le plus proche, véhicule disponible, secouriste formé par équipe, moyens de communication testés en zone sans réseau, exercices datés.
 
-## Mesurer, enquêter, corriger
+## Cinquième test : le plan sait-il qu'il se trompe ?
 
-Les indicateurs d'un plan HSE ne doivent pas se limiter aux accidents avec arrêt, qui sont des indicateurs tardifs. Les indicateurs avancés disent davantage de l'état du système : inspections réalisées, observations de sécurité, analyses de sécurité des tâches revues, formations faites, actions correctives clôturées dans les délais, exercices d'urgence.
+Les accidents avec arrêt arrivent trop tard pour piloter. Les indicateurs avancés disent davantage de l'état du système : inspections réalisées, observations de sécurité, JSA revues, formations faites, actions correctives soldées dans les délais, exercices d'urgence.
 
-Chaque incident, et surtout chaque presque-accident, mérite une enquête proportionnée : faits, causes immédiates, causes profondes, actions. Le modèle de plan d'actions de notre deuxième exemple montre ce qui manque souvent : une action sans analyse de cause traite le symptôme, et une action sans vérification d'efficacité ne prouve rien. Deux colonnes de plus, « cause » et « efficacité vérifiée le… », changent la nature du tableau.
+Chaque incident, et surtout chaque presque-accident, appelle une enquête proportionnée : faits, causes immédiates, causes profondes, actions. Le tableau d'actions de notre deuxième plan montre ce qui manque le plus souvent. Sans colonne « cause », l'action traite le symptôme. Sans colonne « efficacité vérifiée le… », personne ne sait si le problème a disparu. Ajouter ces deux colonnes coûte dix minutes et transforme le suivi.
 
-## Les écarts que nous rencontrons le plus souvent
+## Les écarts qui reviennent
 
 | Écart | Conséquence |
 |---|---|
@@ -82,25 +86,9 @@ Chaque incident, et surtout chaque presque-accident, mérite une enquête propor
 | Plan d'urgence sans scénario ni exercice | Réponse improvisée le jour de l'accident |
 | Actions correctives sans cause ni vérification | Récurrence des mêmes incidents |
 
-## Ce que nous recommandons
+## Avant la réunion de lancement
 
-**Partir des risques du projet**, pas du modèle de l'entreprise. Le modèle fournit les titres, l'analyse des tâches réelles remplit chaque section.
-
-**Tenir et évaluer un registre réglementaire** propre au projet et au pays.
-
-**Rattacher les analyses de sécurité des tâches au permis de travail** et les conserver pour les réutiliser.
-
-**Respecter la hiérarchie des mesures** et le montrer dans le plan.
-
-**Préparer l'urgence sur plan et sur le terrain**, avec des exercices.
-
-**Suivre des indicateurs avancés**, enquêter sur les presque-accidents, vérifier l'efficacité des actions.
-
-**Mettre le plan à jour** à chaque phase et à chaque changement significatif.
-
-## Écrire pour être retenu, ou pour travailler
-
-Nos trois exemples différaient par leur longueur et par la taille de l'entreprise qui les avait rédigés. Ce qui les séparait surtout, c'était la question à laquelle chaque plan cherchait à répondre : « que faut-il écrire pour être retenu ? » ou « comment allons-nous travailler sans blesser personne ni polluer ? ». Répondre à la seconde demande une direction engagée, une organisation claire, des responsables HSE compétents et présents sur le terrain, et un système qui mesure les écarts et vérifie que les actions ont produit leur effet.
+Pour un maître d'ouvrage, la décision se prend avant la mobilisation, quand le refus d'un plan ne coûte encore qu'un délai de réécriture. Nous recommandons d'écrire dans le dossier de consultation les cinq tests ci-dessus comme critères d'acceptation, d'exiger la réécriture avant l'accès au site de tout plan qui en échoue deux, et de fixer une revue du plan à chaque changement de phase : génie civil, montage, essais, mise en service. Un plan accepté en l'état au démarrage se corrige ensuite par fiches d'écart, sur un chantier déjà en cours.
 
 ## Références
 

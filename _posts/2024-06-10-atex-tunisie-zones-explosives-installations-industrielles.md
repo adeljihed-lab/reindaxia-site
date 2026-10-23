@@ -1,36 +1,31 @@
 ---
-title: "ATEX en Tunisie : ce que la réglementation n'impose pas explicitement, et pourquoi les installations industrielles ne peuvent pas s'en passer"
-description: "Atmosphères explosives en Tunisie : cadre national face aux directives européennes, classement des zones, choix, installation et inspection du matériel Ex."
+title: "ATEX en Tunisie : sans texte détaillé, le matériel Ex se perd entre l'usine et le site"
+description: "Atmosphères explosives en Tunisie : cadre national, directives européennes, classement des zones, et pourquoi la conformité Ex se vérifie sur site."
 category: HSE et sécurité des procédés
 keywords: [ATEX, atmosphères explosives, zones ATEX, zone 0, zone 1, zone 2, zone 20, zone 21, zone 22, classement de zones, IEC 60079-10-1, IEC 60079-10-2, IEC 60079-14, IEC 60079-17, IEC 60079-19, IECEx, directive 1999/92/CE, directive 2014/34/UE, document relatif à la protection contre les explosions, matériel antidéflagrant, mode de protection, Ex d, Ex e, Ex i, classe de température, groupe de gaz, établissements classés, établissements dangereux insalubres incommodes, Tunisie, ONPC, pétrole et gaz, poussières, sécurité des procédés]
 ---
 
-> **En bref.** En Europe, deux directives encadrent les atmosphères explosives, l'une pour l'employeur, l'autre pour le matériel. La Tunisie n'a pas, à notre connaissance, de texte équivalent : le risque d'explosion y relève des règles générales de sécurité, du régime des établissements classés et des règlements contre l'incendie. Les gaz, les vapeurs et les poussières inflammables obéissent pourtant aux mêmes lois physiques à Gabès qu'à Rotterdam, et la démarche ATEX reste nécessaire dans les installations tunisiennes.
+Le dossier du constructeur était complet. Pour chaque skid, il attestait l'inspection du matériel électrique en zone lors des essais en usine : certificats, marquages, presse-étoupes, liaisons. Sur site, l'inspection avant mise sous tension a trouvé des presse-étoupes absents, du cuivre apparent, des armures de câble visibles à l'entrée des presse-étoupes et des scellés de certification cassés. Entre l'usine et le site, des instruments avaient été démontés pour le transport, des câbles avaient été raccordés sur place, et les boîtes de jonction avaient voyagé longtemps. Sur une autre installation, une enveloppe antidéflagrante dont le plan de joint avait été poncé pour effacer des rayures portait toujours son marquage Ex. Son certificat ne la couvrait plus.
 
-## Des presse-étoupes mal montés
+Ces deux situations ont la même origine. La conformité d'un matériel pour atmosphère explosive ne s'acquiert pas une fois pour toutes à l'achat : elle se perd au montage, au transport, à la réparation. En Tunisie, où aucun texte ne détaille la démarche, c'est à l'exploitant et à ses contrats de l'organiser.
 
-Lors de la mise en service d'une usine de traitement de gaz, l'extraction des réserves liées aux zones dangereuses comptait un grand nombre de points classés bloquants : presse-étoupes mal montés, entrées de câbles non utilisées laissées ouvertes, liaisons équipotentielles absentes, étiquettes de mise à la terre manquantes. Certains points étaient mineurs. D'autres non : un presse-étoupe mal serré sur un matériel en enveloppe antidéflagrante suffit à annuler son mode de protection. Le matériel portait le bon marquage. C'est le montage qui a fait perdre la protection : presse-étoupes, bouchons, liaisons.
+## Ce qu'un certificat couvre, et ce qu'il ne couvre pas
 
-La conformité ATEX se vérifie donc à l'achat, mais aussi à la conception, à l'installation, à l'inspection et à chaque intervention de maintenance, pendant toute la vie de l'installation.
+Un certificat ATEX ou IECEx atteste qu'un matériel, tel que fabriqué, respecte un mode de protection. Il ne dit rien de la façon dont ce matériel sera installé, raccordé ou réparé. Ces étapes relèvent d'autres parties de la série IEC 60079 :
 
-## La physique ne connaît pas les frontières
+- **IEC 60079-14** fixe les règles de conception, de sélection et d'installation (choix des câbles et des presse-étoupes, traitement des entrées non utilisées, liaisons équipotentielles, circuits de sécurité intrinsèque) et exige une **inspection initiale de niveau détaillé** avant la mise en service ;
+- **IEC 60079-17** fixe ensuite les inspections périodiques, dont la nature (visuelle, rapprochée, détaillée) et la fréquence dépendent de l'environnement et de l'historique ;
+- **IEC 60079-19** encadre la réparation et la révision du matériel Ex.
 
-Une explosion suppose la réunion de six conditions : un combustible (gaz, vapeur, brouillard ou poussière), un comburant (l'oxygène de l'air), une source d'inflammation, un mélange dans le domaine d'explosivité, un état de dispersion suffisant et, pour produire les effets de pression les plus destructeurs, un certain confinement. Supprimer une seule condition suffit à l'empêcher.
+Le plan de joint d'une enveloppe antidéflagrante (Ex d) est un interstice dont les dimensions et l'état de surface sont fixés par la conception certifiée selon IEC 60079-1. Il doit refroidir les gaz d'une explosion interne avant qu'ils n'atteignent l'atmosphère extérieure. Le poncer modifie ces caractéristiques hors du contrôle de quiconque. La seule réparation acceptable passe par le fabricant ou un atelier qualifié selon IEC 60079-19, faute de quoi le matériel est remplacé.
 
-Quelques grandeurs physiques fondent toute la démarche :
+Pour les skids, la conséquence pratique est directe. L'inspection Ex en usine réduit le travail sur site sans le remplacer. Le plan d'inspection et d'essais doit prévoir l'inspection sur site de tout ce qui a été démonté, transporté et raccordé, et la clôture vérifiée des listes de travaux restants remises par le fabricant. Si le contrat prévoit un échantillonnage pour les skids déjà inspectés en usine, la règle d'extension doit être écrite à l'avance : quel taux de départ, quel défaut déclenche l'extension, jusqu'où. Débattre de cette règle après la découverte de défauts systématiques transforme une question de sécurité en discussion contractuelle.
 
-- les **limites inférieure et supérieure d'explosivité**, entre lesquelles le mélange peut s'enflammer ;
-- l'**énergie minimale d'inflammation**, qui peut être de l'ordre de quelques dizaines de microjoules pour les gaz les plus sensibles comme l'hydrogène, bien en dessous de l'énergie d'une étincelle de décharge électrostatique humaine ;
-- la **température d'auto-inflammation**, qui détermine la classe de température admissible pour le matériel (de T1 à T6) ;
-- pour les gaz, l'**interstice expérimental maximal de sécurité** et le **courant minimal d'inflammation**, qui fondent la subdivision en groupes IIA, IIB et IIC.
-
-Ces données ne dépendent pas de la réglementation d'un pays. Le propane d'une station de remplissage tunisienne, la poussière de farine d'une minoterie, l'hydrogène d'un laboratoire ou les vapeurs d'hydrocarbures d'un dépôt pétrolier présentent les mêmes dangers qu'ailleurs.
-
-## Ce qu'impose l'Europe
+## Le cadre européen
 
 L'Union européenne a construit un dispositif en deux volets.
 
-La **directive 1999/92/CE** concerne la protection des travailleurs. Elle oblige l'employeur à évaluer les risques d'explosion, à classer en zones les emplacements où des atmosphères explosives peuvent se former, à signaler ces zones, à y utiliser du matériel adapté, à former le personnel, et à rédiger un **document relatif à la protection contre les explosions** qui rassemble l'ensemble de la démarche. Les zones sont définies selon la fréquence et la durée de présence de l'atmosphère explosive :
+La **directive 1999/92/CE** protège les travailleurs. Elle oblige l'employeur à évaluer les risques d'explosion, à classer en zones les emplacements où une atmosphère explosive peut se former, à signaler ces zones, à y utiliser du matériel adapté, à former le personnel, et à rédiger un **document relatif à la protection contre les explosions**. Les zones sont définies selon la fréquence et la durée de présence de l'atmosphère explosive.
 
 | Gaz, vapeurs, brouillards | Poussières | Présence de l'atmosphère explosive | Catégorie de matériel minimale |
 |---|---|---|---|
@@ -38,101 +33,67 @@ La **directive 1999/92/CE** concerne la protection des travailleurs. Elle oblige
 | Zone 1 | Zone 21 | Occasionnellement en fonctionnement normal | 2 |
 | Zone 2 | Zone 22 | Non susceptible de se former en fonctionnement normal ou, si elle se forme, de courte durée seulement | 3 |
 
-La **directive 2014/34/UE** concerne le matériel destiné à être utilisé en atmosphère explosible. Elle fixe les exigences essentielles de sécurité, les procédures d'évaluation de la conformité, l'intervention d'organismes notifiés pour les catégories les plus exigeantes, et le marquage.
-
-En dehors de l'Europe, le système international **IECEx** et la série de normes **IEC 60079** jouent un rôle équivalent : certification du matériel, des ateliers de réparation et des compétences des personnes.
+La **directive 2014/34/UE** concerne le matériel. Elle fixe les exigences essentielles de sécurité, les procédures d'évaluation de la conformité, l'intervention d'organismes notifiés pour les catégories les plus exigeantes, et le marquage. Hors d'Europe, le système **IECEx** et la série **IEC 60079** jouent un rôle équivalent, avec la certification du matériel, des ateliers de réparation et des compétences des personnes.
 
 ![Zones ATEX et marquage](/assets/blog/atex-zones-marquage.svg)
-*Figure 1. Zones schématiques autour d'un bac de stockage et lecture d'un marquage de matériel.*
+*Figure 1. Zones schématiques autour d'un bac de stockage, et lecture d'un marquage de matériel.*
 
-## Ce que prévoit la réglementation tunisienne
+## Le cadre tunisien
 
-Le cadre tunisien est différent. À notre connaissance, aucun texte ne transpose de manière détaillée les deux directives européennes : il n'existe pas d'obligation explicite de classer les zones selon une méthode normalisée, de rédiger un document de protection contre les explosions ou d'utiliser du matériel certifié selon un schéma défini.
+À notre connaissance, aucun texte tunisien ne transpose de manière détaillée les deux directives. Il n'existe pas d'obligation explicite de classer les zones selon une méthode normalisée, de rédiger un document de protection contre les explosions ou d'utiliser du matériel certifié selon un schéma défini.
 
-Le risque d'explosion apparaît toutefois dans les textes, à travers plusieurs dispositifs :
+Le risque d'explosion apparaît pourtant dans plusieurs dispositifs :
 
-- l'**obligation générale de sécurité** de l'employeur prévue par le Code du travail, qui impose de protéger les travailleurs contre les risques de l'activité ;
-- le régime des **établissements dangereux, insalubres ou incommodes**, qui soumet les installations classées à autorisation et à une analyse des dangers, et dont les procédures d'ouverture et d'exploitation sont fixées par décret ;
-- le **Code de la sécurité et de la prévention des risques d'incendie, d'explosion et de panique dans les bâtiments** (2009), et le **règlement de sécurité spécifique aux bâtiments abritant des établissements dangereux, insalubres ou incommodes**, approuvé par arrêté du 21 septembre 2018. Ce règlement définit notamment les locaux et zones à risque où des gaz ou vapeurs peuvent former avec l'air un mélange explosible, et prescrit leur séparation, leur ventilation, la maîtrise de l'électricité statique, la mise à la terre et la liaison des équipements métalliques.
+- l'**obligation générale de sécurité** de l'employeur prévue par le Code du travail ;
+- le régime des **établissements dangereux, insalubres ou incommodes**, qui soumet les installations classées à autorisation et à une analyse des dangers ;
+- le **Code de la sécurité et de la prévention des risques d'incendie, d'explosion et de panique dans les bâtiments** (2009), et le **règlement de sécurité spécifique aux bâtiments abritant des établissements dangereux, insalubres ou incommodes**, approuvé par arrêté du 21 septembre 2018. Ce règlement définit les locaux et zones où des gaz ou vapeurs peuvent former un mélange explosible avec l'air, et prescrit leur séparation, leur ventilation, la maîtrise de l'électricité statique, la mise à la terre et la liaison des équipements métalliques.
 
-Ces textes posent des objectifs de sécurité. Ils ne disent pas comment classer une zone autour d'un évent de bac, quel mode de protection retenir pour un moteur en zone 1, ni à quelle fréquence inspecter une installation Ex. Les normes internationales répondent à ces questions. Dans les secteurs pétrolier, gazier, chimique ou pharmaceutique, les cahiers des charges des exploitants et des maîtres d'ouvrage imposent d'ailleurs presque toujours la série IEC 60079, souvent avec certification IECEx ou ATEX du matériel. L'obligation vient alors du contrat plutôt que de la loi.
+Ces textes posent des objectifs. Ils ne disent pas comment classer une zone autour d'un évent de bac, quel mode de protection retenir pour un moteur en zone 1, ni à quelle fréquence inspecter. Les normes internationales répondent à ces questions, et les cahiers des charges des exploitants pétroliers, gaziers, chimiques ou pharmaceutiques imposent presque toujours la série IEC 60079, souvent avec certification IECEx ou ATEX du matériel. L'obligation vient alors du contrat. En cas d'accident, la question posée sera celle de l'état de l'art : l'entreprise a-t-elle identifié un danger connu et appliqué les mesures que la profession considère comme nécessaires ?
 
-Dans tous les cas, l'exploitant reste responsable. En cas d'accident, la question posée sera celle de l'état de l'art : l'entreprise a-t-elle identifié un danger connu et appliqué les mesures que la profession considère comme nécessaires ?
+## La même physique partout
 
-## Les accidents rappellent l'enjeu
+Une explosion suppose un combustible (gaz, vapeur, brouillard ou poussière), un comburant, une source d'inflammation, un mélange dans le domaine d'explosivité, une dispersion suffisante et, pour les effets de pression les plus destructeurs, un certain confinement. Quelques grandeurs fondent toute la démarche : les limites d'explosivité ; l'énergie minimale d'inflammation, de l'ordre de quelques dizaines de microjoules pour les gaz les plus sensibles comme l'hydrogène ; la température d'auto-inflammation, qui fixe la classe de température admissible (T1 à T6) ; et pour les gaz, l'interstice expérimental maximal de sécurité et le courant minimal d'inflammation, qui fondent les groupes IIA, IIB et IIC.
 
-Les explosions de gaz et de poussières font partie des accidents industriels les plus meurtriers. En février 2008, dans une raffinerie de sucre de Port Wentworth, aux États-Unis, une explosion de poussière de sucre tue quatorze personnes. L'enquête du Chemical Safety Board a montré que des accumulations de poussière, connues et tolérées depuis longtemps, avaient alimenté une série d'explosions secondaires bien plus destructrices que l'explosion initiale. L'usine n'avait pas traité un danger que la profession documentait depuis longtemps.
+En février 2008, à Port Wentworth, aux États-Unis, une explosion de poussière de sucre a tué quatorze personnes dans une raffinerie. Le Chemical Safety Board a montré que des accumulations de poussière connues et tolérées avaient alimenté des explosions secondaires bien plus destructrices que l'explosion initiale. Minoteries, silos, sucreries, traitement du phosphate et du soufre, peintures en poudre : le tissu industriel tunisien est directement concerné, comme les dépôts d'hydrocarbures, les centres de remplissage de GPL, les laboratoires et les locaux de charge de batteries.
 
-Ce type d'accident concerne directement le tissu industriel tunisien : minoteries, silos à céréales, sucreries, industrie agroalimentaire, traitement du phosphate et du soufre, menuiseries, peintures en poudre. Les gaz et vapeurs concernent les dépôts d'hydrocarbures, les stations de remplissage de GPL, les installations pétrolières et gazières, les laboratoires, les cabines de peinture, les locaux de charge de batteries.
+## Classer, choisir, installer : les étapes où l'on se trompe
 
-## La démarche ATEX, étape par étape
+**Classer les zones.** IEC 60079-10-1 (gaz) et IEC 60079-10-2 (poussières) donnent la méthode : identifier chaque source de dégagement, déterminer son degré (continu, premier, second), évaluer la ventilation et sa disponibilité, puis le type et l'étendue de la zone. Une zone trop large fait acheter du matériel Ex inutile. Une zone trop étroite laisse du matériel ordinaire là où le gaz peut arriver.
 
-Qu'elle soit imposée par la loi, par le contrat ou par la seule prudence, la démarche suit la même logique.
+Le plan de classement d'un poste d'arrivée de gazoduc montre ce que cela donne. Les sources principales y étaient en hauteur : soupapes des gares de raclage, évent de torche froide, évents des vannes de dépressurisation. Le plan définissait une zone 1 d'un mètre et demi de rayon autour de chaque soupape, une zone 2 de cinq mètres autour des équipements, des zones 2 « en élévation » à sept ou dix mètres de hauteur, d'un rayon de vingt à vingt-trois mètres, sans zone au niveau du sol, et une extension verticale de soixante-dix mètres au-dessus des évents de dépressurisation. Plusieurs années après la mise en service, il a été réémis pour intégrer de nouvelles vannes de dépressurisation.
 
-### 1. Identifier les substances et leurs propriétés
+**Choisir le matériel.** Il doit correspondre au niveau de protection requis, au groupe de gaz ou de poussière et à la classe de température. Un matériel marqué Ex db IIB T4 Gb, par exemple, est en enveloppe antidéflagrante, adapté aux gaz du groupe IIB, avec une température de surface maximale de 135 °C et un niveau de protection compatible avec la zone 1. Le matériel non électrique (pompes, compresseurs, accouplements) est aussi concerné.
 
-Pour chaque produit : limites d'explosivité, point d'éclair pour les liquides, température d'auto-inflammation, groupe de gaz, et pour les poussières granulométrie, énergie minimale d'inflammation, température d'inflammation en couche et en nuage.
+**Installer et inspecter.** C'est l'étape où le plus grand nombre de modes de protection se perdent : presse-étoupe inadapté au mode de protection, entrée non utilisée laissée ouverte, liaison équipotentielle absente, couvercle remonté sans tous ses boulons. L'inspection initiale selon IEC 60079-14 est là pour les trouver avant la mise sous tension.
 
-### 2. Classer les zones
+**Habiliter les personnes.** Un électricien expérimenté en installation classique n'est pas, par défaut, compétent en atmosphère explosive. Le schéma IECEx certifie ces compétences, et les inspections doivent être confiées à du personnel formé et évalué.
 
-IEC 60079-10-1 (gaz) et IEC 60079-10-2 (poussières) fournissent la méthode : identifier chaque **source de dégagement**, déterminer son degré (continu, premier, second), évaluer la ventilation et sa disponibilité, puis déterminer le type et l'étendue de la zone. Le résultat est un ensemble de plans de zones et un registre des sources de dégagement. Une zone trop large fait acheter du matériel Ex inutile ; une zone trop étroite laisse du matériel ordinaire là où le gaz peut arriver.
+**Tenir le dossier.** Plans de zones, liste du matériel Ex avec ses certificats, rapports d'inspection, permis de travail en zone : c'est la mémoire de l'installation. Toute modification (nouvelle source de dégagement, changement de produit, déplacement d'un équipement) entraîne la révision du classement.
 
-Un plan de classement réel montre ce que cela signifie. Sur un poste d'arrivée de gazoduc classé selon IEC 60079-10-1, les sources principales n'étaient pas au sol mais en hauteur : soupapes de sûreté des gares de raclage, évent de torche froide, évents des vannes de dépressurisation. Le plan définissait une zone 1 d'un mètre et demi de rayon autour de chaque soupape, une zone 2 de cinq mètres autour des équipements, puis des zones 2 « en élévation », à sept ou dix mètres de hauteur, d'un rayon de vingt à vingt-trois mètres, sans zone au niveau du sol, et une extension verticale de soixante-dix mètres au-dessus des évents de dépressurisation. Son historique est tout aussi instructif : plusieurs années après la mise en service, le plan a été réémis pour intégrer de nouvelles vannes de dépressurisation. Le classement de zones suit donc l'installation, modification après modification.
+## Les écarts qui reviennent
 
-### 3. Choisir le matériel
+Les revues de dossiers et d'installations font apparaître les mêmes écarts d'un site à l'autre :
 
-Le matériel installé en zone doit correspondre au niveau de protection requis, au groupe de gaz ou de poussière, et à la classe de température. Le marquage permet de le vérifier : par exemple, un matériel marqué Ex db IIB T4 Gb est un matériel en enveloppe antidéflagrante, adapté aux gaz du groupe IIB, dont la température de surface ne dépasse pas 135 °C, avec un niveau de protection compatible avec la zone 1. Le matériel non électrique (pompes, compresseurs, freins, accouplements) est également concerné.
+- plans de zones non révisés après une modification ;
+- matériel certifié installé avec des presse-étoupes ou des bouchons non adaptés à son mode de protection ;
+- équipements non électriques jamais évalués ;
+- appareils portatifs non certifiés utilisés en zone sans permis ;
+- inspections périodiques non planifiées ou réalisées par du personnel non formé ;
+- matériel réparé hors atelier qualifié, comme l'enveloppe au plan de joint poncé.
 
-### 4. Installer selon les règles
+## Pour les exploitants tunisiens
 
-IEC 60079-14 fixe les règles de conception, de sélection et d'installation : choix des câbles et des presse-étoupes, traitement des entrées non utilisées, liaisons équipotentielles, protection contre l'électricité statique, circuits de sécurité intrinsèque. Beaucoup de modes de protection se perdent à cette étape, comme dans l'exemple d'ouverture.
+Nous conseillons d'appliquer volontairement la démarche européenne ou IECEx, même sans obligation explicite : évaluation des risques, classement des zones, document de protection contre les explosions. Dans les cahiers des charges, cela se traduit par la conformité à la série IEC 60079, des certificats ATEX ou IECEx, des installateurs formés, et une inspection initiale détaillée confiée à une équipe indépendante de l'installateur.
 
-### 5. Inspecter et maintenir
+## Dans le prochain plan d'inspection d'un skid
 
-L'**inspection initiale**, de niveau détaillé, avant la mise en service relève d'IEC 60079-14. IEC 60079-17 fixe ensuite les inspections périodiques, dont la nature (visuelle, rapprochée, détaillée) et la fréquence dépendent de l'environnement et de l'historique. IEC 60079-19 encadre la réparation et la révision du matériel Ex. Une intervention de maintenance mal réalisée, un couvercle remonté sans tous ses boulons, un joint remplacé par un modèle quelconque, suffit à transformer un matériel sûr en source d'inflammation.
-
-### 6. Former et habiliter les personnes
-
-Les normes et le schéma IECEx insistent sur la compétence des personnes qui conçoivent, installent, inspectent et réparent. Un électricien expérimenté en installation classique n'est pas, par défaut, compétent en atmosphère explosive. Les formations ATEX ou IECEx de niveau adapté, avec évaluation pratique, sont la base.
-
-### 7. Documenter et maîtriser les modifications
-
-Le dossier de zones, la liste du matériel Ex avec ses certificats, les rapports d'inspection et la gestion des permis de travail en zone forment la mémoire de l'installation. Toute modification, ajout d'une source de dégagement, changement de produit, déplacement d'un équipement, doit entraîner la révision du classement de zones.
-
-## Ce que nous voyons sur le terrain
-
-Dans les installations que nous inspectons ou auditons, les écarts se répètent :
-
-- des plans de zones qui n'ont pas été révisés après une modification de l'installation ;
-- du matériel certifié, mais installé avec des presse-étoupes ou des bouchons non adaptés au mode de protection ;
-- des équipements non électriques jamais évalués ;
-- des appareils portatifs non certifiés (téléphones, lampes, outillage) utilisés en zone sans permis ;
-- des inspections périodiques non planifiées, ou réalisées par du personnel non formé ;
-- des matériels réparés hors atelier qualifié.
-
-Ces écarts se corrigent avec une organisation simple : un responsable du dossier ATEX, des procédures d'installation et de maintenance, des inspections confiées à des personnes compétentes, et un contrôle qualité qui vérifie l'installation avant sa mise sous tension.
-
-## Ce que nous recommandons aux exploitants tunisiens
-
-**Appliquer volontairement la démarche européenne ou IECEx**, même lorsque la loi ne l'exige pas explicitement : évaluation des risques, classement des zones, document de protection contre les explosions. C'est l'état de l'art, et c'est à lui que l'on comparera l'installation en cas d'incident.
-
-**Exiger dans les cahiers des charges** la conformité à la série IEC 60079, des certificats ATEX ou IECEx pour le matériel, et des installateurs formés.
-
-**Faire réaliser l'inspection initiale détaillée** par une équipe compétente et indépendante de l'installateur, avant la mise sous tension.
-
-**Planifier les inspections périodiques** et confier la réparation du matériel Ex à des ateliers qualifiés.
-
-**Intégrer le classement de zones dans la gestion des modifications**, pour qu'il reste vrai pendant toute la vie de l'installation.
-
-## Sans texte détaillé, la démarche revient à l'exploitant
-
-Sans texte tunisien détaillé sur les atmosphères explosives, le danger et la responsabilité de l'exploitant restent entiers. La démarche repose alors sur l'organisation elle-même : sur sa capacité à identifier les dangers, à s'appuyer sur les normes internationales, à confier le travail à des personnes compétentes et à vérifier, par l'inspection et le contrôle qualité, que ce qui est installé correspond à ce qui a été conçu.
+Pour tout skid comportant du matériel Ex, nous demandons trois lignes dans le plan d'inspection et d'essais : une inspection Ex à l'arrivée sur site des éléments démontés pour le transport et des raccordements faits sur place, la vérification de chaque scellé et de chaque entrée de câble contre le registre Ex du fabricant, et une règle d'extension d'échantillonnage signée avant la livraison. Sans ces lignes, le dossier constructeur atteste un état que le matériel n'a plus.
 
 ## Références
 
 - Directive 1999/92/CE du 16 décembre 1999 concernant les prescriptions minimales visant à améliorer la protection en matière de sécurité et de santé des travailleurs susceptibles d'être exposés au risque d'atmosphères explosives.
 - Directive 2014/34/UE du 26 février 2014 relative aux appareils et systèmes de protection destinés à être utilisés en atmosphères explosibles.
-- IEC 60079-0 (exigences générales), IEC 60079-10-1 et IEC 60079-10-2 (classement des emplacements), IEC 60079-14 (conception, sélection et construction des installations électriques), IEC 60079-17 (inspection et entretien), IEC 60079-19 (réparation et révision).
+- IEC 60079-0 (exigences générales), IEC 60079-1 (enveloppes antidéflagrantes « d »), IEC 60079-10-1 et IEC 60079-10-2 (classement des emplacements), IEC 60079-14 (conception, sélection et construction des installations électriques), IEC 60079-17 (inspection et entretien), IEC 60079-19 (réparation et révision).
 - Système IECEx, règles de certification du matériel, des ateliers de service et des compétences du personnel.
 - Loi n° 2009-11 du 2 mars 2009 portant promulgation du Code de la sécurité et de la prévention des risques d'incendie, d'explosion et de panique dans les bâtiments (Tunisie).
 - Arrêté du ministre de l'intérieur et du ministre de l'industrie et des petites et moyennes entreprises du 21 septembre 2018, portant approbation du règlement de sécurité spécifique aux bâtiments abritant des établissements dangereux, insalubres ou incommodes (JORT n° 78 du 28 septembre 2018).
