@@ -40,10 +40,11 @@
     {{ content | replace: '<img ', '<img loading="lazy" decoding="async" ' }}
   </article>
   <aside class="post-cta">
+    {% assign svc = page.service %}{% unless svc %}{% case page.category %}{% when "Inspection et FAT" %}{% assign svc = "inspection-reception" %}{% when "Mechanical completion" %}{% assign svc = "mechanical-completion" %}{% when "HSE et sécurité des procédés" or "HSE and process safety" %}{% assign svc = "hse-environnement" %}{% when "Audits et ISO 9001" %}{% assign svc = "systemes-management" %}{% when "Qualité" or "Retour d'expérience" %}{% assign svc = "expertise-qualite" %}{% else %}{% assign svc = "projets-contrats" %}{% endcase %}{% endunless %}{% assign svcname = site.data.services[svc] %}
     {% if en %}<h2>A project, a question?</h2>
     <p>Tell us what you need: we reply within 48 working hours.</p>
     <a class="btn" href="/en.html#contact">Request a proposal</a>
-{% assign svc = page.service %}{% unless svc %}{% case page.category %}{% when "Inspection et FAT" %}{% assign svc = "inspection-reception" %}{% when "Mechanical completion" %}{% assign svc = "mechanical-completion" %}{% when "HSE et sécurité des procédés" or "HSE and process safety" %}{% assign svc = "hse-environnement" %}{% when "Audits et ISO 9001" %}{% assign svc = "systemes-management" %}{% when "Qualité" or "Retour d'expérience" %}{% assign svc = "expertise-qualite" %}{% else %}{% assign svc = "projets-contrats" %}{% endcase %}{% endunless %}{% assign svcname = site.data.services[svc] %}
+
     <div class="post-svc"><p class="small muted">{% if en %}Related service{% else %}Prestation liée{% endif %}</p><a href="/{{ svc }}.html">{% if svcname %}{% if en %}{{ svcname.en }}{% else %}{{ svcname.fr }}{% endif %}{% else %}{{ svc }}{% endif %} →</a></div>
     <p class="post-wa"><a href="https://wa.me/21699771875" rel="noopener">WhatsApp +216 99 771 875</a></p>
     <p class="post-back"><a href="/blog.html">← All articles</a></p>{% else %}<h2>Un projet, une question ?</h2>
