@@ -493,3 +493,15 @@ form.rq h3 { color: var(--ink); font-size: 1.3rem; }
 .band.dark form.rq h3, .band.dark form.rq label { color: var(--ink); }
 .hero-doc::before { content: none; }
 .hero-stats > div:last-child b { font-size: clamp(1.15rem, .95rem + .7vw, 1.5rem); padding-top: .25em; }
+.post-body p:has(> img) { display: grid; gap: 8px; margin-block: 8px; }
+.post-body p:has(> img) img { border: 1px solid var(--rule); }
+.post-body p:has(> img) em { font-size: .88rem; color: var(--steel); font-style: normal; font-family: var(--f-head); }
+
+/* Related articles on service pages */
+.reads-box { margin: 32px 0 8px; padding: 22px 24px; background: var(--paper); border: 1px solid var(--rule); border-left: 4px solid var(--amber); border-radius: var(--radius-lg); }
+.reads-box h3 { font-size: 1.05rem; margin-bottom: 10px; }
+.reads-box ul { margin: 0; padding-left: 1.1em; display: grid; gap: 6px; }
+.reads-box a { font-weight: 600; text-decoration: none; }
+.reads-box a:hover { text-decoration: underline; }
+.post-body img[src$=".svg"] { width: 100%; height: auto; background: #fbf8f1; }
+.band > .wrap > .lead { color: var(--steel); max-width: 42em; margin: 8px 0 24px; font-size: 1.05rem; }
