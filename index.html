@@ -1,7 +1,11 @@
+---
+layout: null
+---
 <!doctype html>
 <html lang="fr">
 <head>
 <meta charset="utf-8">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Reindaxia | Ingénierie et conseil qualité des projets industriels, Tunisie et Afrique du Nord</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -135,6 +139,12 @@
 
 <section class="band"><div class="wrap">
   <div class="note"><span class="sq" aria-hidden="true"></span><div><p><strong>Indépendance.</strong> Reindaxia ne délivre pas de certificats et ne réalise pas d’inspections réglementaires : celles-ci relèvent d’organismes accrédités ou agréés. Nous signalons tout conflit d’intérêts avant une mission et n’intervenons pas pour deux parties d’un même projet.</p><p><strong>Confidentialité.</strong> Documents et constats restent chez le client. Accord de confidentialité signé sur demande.</p></div></div>
+</div></section>
+
+<section class="band alt" id="blog"><div class="wrap">
+<h2>Derniers articles</h2><p class="lead">Retours d'expérience, normes et contrats : ce que nous apprenons sur le terrain.</p>
+<div class="post-list">{% for post in site.posts limit:4 %}<article class="post-card"><p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign m = post.date | date: "%-m" | minus: 1 %}{{ post.date | date: "%-d" }} {{ site.data.mois[m] }} {{ post.date | date: "%Y" }}</time>{% if post.category %} · {{ post.category }}{% endif %}{% if post.lang == "en" %} · EN{% endif %}</p><h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2><a class="more" href="{{ post.url | relative_url }}">{% if post.lang == "en" %}Read the article →{% else %}Lire l’article →{% endif %}</a></article>{% endfor %}</div>
+<p class="more" style="margin-top:20px"><a href="blog.html">Tous les articles →</a></p>
 </div></section>
 
 <section class="band dark" id="contact"><div class="wrap contact-grid">

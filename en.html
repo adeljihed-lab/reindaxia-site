@@ -1,7 +1,11 @@
+---
+layout: null
+---
 <!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Reindaxia | Engineering consulting: quality, inspection and completion, Tunisia and North Africa</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -73,6 +77,12 @@
   <div class="sec-head"><p class="eyebrow">Training</p><h2>In-company training</h2><p>ISO 9001:2026 internal auditor; quality on construction projects; mechanical completion, commissioning and taking-over; industrial and EPC project management; Tunisian public procurement; construction contracts based on FIDIC conditions (independent course); production planning and scheduling; Lean and problem solving. Delivered in French or English.</p></div>
 </div></section>
 <section class="band alt"><div class="wrap"><div class="note"><span class="sq" aria-hidden="true"></span><div><p><strong>Independence.</strong> Reindaxia does not issue certificates or perform statutory inspections; these belong to accredited or approved bodies. We disclose any conflict of interest before an assignment and never work for two parties on the same project.</p></div></div></div></section>
+<section class="band" id="insights"><div class="wrap">
+<h2>Latest insights</h2><p class="lead">Field experience on quality, completion and FIDIC contracts.</p>
+<div class="post-list">{% assign enposts = site.posts | where: "lang", "en" %}{% for post in enposts limit:4 %}<article class="post-card"><p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time>{% if post.category %} · {{ post.category }}{% endif %}</p><h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2><a class="more" href="{{ post.url | relative_url }}">Read the article →</a></article>{% endfor %}</div>
+<p class="more" style="margin-top:20px"><a href="blog.html">All articles (French and English) →</a></p>
+</div></section>
+
 <section class="band dark" id="contact"><div class="wrap contact-grid">
   <div style="display:grid;gap:22px;align-content:start"><h2>Tell us about your need</h2><p>Give us the context and the deadline. We reply within 48 working hours.</p><div class="coords">
   <div><span>E-mail</span><a href="mailto:contact@reindaxia.tn">contact@reindaxia.tn</a></div>

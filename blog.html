@@ -6,6 +6,7 @@ title: Blog
 <html lang="fr">
 <head>
 <meta charset="utf-8">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Blog : qualité, inspection, completion, audits et contrats | Reindaxia</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -47,10 +48,10 @@ title: Blog
 <div class="post-list">
 {% for post in site.posts %}
   <article class="post-card">
-    <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign m = post.date | date: "%-m" | minus: 1 %}{{ post.date | date: "%-d" }} {{ site.data.mois[m] }} {{ post.date | date: "%Y" }}</time>{% if post.category %} · {{ post.category }}{% endif %}</p>
+    <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign m = post.date | date: "%-m" | minus: 1 %}{{ post.date | date: "%-d" }} {{ site.data.mois[m] }} {{ post.date | date: "%Y" }}</time>{% if post.category %} · {{ post.category }}{% endif %}{% if post.lang == "en" %} · EN{% endif %}</p>
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     <p>{{ post.description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 220 }}</p>
-    <a class="more" href="{{ post.url | relative_url }}">Lire l’article →</a>
+    <a class="more" href="{{ post.url | relative_url }}">{% if post.lang == "en" %}Read the article →{% else %}Lire l’article →{% endif %}</a>
   </article>
 {% endfor %}
 </div>
