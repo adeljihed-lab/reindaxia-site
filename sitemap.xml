@@ -3,19 +3,21 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.reindaxia.tn/</loc></url>
-  <url><loc>https://www.reindaxia.tn/prestations.html</loc></url>
-  <url><loc>https://www.reindaxia.tn/expertise-qualite.html</loc></url>
-  <url><loc>https://www.reindaxia.tn/hse-environnement.html</loc></url>
-  <url><loc>https://www.reindaxia.tn/inspection-reception.html</loc></url>
-  <url><loc>https://www.reindaxia.tn/mechanical-completion.html</loc></url>
-  <url><loc>https://www.reindaxia.tn/systemes-management.html</loc></url>
-  <url><loc>https://www.reindaxia.tn/audits.html</loc></url>
-  <url><loc>https://www.reindaxia.tn/projets-contrats.html</loc></url>
-  <url><loc>https://www.reindaxia.tn/formations.html</loc></url>
-  <url><loc>https://www.reindaxia.tn/cabinet.html</loc></url>
-  <url><loc>https://www.reindaxia.tn/contact.html</loc></url>
-  <url><loc>https://www.reindaxia.tn/en.html</loc></url>
+  <url><loc>https://www.reindaxia.tn/</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://www.reindaxia.tn/prestations.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://www.reindaxia.tn/expertise-qualite.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://www.reindaxia.tn/hse-environnement.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://www.reindaxia.tn/inspection-reception.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://www.reindaxia.tn/mechanical-completion.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://www.reindaxia.tn/systemes-management.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://www.reindaxia.tn/audits.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://www.reindaxia.tn/projets-contrats.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://www.reindaxia.tn/formations.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://www.reindaxia.tn/cabinet.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://www.reindaxia.tn/contact.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://www.reindaxia.tn/en.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://www.reindaxia.tn/references.html</loc><lastmod>2026-10-23</lastmod></url>
+  <url><loc>https://www.reindaxia.tn/mentions-legales.html</loc><lastmod>2026-10-23</lastmod></url>
   <url><loc>https://www.reindaxia.tn/blog.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 {% for post in site.posts %}  <url><loc>{{ post.url | absolute_url }}</loc><lastmod>{{ post.last_modified_at | default: post.date | date: "%Y-%m-%d" }}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 {% endfor %}</urlset>
