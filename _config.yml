@@ -1,7 +1,7 @@
 # Configuration du blog Reindaxia (GitHub Pages / Jekyll)
 # Les pages .html existantes sans en-tête "---" sont publiées telles quelles.
 title: "Reindaxia Engineering & Consulting"
-description: "Articles de Reindaxia : qualité des projets, inspection et FAT, mechanical completion, audits ISO 9001, management de projet, marchés publics et contrats FIDIC, en Tunisie, en Afrique du Nord et en Afrique."
+description: "Articles de Reindaxia : qualité des projets, inspection et FAT, mechanical completion, HSE et PGES de chantier, ATEX, systèmes de management ISO 9001, 14001 et 45001, audits, management de projet, marchés publics et contrats FIDIC, en Tunisie, en Afrique du Nord et en Afrique."
 url: "https://www.reindaxia.tn"
 baseurl: ""
 lang: fr
