@@ -5,7 +5,7 @@ category: Contrats et FIDIC
 keywords: [FIDIC, Red Book 2017, Clause 13, variation, demande de proposition, Clause 20, réclamation, Notice of Claim, avis de réclamation, 28 jours, 84 jours, forclusion, registre des réclamations, avenant, marchés publics, commission de contrôle, bailleurs de fonds, Tunisie, décret 2014-1039, Afrique du Nord, Afrique de l'Ouest, Afrique centrale, contract management]
 ---
 
-Un vendredi, l'étude géotechnique d'exécution d'un projet routier tombe : le talus prévu en déblai simple ne tiendra pas. Il faut un mur de soutènement. Personne ne discute la solution technique. L'Engineer peut l'instruire dès le lundi, et la Clause 13 du contrat FIDIC le lui permet. La vraie décision de ce week-end est ailleurs : le cumul des modifications approche déjà la limite fixée au marché, et au-delà, le maître d'ouvrage public ne peut payer qu'après un avenant visé par une commission de contrôle. Sur ce projet, le mur a été instruit sans que personne ne lance l'avenant. Il a été construit en dix semaines. L'entrepreneur a été payé près d'un an plus tard, et une réclamation pour frais financiers s'est ajoutée au dossier.
+Un vendredi, l'étude géotechnique d'exécution d'un projet routier tombe : le talus prévu en déblai simple ne tiendra pas. Il faut un mur de soutènement. Personne ne discute la solution technique. L'Engineer peut l'instruire dès le lundi, et la Clause 13 du contrat FIDIC le lui permet. La vraie décision de ce week-end est ailleurs : le cumul des modifications approche déjà la limite fixée au marché, et au-delà, le maître d'ouvrage public ne peut payer qu'après un avenant visé par une commission de contrôle. Sur ce projet, le mur a été instruit sans que personne ne lance l'avenant. Il a été construit en dix semaines. L'entrepreneur a été payé près d'un an plus tard, et une réclamation pour frais financiers est venue s'ajouter au prix du mur.
 
 Chacun avait suivi sa procédure. Le problème venait de leur calendrier.
 
@@ -13,7 +13,7 @@ Chacun avait suivi sa procédure. Le problème venait de leur calendrier.
 
 Selon la sous-clause 13.1 du Red Book 2017, l'Engineer peut initier une variation à tout moment avant le certificat de réception des ouvrages. L'entrepreneur est tenu de l'exécuter, sauf s'il notifie promptement, avec justifications, que les travaux modifiés étaient imprévisibles au regard de la nature des ouvrages, qu'il ne peut pas se procurer aisément les fournitures nécessaires, ou que la variation compromet ses obligations de santé, de sécurité ou d'environnement. L'Engineer annule, confirme ou modifie alors l'instruction.
 
-Une variation peut porter sur les quantités, les caractéristiques, les cotes et implantations, des travaux supplémentaires ou l'ordre d'exécution. Elle ne peut pas retirer des travaux pour les confier au maître d'ouvrage ou à un autre entrepreneur sans accord des parties. De son côté, l'entrepreneur ne modifie aucun ouvrage permanent sans instruction.
+Une variation peut porter sur les quantités, les caractéristiques, les cotes et implantations, des travaux supplémentaires ou l'ordre d'exécution. Elle ne peut pas retirer des travaux pour les confier au maître d'ouvrage ou à un autre entrepreneur sans accord des parties.
 
 La sous-clause 13.3 ouvre deux voies, et le choix entre elles règle une bonne part du problème.
 
@@ -22,7 +22,7 @@ La sous-clause 13.3 ouvre deux voies, et le choix entre elles règle une bonne p
 
 La Clause 12 fixe l'évaluation : prix du bordereau s'ils s'appliquent ; nouveaux prix lorsque les quantités varient au-delà des seuils qu'elle fixe ou qu'aucun prix ne convient, dérivés des prix existants ou, à défaut, du coût raisonnable augmenté de la marge des Contract Data.
 
-Reste le cas des instructions qui ne disent pas leur nom. Selon la sous-clause 3.5, si l'entrepreneur estime qu'une instruction constitue une variation, il le notifie immédiatement, avant d'exécuter. L'Engineer a **7 jours** pour confirmer, annuler ou modifier ; à défaut, l'instruction est réputée retirée.
+Reste le cas des instructions qui ne disent pas leur nom. Selon la sous-clause 3.5, si l'entrepreneur estime qu'une instruction constitue une variation, il le notifie immédiatement, avant d'exécuter. L'Engineer a **7 jours** pour confirmer, annuler ou modifier ; à défaut, l'instruction est réputée retirée. Sur un chantier de poste électrique, un commentaire porté sur un plan d'exécution a déplacé une tranchée de câbles de plusieurs dizaines de mètres pour éviter un réseau existant. L'entrepreneur a exécuté sans rien dire, puis a demandé le paiement des terrassements supplémentaires à la fin du chantier ; l'Engineer a répondu qu'aucune variation n'avait été instruite. Un commentaire sur plan qui change les quantités se traite comme une instruction : notification sous 3.5 le jour même, avant la pelle.
 
 ## Seconde horloge : l'avenant et la commission de contrôle
 
@@ -47,7 +47,7 @@ Le tableau ci-dessous résume les situations où les deux horloges se décalent 
 | Prolongation de délai liée | Accordée sans réclamation | Avenant sur le délai | Pénalités appliquées à tort |
 | Retrait de travaux | Limité par 13.1 | Diminution de la masse, indemnité possible | Litige sur l'indemnisation |
 
-La deuxième ligne est la plus fréquente. Dix variations modestes, chacune justifiée et évaluée, franchissent ensemble le seuil sans qu'aucune n'ait déclenché d'alerte. On le découvre au moment de payer la onzième.
+La deuxième ligne est la plus fréquente. Sur un réseau d'eau potable, une dizaine de variations modestes, chacune justifiée et évaluée (déviations de tracé, traversées de route, regards supplémentaires), ont franchi ensemble le seuil sans qu'aucune n'ait déclenché d'alerte. On l'a découvert au moment de payer la suivante, et le décompte est resté bloqué jusqu'à l'avis de la commission. Un cumul tenu à jour dans le rapport mensuel aurait montré l'approche du seuil six mois plus tôt.
 
 ## Synchroniser les deux horloges
 
@@ -93,13 +93,13 @@ Retard d'accès au site, conditions imprévisibles, suspension, retard de paieme
 
 Sur un autre chantier, une route d'accès promise par le maître d'ouvrage a été fermée six semaines par une autorité locale. Le chef de chantier l'avait signalé en réunion, le compte rendu l'avait noté, le rapport mensuel l'avait décrit. L'avis formel est parti cinquante-neuf jours après la fermeture. L'Engineer l'a jugé tardif ; l'entrepreneur a plaidé que le maître d'ouvrage était informé. L'argument avait du poids, mais un droit simple est devenu un litige, parce qu'un compte rendu ou un rapport mensuel ne vaut pas avis au sens du contrat.
 
-Le maître d'ouvrage est soumis aux mêmes règles pour ses propres prétentions : pénalités de retard, défauts non repris, refacturations. Une déduction portée directement sur un décompte, sans avis ni détermination, s'expose à la même forclusion.
+Le maître d'ouvrage est soumis aux mêmes règles pour ses propres prétentions : pénalités de retard, défauts non repris, refacturations. Une déduction portée directement sur un décompte, sans avis ni détermination, s'expose à la même forclusion. À la réception d'un bâtiment technique, un maître d'ouvrage a retenu sur le décompte final le coût de reprises qu'il avait fait exécuter par une autre entreprise, sans avoir notifié de réclamation ni obtenu de détermination. L'entrepreneur a contesté la retenue sur la forme, et a eu gain de cause avant même que l'on discute des défauts. Une retenue se prépare comme une réclamation, avec son avis dans les 28 jours.
 
 ## Un registre, une revue hebdomadaire
 
 Variations et réclamations partagent la même information : l'événement, sa date, son effet sur le délai et le coût, les pièces, les échéances. Nous recommandons un seul registre, revu chaque semaine entre le chef de chantier et le responsable contrat. Pour chaque ligne, il affiche la voie retenue (variation ou réclamation), les échéances (28 jours, 84 jours, 14 jours de l'Engineer), le cumul des variations en pourcentage du marché et le statut de l'avenant. La revue tient en une question : qu'est-il arrivé cette semaine qui puisse ouvrir un droit, pour l'une ou l'autre partie ? Dans le doute, on notifie.
 
-L'entrepreneur y a intérêt autant que le maître d'ouvrage. Il remet ses éléments dans les 28 jours, notifie immédiatement toute instruction qu'il tient pour une variation non déclarée, et suit lui-même le cumul. Au-delà de la limite réglementaire, il connaît son droit de résiliation et le délai de 45 jours pour l'exercer, même s'il l'utilise rarement.
+L'entrepreneur y a intérêt autant que le maître d'ouvrage. Il remet ses éléments dans les 28 jours, notifie toute instruction qu'il tient pour une variation non déclarée, et suit lui-même le cumul.
 
 ## Ce qu'il aurait fallu le lundi matin
 

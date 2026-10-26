@@ -9,17 +9,17 @@ keywords: [plan HSE, plan HSSE, HSE management plan, ISO 45001, ISO 14001, OHSAS
 
 Le sommaire d'un plan HSE ne dit presque rien de sa valeur : tous les modèles du marché affichent politique, organisation, formation, urgence et incidents. Ce qui distingue un plan utilisable se lit ailleurs, en une heure, à condition de savoir où regarder.
 
-## Trois plans, trois décisions
+## Le plan le plus épais est rarement le meilleur
 
-Le plus soigné en apparence accompagnait une offre d'inspection d'installations pétrolières. Il citait une norme de santé-sécurité remplacée depuis par ISO 45001, recopiait le cahier des charges pour décrire l'activité et ne mentionnait aucun des dangers propres au métier : travail en hauteur, espaces confinés, hydrocarbures, intervenants seuls sur des sites éloignés. Un deuxième se réduisait à un tableau d'actions correctives sans colonne pour la cause ni pour la vérification de l'efficacité. Le troisième, rédigé pour la phase d'ingénierie d'un projet industriel, partait d'un registre réglementaire référencé au Journal officiel et déroulait objectifs, responsabilités, gestion des modifications et exigences aux fournisseurs.
+Un plan HSE soigné, joint à une offre d'inspection d'installations pétrolières, citait une norme de santé-sécurité remplacée depuis par ISO 45001, recopiait le cahier des charges pour décrire l'activité et ne mentionnait aucun des dangers propres au métier : travail en hauteur, espaces confinés, hydrocarbures, intervenants seuls sur des sites éloignés. Il a été renvoyé pour réécriture à partir d'une analyse des tâches réelles, avant toute mobilisation. À l'inverse, un plan de quelques dizaines de pages rédigé pour la phase d'ingénierie d'un projet industriel partait d'un registre réglementaire référencé au Journal officiel et déroulait objectifs, responsabilités, gestion des modifications et exigences aux fournisseurs ; il a été accepté sous réserve d'une revue mensuelle du registre.
 
-Notre réponse a tenu en une page : accepter le troisième sous réserve d'une revue mensuelle du registre, faire ajouter deux colonnes au deuxième, faire réécrire le premier à partir d'une analyse des tâches réelles avant toute mobilisation. Le critère n'était pas la longueur. Nous avons regardé ce que chaque plan permettait de suivre, semaine après semaine, sur le chantier.
+Le critère n'est pas la longueur. Nous regardons ce que le plan permet de suivre, semaine après semaine, sur le chantier.
 
 ## La grille que nous appliquons
 
 Un plan HSE de projet montre comment le système de management de l'entreprise s'applique à **ce** projet, avec ses risques, ses intervenants et ses exigences. ISO 45001 et ISO 14001 partagent la structure de haut niveau des normes de systèmes de management : contexte, leadership, planification par les risques, ressources et compétences, maîtrise opérationnelle, évaluation des performances, amélioration. Dans le pétrole et le gaz, l'IOGP décrit un cadre de système de management opérationnel (rapport 510) et la façon d'articuler les systèmes du donneur d'ordres et de l'entrepreneur dans un contrat (rapport 423). HSG65, le guide du HSE britannique, suit la même boucle planifier, faire, vérifier, agir.
 
-Nous relisons un plan avec cette grille, une question par bloc :
+Nous lisons un plan avec cette grille, une question par bloc :
 
 | Bloc | Contenu attendu | Question à laquelle il répond |
 |---|---|---|
@@ -33,7 +33,7 @@ Nous relisons un plan avec cette grille, une question par bloc :
 | Performance | Inspections, indicateurs, incidents, enquêtes, audits | Comment sait-on si cela fonctionne ? |
 | Amélioration | Actions correctives, revue de direction, retour d'expérience | Comment progresse-t-on ? |
 
-Un bloc dont la réponse pourrait figurer dans le plan d'un autre projet sans changer un mot est un bloc à reprendre.
+Un bloc dont la réponse pourrait figurer dans le plan d'un autre projet sans changer un mot est un bloc à reprendre. Sur un chantier de lignes électriques, le bloc « organisation » donnait un organigramme sans aucun nom et un responsable HSE « à désigner » ; trois mois après le démarrage, il n'était toujours pas désigné, et les inspections de chantier n'avaient jamais commencé. Un plan qui ne nomme personne ne sera appliqué par personne.
 
 ## Premier test : le registre réglementaire est-il appliqué ?
 
@@ -49,7 +49,7 @@ L'analyse se fait à deux niveaux. Au niveau du projet, elle identifie les grand
 
 Les meilleures procédures que nous ayons vues rattachent la JSA au permis de travail : le permis n'est pas approuvé sans l'analyse jointe. Elles classent aussi les analyses dans un registre. Une équipe qui reprend un levage déjà analysé part de l'analyse précédente et de ses observations, et le responsable HSE peut repérer les risques qui reviennent d'une tâche à l'autre.
 
-Le signe d'alerte est simple à repérer : des JSA signées après le début du travail, ou toutes identiques d'une tâche à l'autre.
+Le signe d'alerte est simple à repérer : des JSA signées après le début du travail, ou toutes identiques d'une tâche à l'autre. Lors d'un audit sur une unité en arrêt, les analyses de levage de la semaine portaient toutes la même liste de mesures, recopiée, alors qu'un des levages passait au-dessus d'une tuyauterie en service. L'analyse n'existait que sur le papier, et le permis signé sur sa base ne protégeait personne.
 
 ## Troisième test : la hiérarchie des mesures est-elle respectée ?
 
@@ -57,7 +57,7 @@ ISO 45001 (8.1.2) fixe l'ordre : éliminer le danger, le remplacer par quelque c
 
 Les standards d'EPI des grands projets le rappellent : l'équipement individuel ne réduit que l'exposition, la protection théorique est rarement atteinte en pratique, et le danger reste présent. Ces standards fixent ensuite, équipement par équipement, les normes de référence (casques EN 397, gants EN 388, chaussures EN ISO 20345, protection oculaire EN 166, protection auditive EN 352), la durée de vie, l'attribution individuelle et l'entretien.
 
-Il suffit de compter les pages. Un plan qui consacre trois pages aux EPI et trois lignes aux protections collectives a inversé la hiérarchie.
+Il suffit de compter les pages. Un plan qui consacre trois pages aux EPI et trois lignes aux protections collectives a inversé la hiérarchie. Sur un chantier de bâtiment industriel, le plan prévoyait des harnais pour le montage de la charpente et rien sur les lignes de vie ni sur les garde-corps provisoires ; le harnais était là, les points d'ancrage ne l'étaient pas. La question à poser pour chaque danger majeur est ce que le plan prévoit avant l'équipement individuel.
 
 ## Quatrième test : l'urgence est-elle dessinée ?
 
@@ -71,7 +71,7 @@ Sur un chantier, les moyens sont plus simples, la logique est la même : itinér
 
 Les accidents avec arrêt arrivent trop tard pour piloter. Les indicateurs avancés disent davantage de l'état du système : inspections réalisées, observations de sécurité, JSA revues, formations faites, actions correctives soldées dans les délais, exercices d'urgence.
 
-Chaque incident, et surtout chaque presque-accident, appelle une enquête proportionnée : faits, causes immédiates, causes profondes, actions. Le tableau d'actions de notre deuxième plan montre ce qui manque le plus souvent. Sans colonne « cause », l'action traite le symptôme. Sans colonne « efficacité vérifiée le… », personne ne sait si le problème a disparu. Ajouter ces deux colonnes coûte dix minutes et transforme le suivi.
+Chaque incident, et surtout chaque presque-accident, appelle une enquête proportionnée : faits, causes immédiates, causes profondes, actions. Le tableau d'actions correctives d'un plan montre vite ce qui manque. Chez un entrepreneur de montage, il se réduisait à trois colonnes : écart, action, date ; le même renversement de chariot élévateur y figurait deux fois à six mois d'intervalle. Sans colonne « cause », l'action traite le symptôme. Sans colonne « efficacité vérifiée le… », personne ne sait si le problème a disparu. Ajouter ces deux colonnes coûte dix minutes et transforme le suivi.
 
 ## Les écarts qui reviennent
 
@@ -88,7 +88,7 @@ Chaque incident, et surtout chaque presque-accident, appelle une enquête propor
 
 ## Avant la réunion de lancement
 
-Pour un maître d'ouvrage, la décision se prend avant la mobilisation, quand le refus d'un plan ne coûte encore qu'un délai de réécriture. Nous recommandons d'écrire dans le dossier de consultation les cinq tests ci-dessus comme critères d'acceptation, d'exiger la réécriture avant l'accès au site de tout plan qui en échoue deux, et de fixer une revue du plan à chaque changement de phase : génie civil, montage, essais, mise en service. Un plan accepté en l'état au démarrage se corrige ensuite par fiches d'écart, sur un chantier déjà en cours.
+Pour un maître d'ouvrage, la décision se prend avant la mobilisation, quand le refus d'un plan ne coûte encore qu'un délai de réécriture. Nous recommandons d'écrire dans les pièces de consultation les cinq tests ci-dessus comme critères d'acceptation, d'exiger la réécriture avant l'accès au site de tout plan qui en échoue deux, et de fixer une revue du plan à chaque changement de phase : génie civil, montage, essais, mise en service. Un plan accepté en l'état au démarrage se corrige ensuite par fiches d'écart, sur un chantier déjà en cours.
 
 ## Références
 

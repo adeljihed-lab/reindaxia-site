@@ -1,11 +1,11 @@
 ---
-title: "Modifications et dérogations : la vanne « sans importance » qui demande un dossier"
+title: "Modifications et dérogations : la vanne « sans importance » qui demande une analyse"
 description: "Gestion des modifications et des dérogations : exigences d'ISO 45001 et de l'OSHA, leçons de Flixborough, Geismar et Longford, et un circuit proportionné."
 category: HSE et sécurité des procédés
 keywords: [gestion des modifications, management of change, MoC, dérogation, deviation from technical regulations, modification temporaire, revue de sécurité avant démarrage, PSSR, analyse de risques, HAZOP, ISO 45001 8.1.3, OSHA 1910.119, CCPS, Flixborough, Geismar, rebouilleur, Longford, modification organisationnelle, sécurité des procédés, Tunisie, Afrique du Nord]
 ---
 
-« Faut-il vraiment ouvrir un dossier de modification pour ajouter une vanne d'isolement ? » La question revient dans presque chaque audit de site de procédé, posée le plus souvent par un responsable de maintenance. L'ajout doit faciliter les permutations entre deux échangeurs. Il demande une demi-journée de travaux, alors que le circuit de modification exige plusieurs signatures et une réunion d'analyse. Notre réponse est oui, et nous racontons Geismar, où des vannes de ce type, ajoutées sans analyse, ont fini par isoler un rebouilleur de sa soupape.
+« Faut-il vraiment ouvrir une demande de modification pour ajouter une vanne d'isolement ? » La question revient dans presque chaque audit de site de procédé, posée le plus souvent par un responsable de maintenance. L'ajout doit faciliter les permutations entre deux échangeurs. Il demande une demi-journée de travaux, alors que le circuit de modification exige plusieurs signatures et une réunion d'analyse. Notre réponse est oui, et nous racontons Geismar, où des vannes de ce type, ajoutées sans analyse, ont fini par isoler un rebouilleur de sa soupape.
 
 > **En bref.** Une modification ou une dérogation mal encadrée figure dans la chaîne causale de nombreux accidents majeurs. Le circuit peut rester léger, à condition que la personne qui propose ne soit jamais seule à décider, que l'effet sur les risques soit analysé, et que toute situation temporaire ait une date de fin suivie.
 
@@ -22,7 +22,7 @@ La dérogation est une notion voisine, qu'il faut traiter à part.
 | **Durée** | Permanente ou temporaire | Toujours temporaire, avec une date d'échéance |
 | **Question centrale** | Quel est l'effet du changement sur les risques ? | Quelles mesures compensent l'écart pendant sa durée ? |
 
-Les changements qui échappent au circuit sont presque toujours ceux qu'on a jugés mineurs avant de les analyser. La qualification « mineure » devrait être une conclusion de l'analyse, pas son point de départ.
+Les changements qui échappent au circuit sont presque toujours ceux qu'on a jugés mineurs avant de les analyser. Chez un fabricant de pompes, un joint de garniture en PTFE avait été remplacé par un joint en graphite « équivalent » lors d'une révision, sans que personne ne vérifie la compatibilité avec le fluide ; la fuite est apparue au redémarrage. Lors d'une réception de skids, un transmetteur de pression d'un autre fabricant, à la même plage, avait été monté en remplacement d'un instrument endommagé : sa classe de température ne convenait plus à la zone. La qualification « mineure » devrait être une conclusion de l'analyse, pas son point de départ.
 
 ## Trois accidents, trois familles de changements
 
@@ -69,9 +69,11 @@ La vanne de l'introduction relève du niveau moyen. Pour un ajout de ce type, l'
 
 Le circuit d'une dérogation est plus court mais tout aussi strict : justification, analyse de risques, mesures compensatoires, autorisation par l'autorité responsable de la règle, date d'échéance, inscription au registre. Si l'échéance ne peut pas être tenue, la dérogation repasse par le circuit complet d'une modification permanente. Une dérogation renouvelée trois fois sans analyse nouvelle est devenue une modification que personne n'a analysée.
 
+Lors d'un audit sur un site de stockage, une soupape de sécurité attendait sa requalification depuis plusieurs campagnes : la dérogation initiale, accordée pour quelques semaines le temps de recevoir la pièce, avait été reconduite par courriel, puis oubliée. La mesure compensatoire, une surveillance renforcée de la pression, n'était plus appliquée par l'équipe en poste. Sur un chantier de construction, une dérogation accordée pour couler un béton avec un ciment de substitution « jusqu'à réception du lot prévu » a couvert la quasi-totalité des massifs, sans nouvel essai de convenance. Dans les deux cas, la règle à retenir est la même : une dérogation sans date de fin inscrite au registre et sans vérification de sa mesure compensatoire n'existe que sur le papier.
+
 ## Sur les chantiers aussi
 
-Ces principes valent hors des raffineries. Sur un chantier de lignes électriques, changer la provenance des granulats du béton sans nouvel essai de convenance est une modification : le matériau change, ses propriétés aussi. Sur un projet EPC, déplacer une tuyauterie pour éviter un chemin de câbles sans demande technique peut changer la flexibilité de la ligne ou supprimer un point de purge. Dans une entreprise de travaux, confier une tâche dangereuse à une équipe nouvellement constituée est une modification organisationnelle.
+Ces principes valent hors des raffineries. Sur un chantier de lignes électriques, changer la provenance des granulats du béton sans nouvel essai de convenance est une modification : le matériau change, ses propriétés aussi. Sur un projet EPC, déplacer une tuyauterie pour éviter un chemin de câbles sans demande technique peut changer la flexibilité de la ligne ou supprimer un point de purge. Dans une entreprise de travaux, confier une tâche dangereuse à une équipe nouvellement constituée est une modification organisationnelle. À la mise en service d'une unité, nous avons vu un sous-traitant d'instrumentation remplacé entre les essais à froid et les essais à chaud ; la nouvelle équipe ne connaissait ni les boucles déjà forcées ni les raisons des forçages, et la liste des forçages a dû être reconstituée avant de poursuivre.
 
 La question à poser est chaque fois la même : qui, dans l'organisation, sait évaluer l'effet de ce changement, et l'a-t-il fait ?
 
@@ -79,14 +81,14 @@ La question à poser est chaque fois la même : qui, dans l'organisation, sait �
 
 Lors d'un audit, nous cherchons quelques indices simples :
 
-- des modifications découvertes sur le terrain, sans dossier, lors d'une visite ou d'une réception ;
+- des modifications découvertes sur le terrain, sans demande enregistrée, lors d'une visite ou d'une réception ;
 - des plans qui ne correspondent plus à l'installation ;
 - des modifications temporaires dont personne ne connaît la date de fin ;
 - un registre de dérogations aux échéances dépassées ;
 - des analyses de risques signées par une seule personne, toujours la même ;
 - des réorganisations annoncées sans analyse de leurs effets sur les compétences.
 
-Deux de ces indices suffisent en général à montrer que le circuit existe sur le papier sans être utilisé.
+Deux de ces indices suffisent en général à montrer que le circuit existe sur le papier sans être utilisé. Sur une unité de traitement, le moyen le plus rapide de le vérifier a été de comparer un schéma de tuyauterie et d'instrumentation à l'installation : un piquage de purge, un by-pass de filtre et un capteur déplacé n'y figuraient pas, et aucun des trois n'avait de demande de modification. Lorsque le terrain a de l'avance sur les plans, l'analyse de danger suivante raisonne sur une installation qui n'existe plus, comme à Geismar.
 
 ## Le registre à ouvrir en premier
 

@@ -20,11 +20,11 @@ Sur le réseau en cause, les faits de départ étaient simples :
 - quelques joints jugés à reprendre après radiographie et ressuage ;
 - un réseau voisin, de même matériau mais véhiculant un autre fluide, presque intact.
 
-Trois pistes occupaient les réunions : la qualification des soudeurs, une contamination bactérienne, l'effet de la chloration. La première avait l'avantage d'être visible et de désigner un responsable.
+Trois pistes occupaient les réunions : la qualification des soudeurs, une contamination bactérienne, l'effet de la chloration. La première avait l'avantage d'être visible et de désigner un responsable. Nous retrouvons ce réflexe sur la plupart des installations qui fuient : chez un fabricant de skids, une fuite sur une ligne de refroidissement a d'abord été imputée à un soudeur intérimaire, jusqu'à ce que la coupe montre une piqûre partie du métal de base, sous une trace de calamine. La soudure est l'endroit où l'on regarde, parce qu'on sait où elle est ; ce n'est pas pour autant l'endroit où le métal cède.
 
-## Les données étaient déjà dans le dossier qualité
+## Les données existaient déjà
 
-Aucune mesure nouvelle n'a été nécessaire pour la première étape. Le dossier qualité du projet contenait la base de données des soudures, les qualifications des modes opératoires (WPS/PQR) et des soudeurs, les rapports de contrôles non destructifs, les isométriques et les enregistrements d'épreuve. Nous avons rattaché chaque fuite à son joint, puis chaque joint à son historique, et réparti les défaillances selon une quinzaine de critères.
+Aucune mesure nouvelle n'a été nécessaire pour la première étape. La documentation qualité du projet contenait la base de données des soudures, les qualifications des modes opératoires (WPS/PQR) et des soudeurs, les rapports de contrôles non destructifs, les isométriques et les enregistrements d'épreuve. Nous avons rattaché chaque fuite à son joint, puis chaque joint à son historique, et réparti les défaillances selon une quinzaine de critères.
 
 | Critère de répartition | Constat | Ce qu'on en tire |
 |---|---|---|
@@ -40,7 +40,7 @@ Un défaut de soudage se répartit sur toute la circonférence et suit les soude
 
 ## L'eau, que personne n'avait analysée
 
-On examine volontiers le métal et on oublie le fluide. Les analyses de l'eau de forage, comparées à la base de conception, montraient une eau modérément minéralisée mais agressive pour un inox placé dans de mauvaises conditions :
+On examine volontiers le métal et on oublie le fluide. À la mise en service d'une unité de traitement d'eau, nous avons vu un réseau inox rempli d'eau de mer pour l'épreuve parce que l'eau douce manquait sur le site ; les premières piqûres sont apparues avant la fin de la garantie. La qualité de l'eau d'épreuve se spécifie, et elle se contrôle avant le remplissage. Ici, les analyses de l'eau de forage, comparées à la base de conception, montraient une eau modérément minéralisée mais agressive pour un inox placé dans de mauvaises conditions :
 
 - **chlorures de l'ordre de 200 à 500 mg/l** selon les campagnes, sulfates du même ordre, conductivité autour de 1 500 µS/cm ;
 - **fer dissous proche de 1 mg/l**, signe d'un apport de produits de corrosion par des équipements en acier au carbone situés en amont ;
@@ -63,7 +63,7 @@ Les piqûres se trouvaient dans le métal de base et en bordure de la zone fondu
 ![Micrographie de la zone fondue](/assets/blog/inox-316l-micrographie-soudure.jpg)
 *Figure 3. Micrographie de la zone fondue après attaque électrolytique : structure de solidification saine.*
 
-Le laboratoire intervient à ce stade pour confirmer une hypothèse déjà orientée par les données. Envoyer des échantillons sans question précise produit un rapport de composition chimique conforme, et rien de plus.
+Le laboratoire intervient à ce stade pour confirmer une hypothèse déjà orientée par les données. Envoyer des échantillons sans question précise produit un rapport de composition chimique conforme, et rien de plus. Lors d'une expertise sur une tuyauterie de condensats, le maître d'ouvrage avait expédié un tronçon au laboratoire avec pour seule consigne « analyser la fuite » ; le rapport confirmait la nuance et concluait à « une corrosion localisée », ce que tout le monde savait déjà. La demande d'essai doit nommer les mécanismes à départager et les examens qui les séparent.
 
 ## Hypothèses et preuves, côte à côte
 
@@ -90,6 +90,8 @@ Sous le dépôt, le milieu se confine. L'oxygène s'épuise, les chlorures migre
 
 La cause traversait plusieurs phases du projet : une conception sans pente, une épreuve suivie d'un séchage insuffisant, une préservation non surveillée, une mise en service intermittente. Aucune équipe n'avait commis de faute grave prise isolément. Aucune modification des modes opératoires de soudage n'était nécessaire.
 
+La coloration thermique mérite un mot à part. Sur un chantier de tuyauteries pharmaceutiques, l'inspecteur du client refusait les cordons dont l'envers tirait sur le bleu ; l'entreprise jugeait l'exigence excessive pour de l'eau. Le même réseau, rempli d'eau chlorée pour la désinfection, a piqué le long des soudures les plus colorées. Lorsque le fluide contient des chlorures, la référence de coloration acceptée (AWS D18.2) et le traitement de surface après soudage font partie de la spécification, pas de la négociation de chantier.
+
 ## Ce que nous avons recommandé
 
 Les mesures ont été classées par phase, pour qu'elles remontent dans les spécifications et les plans d'inspection des projets suivants.
@@ -97,17 +99,17 @@ Les mesures ont été classées par phase, pour qu'elles remontent dans les spé
 | Phase | Mesure | Preuve à exiger |
 |---|---|---|
 | Conception | Pente des lignes, purges aux points bas, bras morts limités | Isométriques avec pentes et purges cotées |
-| Fabrication | Protection gazeuse envers, maîtrise de la pénétration et de la coloration thermique ; décapage et passivation si le milieu l'exige (ASTM A380, A967) | Fiches de soudage, référence de coloration acceptée (AWS D18.2), rapport de passivation |
+| Fabrication | Protection gazeuse envers, maîtrise de la pénétration et de la coloration thermique ; décapage et passivation si le milieu l'exige (ASTM A380, A967) | Enregistrements de soudage, référence de coloration acceptée (AWS D18.2), rapport de passivation |
 | Épreuve | Eau de qualité contrôlée, teneur en chlorures fixée par la spécification ; vidange et séchage sans délai | Analyse de l'eau d'épreuve, enregistrement de vidange et de séchage signé |
 | Préservation | Réseau inox jamais laissé plein d'eau à l'arrêt ; rinçage et séchage avant tout arrêt prolongé | Rondes de préservation avec date et état constaté |
 | Exploitation | Filtration des particules en amont, dosage de chloration maîtrisé et suivi du pH ; désinfection UV ou thermique si la contamination bactérienne est confirmée | Suivi analytique de l'eau |
 | Matériau | Si ces mesures ne suffisent pas, comparer une nuance plus résistante (duplex par exemple) au coût des arrêts répétés | Étude coût sur la durée de vie |
 
-Le séchage après épreuve mérite un point d'arrêt à lui seul dans le plan d'inspection et d'essais. C'est l'étape la plus souvent sautée quand le planning se tend, et la seule qui aurait empêché la stagnation dans ce cas.
+Le séchage après épreuve mérite un point d'arrêt à lui seul dans le plan d'inspection et d'essais. C'est l'étape la plus souvent sautée quand le planning se tend, et la seule qui aurait empêché la stagnation dans ce cas. Sur un projet de centrale, un collecteur inox épreuvé en fin d'année est resté plein jusqu'à la reprise des travaux, plusieurs mois plus tard, parce que la vidange n'était inscrite nulle part et que l'équipe d'essais avait été démobilisée. Le point d'arrêt « vidangé et séché » doit être signé par la personne qui reste sur le site, pas par celle qui part.
 
 ## Avant la vidange de la prochaine épreuve
 
-Sur un réseau inox en eau chlorurée, nous demandons désormais trois documents avant de signer la fin des essais : l'analyse de l'eau d'épreuve, l'enregistrement de vidange et de séchage, et le programme de préservation jusqu'à la mise en service. Si une fuite apparaît malgré tout, la première étape reste la même : répartir les défaillances par soudeur, par position et par fluide à partir du dossier qualité existant, avant de commander la moindre réparation.
+Sur un réseau inox en eau chlorurée, nous demandons désormais trois documents avant de signer la fin des essais : l'analyse de l'eau d'épreuve, l'enregistrement de vidange et de séchage, et le programme de préservation jusqu'à la mise en service. Si une fuite apparaît malgré tout, la première étape reste la même : répartir les défaillances par soudeur, par position et par fluide à partir des enregistrements qualité existants, avant de commander la moindre réparation.
 
 ## Références utiles
 

@@ -7,17 +7,17 @@ keywords: [qualité construction, ISO 10005, plan qualité, ISO 9001, Six Sigma,
 
 La lettre du maître d'œuvre tient en une page. Après plusieurs visites inopinées sur un chantier de ligne moyenne tension, il annonce des contrôles au scléromètre sur les massifs de fondation des poteaux, et la démolition de ceux dont le béton serait jugé insuffisant. Ses constats : pas de vibreur alors que le béton est gâché à la main sur tôle ; partie hors sol des massifs coulée en différé, au lieu de l'être en continuité avec la partie enterrée ; aucune éprouvette ; aucun essai de convenance alors que la carrière a changé ; des équipes et du matériel insuffisants.
 
-L'entreprise doit répondre, et vite. Elle ne sait pas ce que vaut le béton déjà coulé, puisqu'elle ne l'a jamais mesuré. Elle ne peut pas promettre que la suite sera meilleure sans dire ce qui va changer. C'est la situation où les outils de la qualité servent le plus, à condition de les appliquer à un processus concret plutôt qu'au système en général.
+L'entreprise doit répondre, et vite. Elle ne sait pas ce que vaut le béton déjà coulé, puisqu'elle ne l'a jamais mesuré. Elle ne peut pas promettre que la suite sera meilleure sans dire ce qui va changer. Nous avons vu la même lettre, à quelques mots près, sur des réservoirs d'eau, des dallages industriels et des massifs de pylônes. Les outils de la qualité servent le plus dans cette situation, à condition de les appliquer à un processus concret plutôt qu'au système en général.
 
 ## D'abord, savoir ce que vaut le béton en place
 
 Le scléromètre mesure un indice de rebond lié à la dureté de surface. Il permet de comparer des zones entre elles et de repérer les massifs suspects. Il ne suffit pas, seul, à établir une résistance : une surface sèche ou carbonatée rebondit plus qu'un béton sain en profondeur, une surface ségrégée moins. L'évaluation de la résistance en place repose sur la démarche de l'EN 13791, qui s'appuie sur des carottes prélevées et essayées selon l'EN 12504-1, l'indice de rebondissement (EN 12504-2) servant à étendre les résultats après corrélation.
 
-Notre conseil à l'entreprise, dans ce type de situation : proposer elle-même un plan de reconnaissance contradictoire. Indices de rebond sur l'ensemble des massifs, classement en lots homogènes, carottage sur les lots les plus faibles et sur un lot de référence, puis décision massif par massif. Cela évite la démolition sur un seul indice de surface, et cela donne au maître d'œuvre une base qu'il peut accepter.
+Notre conseil à l'entreprise, dans ce type de situation : proposer elle-même un plan de reconnaissance contradictoire. Indices de rebond sur l'ensemble des massifs, classement en lots homogènes, carottage sur les lots les plus faibles et sur un lot de référence, puis décision massif par massif. Sur un réservoir semi-enterré, cette démarche a limité la démolition à un seul voile, alors que le scléromètre seul en condamnait trois ; les carottes ont montré que la surface carbonatée faussait l'indice. Cela évite la démolition sur un seul indice de surface, et cela donne au maître d'œuvre une base qu'il peut accepter.
 
 ## Comprendre pourquoi le processus a dérapé
 
-Pris un par un, les constats de la lettre sont des exigences classiques. Pris ensemble, ils montrent un processus dont rien n'était maîtrisé : ni les entrées (les granulats), ni l'exécution (mise en place, vibration, continuité de coulage), ni la vérification (les éprouvettes).
+Pris un par un, les constats du maître d'œuvre sont des exigences classiques. Pris ensemble, ils montrent un processus dont rien n'était maîtrisé : ni les entrées (les granulats), ni l'exécution (mise en place, vibration, continuité de coulage), ni la vérification (les éprouvettes).
 
 Le **SIPOC** (fournisseurs, entrées, processus, sorties, clients) oblige à regarder ce processus en entier :
 
@@ -25,7 +25,7 @@ Le **SIPOC** (fournisseurs, entrées, processus, sorties, clients) oblige à reg
 |---|---|---|---|---|
 | Carrière, cimenterie, fournisseur d'acier, topographe | Granulats, ciment, eau, adjuvants, armatures ou ancrages, implantation | Fouille, coffrage, ferraillage, fabrication du béton, mise en place, vibration, coulage hors sol, cure, décoffrage | Massif conforme et tracé, éprouvettes, fiche de bétonnage | Équipe de levage des poteaux, maître d'œuvre, exploitant du réseau |
 
-La faiblesse saute aux yeux : la carrière a changé, donc une entrée critique a changé, et rien dans le processus ne l'a détecté.
+La faiblesse saute aux yeux : la carrière a changé, donc une entrée critique a changé, et rien dans le processus ne l'a détecté. Le cas n'est pas propre aux lignes. Sur un bâtiment industriel approvisionné en béton prêt à l'emploi, la centrale avait changé de source de sable en cours de chantier sans prévenir ; la dérive s'est vue sur les éprouvettes à 28 jours, trop tard pour les deux planchers déjà coulés. Un changement de fournisseur ou de provenance doit être un événement déclaré, qui déclenche des essais avant usage.
 
 L'**AMDEC** (analyse des modes de défaillance, de leurs effets et de leur criticité) range ensuite les risques. Une version simplifiée, construite en une réunion avec les chefs d'équipe, l'ingénieur travaux et le responsable qualité, suffit :
 
@@ -54,7 +54,7 @@ Le point de départ est la liste des **caractéristiques critiques pour la quali
 | Géométrie | Dimensions, verticalité, implantation | Mesure, piquetage contradictoire |
 | Enrobage et durabilité | Enrobage des armatures ou des ancrages, cure | Contrôle avant coulage, consigne de cure |
 
-Sur ce chantier, la première ligne n'avait aucune méthode de vérification. À partir de cette table, le plan qualité du processus de bétonnage tient en quelques pages :
+Sur le chantier de ligne, la première ligne du tableau n'avait aucune méthode de vérification. À partir de cette table, le plan qualité du processus de bétonnage tient en quelques pages :
 
 - **les responsabilités** : qui valide la formulation, qui autorise un coulage, qui prélève les éprouvettes, qui libère un massif ;
 - **les achats** : carrière et cimenterie qualifiées, et une règle écrite selon laquelle tout changement de provenance déclenche de nouveaux essais de convenance ;
@@ -62,7 +62,7 @@ Sur ce chantier, la première ligne n'avait aucune méthode de vérification. À
 - **le plan d'inspection et d'essais**, cohérent avec l'EN 13670 : points d'arrêt avant coulage (fouille, armatures, coffrage), surveillance pendant le coulage, essais sur béton frais et durci ;
 - **les non-conformités** : ce qui se passe quand une série d'éprouvettes ne satisfait pas aux critères.
 
-Les chefs d'équipe doivent connaître les points d'arrêt par cœur. Le responsable qualité les vérifie à chaque passage, et la fiche de bétonnage signée en garde la trace.
+Les chefs d'équipe doivent connaître les points d'arrêt par cœur. Le responsable qualité les vérifie à chaque passage, et la fiche de bétonnage signée en garde la trace. Un plan qualité de cent pages, copié d'un autre projet, ne protège pas mieux : lors d'un audit sur un chantier routier, le plan prévoyait des éprouvettes « selon la norme » et personne sur place ne savait ni la fréquence ni qui prélevait. Les quelques pages propres au processus comptent plus que le volume du document.
 
 ## Mesurer : ce que dit la capabilité, et ce qu'elle ne dit pas
 
@@ -79,7 +79,7 @@ Pour l'atteindre, il y a deux moyens. Augmenter la moyenne coûte du ciment sur 
 ![Capabilité et DMAIC](/assets/blog/qualite-capabilite-dmaic.svg)
 *Figure 1. Même résistance moyenne, deux dispersions : réduire la variabilité améliore la capabilité sans ajouter de ciment ; à droite, les cinq phases DMAIC appliquées au béton.*
 
-Les **cartes de contrôle** suivent ensuite la stabilité dans le temps. Une série de résultats qui dérive, ou un point hors des limites de contrôle, signale un changement avant qu'il ne produise une non-conformité. Les limites de contrôle sont calculées sur le processus. Elles ne se confondent pas avec les limites de spécification, fixées par le contrat.
+Les **cartes de contrôle** suivent ensuite la stabilité dans le temps. Une série de résultats qui dérive, ou un point hors des limites de contrôle, signale un changement avant qu'il ne produise une non-conformité. Dans une unité de préfabrication, une carte tenue sur les résistances à 7 jours a fait repérer une baisse régulière sur trois semaines, attribuée à un silo de ciment entamé par l'humidité, avant qu'aucun résultat à 28 jours ne sorte des critères. Les limites de contrôle sont calculées sur le processus. Elles ne se confondent pas avec les limites de spécification, fixées par le contrat.
 
 ## Améliorer et tenir : DMAIC et Lean
 
@@ -93,13 +93,13 @@ La démarche DMAIC structure l'amélioration en cinq phases :
 | Améliorer | Solutions testées | Bétonnière et dosage pondéral, vibreur de secours, coulage continu, essais de convenance à chaque changement de carrière |
 | Contrôler | Pérenniser | Carte de contrôle des résistances, points d'arrêt, audits de chantier |
 
-Le **Lean** s'attaque aux attentes, aux déplacements inutiles et aux reprises. Sur un chantier linéaire comme une ligne électrique, organiser les équipes en séquences régulières (fouilles, ferraillage, coulage, levage) supprime une partie des attentes. Il supprime aussi une cause du défaut de continuité : la partie hors sol coulée plus tard parce que l'équipe de coulage était déjà repartie.
+Le **Lean** s'attaque aux attentes, aux déplacements inutiles et aux reprises. Sur un chantier linéaire comme une ligne électrique ou une conduite, organiser les équipes en séquences régulières (fouilles, ferraillage, coulage, levage) supprime une partie des attentes. Il supprime aussi une cause du défaut de continuité : la partie hors sol coulée plus tard parce que l'équipe de coulage était déjà repartie. Sur une conduite d'adduction, nous avons vu des butées coulées en deux fois pour la même raison ; la reprise était visible au décoffrage sur chacune.
 
 ISO 9001 distingue enfin la correction, qui traite le massif défectueux, de l'action corrective, qui traite la cause. Ici, la correction va de l'acceptation après carottage à la démolition. L'action corrective porte sur les moyens, la formation, les points d'arrêt et la maîtrise des fournisseurs. Son efficacité se lit dans les données : résultats des éprouvettes suivantes et absence de nouveaux écarts aux visites du maître d'œuvre.
 
 ## Ce que coûte l'économie de moyens
 
-Le PMBOK reprend la distinction classique entre coûts de conformité (prévention et évaluation : formation, procédures, essais, inspections) et coûts de non-conformité (reprises, démolitions, retards, pénalités, perte de confiance). Sur ce chantier, l'écart est facile à chiffrer en ordre de grandeur. D'un côté, un vibreur de secours, des moules à éprouvettes, une demi-journée d'essais de convenance. De l'autre, une campagne de reconnaissance, des carottages, la démolition et la reconstruction de quelques massifs, et des semaines de retard sur le levage des poteaux.
+Le PMBOK reprend la distinction classique entre coûts de conformité (prévention et évaluation : formation, procédures, essais, inspections) et coûts de non-conformité (reprises, démolitions, retards, pénalités, perte de confiance). Sur le chantier de ligne, l'écart est facile à chiffrer en ordre de grandeur. D'un côté, un vibreur de secours, des moules à éprouvettes, une demi-journée d'essais de convenance. De l'autre, une campagne de reconnaissance, des carottages, la démolition et la reconstruction de quelques massifs, et des semaines de retard sur le levage des poteaux.
 
 ## Pour la réponse au maître d'œuvre
 

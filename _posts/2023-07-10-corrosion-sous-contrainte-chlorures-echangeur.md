@@ -23,7 +23,7 @@ Un document disponible donnait pourtant un indice : la carte des tubes défectue
 
 ## Six façons de percer un tube de 1,65 mm
 
-Le bouchage est une réparation rapide et éprouvée, souvent la bonne décision à court terme. Mais il ne traite pas la cause, il réduit la surface d'échange, et il ne dit rien du faisceau de remplacement. Or plusieurs mécanismes peuvent percer un tube d'inox mince, avec des remèdes différents. Le tableau ci-dessous est celui que nous utilisons pour orienter les prélèvements.
+Le bouchage est une réparation rapide et éprouvée, souvent la bonne décision à court terme. Mais il ne traite pas la cause, il réduit la surface d'échange, et il ne dit rien du faisceau de remplacement. Or plusieurs mécanismes peuvent percer un tube d'inox mince, avec des remèdes différents. Sur un condenseur de centrale, des tubes « corrodés » selon l'exploitant présentaient en coupe une fissure circonférentielle unique au droit d'une chicane : de la fatigue par vibration, que le bouchage ne traite pas puisque les tubes voisins vibrent de la même façon. Sur un refroidisseur d'huile, les fissures partaient de l'extérieur des tubes, sous un calorifuge imbibé d'eau de lavage chlorée ; le fluide procédé n'y était pour rien. Le tableau ci-dessous est celui que nous utilisons pour orienter les prélèvements.
 
 | Mécanisme | Signature à l'examen | Localisation typique | Remède principal |
 |---|---|---|---|
@@ -64,12 +64,12 @@ Le molybdène du 316L améliore la résistance aux piqûres, **pas** celle à la
 
 Compléter si possible par un **contrôle par courants de Foucault** des tubes restants. L'essai d'étanchéité ne trouve que les tubes déjà percés.
 
-**Vérifier les matériaux de la réparation.** Le dossier de soudage associait des bouchons en 304L à des tubes en 316L, avec un métal d'apport de nuance 316. Le soudage était techniquement correct. Mais le bouchon en 304L, sans molybdène, résiste moins bien aux piqûres que le tube qu'il ferme. En milieu chloruré, nous appliquons une règle simple : le matériau de réparation est au moins équivalent au matériau d'origine, et meilleur si possible lorsque le mécanisme est lié au milieu.
+**Vérifier les matériaux de la réparation.** Le mode opératoire proposé par le réparateur associait des bouchons en 304L à des tubes en 316L, avec un métal d'apport de nuance 316. Le soudage était techniquement correct. Mais le bouchon en 304L, sans molybdène, résiste moins bien aux piqûres que le tube qu'il ferme. En milieu chloruré, nous appliquons une règle simple : le matériau de réparation est au moins équivalent au matériau d'origine, et meilleur si possible lorsque le mécanisme est lié au milieu.
 
 ![Bouchon usiné présenté devant la plaque tubulaire](/assets/blog/echangeur-bouchon-usine.jpg)
 *Figure 5. Bouchon usiné avant soudage : sa nuance doit être au moins équivalente à celle du tube.*
 
-Le même dossier appelait les vérifications habituelles d'un dossier de fabrication : validité des qualifications des soudeurs à la date des travaux selon ASME Section IX, cohérence du mode opératoire avec les épaisseurs réelles, ressuage des soudures de bouchon, épreuve du faisceau après réparation.
+La même documentation appelait les vérifications habituelles d'une réparation : validité des qualifications des soudeurs à la date des travaux selon ASME Section IX, cohérence du mode opératoire avec les épaisseurs réelles, ressuage des soudures de bouchon, épreuve du faisceau après réparation. Chez un réparateur d'échangeurs, nous avons trouvé des bouchons soudés avec un procédé dont la qualification couvrait des épaisseurs bien supérieures à celle de la plaque tubulaire, et des soudeurs dont le renouvellement de qualification datait de la veille de l'audit. La qualification se vérifie à la date de la soudure, pas à la date de la revue.
 
 **Traiter la cause.** Si le mécanisme est confirmé, le bouchage reste une mesure temporaire. La cause se traite sur le milieu (teneur en chlorures, zones de concentration, nettoyage des dépôts), sur la température (régime réel comparé aux hypothèses de conception), sur les contraintes (contrôle du dudgeonnage, absence de sur-dudgeonnage), et sur le matériau du faisceau de remplacement.
 
@@ -79,13 +79,13 @@ Chaque tube bouché retire de la surface d'échange et augmente la vitesse dans 
 
 ## Négocier les prélèvements
 
-Sur le terrain, la demande de prélèvements destructifs rencontre presque toujours les mêmes objections : le programme est arrêté, l'unité attend, les tubes sont de toute façon à boucher. Elles sont compréhensibles. Leur coût est différé : sans diagnostic, le faisceau de remplacement sera commandé dans la même nuance, et ses tubes pourront fissurer dans la même zone.
+Sur le terrain, la demande de prélèvements destructifs rencontre presque toujours les mêmes objections : le programme est arrêté, l'unité attend, les tubes sont de toute façon à boucher. Elles sont compréhensibles. Leur coût est différé : sans diagnostic, le faisceau de remplacement sera commandé dans la même nuance, et ses tubes pourront fissurer dans la même zone. Nous l'avons vu sur un aéroréfrigérant d'une unité de gaz : deux faisceaux successifs, commandés à l'identique après deux campagnes de bouchage, ont fissuré au même endroit, et c'est au troisième que la question de la nuance a été posée. Le coût de deux faisceaux aurait payé bien des coupes métallographiques.
 
 Notre proposition est de réparer et de comprendre en parallèle. Prélever trois ou quatre tubes ne retarde pas le bouchage des autres. L'examen de laboratoire prend quelques jours, et ses conclusions servent à la décision suivante, celle du faisceau neuf, qui coûte le plus cher. Pour que cette proposition soit acceptée, l'ingénieur qualité doit être associé dès l'arrêt de l'équipement, avant que le programme d'inspection ne soit figé.
 
 ## Une carte des tubes bouchés à chaque arrêt
 
-La carte de la plaque tubulaire est l'outil le moins coûteux de ce dossier. Tenue à jour à chaque arrêt, avec la position des tubes bouchés et la date, elle montre si le mécanisme est toujours actif, s'il reste localisé et à quelle vitesse l'échangeur approche de sa limite de bouchage. Dans ce cas, elle désignait déjà la moitié inférieure du faisceau avant toute analyse de laboratoire.
+La carte de la plaque tubulaire est l'outil le moins coûteux de toute cette démarche. Tenue à jour à chaque arrêt, avec la position des tubes bouchés et la date, elle montre si le mécanisme est toujours actif, s'il reste localisé et à quelle vitesse l'échangeur approche de sa limite de bouchage. Dans ce cas, elle désignait déjà la moitié inférieure du faisceau avant toute analyse de laboratoire. Sur une raffinerie où nous avons repris l'historique d'un échangeur de tête de colonne, les cartes des arrêts précédents existaient sur des feuilles séparées, sans date ni orientation ; superposées, elles montraient une progression régulière depuis l'entrée côté calandre que personne n'avait vue. Une carte par arrêt, datée, orientée et classée avec le rapport d'inspection, suffit à faire parler l'équipement.
 
 ## Références utiles
 

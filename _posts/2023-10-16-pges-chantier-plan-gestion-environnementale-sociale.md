@@ -7,17 +7,11 @@ keywords: [PGES, PGES chantier, PGES-C, plan de gestion environnementale et soci
 
 Trente jours avant le démarrage de chaque site : c'est le délai que fixait le cahier des charges d'un projet d'électrification financé par un bailleur pour soumettre le PGES de chantier, avec le plan du site. L'ingénieur conseil disposait ensuite de quatorze jours pour commenter, la version corrigée devait être remise sept jours avant le démarrage, et l'ordre de service du site n'était donné qu'après approbation. Un plan rejeté une seconde fois consommait toute la marge. Dans ce schéma, la qualité du PGES ne relève plus de la conformité environnementale seulement : elle fixe la date à laquelle les équipes peuvent commencer à travailler.
 
-## Trois réponses au même document
+## La même trame, des lectures différentes
 
-Une entreprise de travaux électriques intervenait sur plusieurs projets financés par des bailleurs en Afrique. Elle a soumis, à partir de la même trame, trois PGES de chantier à trois clients.
+Les entreprises de travaux qui enchaînent les marchés financés par des bailleurs réutilisent leur trame de PGES d'un projet à l'autre. Ce n'est pas un défaut en soi. Le défaut apparaît quand la trame voyage sans être adaptée, et le sort du plan dépend alors de la profondeur de lecture du client. Sur un chantier de lignes électriques, un plan presque entièrement repris d'un marché précédent a été approuvé sans observation, avec une lettre invitant à appliquer strictement les mesures prévues. Sur un autre projet du même type, l'ingénieur conseil a renvoyé un procès-verbal d'évaluation qui relevait une description du projet étrangère aux activités du marché, des noms de ministères inexacts dans le cadre juridique, l'absence de procédure d'urgence et le silence du plan sur la formation du personnel et sur la responsabilité de l'entreprise en cas d'accident. Sur une centrale solaire, les commentaires portaient sur des sigles incohérents, une analyse d'impacts absente pour le milieu humain, aucune mesure contre les déversements de produits chimiques et aucune disposition sur la protection sociale des travailleurs.
 
-Le premier a été approuvé sans observation, avec une lettre courtoise invitant à appliquer strictement les mesures prévues.
-
-Le deuxième est revenu avec un procès-verbal d'évaluation détaillé. La commission relevait une description du projet qui ne correspondait pas aux activités du marché, des noms de ministères inexacts dans le cadre juridique, des textes nationaux manquants, aucune procédure d'urgence, et rien sur la responsabilité de l'entreprise en cas d'accident ni sur la formation du personnel.
-
-Le troisième, sur un projet d'électrification solaire, relevait des sigles incohérents, l'absence d'analyse des impacts sur le milieu physique et humain, aucune mesure contre la destruction de la végétation ou les déversements de produits chimiques, aucune protection sociale des travailleurs.
-
-La trame était la même dans les trois cas. Seule la profondeur de lecture du client changeait. Rien n'indique que le plan approuvé sans observation valait mieux que les deux autres. Ses lacunes éventuelles n'apparaîtraient qu'à l'exécution, quand les corriger coûte plus cher.
+Rien n'indique que le plan approuvé sans observation valait mieux que les autres. Ses lacunes n'apparaissent qu'à l'exécution, quand les corriger coûte plus cher. Un plan doit viser le lecteur le plus exigeant, parce que c'est lui qui finit par se présenter, au plus tard lors de l'audit du bailleur.
 
 ## La chaîne documentaire
 
@@ -37,15 +31,9 @@ Les bailleurs encadrent cette chaîne par leurs propres règles : les normes de 
 
 ## Ce qui arrive quand le plan reste générique
 
-Sur les projets que nous avons suivis, les risques environnementaux et sociaux du chantier se sont matérialisés de façon très concrète :
+Les risques que le plan générique ne nomme pas se présentent quand même, et nous les avons vus prendre des formes très concrètes. Sur un chantier d'électrification rurale, un arrêté municipal a arrêté les travaux après un conflit foncier avec des riverains dont l'accord n'avait jamais été vérifié par écrit. Sur un tracé en zone de collines, la saison des pluies a emporté des pistes et noyé des fouilles, parce que ni le planning ni les mesures anti-érosion ne la prenaient en compte. Ailleurs, des sacs de ciment vides ont été distribués aux ouvriers et des emballages aux riverains, faute de filière, avec un risque sanitaire pour la population. Sur un marché de plusieurs années, le départ du chef de projet et la démobilisation de sous-traitants ont fait disparaître une partie de la mémoire des engagements pris, que personne n'avait reportés dans le plan.
 
-- un arrêté municipal d'arrêt des travaux après un conflit foncier avec des riverains ;
-- des pistes et des fouilles endommagées par la saison des pluies, faute d'anticipation dans le planning et dans les mesures anti-érosion ;
-- des accidents dès les premiers mois d'activité ;
-- des sacs de ciment vides remis aux ouvriers et des emballages remis aux riverains, au lieu de filières adaptées, avec un risque sanitaire pour la population ;
-- un changement de chef de projet et la démobilisation de sous-traitants, qui ont fait disparaître une partie de la mémoire des engagements pris.
-
-Chacun de ces événements se paie en arrêts, reprises, pénalités, et en dégradation de la relation avec les communautés et le bailleur. Aucun n'était imprévisible au moment où le plan a été rédigé.
+Chacun de ces événements se paie en arrêts, reprises, pénalités, et en dégradation de la relation avec les communautés et le bailleur. Aucun n'était imprévisible au moment où le plan a été rédigé, et c'est ce que l'analyse des risques par activité doit faire apparaître.
 
 ## L'analyse des risques, partie la plus faible
 
@@ -65,7 +53,7 @@ Nous recommandons une table simple et traçable, où chaque ligne part d'une act
 
 Cette table rejoint directement ISO 14001 (aspects environnementaux, 6.1.2) et ISO 45001 (identification des dangers, 6.1.2). Une entreprise certifiée dispose donc déjà de la méthode. Le PGES est l'endroit où elle l'applique à un projet précis.
 
-Sur un grand chantier industriel, les fiches d'écart environnementales du maître d'ouvrage portaient sur des déblais évacués sans autorisation de mise en dépôt, un réseau d'eau potable posé en surface au lieu d'être enterré, et le trop-plein d'un bac d'eau rejeté au sol jusqu'à affaisser la plateforme. Ces risques étaient connus. L'analyse du chantier n'en mentionnait aucun, alors que la base vie et ses réseaux figuraient dans le périmètre des travaux.
+Sur un grand chantier industriel, les écarts environnementaux relevés par le maître d'ouvrage portaient sur des déblais évacués sans autorisation de mise en dépôt, un réseau d'eau potable posé en surface au lieu d'être enterré, et le trop-plein d'un bac d'eau rejeté au sol jusqu'à affaisser la plateforme. Ces risques étaient connus. L'analyse du chantier n'en mentionnait aucun, alors que la base vie et ses réseaux figuraient dans le périmètre des travaux. La base vie, les aires de stockage et les accès sont des activités à part entière de la table, au même titre que les travaux du marché.
 
 ## Du document au chantier
 
@@ -73,12 +61,12 @@ La mise en œuvre repose sur peu de dispositifs, à condition qu'ils soient tenu
 
 - un responsable environnemental et social présent sur le terrain, avec le temps et l'autorité nécessaires, sans cumul avec d'autres fonctions ;
 - un accueil sécurité de chaque travailleur, sous-traitant et visiteur, et des causeries sur les risques du moment ;
-- des inspections planifiées, avec des fiches et un suivi des écarts ;
+- des inspections planifiées, avec une liste de contrôle et un suivi des écarts ;
 - des registres à jour : accidents et incidents, plaintes, déchets dangereux, distribution des équipements de protection, vérifications des engins ;
 - un mécanisme de gestion des plaintes connu des communautés, avec des délais de réponse ;
 - une revue mensuelle des indicateurs avec le chef de projet, et la mise à jour du plan quand le chantier change.
 
-Le modèle de rapport mensuel d'un projet de centrale solaire montrait l'intention et ses limites. Il couvrait effectifs, travailleurs locaux et femmes, équipements de protection distribués et en stock, état des engins avec vérification technique et assurance, accidents et incidents, sensibilisations, signalisation, déchets, risques et non-conformités. La structure était bonne. Mais une partie des tableaux restait vide, et la colonne « gestion des déchets » décrivait des pratiques qui auraient dû être déclarées comme non-conformités.
+Le rapport mensuel est le point où tout cela se vérifie. Sur une centrale solaire, le rapport couvrait effectifs, travailleurs locaux et femmes, équipements de protection distribués et en stock, état des engins avec vérification technique et assurance, accidents et incidents, sensibilisations, déchets et non-conformités. La structure était bonne. Mais une partie des tableaux restait vide, et la colonne « gestion des déchets » décrivait tranquillement des pratiques qui auraient dû figurer en non-conformités. Lors d'un audit sur un chantier de poste électrique, le registre des plaintes affichait zéro plainte depuis l'ouverture ; les riverains rencontrés le même jour en avaient plusieurs, qu'ils adressaient au chef de chantier de vive voix. Un indicateur à zéro depuis des mois est une question à poser, pas un résultat à reporter.
 
 ## Les défauts que les ingénieurs conseils relèvent
 

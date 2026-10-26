@@ -8,7 +8,7 @@ keywords: [réception en usine, FAT, supervision de chantier, point d'arrêt, mo
 
 La tige d'ancrage sortait du massif à côté de l'endroit prévu, et le trou de la platine du poteau ne tombait pas dessus. L'équipe voulait lever avant la fin de la journée. Un monteur a percé un second trou contre le premier, les deux se sont rejoints en une lumière ovale, et l'écrou a été serré par-dessus. « On reprendra plus tard. » Au point d'arrêt avant calage, notre superviseur a trouvé un écrou qui portait à moitié dans le vide et une platine entamée. L'assemblage ne pouvait plus être serré correctement : le profilé a dû être remplacé, avec une nouvelle levée et une reprise de peinture. Une question écrite à l'ingénierie, le jour même, aurait coûté quelques heures d'attente.
 
-Les photos qui suivent viennent de nos missions de réception en usine et de supervision de chantier, anonymisées. Elles sont rangées dans l'ordre où le matériel les rencontre : usine, transport, chantier, mise sous tension. Chacune montre la même chose que la platine : une valeur ou un écart, un critère écrit, et quelqu'un présent au bon moment.
+Nous retrouvons la même mécanique chez un câblier, dans l'atelier d'un fabricant de skids, sur un quai de déchargement ou devant un tableau en cours de paramétrage : une valeur ou un écart, un critère écrit, et quelqu'un présent au bon moment. Les photos sont rangées dans l'ordre où le matériel les rencontre : usine, transport, chantier, mise sous tension.
 
 ## Un trou de trop
 
@@ -17,11 +17,11 @@ Les photos qui suivent viennent de nos missions de réception en usine et de sup
 
 Une platine est calculée avec ses trous : diamètre, distance au bord, rondelle qui transmet l'effort de la tige. Un trou ovalisé à la perceuse réduit l'appui de l'écrou et la matière jusqu'au bord, et laisse de l'acier nu ; les coulures de rouille sont déjà là. Plus aucune note de calcul ne couvre cet assemblage.
 
-Le défaut de départ est dans le massif : une tige mal positionnée au coulage, parce que le gabarit a bougé ou n'a pas été vérifié. Un relevé des tiges après décoffrage, comparé aux tolérances du plan, l'aurait signalé des semaines avant l'arrivée de la charpente, quand l'ingénierie avait le temps de dessiner une solution. Le jour du levage, l'équipe n'avait plus qu'une perceuse.
+Le défaut de départ est dans le massif : une tige mal positionnée au coulage, parce que le gabarit a bougé ou n'a pas été vérifié. Un relevé des tiges après décoffrage, comparé aux tolérances du plan, l'aurait signalé des semaines avant l'arrivée de la charpente, quand l'ingénierie avait le temps de dessiner une solution.
 
 ## Qui a le droit de s'écarter du plan
 
-Les écarts aux plans approuvés pour construction apparaissent quand le travail avance. Les procédures de modification de chantier que nous recommandons distinguent trois niveaux.
+Les procédures de modification de chantier que nous recommandons distinguent trois niveaux.
 
 | Niveau | Exemples | Qui décide | Trace |
 |---|---|---|---|
@@ -29,16 +29,16 @@ Les écarts aux plans approuvés pour construction apparaissent quand le travail
 | Écart touchant la tenue, la fonction ou une norme | assemblage, ancrage, épaisseur, matériau | ingénierie, sur demande technique écrite | réponse écrite, plan révisé ; acceptation du maître d'ouvrage si un de ses standards est touché |
 | Écart touchant la sécurité ou les performances | fonction, procédé, équipement de sécurité | direction de projet, gestion du changement | dossier de modification, analyse de risque, approbation |
 
-Un pied de poteau relève du deuxième niveau. Les solutions recevables sont connues : nouvelle platine percée à la bonne position ; trou surdimensionné avec rondelle épaisse soudée, si la note de calcul l'admet ; tige neuve par ancrage chimique, selon une note de l'ingénieur qui fixe produit, diamètre, profondeur, détection des armatures avant perçage et essai d'arrachement sur échantillon. Chacune est dessinée et contrôlée à l'exécution. Percer ou oxycouper au chantier sans plan n'en fait pas partie.
+Un pied de poteau relève du deuxième niveau. Sur un chantier de poste électrique, un entrepreneur a traité le même écart par une demande technique le matin ; l'ingénierie a répondu dans la journée avec un croquis de rondelle épaisse soudée, et le levage a eu lieu le lendemain. Les solutions recevables sont connues : nouvelle platine percée à la bonne position ; trou surdimensionné avec rondelle épaisse soudée, si la note de calcul l'admet ; tige neuve par ancrage chimique, selon une note qui fixe produit, profondeur, détection des armatures et essai d'arrachement. Percer ou oxycouper au chantier sans plan n'en fait pas partie.
 
-La trace compte autant que la solution. L'exemplaire annoté en rouge sert à établir les plans conformes à exécution, et à la complétion mécanique chaque système est vérifié contre la dernière révision, annotations comprises. Une modification non écrite revient alors en réserve, ou ne revient pas du tout.
+L'exemplaire annoté en rouge sert à établir les plans conformes à exécution, et à la complétion mécanique chaque système est vérifié contre la dernière révision, annotations comprises. Une modification non écrite revient alors en réserve, ou ne revient pas du tout.
 
 ## À l'usine de câbles : les essais qui ne se refont pas
 
 ![Pupitre d'essai de tension alternative en usine de câbles](/assets/blog/terrain-cable-essai-tension-alternative.jpg)
 *Pupitre d'essai haute tension : voltmètre en kV, chronomètre, tourets derrière la zone balisée. Pour un câble 0,6/1 kV, l'essai individuel de l'IEC 60502-1 est de 3,5 kV pendant cinq minutes.*
 
-L'**essai de tension** porte sur chaque longueur. Nous vérifions tension, durée, étalonnage du voltmètre et balisage, et nous relevons le numéro du touret pour être sûrs qu'il appartient à la commande.
+L'**essai de tension** porte sur chaque longueur. Nous vérifions tension, durée, étalonnage du voltmètre et balisage, et nous relevons le numéro du touret pour être sûrs qu'il appartient à la commande. Chez un câblier, nous avons vu présenter à l'essai un touret d'une autre commande, de même section et de même couleur ; seul le numéro de touret l'a trahi. Le témoin rapproche chaque essai d'un numéro, pas d'une désignation.
 
 ![Étuve d'allongement à chaud avec éprouvettes chargées](/assets/blog/terrain-cable-essai-hot-set.jpg)
 *Étuve d'allongement à chaud, éprouvettes lestées, régulateur à 200,0 °C. IEC 60811-507, polyéthylène réticulé : 15 minutes à 200 °C sous 20 N/cm², allongement sous charge au plus 175 %, rémanent au plus 15 %.*
@@ -48,11 +48,11 @@ L'**allongement à chaud** dit si la réticulation est complète. Un défaut pas
 ![Mise en place d'une éprouvette dans les mors d'une machine de traction](/assets/blog/terrain-cable-essai-traction-isolant.jpg)
 *Mise en place d'une éprouvette dans les mors (IEC 60811-501). Pour le polyéthylène réticulé, l'IEC 60502-1 demande au moins 12,5 N/mm² et 200 % d'allongement à la rupture.*
 
-Pour les **essais mécaniques**, le prélèvement se fait devant le témoin sur un touret de la commande, et l'éprouvette est mesurée avant l'essai. Sinon, la résistance est calculée sur une section supposée.
+Pour les **essais mécaniques**, le prélèvement se fait devant le témoin sur un touret de la commande, et l'éprouvette est mesurée avant l'essai. Sinon, la résistance est calculée sur une section supposée, et un isolant trop mince passe pour conforme.
 
 ## Chez le fabricant de skids
 
-Après l'expédition, une partie du skid ne sera plus visible sans démontage. En atelier, une reprise coûte une heure.
+Après l'expédition, une partie du skid ne sera plus visible sans démontage. En atelier, une reprise coûte une heure ; sur site, elle attend une grue, un permis et un sous-traitant. Lors d'une réception de skids de pompage, une tuyauterie de refoulement passait sous un châssis sans support intermédiaire : dix minutes de soudure en atelier, contre une ligne entière à déposer une fois le skid calé. Même logique chez un chaudronnier de colonnes : les anneaux supports de plateaux sont soudés avant les internes, et leur planéité et leur niveau se mesurent à ce moment-là, aux tolérances du concepteur du procédé. Un anneau hors tolérance se découvre sinon au montage des plateaux, quand il n'est plus accessible, ou en exploitation par une perte d'efficacité.
 
 ![Skid de vannes de gros diamètre en atelier](/assets/blog/terrain-skid-vannes-gros-diametre.jpg)
 *Skid de vannes de gros diamètre en fin d'assemblage. Avant la réception : certificats de serrage des brides, rapports d'épreuve, liste des réserves de l'atelier.*
@@ -87,7 +87,7 @@ Pour les **entraînements** : paramètres chargés comparés au jeu approuvé, s
 ![Poulie crantée aux dents corrodées dans un carter galvanisé](/assets/blog/terrain-skid-poulie-corrodee.jpg)
 *Poulie crantée peinte sur sa face, dents en acier nu déjà corrodées, dans un carter galvanisé.*
 
-La réserve porte sur la poulie. La question suivante porte sur la commande : quelles autres pièces d'achat n'ont pas reçu la spécification de protection ?
+La réserve porte sur la poulie. La question suivante porte sur la commande : quelles autres pièces d'achat n'ont pas reçu la spécification de protection ? Chez un fabricant de compresseurs, la même question a fait ressortir des accouplements et de la visserie livrés en acier nu pour un site côtier ; le fournisseur n'avait transmis à ses sous-traitants que les plans, pas la spécification de revêtement. Une pièce non conforme vaut d'ouvrir la liste des achats.
 
 ![Mesure au mètre ruban sur une tôle de protection de calorifuge](/assets/blog/terrain-skid-recouvrement-calorifuge.jpg)
 *Mesure au mètre ruban sur une tôle de protection de calorifuge en aluminium.*
@@ -97,7 +97,7 @@ Pour le **calorifuge**, la spécification fixe un recouvrement minimal, souvent 
 ![Élément filtrant présenté après rinçage de la tuyauterie](/assets/blog/terrain-skid-filtre-apres-rincage.jpg)
 *Élément filtrant démonté, encore mouillé, après rinçage. Propre à l'œil, ce qui ne suffit que si la procédure s'en contente.*
 
-Le filtre prouve la propreté du circuit si le critère est écrit (aspect, particules, classe de propreté pour l'huile) et s'il est démonté devant le témoin.
+Le filtre prouve la propreté du circuit si le critère est écrit (aspect, particules, classe de propreté pour l'huile) et s'il est démonté devant le témoin. À la mise en service d'un package assemblé sur site, plusieurs vannes de régulation et de sectionnement fuyaient au siège, rayé par les débris chassés pendant le nettoyage des lignes. Pendant un rinçage ou un soufflage, les vannes de régulation et à fermeture étanche sont déposées et remplacées par une manchette, les autres restent grandes ouvertes.
 
 ![Multimètre et barre de terre sur un skid en atelier](/assets/blog/terrain-skid-continuite-terre.jpg)
 *Contrôle de continuité de terre : multimètre près de la barre de terre en cuivre du skid, où arrivent les conducteurs vert-jaune.*
@@ -111,7 +111,9 @@ Sur un **skid de comptage transactionnel**, l'essai porte sur la chaîne complè
 
 ## Transport et arrivée : la date du constat
 
-Deux skids réceptionnés sans réserve majeure sont arrivés, l'un avec une soudure rompue, l'autre avec des manchettes cassées. Qui paie, du fabricant, du transporteur ou de l'assureur, dépendait du constat d'arrivée. Nous demandons une inspection le jour de la livraison pour chaque colis important : emballage, soudures et supports visibles, instruments, bouchons, indicateurs de choc. Les réserves sont écrites sur le bon de livraison et notifiées au transporteur dans les délais, photos datées ; l'Incoterms du contrat dit ensuite qui supporte le dommage.
+Deux skids réceptionnés sans réserve majeure sont arrivés, l'un avec une soudure rompue, l'autre avec des manchettes cassées. Qui paie, du fabricant, du transporteur ou de l'assureur, dépendait du constat d'arrivée. Nous demandons une inspection le jour de la livraison pour chaque colis important : emballage, soudures et supports visibles, instruments, obturateurs, indicateurs de choc. Les réserves sont écrites sur le bon de livraison et notifiées au transporteur dans les délais, photos datées ; l'Incoterms du contrat dit ensuite qui supporte le dommage.
+
+Le transport desserre aussi ce qui ne se voit pas. Sur un skid arrivé sans avarie apparente, le test d'étanchéité a révélé des goujons détendus par les vibrations sur une partie des brides serrées en atelier. Les certificats de serrage de l'usine n'ont de valeur qu'au départ : la procédure de gestion des brides du projet prévoit un contrôle du couple ou de la tension à l'arrivée, puis un essai d'étanchéité du skid avant raccordement.
 
 ![Skid livré resté dans sa caisse ouverte, film plastique déchiré, après la pluie](/assets/blog/terrain-conservation-caisse-pluie.jpg)
 *Skid resté en extérieur dans sa caisse ouverte après la pluie : film plastique déchiré et sali, vannes et brides exposées.*
@@ -119,7 +121,7 @@ Deux skids réceptionnés sans réserve majeure sont arrivés, l'un avec une sou
 ![Manchette en acier inoxydable en attente de montage, bride sans protection](/assets/blog/terrain-conservation-bride-inox.jpg)
 *Manchette en inox en attente sous une bâche déchirée : le film couvre une partie du tube, la face de bride est nue.*
 
-La **conservation** se décrit par famille d'équipement : stockage hors sol, à couvert ou ventilé, faces de brides et extrémités de câbles protégées, déshydratant, rondes. Un équipement resté des semaines sous la pluie se contrôle de nouveau avant montage.
+La **conservation** se décrit par famille d'équipement : stockage hors sol, à couvert ou ventilé, faces de brides et extrémités de câbles protégées, déshydratant, rondes. Des robinets livrés sans obturateurs, puis stockés ouverts sur une aire non couverte, sont arrivés à la mise en service avec des sièges corrodés qui ne fermaient plus ; la procédure d'expédition du projet imposait les capots et un stockage à couvert, mais personne ne l'avait vérifiée à l'arrivée. Un équipement resté des semaines sous la pluie se contrôle de nouveau avant montage.
 
 ![Réception de charpentes et d'échelles galvanisées sur le site](/assets/blog/terrain-chantier-reception-charpente.jpg)
 *Charpentes, escaliers et échelles galvanisés à l'arrivée, sur palettes et à même le sol.*
@@ -131,7 +133,7 @@ Pour les **charpentes galvanisées** : quantités contre la liste de colisage, d
 ![Ferraillage d'un massif avec fourreaux et inserts avant bétonnage](/assets/blog/terrain-chantier-inserts-ferraillage.jpg)
 *Ferraillage d'un massif avant bétonnage, fourreaux à brides et inserts en place, personnel marchant sur les armatures.*
 
-C'est ici que commence l'histoire de la platine. Le point d'arrêt avant **bétonnage** porte sur le ferraillage (diamètres, espacements, enrobage, cales) et sur les éléments noyés : fourreaux, tiges d'ancrage, mises à la terre. Les tiges sont tenues par un gabarit bloqué et relevées juste avant le coulage. Quand on marche sur la cage, un gabarit mal fixé se déplace.
+L'histoire de la platine commence ici. Le point d'arrêt avant **bétonnage** porte sur le ferraillage (diamètres, espacements, enrobage, cales) et sur les éléments noyés : fourreaux, tiges d'ancrage, mises à la terre. Les tiges sont tenues par un gabarit bloqué et relevées juste avant le coulage. Quand on marche sur la cage, un gabarit mal fixé se déplace.
 
 ![Dessous d'une platine sur massif : cales, peinture écaillée, appui incomplet](/assets/blog/terrain-chantier-dessous-platine.jpg)
 *Sous une platine posée sur son massif : cales et tige visibles, peinture écaillée, jour là où le mortier de calage devrait porter.*
@@ -158,7 +160,7 @@ En zone classée, l'inspection initiale détaillée relève de l'IEC 60079-14, a
 ![Tableau avec relais de protection numériques en cours de paramétrage](/assets/blog/terrain-tableau-relais-protection.jpg)
 *Tableau de batterie de condensateurs : relais d'arrivée raccordé au poste de paramétrage, relais de déséquilibre des gradins au-dessous.*
 
-On vérifie par injection secondaire que chaque fonction déclenche aux valeurs de l'étude de sélectivité, selon la série IEC 60255, puis on sauvegarde le **fichier de réglage** tel que laissé. Deux écarts reviennent : un fichier d'usine différent de celui approuvé, et des réglages modifiés pendant les essais sans mise à jour du dossier. Le dossier ne décrit alors plus ce qui est chargé, comme un plan qui ignore un trou percé au chantier.
+On vérifie par injection secondaire que chaque fonction déclenche aux valeurs de l'étude de sélectivité, selon la série IEC 60255, puis on sauvegarde le **fichier de réglage** tel que laissé. À la mise en service d'un poste, un seuil de surintensité relevé « pour passer le démarrage » d'un moteur était resté dans le relais des mois après ; personne ne l'avait écrit. Le fichier approuvé ne décrivait plus ce qui était chargé.
 
 ![Disque d'enregistreur de pression et de température d'une épreuve hydraulique](/assets/blog/terrain-epreuve-enregistreur-pression.jpg)
 *Disque d'enregistrement d'une épreuve hydraulique : tracé rouge en palier pour la pression, tracé bleu, plus irrégulier, pour la température.*
@@ -172,7 +174,7 @@ Le **volume injecté** vérifie la cohérence avec la pression, donc l'absence d
 
 ## Les points d'arrêt à inscrire au plan
 
-Tous ces défauts ont été vus avec un mètre, un niveau, un multimètre, une pince ou un appareil de vibration, parce qu'un point d'arrêt était placé au bon moment. Dans un plan d'inspection, nous en cherchons un pour les essais de matière chez le câblier, le skid avant peinture finale et avant expédition, l'arrivée sur site, les tiges d'ancrage avant bétonnage puis avant levage, la platine avant calage, les soudures avant reprise de revêtement. Chacun avec son critère écrit, ses instruments étalonnés et une personne habilitée à refuser la libération. Nous vérifions aussi que la procédure de modification de chantier dit qui décide de chaque type d'écart, et que les monteurs la connaissent avant le premier levage.
+Tous ces défauts ont été vus avec des instruments ordinaires, parce qu'un point d'arrêt était placé au bon moment. Dans un plan d'inspection, nous en cherchons un pour les essais de matière chez le câblier, le skid avant peinture finale et avant expédition, l'arrivée sur site avec contrôle du serrage, les tiges d'ancrage avant bétonnage puis avant levage, la platine avant calage, les soudures avant reprise de revêtement. Chacun avec son critère écrit, ses instruments étalonnés et une personne habilitée à refuser la libération. La procédure de modification de chantier, elle, doit dire qui décide de chaque type d'écart, et les monteurs la connaissent avant le premier levage.
 
 ## Références
 

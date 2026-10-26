@@ -16,7 +16,7 @@ During a mechanical completion walkdown on a piping subsystem, the line no longe
 
 ## Why AFC drawings never survive construction
 
-Design, procurement and construction overlap on an EPC project by design. Documents are issued Approved for Construction (AFC) while some vendor data is still moving. The design change procedure of a gas processing project listed the usual sources: vendor information received late, recommendations from the independent verification body or a third party, owner comments, constraints discovered during erection.
+Design, procurement and construction overlap on an EPC project by design. Documents are issued Approved for Construction (AFC) while some vendor data is still moving. The sources of change are the same from one project to the next: vendor information received late, recommendations from the independent verification body or a third party, owner comments, constraints discovered during erection. On a compressor package we followed, the certified vendor drawings arrived after the foundation had been poured, with anchor bolts a few centimetres off the AFC drawing; the civil contractor had built exactly what it was given.
 
 None of this is abnormal. What matters is what an uncontrolled change does downstream:
 
@@ -38,9 +38,9 @@ The site needs quick answers and the project needs control. We reconcile the two
 ![Decision routes for site changes](/assets/blog/site-changes-decision-routes.svg)
 *Figure 1. Choosing the route for a field change: management of change, technical query or red-line mark-up, all ending in the as-built set checked at mechanical completion.*
 
-**Management of change** covers anything that touches safety, the process, performance or contract scope. It needs a risk assessment, often a partial HAZOP review following the IEC 61882 method, a decision by project management and the owner's agreement. It is slow by design. The trap to watch for is a significant change split into several technical queries to avoid it. The quality team should read open TQs by system, not one by one, to catch this.
+**Management of change** covers anything that touches safety, the process, performance or contract scope. It needs a risk assessment, often a partial HAZOP review following the IEC 61882 method, a decision by project management and the owner's agreement. It is slow by design. The trap to watch for is a significant change split into several technical queries to avoid it. On a utilities unit, a relocated relief valve outlet went through three separate TQs, one for the nozzle, one for the support, one for the routing, and nobody checked where the discharge now pointed until the HAZOP close-out. The quality team should read open TQs by system, not one by one, to catch this.
 
-**The technical query** is the default route for any change to an AFC document. The site asks in writing; engineering checks design integrity, function and compliance with codes and standards, and replies in writing. A reply that departs from an owner standard goes to the owner. On the gas project mentioned above, engineering also kept a design change register: origin of the request, source document, summary, technical evaluation, the contractor's decision where there was a commercial impact, and the documents affected. Technical evaluation and commercial decision sat in separate columns, so each solution was judged on its merits before anyone discussed its cost.
+**The technical query** is the default route for any change to an AFC document. The site asks in writing; engineering checks design integrity, function and compliance with codes and standards, and replies in writing. A reply that departs from an owner standard goes to the owner. The contractors that handle this well keep a design change register alongside the TQ log: origin of the request, source document, summary, technical evaluation, the decision where there was a commercial impact, and the documents affected. Technical evaluation and commercial decision sit in separate columns, so each solution is judged on its merits before anyone discusses its cost. Where the two are mixed, we have seen a sound engineering answer withheld for weeks because the commercial team wanted to settle the price first, while the crew waited.
 
 **The red-line mark-up** handles minor adjustments, where a trip through engineering would be out of proportion. The supervisor decides with the subcontractor and marks the change in red on a master copy, with a stamp, a date and a signature. It is the simplest route and the one most often neglected. On one large project the main contractor had to send a formal instruction to all its subcontractors, midway through construction, reminding them to keep one master copy per work package in a known place, update it as the work progressed and hand it over complete before mechanical completion. By then, part of the information was already lost.
 
@@ -48,7 +48,7 @@ At the end of the work, mark-ups and TQ replies are incorporated into the docume
 
 ## What supervisors must not treat as minor
 
-Most uncontrolled changes are made in good faith by supervisors who did not see the engineering question behind a field adjustment. We give site teams a short list of subjects that always go at least to a technical query:
+Most uncontrolled changes are made in good faith by supervisors who did not see the engineering question behind a field adjustment. A junction box moved half a metre to clear a walkway ended up inside a zone 2 boundary, with a non-certified enclosure, and was found during the Ex inspection before start-up. A support changed from guide to anchor on a hot line, to stop it from "moving", cracked a nozzle weld within the first weeks of operation. We give site teams a short list of subjects that always go at least to a technical query:
 
 - anything that adds or removes elbows, high points or low points on a process line (flexibility, vents, drains);
 - support type or position on lines subject to thermal movement or vibration;
@@ -65,13 +65,15 @@ No change route works if the crew is building from the wrong revision. On the pr
 - reports on outstanding documents, weekly during engineering and monthly afterwards;
 - field checks by supervisors and the quality team on which revision the erection crew is actually using.
 
+That last check is not academic. On a pipe rack, a subcontractor had erected two weeks of steel from a superseded revision printed before a tie-in was added; the transmittal had reached its office, not its workshop. The cost of the rework was small next to the argument about who should pay for it.
+
 ISO 10007 calls this configuration management: identify the reference, control changes to it, record the actual status and verify that the physical item and its documentation agree. ISO 9001 sets the principle in its requirements on documented information and control of changes.
 
 ## Mechanical completion is where the bill arrives
 
 At mechanical completion of each subsystem, the installation is compared with the latest AFC revision, red-lines included, and the owner signs the check sheets. At provisional acceptance, the whole is checked against the latest revision, or the as-built set where available. Untracked changes surface here, when the people who made them may have left the site.
 
-New requirements can also appear at this stage. On one project the owner asked, midway through mechanical completion, for every drawing in a subsystem to be reissued at its latest revision, not only the boundary drawings, which the procedure did not foresee. The request had its logic, but it disrupted the first weeks of the phase. How mark-ups are treated in completion dossiers should be agreed with the owner before the first dossier is compiled.
+New requirements can also appear at this stage. On one project the owner asked, midway through mechanical completion, for every drawing in a subsystem to be reissued at its latest revision, not only the boundary drawings, which the procedure did not foresee. The request had its logic, but it disrupted the first weeks of the phase. How mark-ups are treated in completion records should be agreed with the owner before the first subsystem is compiled.
 
 ## The contractual record
 

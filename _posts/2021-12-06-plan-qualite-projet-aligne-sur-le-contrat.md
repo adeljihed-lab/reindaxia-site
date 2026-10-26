@@ -11,9 +11,9 @@ Un plan qualité refusé ne retarde pas seulement un document. Tant qu'il n'a pa
 
 ## Le motif de refus que nous lisons le plus souvent
 
-Un entrepreneur soumet son plan qualité trois semaines après la signature : document soigné, politique qualité, organigramme, liste de procédures, références à ISO 9001. Le retour arrive avec le statut « refusé, à reprendre » et plusieurs dizaines de commentaires. Aucun ne conteste le système de l'entrepreneur. Tous posent la même question : où ce plan traite-t-il telle exigence de l'annexe qualité du contrat ? Réunions de pré-inspection chez les fournisseurs, calendrier des inspections, format des dossiers constructeur, exigences réglementaires nationales, fin de montage et remise : tout figurait au contrat, rien dans le plan.
+La scène se répète d'un projet à l'autre. Un entrepreneur soumet son plan qualité trois semaines après la signature : document soigné, politique qualité, organigramme, liste de procédures, références à ISO 9001. Le retour arrive avec le statut « refusé, à reprendre » et plusieurs dizaines de commentaires. Aucun ne conteste le système de l'entrepreneur. Tous posent la même question : où ce plan traite-t-il telle exigence de l'annexe qualité du contrat ? Réunions de pré-inspection chez les fournisseurs, calendrier des inspections, format des livrables constructeur, exigences réglementaires nationales, fin de montage et remise : tout figurait au contrat, rien dans le plan.
 
-Le même texte aurait pu accompagner n'importe quel autre projet de l'entrepreneur. C'est ce que le maître d'ouvrage a refusé.
+Le même texte aurait pu accompagner n'importe quel autre projet de l'entrepreneur, et le réviseur le voit à la première page. Sur un contrat d'unité de traitement, le plan soumis parlait encore de « l'usine » au singulier alors que le marché portait sur trois sites ; sur un marché de réseaux, le chapitre « conception » décrivait des revues de conception pour un contrat qui n'en comportait aucune. Dans les deux cas, le refus est tombé avant même l'examen du contenu.
 
 ## Manuel qualité, plan qualité, plan d'exécution
 
@@ -36,7 +36,7 @@ Si le plan ne se retrouve pas dans ce découpage, le réviseur du maître d'ouvr
 
 ## Lire le contrat avant d'écrire une ligne
 
-Nous commençons par la lecture : contrat, annexes techniques et qualité, spécifications du maître d'ouvrage, normes citées, exigences réglementaires du pays. Chaque phrase contenant « doit », « shall » ou « est tenu de » est une exigence. Sur un contrat EPC, l'annexe qualité seule en contient facilement plusieurs centaines. Cette lecture prend deux à trois jours pour un ingénieur qui connaît le format, et c'est le temps le mieux placé du projet.
+Nous commençons par la lecture : contrat, annexes techniques et qualité, spécifications du maître d'ouvrage, normes citées, exigences réglementaires du pays. Chaque phrase contenant « doit », « shall » ou « est tenu de » est une exigence. Sur un contrat EPC, l'annexe qualité seule en contient facilement plusieurs centaines. Cette lecture prend deux à trois jours pour un ingénieur qui connaît le format, et c'est le temps le mieux placé du projet. Sur un contrat de station de pompage, cette lecture a fait apparaître, dans une annexe technique et non dans l'annexe qualité, l'obligation de faire agréer les soudeurs par un organisme tiers avant le premier cordon ; l'entrepreneur comptait sur ses qualifications internes, et l'organisme avait six semaines de délai. L'exigence qui coûte le plus se cache rarement dans le chapitre où on l'attend.
 
 ## La matrice de conformité
 
@@ -74,14 +74,14 @@ Chaque engagement renvoie à son outil. « Les fournisseurs seront évalués » 
 
 - **Le texte du manuel repris tel quel.** Il ne cite aucune exigence du contrat. C'est le motif du refus décrit plus haut.
 - **L'exigence diluée.** « Des réunions pourront être organisées » ne répond pas à « une réunion de pré-inspection sera tenue chez chaque fabricant d'équipement critique ». Le réviseur compare les verbes.
-- **Les sous-traitants oubliés.** Les exigences du contrat principal descendent dans les contrats de sous-traitance et les commandes. Le plan dit comment, avec la clause type.
-- **Les exigences nationales absentes.** Organismes agréés, équipements sous pression, autorités locales : elles pèsent souvent directement sur le planning.
-- **La completion en une page.** Fin de montage et remise se planifient dès le départ, y compris le format des dossiers de remise, faute de quoi les dossiers sont reconstitués en fin de projet.
+- **Les sous-traitants oubliés.** Les exigences du contrat principal descendent dans les contrats de sous-traitance et les commandes. Le plan dit comment, avec la clause type. Chez un fabricant de charpente, nous avons trouvé une commande de peinture sans aucune exigence d'épaisseur ni de contrôle, alors que le contrat principal imposait un système certifié et des mesures enregistrées ; le sous-traitant a fait ce que sa commande disait, et la reprise s'est faite sur site.
+- **Les exigences nationales absentes.** Organismes agréés, équipements sous pression, autorités locales : elles pèsent souvent directement sur le planning. Une épreuve hydraulique attendue par un organisme de contrôle qui n'a pas été prévenu se reporte de plusieurs semaines, quel que soit l'état de la fabrication.
+- **La completion en une page.** Fin de montage et remise se planifient dès le départ, y compris le format des livrables de remise, faute de quoi ils sont reconstitués en fin de projet. À la mise en service d'une unité, nous avons vu une équipe passer des semaines à retrouver des rapports d'essais classés par entreprise alors que le maître d'ouvrage les voulait par système ; le plan qualité n'avait jamais dit comment ils seraient rangés.
 - **Le plan figé.** Approuvé au démarrage et jamais révisé, il décrit deux ans plus tard un projet qui n'existe plus.
 
 ## Ce que la matrice protège aussi
 
-Un plan aligné obtient son visa plus vite, mais l'effet le plus utile vient plus tard. À chaque audit du maître d'ouvrage, la matrice relie l'exigence à la preuve. Une exigence ambiguë se discute pendant la revue du plan, des mois avant la réception, quand la discussion ne coûte rien. Et quand le maître d'ouvrage demande davantage que ce que le contrat prévoit, la matrice permet de l'identifier comme une modification, avec les conséquences contractuelles qui s'y attachent. Sans elle, l'entrepreneur absorbe ces demandes une par une sans les voir passer.
+Un plan aligné obtient son visa plus vite, mais l'effet le plus utile vient plus tard. À chaque audit du maître d'ouvrage, la matrice relie l'exigence à la preuve. Une exigence ambiguë se discute pendant la revue du plan, des mois avant la réception, quand la discussion ne coûte rien. Et quand le maître d'ouvrage demande davantage que ce que le contrat prévoit, la matrice permet de l'identifier comme une modification, avec les conséquences contractuelles qui s'y attachent. Sur un projet de poste électrique, le maître d'ouvrage a demandé en cours de fabrication que chaque réception en usine soit témoignée par son propre inspecteur, et non sur rapports pour les équipements secondaires comme le prévoyait le contrat ; la matrice a permis de chiffrer les déplacements et de les faire reconnaître comme une modification. Sans elle, l'entrepreneur absorbe ces demandes une par une sans les voir passer.
 
 ## Répondre aux commentaires
 
@@ -89,7 +89,7 @@ La revue par le maître d'ouvrage est la première occasion d'aligner les attent
 
 ## Avant de cliquer sur « envoyer »
 
-Nous relisons chaque plan avec ces questions :
+Nous passons chaque plan au crible de ces questions :
 
 - Toutes les exigences du contrat et de ses annexes sont-elles dans la matrice, chacune avec une section, un document de mise en œuvre et un enregistrement ?
 - Les objectifs qualité sont-ils chiffrés ?
@@ -97,9 +97,9 @@ Nous relisons chaque plan avec ces questions :
 - La liste des procédures et des ITP est-elle jointe, avec des dates d'émission tenables ?
 - Les exigences descendent-elles vers les fournisseurs ?
 - Les obligations réglementaires nationales et les tierces parties sont-elles identifiées ?
-- La fin de montage, la mise en service et la remise sont-elles décrites jusqu'au contenu des dossiers ?
+- La fin de montage, la mise en service et la remise sont-elles décrites jusqu'au contenu des livrables ?
 
-Puis nous faisons relire le plan par quelqu'un qui n'a pas participé à sa rédaction, le contrat ouvert à côté. Ce relecteur trouve en général, en une demi-journée, les exigences que l'équipe ne voyait plus.
+Puis nous confions le plan à quelqu'un qui n'a pas participé à sa rédaction, le contrat ouvert à côté. Ce lecteur trouve en général, en une demi-journée, les exigences que l'équipe ne voyait plus.
 
 ## Références utiles
 

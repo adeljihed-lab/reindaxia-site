@@ -1,17 +1,17 @@
 ---
 title: "FAT : ce que l'acheteur doit avoir vérifié avant de signer la note de libération"
-description: "Préparer et témoigner une FAT : procédure approuvée, critères chiffrés, témoins compétents, interfaces testées, réserves classées, dossier complet."
+description: "Préparer et témoigner une FAT : procédure approuvée, critères chiffrés, témoins compétents, interfaces testées, réserves classées."
 category: Inspection et FAT
 keywords: [FAT, essai de réception en usine, factory acceptance test, SAT, essai de réception sur site, IEC 62381, essais individuels, routine tests, IEC 62271-200, IEC 60076-1, ISO 9906, API 610, inspection d'équipements, inspection tierce partie, ISO/IEC 17020, ITP, plan d'inspection et d'essais, étalonnage, ISO/IEC 17025, liste de réserves, note de libération, release note, SCADA, relais de protection, IEC 61850, postes préfabriqués, réception d'équipements, Tunisie, Afrique du Nord, Afrique]
 ---
 
 Il est dix-sept heures, dernier jour de FAT. Le fournisseur pose le procès-verbal sur la table, le transporteur est réservé pour le lendemain matin et le planning du site attend le matériel. Signer coûte une minute. Refuser coûte un camion, une discussion commerciale et parfois une semaine de retard. La question que se pose alors le représentant de l'acheteur est simple : si un défaut apparaît sur site dans trois mois, pourra-t-il dire qu'il ne pouvait pas le voir ici ?
 
-Cette question se prépare des semaines avant l'essai. Nous la posons à chaque FAT que nous témoignons, et la plupart des défauts que nous avons vus quitter une usine auraient été repérés si l'on y avait répondu à temps.
+Cette question se prépare des semaines avant l'essai ; la plupart des défauts que nous avons vus quitter une usine auraient été repérés si l'on y avait répondu à temps.
 
 ## Une signature sur des cellules que personne n'avait commandées
 
-Un lot de postes de transformation préfabriqués venait de passer sa FAT, procès-verbal signé, expédition programmée. En relisant le rapport, un ingénieur de l'acheteur a remarqué que la moitié des postes portaient des cellules moyenne tension à isolement au SF6, alors que le dossier technique prévoyait l'isolement dans l'air. Le fournisseur avait proposé cette variante en cours de fabrication pour des raisons d'approvisionnement, sans acceptation écrite. La délégation venue à l'usine ne comptait aucun spécialiste de l'appareillage moyenne tension.
+Un lot de postes de transformation préfabriqués venait de passer sa FAT, procès-verbal signé, expédition programmée. En relisant le rapport, un ingénieur de l'acheteur a remarqué que la moitié des postes portaient des cellules moyenne tension à isolement au SF6, alors que la spécification de la commande prévoyait l'isolement dans l'air. Le fournisseur avait proposé cette variante en cours de fabrication pour des raisons d'approvisionnement, sans acceptation écrite. La délégation venue à l'usine ne comptait aucun spécialiste de l'appareillage moyenne tension.
 
 La variante était peut-être acceptable. Mais personne ne l'avait demandée ni acceptée par écrit, et le témoin n'a pas vu que les cellules présentées n'étaient pas celles de la commande. Le client final a émis des observations, l'acceptation a pris plusieurs semaines de retard et la discussion contractuelle a duré bien plus longtemps.
 
@@ -29,7 +29,7 @@ La FAT est un ensemble d'essais réalisés chez le fabricant, en présence de l'
 
 IEC 62381, consacrée aux systèmes d'automatisme des industries de procédé, décrit l'articulation entre FAT, essais d'intégration et SAT. Les essais individuels viennent des normes de produit : IEC 62271-200 pour l'appareillage moyenne tension sous enveloppe métallique, IEC 60076-1 pour les transformateurs de puissance, ISO 9906 ou API 610 pour les pompes centrifuges.
 
-Un fournisseur qui présente ses rapports d'essais de type à la place d'une FAT confond deux choses. L'essai de type qualifie un modèle. La FAT vérifie le matériel commandé contre la spécification du contrat, pas contre le catalogue du fabricant. Elle ne rattrape pas non plus une fabrication mal suivie : un débit conforme sur le banc ne dit rien d'une soudure qui n'a pas été radiographiée.
+Un fournisseur qui présente ses rapports d'essais de type à la place d'une FAT confond deux choses : l'essai de type qualifie un modèle, la FAT vérifie le matériel commandé contre la spécification du contrat. Elle ne rattrape pas non plus une fabrication mal suivie : un débit conforme sur le banc ne dit rien d'une soudure qui n'a pas été radiographiée.
 
 ![Croquis de la chaîne d'essais et de la libération](/assets/blog/fat-chaine-essais.svg)
 *Figure 1. La FAT entre les essais de type et la réception sur site, et ce qu'il faut réunir avant de libérer l'équipement.*
@@ -40,7 +40,7 @@ La qualité d'une FAT se décide avant le voyage. Nous vérifions cinq points, d
 
 **La procédure est approuvée.** Le fournisseur la soumet, l'acheteur l'approuve avant la date de l'essai. Elle décrit chaque essai, sa séquence, les instruments, les conditions (charge, fluide, température), les critères d'acceptation et les formulaires. Un essai conduit sur une procédure non approuvée finit presque toujours en discussion sur ce qui aurait dû être testé.
 
-**Les critères sont chiffrés.** « Fonctionnement correct » ne permet ni d'accepter ni de refuser. Chaque essai renvoie à une valeur et à une tolérance : débit et hauteur aux points garantis, niveau vibratoire, résistance d'isolement, tenue diélectrique, temps de manœuvre, temps de réponse d'une boucle. Quand le contrat est muet, la norme de produit fournit souvent la référence.
+**Les critères sont chiffrés.** « Fonctionnement correct » ne permet ni d'accepter ni de refuser. Chaque essai renvoie à une valeur et à une tolérance : débit et hauteur aux points garantis, niveau vibratoire, résistance d'isolement, tenue diélectrique, temps de manœuvre, temps de réponse d'une boucle. Quand le contrat est muet, la norme de produit fournit souvent la référence. Chez un fabricant de pompes, nous avons vu une courbe relevée à l'eau présentée comme preuve de performance pour un produit nettement plus visqueux ; sans correction de viscosité écrite dans la procédure, l'essai ne prouvait rien sur le point de fonctionnement réel. La condition d'essai fait partie du critère, au même titre que la valeur.
 
 **L'ITP est soldé en amont.** La FAT est le dernier point d'un plan d'inspection et d'essais. Contrôle des matières, soudage, contrôles non destructifs, épreuves : les points d'arrêt et de témoin doivent être réalisés et documentés avant. Sinon, l'essai ne prouve que ce qu'il a mesuré.
 
@@ -52,9 +52,17 @@ La qualité d'une FAT se décide avant le voyage. Nous vérifions cinq points, d
 
 ### Instruments et configuration
 
-Chaque instrument du banc est couvert par un certificat d'étalonnage en cours de validité, et son numéro de série correspond à l'appareil présent. Un étalonnage par un laboratoire accrédité selon ISO/IEC 17025 offre la meilleure traçabilité. Un résultat obtenu avec un instrument non étalonné n'a pas de valeur contractuelle.
+Chaque instrument du banc est couvert par un certificat d'étalonnage en cours de validité, et son numéro de série correspond à l'appareil présent. Un étalonnage par un laboratoire accrédité selon ISO/IEC 17025 offre la meilleure traçabilité. Lors de la FAT d'un transformateur, le certificat du pont de mesure présenté le matin portait un autre numéro de série que l'appareil raccordé ; l'essai a attendu l'après-midi qu'un instrument tracé soit installé. Un résultat obtenu avec un instrument non étalonné n'a pas de valeur contractuelle, et il vaut mieux perdre une demi-journée en usine qu'un rapport entier sur site.
 
-L'équipement testé est celui qui sera livré : plaques signalétiques, composants, version de logiciel, paramétrage des protections. Pour un skid ou un package, on teste les séquences de commande et les sécurités, pas seulement les composants pris un par un.
+L'équipement testé est celui qui sera livré : plaques signalétiques, composants, version de logiciel, paramétrage des protections. Pour un skid ou un package, on teste les séquences de commande et les sécurités, pas seulement les composants pris un par un. À la réception d'un skid de dosage, chaque pompe et chaque vanne avaient été essayées séparément, mais la séquence d'arrêt sur niveau bas n'avait jamais été jouée ; elle a été découverte incomplète à la mise en service, avec l'automaticien du fournisseur à deux fuseaux horaires de là. Les scénarios de séquence se listent dans la procédure, avec l'état attendu de chaque organe à chaque étape.
+
+### Étanchéité et propreté : ce que l'atelier peut encore prouver
+
+Sur un skid tubé, la FAT se réduit souvent à l'essai fonctionnel. L'étanchéité des brides et la propreté interne se vérifient pourtant mieux à l'atelier qu'après le calage sur site, où chaque reprise demande un échafaudage et un permis. Au test d'étanchéité haute pression d'un package de procédé, une part des fuites venait de goujons insuffisamment serrés et de joints réutilisés à la préfabrication ; l'atelier n'avait jamais reçu la procédure de serrage du projet. Nous demandons depuis que la procédure de gestion des brides accompagne la commande, qu'un essai d'étanchéité à basse pression (*gross leak test*) figure dans la procédure de FAT, et que les isométriques indiquent le type de joint de chaque bride.
+
+Deux enregistrements se constituent au même moment. La liste des joints provisoires posés pour les épreuves d'atelier ou le transport, tenue par le fournisseur et remise avec le matériel : sans elle, ils se retrouvent en service. Et le compte rendu de vidange et de séchage après épreuve hydraulique : sur un lot de modules préfabriqués, des joints restés imbibés d'eau d'épreuve avaient amorcé des piqûres sur les portées de brides pendant les mois séparant l'essai d'atelier du montage. La procédure d'épreuve inclut la vidange et le séchage, et le témoin en vérifie les enregistrements avant de libérer.
+
+La propreté se juge sur un critère écrit. Une matrice de nettoyage par circuit (méthode, fluide, critère d'acceptation : absence de particules sur un tamis de maille donnée, inspection endoscopique, filtre provisoire présenté propre) fait partie des documents approuvés avec la procédure. Sur un skid de lubrification jugé propre à l'œil, les filtres provisoires se sont colmatés dès les premières heures de circulation sur site. Le critère est accepté par l'atelier avant la FAT.
 
 ### Les interfaces
 
@@ -67,7 +75,7 @@ Dans les deux cas, la vérification aurait pris quelques heures sur le banc, con
 
 ### Les écarts consignés le jour même
 
-Chaque écart est noté au moment où il est constaté, avec photo et référence de l'essai, puis relu avec le fournisseur avant la fin de la journée. Un écart signalé de mémoire après le départ de l'usine se discute sans photo ni référence d'essai, et le fournisseur a alors beau jeu de le contester.
+Chaque écart est noté au moment où il est constaté, avec photo et référence de l'essai, puis passé en revue avec le fournisseur avant la fin de la journée. Un écart signalé de mémoire après le départ de l'usine se discute sans photo ni référence d'essai, et le fournisseur a alors beau jeu de le contester.
 
 ## Avant de signer la note de libération
 
@@ -84,21 +92,21 @@ Le classement se négocie souvent à dix-sept heures, le dernier jour. Il vaut m
 
 Nous avons vu une mise en service bloquée parce que les manuels d'installation et les logiciels de raccordement des équipements de communication n'avaient été ni demandés au fournisseur, ni transmis au site. Le contrat de fourniture doit exiger les manuels, les logiciels de configuration, les licences et les fichiers de paramétrage. La FAT permet de vérifier qu'ils existent et qu'ils correspondent à la version testée.
 
-La formation suit la même logique. Onduleurs, enregistreurs, automates et relais numériques demandent une prise en main. La faire pendant la FAT, sur l'équipement réel avec les spécialistes du fabricant, coûte peu. La renvoyer à la mise en service, à distance, expose à des erreurs d'exploitation dès les premiers jours.
+La formation suit la même logique : automates, relais numériques et onduleurs se prennent en main pendant la FAT, sur l'équipement réel avec les spécialistes du fabricant, plutôt qu'à distance au moment de la mise en service.
 
 ### Contrôler l'emballage
 
 Un équipement conforme en usine peut arriver avec des portes de cellules déformées, des afficheurs cassés ou de l'humidité dans les armoires. Les exigences d'emballage, de protection et de manutention figurent au contrat et se vérifient avant le départ, comme les essais.
 
-### Réunir le dossier
+### Réunir les enregistrements
 
-Le procès-verbal signé ne suffit pas. Avant la note de libération, l'acheteur dispose du dossier de fabrication : certificats matière, rapports de contrôle et d'essais, certificats d'étalonnage, liste de réserves à jour, déclarations de conformité réglementaire le cas échéant. Une fois la note de libération signée, les réserves non levées partent avec le matériel.
+Le procès-verbal signé ne suffit pas. Avant la note de libération, l'acheteur dispose des enregistrements de fabrication : certificats matière, rapports de contrôle et d'essais, certificats d'étalonnage, liste de réserves à jour, déclarations de conformité réglementaire le cas échéant. Sur un appareil à pression, nous avons vu une note de libération signée avec des certificats matière « à suivre » ; ils sont arrivés six mois plus tard, incomplets, au moment où l'organisme de contrôle les réclamait pour la mise en service. Une fois la note de libération signée, les réserves non levées partent avec le matériel, et l'acheteur a perdu son seul moyen de pression.
 
 ## Les équipements qui n'ont pas de FAT
 
-Beaucoup d'entreprises ne prévoient de FAT que lorsque le client l'exige. Le reste arrive sur site sans contrôle préalable. Nous avons vu des câbles souples livrés à la place de câbles armés, découverts à la réception des travaux, et des batteries défectueuses découvertes une fois posées.
+Beaucoup d'entreprises ne prévoient de FAT que lorsque le client l'exige ; le reste arrive sur site sans contrôle préalable. Nous avons vu des câbles souples livrés à la place de câbles armés, découverts à la réception des travaux, et des batteries défectueuses découvertes une fois posées.
 
-Plutôt que de multiplier les FAT, nous proposons un **plan de contrôle fournisseur** proportionné au risque : FAT témoignée pour les équipements critiques, revue documentaire et rapports d'essais du fabricant pour les autres, vérification des fiches techniques contre le contrat avant commande, contrôle à réception avant toute pose. Le contrôle final sur site est le plus tardif, donc le plus cher.
+Plutôt que de multiplier les FAT, nous proposons un **plan de contrôle fournisseur** proportionné au risque : FAT témoignée pour les équipements critiques, revue documentaire et rapports d'essais du fabricant pour les autres, contrôle à réception avant toute pose. Le contrôle sur site est le plus tardif, donc le plus cher.
 
 ## Liste de contrôle à emporter
 
@@ -107,7 +115,7 @@ Plutôt que de multiplier les FAT, nous proposons un **plan de contrôle fournis
 | Procédure approuvée, critères chiffrés | Instruments étalonnés et tracés | Réserves classées et suivies |
 | ITP réalisé, modifications acceptées par écrit | Configuration réelle, logiciel et paramétrage | Documentation, logiciels et licences vérifiés |
 | Témoins compétents pour chaque technologie | Interfaces et communications testées | Formation réalisée sur l'équipement réel |
-| Plan de contrôle pour les équipements sans FAT | Écarts consignés sur place | Emballage contrôlé, dossier complet |
+| Plan de contrôle pour les équipements sans FAT | Étanchéité, séchage, propreté et écarts consignés sur place | Emballage contrôlé, enregistrements complets |
 
 Si l'un des points de la première colonne manque quinze jours avant la date prévue, nous recommandons de décaler l'essai plutôt que d'y aller : un report d'une semaine coûte moins qu'une FAT à refaire ou qu'une reprise sur site.
 
